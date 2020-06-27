@@ -1283,7 +1283,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-03-28,Unincorporated - San Jose Hills,SGV,0,0
 2020-03-28,Unincorporated - San Pasqual,SGV,0,0
 2020-03-28,Unincorporated - Sand Canyon,AV,0,0
-2020-03-28,Unincorporated - Santa Catalina Island,BC,0,0
+2020-03-28,Unincorporated - Santa Catalina Island,SB,0,0
 2020-03-28,Unincorporated - Santa Monica Mountains,W,0,0
 2020-03-28,Unincorporated - Saugus,SFV,0,0
 2020-03-28,Unincorporated - Saugus/Canyon Country,SFV,0,0
@@ -1646,7 +1646,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-03-29,Unincorporated - San Jose Hills,SGV,0,0
 2020-03-29,Unincorporated - San Pasqual,SGV,0,0
 2020-03-29,Unincorporated - Sand Canyon,AV,0,0
-2020-03-29,Unincorporated - Santa Catalina Island,BC,0,0
+2020-03-29,Unincorporated - Santa Catalina Island,SB,0,0
 2020-03-29,Unincorporated - Santa Monica Mountains,W,0,0
 2020-03-29,Unincorporated - Saugus,SFV,0,0
 2020-03-29,Unincorporated - Saugus/Canyon Country,SFV,0,0
@@ -1982,7 +1982,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-03-30,Unincorporated - San Jose Hills,SGV,0,0
 2020-03-30,Unincorporated - San Pasqual,SGV,0,0
 2020-03-30,Unincorporated - Sand Canyon,AV,0,0
-2020-03-30,Unincorporated - Santa Catalina Island,BC,0,0
+2020-03-30,Unincorporated - Santa Catalina Island,SB,0,0
 2020-03-30,Unincorporated - Santa Monica Mountains,W,0,0
 2020-03-30,Unincorporated - Saugus,SFV,0,0
 2020-03-30,Unincorporated - Saugus/Canyon Country,SFV,0,0
@@ -2318,7 +2318,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-03-31,Unincorporated - San Jose Hills,SGV,0,0
 2020-03-31,Unincorporated - San Pasqual,SGV,0,0
 2020-03-31,Unincorporated - Sand Canyon,AV,0,0
-2020-03-31,Unincorporated - Santa Catalina Island,BC,0,0
+2020-03-31,Unincorporated - Santa Catalina Island,SB,0,0
 2020-03-31,Unincorporated - Santa Monica Mountains,W,0,0
 2020-03-31,Unincorporated - Saugus,SFV,0,0
 2020-03-31,Unincorporated - Saugus/Canyon Country,SFV,0,0
@@ -2660,7 +2660,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-04-01,Unincorporated - San Jose Hills,SGV,0,0
 2020-04-01,Unincorporated - San Pasqual,SGV,0,0
 2020-04-01,Unincorporated - Sand Canyon,AV,0,0
-2020-04-01,Unincorporated - Santa Catalina Island,BC,0,0
+2020-04-01,Unincorporated - Santa Catalina Island,SB,0,0
 2020-04-01,Unincorporated - Santa Monica Mountains,W,0,0
 2020-04-01,Unincorporated - Saugus,SFV,0,0
 2020-04-01,Unincorporated - Saugus/Canyon Country,SFV,0,0
@@ -3006,7 +3006,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-04-02,Unincorporated - San Jose Hills,SGV,0,0,0
 2020-04-02,Unincorporated - San Pasqual,SGV,0,0,0
 2020-04-02,Unincorporated - Sand Canyon,AV,0,0,0
-2020-04-02,Unincorporated - Santa Catalina Island,BC,0,0,0
+2020-04-02,Unincorporated - Santa Catalina Island,SB,0,0,0
 2020-04-02,Unincorporated - Santa Monica Mountains,W,0,0,0
 2020-04-02,Unincorporated - Saugus,SFV,0,0,0
 2020-04-02,Unincorporated - Saugus/Canyon Country,SFV,0,0,0
@@ -3350,7 +3350,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-04-03,Unincorporated - San Jose Hills,SGV,0,0,0
 2020-04-03,Unincorporated - San Pasqual,SGV,0,0,0
 2020-04-03,Unincorporated - Sand Canyon,AV,0,0,0
-2020-04-03,Unincorporated - Santa Catalina Island,BC,0,0,0
+2020-04-03,Unincorporated - Santa Catalina Island,SB,0,0,0
 2020-04-03,Unincorporated - Santa Monica Mountains,W,0,0,0
 2020-04-03,Unincorporated - Saugus,SFV,0,0,0
 2020-04-03,Unincorporated - Saugus/Canyon Country,SFV,0,0,0
@@ -3687,7 +3687,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-04-05,Unincorporated - San Jose Hills,SGV,0,0,0
 2020-04-05,Unincorporated - San Pasqual,SGV,0,0,0
 2020-04-05,Unincorporated - Sand Canyon,AV,0,0,0
-2020-04-05,Unincorporated - Santa Catalina Island,BC,0,0,0
+2020-04-05,Unincorporated - Santa Catalina Island,SB,0,0,0
 2020-04-05,Unincorporated - Santa Monica Mountains,W,0,0,0
 2020-04-05,Unincorporated - Saugus,SFV,0,0,0
 2020-04-05,Unincorporated - Saugus/Canyon Country,SFV,0,0,0
@@ -4019,7 +4019,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-04-06,Unincorporated - San Jose Hills,SGV,0,0,0
 2020-04-06,Unincorporated - San Pasqual,SGV,0,0,0
 2020-04-06,Unincorporated - Sand Canyon,AV,0,0,0
-2020-04-06,Unincorporated - Santa Catalina Island,BC,0,0,0
+2020-04-06,Unincorporated - Santa Catalina Island,SB,0,0,0
 2020-04-06,Unincorporated - Santa Monica Mountains,W,5,5,26
 2020-04-06,Unincorporated - Saugus,SFV,0,0,0
 2020-04-06,Unincorporated - Saugus/Canyon Country,SFV,0,0,0
@@ -4351,7 +4351,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-04-07,Unincorporated - San Jose Hills,SGV,0,0,0
 2020-04-07,Unincorporated - San Pasqual,SGV,0,0,0
 2020-04-07,Unincorporated - Sand Canyon,AV,0,0,0
-2020-04-07,Unincorporated - Santa Catalina Island,BC,0,0,0
+2020-04-07,Unincorporated - Santa Catalina Island,SB,0,0,0
 2020-04-07,Unincorporated - Santa Monica Mountains,W,0,5,26
 2020-04-07,Unincorporated - Saugus,SFV,0,0,0
 2020-04-07,Unincorporated - Saugus/Canyon Country,SFV,0,0,0
@@ -4683,7 +4683,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-04-08,Unincorporated - San Jose Hills,SGV,0,0,0
 2020-04-08,Unincorporated - San Pasqual,SGV,0,0,0
 2020-04-08,Unincorporated - Sand Canyon,AV,0,0,0
-2020-04-08,Unincorporated - Santa Catalina Island,BC,0,0,0
+2020-04-08,Unincorporated - Santa Catalina Island,SB,0,0,0
 2020-04-08,Unincorporated - Santa Monica Mountains,W,0,5,26
 2020-04-08,Unincorporated - Saugus,SFV,0,0,0
 2020-04-08,Unincorporated - Saugus/Canyon Country,SFV,0,0,0
@@ -5016,7 +5016,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-04-09,Unincorporated - San Jose Hills,SGV,0,0,0
 2020-04-09,Unincorporated - San Pasqual,SGV,0,0,0
 2020-04-09,Unincorporated - Sand Canyon,AV,0,0,0
-2020-04-09,Unincorporated - Santa Catalina Island,BC,0,0,0
+2020-04-09,Unincorporated - Santa Catalina Island,SB,0,0,0
 2020-04-09,Unincorporated - Santa Monica Mountains,W,0,5,26
 2020-04-09,Unincorporated - Saugus,SFV,0,0,0
 2020-04-09,Unincorporated - Saugus/Canyon Country,SFV,0,0,0
@@ -5347,7 +5347,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-04-10,Unincorporated - San Jose Hills,SGV,0,0,0
 2020-04-10,Unincorporated - San Pasqual,SGV,0,0,0
 2020-04-10,Unincorporated - Sand Canyon,AV,0,0,0
-2020-04-10,Unincorporated - Santa Catalina Island,BC,0,0,0
+2020-04-10,Unincorporated - Santa Catalina Island,SB,0,0,0
 2020-04-10,Unincorporated - Santa Monica Mountains,W,0,5,26
 2020-04-10,Unincorporated - Saugus,SFV,0,0,0
 2020-04-10,Unincorporated - Saugus/Canyon Country,SFV,0,0,0
@@ -5678,7 +5678,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-04-11,Unincorporated - San Jose Hills,SGV,0,0,0
 2020-04-11,Unincorporated - San Pasqual,SGV,0,0,0
 2020-04-11,Unincorporated - Sand Canyon,AV,0,0,0
-2020-04-11,Unincorporated - Santa Catalina Island,BC,0,0,0
+2020-04-11,Unincorporated - Santa Catalina Island,SB,0,0,0
 2020-04-11,Unincorporated - Santa Monica Mountains,W,0,5,26
 2020-04-11,Unincorporated - Saugus,SFV,0,0,0
 2020-04-11,Unincorporated - Saugus/Canyon Country,SFV,0,0,0
@@ -6009,7 +6009,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-04-12,Unincorporated - San Jose Hills,SGV,0,0,0
 2020-04-12,Unincorporated - San Pasqual,SGV,0,0,0
 2020-04-12,Unincorporated - Sand Canyon,AV,0,0,0
-2020-04-12,Unincorporated - Santa Catalina Island,BC,0,0,0
+2020-04-12,Unincorporated - Santa Catalina Island,SB,0,0,0
 2020-04-12,Unincorporated - Santa Monica Mountains,W,1,6,32
 2020-04-12,Unincorporated - Saugus,SFV,0,0,0
 2020-04-12,Unincorporated - Saugus/Canyon Country,SFV,0,0,0
@@ -6340,7 +6340,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-04-13,Unincorporated - San Jose Hills,SGV,0,0,0
 2020-04-13,Unincorporated - San Pasqual,SGV,0,0,0
 2020-04-13,Unincorporated - Sand Canyon,AV,0,0,0
-2020-04-13,Unincorporated - Santa Catalina Island,BC,0,0,0
+2020-04-13,Unincorporated - Santa Catalina Island,SB,0,0,0
 2020-04-13,Unincorporated - Santa Monica Mountains,W,0,6,32
 2020-04-13,Unincorporated - Saugus,SFV,0,0,0
 2020-04-13,Unincorporated - Saugus/Canyon Country,SFV,0,0,0
@@ -6671,7 +6671,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-04-14,Unincorporated - San Jose Hills,SGV,0,0,0
 2020-04-14,Unincorporated - San Pasqual,SGV,0,0,0
 2020-04-14,Unincorporated - Sand Canyon,AV,0,0,0
-2020-04-14,Unincorporated - Santa Catalina Island,BC,0,0,0
+2020-04-14,Unincorporated - Santa Catalina Island,SB,0,0,0
 2020-04-14,Unincorporated - Santa Monica Mountains,W,0,6,32
 2020-04-14,Unincorporated - Saugus,SFV,0,0,0
 2020-04-14,Unincorporated - Saugus/Canyon Country,SFV,0,0,0
@@ -7002,7 +7002,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-04-15,Unincorporated - San Jose Hills,SGV,5,5,24
 2020-04-15,Unincorporated - San Pasqual,SGV,0,0,0
 2020-04-15,Unincorporated - Sand Canyon,AV,0,0,0
-2020-04-15,Unincorporated - Santa Catalina Island,BC,0,0,0
+2020-04-15,Unincorporated - Santa Catalina Island,SB,0,0,0
 2020-04-15,Unincorporated - Santa Monica Mountains,W,1,7,37
 2020-04-15,Unincorporated - Saugus,SFV,0,0,0
 2020-04-15,Unincorporated - Saugus/Canyon Country,SFV,0,0,0
@@ -7333,7 +7333,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-04-16,Unincorporated - San Jose Hills,SGV,1,6,29
 2020-04-16,Unincorporated - San Pasqual,SGV,0,0,0
 2020-04-16,Unincorporated - Sand Canyon,AV,0,0,0
-2020-04-16,Unincorporated - Santa Catalina Island,BC,0,0,0
+2020-04-16,Unincorporated - Santa Catalina Island,SB,0,0,0
 2020-04-16,Unincorporated - Santa Monica Mountains,W,0,7,37
 2020-04-16,Unincorporated - Saugus,SFV,0,0,0
 2020-04-16,Unincorporated - Saugus/Canyon Country,SFV,0,0,0
@@ -7664,7 +7664,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-04-17,Unincorporated - San Jose Hills,SGV,0,6,29
 2020-04-17,Unincorporated - San Pasqual,SGV,0,0,0
 2020-04-17,Unincorporated - Sand Canyon,AV,0,0,0
-2020-04-17,Unincorporated - Santa Catalina Island,BC,0,0,0
+2020-04-17,Unincorporated - Santa Catalina Island,SB,0,0,0
 2020-04-17,Unincorporated - Santa Monica Mountains,W,0,7,37
 2020-04-17,Unincorporated - Saugus,SFV,0,0,0
 2020-04-17,Unincorporated - Saugus/Canyon Country,SFV,0,0,0
@@ -7995,7 +7995,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-04-18,Unincorporated - San Jose Hills,SGV,0,6,29
 2020-04-18,Unincorporated - San Pasqual,SGV,0,0,0
 2020-04-18,Unincorporated - Sand Canyon,AV,0,0,0
-2020-04-18,Unincorporated - Santa Catalina Island,BC,0,0,0
+2020-04-18,Unincorporated - Santa Catalina Island,SB,0,0,0
 2020-04-18,Unincorporated - Santa Monica Mountains,W,0,7,37
 2020-04-18,Unincorporated - Saugus,SFV,0,0,0
 2020-04-18,Unincorporated - Saugus/Canyon Country,SFV,0,0,0
@@ -8326,7 +8326,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-04-19,Unincorporated - San Jose Hills,SGV,1,7,34
 2020-04-19,Unincorporated - San Pasqual,SGV,0,0,0
 2020-04-19,Unincorporated - Sand Canyon,AV,0,0,0
-2020-04-19,Unincorporated - Santa Catalina Island,BC,0,0,0
+2020-04-19,Unincorporated - Santa Catalina Island,SB,0,0,0
 2020-04-19,Unincorporated - Santa Monica Mountains,W,0,7,37
 2020-04-19,Unincorporated - Saugus,SFV,0,0,0
 2020-04-19,Unincorporated - Saugus/Canyon Country,SFV,0,0,0
@@ -8657,7 +8657,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-04-20,Unincorporated - San Jose Hills,SGV,1,8,39
 2020-04-20,Unincorporated - San Pasqual,SGV,0,0,0
 2020-04-20,Unincorporated - Sand Canyon,AV,0,0,0
-2020-04-20,Unincorporated - Santa Catalina Island,BC,0,0,0
+2020-04-20,Unincorporated - Santa Catalina Island,SB,0,0,0
 2020-04-20,Unincorporated - Santa Monica Mountains,W,0,7,37
 2020-04-20,Unincorporated - Saugus,SFV,0,0,0
 2020-04-20,Unincorporated - Saugus/Canyon Country,SFV,0,0,0
@@ -8988,7 +8988,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-04-21,Unincorporated - San Jose Hills,SGV,0,8,39
 2020-04-21,Unincorporated - San Pasqual,SGV,0,0,0
 2020-04-21,Unincorporated - Sand Canyon,AV,0,0,0
-2020-04-21,Unincorporated - Santa Catalina Island,BC,0,0,0
+2020-04-21,Unincorporated - Santa Catalina Island,SB,0,0,0
 2020-04-21,Unincorporated - Santa Monica Mountains,W,0,7,37
 2020-04-21,Unincorporated - Saugus,SFV,0,0,0
 2020-04-21,Unincorporated - Saugus/Canyon Country,SFV,0,0,0
@@ -9252,7 +9252,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-04-22,Unincorporated - Athens-Westmont,S,7,56,131
 2020-04-22,Unincorporated - Avocado Heights,SGV,0,5,73
 2020-04-22,Unincorporated - Azusa,SGV,-1,6,37
-2020-04-22,Unincorporated - Bandini Islands,BC,0,0,0
+2020-04-22,Unincorporated - Bandini Islands,SB,0,0,0
 2020-04-22,Unincorporated - Bassett,SGV,2,16,107
 2020-04-22,Unincorporated - Bouquet Canyon,SFV,0,0,0
 2020-04-22,Unincorporated - Bradbury,SGV,0,0,0
@@ -9327,7 +9327,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-04-22,Unincorporated - San Jose Hills,SGV,4,12,59
 2020-04-22,Unincorporated - San Pasqual,SGV,0,0,0
 2020-04-22,Unincorporated - Sand Canyon,AV,0,0,0
-2020-04-22,Unincorporated - Santa Catalina Island,BC,0,0,0
+2020-04-22,Unincorporated - Santa Catalina Island,SB,0,0,0
 2020-04-22,Unincorporated - Santa Monica Mountains,W,0,7,37
 2020-04-22,Unincorporated - Saugus,SFV,0,0,0
 2020-04-22,Unincorporated - Saugus/Canyon Country,SFV,0,0,0
@@ -9596,7 +9596,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-04-23,Unincorporated - Athens-Westmont,S,4,60,141
 2020-04-23,Unincorporated - Avocado Heights,SGV,1,6,88
 2020-04-23,Unincorporated - Azusa,SGV,4,10,62
-2020-04-23,Unincorporated - Bandini Islands,BC,0,0,0
+2020-04-23,Unincorporated - Bandini Islands,SB,0,0,0
 2020-04-23,Unincorporated - Bassett,SGV,4,20,134
 2020-04-23,Unincorporated - Bouquet Canyon,SFV,0,0,0
 2020-04-23,Unincorporated - Bradbury,SGV,0,0,0
@@ -9671,7 +9671,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-04-23,Unincorporated - San Jose Hills,SGV,0,12,59
 2020-04-23,Unincorporated - San Pasqual,SGV,0,0,0
 2020-04-23,Unincorporated - Sand Canyon,AV,0,0,0
-2020-04-23,Unincorporated - Santa Catalina Island,BC,0,0,0
+2020-04-23,Unincorporated - Santa Catalina Island,SB,0,0,0
 2020-04-23,Unincorporated - Santa Monica Mountains,W,1,8,42
 2020-04-23,Unincorporated - Saugus,SFV,0,0,0
 2020-04-23,Unincorporated - Saugus/Canyon Country,SFV,0,0,0
@@ -9940,7 +9940,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-04-24,Unincorporated - Athens-Westmont,S,13,73,172
 2020-04-24,Unincorporated - Avocado Heights,SGV,2,8,118
 2020-04-24,Unincorporated - Azusa,SGV,2,12,75
-2020-04-24,Unincorporated - Bandini Islands,BC,0,0,0
+2020-04-24,Unincorporated - Bandini Islands,SB,0,0,0
 2020-04-24,Unincorporated - Bassett,SGV,3,23,155
 2020-04-24,Unincorporated - Bouquet Canyon,SFV,0,0,0
 2020-04-24,Unincorporated - Bradbury,SGV,0,0,0
@@ -10015,7 +10015,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-04-24,Unincorporated - San Jose Hills,SGV,4,16,79
 2020-04-24,Unincorporated - San Pasqual,SGV,0,0,0
 2020-04-24,Unincorporated - Sand Canyon,AV,0,0,0
-2020-04-24,Unincorporated - Santa Catalina Island,BC,0,0,0
+2020-04-24,Unincorporated - Santa Catalina Island,SB,0,0,0
 2020-04-24,Unincorporated - Santa Monica Mountains,W,0,8,42
 2020-04-24,Unincorporated - Saugus,SFV,0,0,0
 2020-04-24,Unincorporated - Saugus/Canyon Country,SFV,0,0,0
@@ -10284,7 +10284,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-04-25,Unincorporated - Athens-Westmont,S,0,73,172
 2020-04-25,Unincorporated - Avocado Heights,SGV,0,8,118
 2020-04-25,Unincorporated - Azusa,SGV,0,12,75
-2020-04-25,Unincorporated - Bandini Islands,BC,0,0,0
+2020-04-25,Unincorporated - Bandini Islands,SB,0,0,0
 2020-04-25,Unincorporated - Bassett,SGV,0,23,155
 2020-04-25,Unincorporated - Bouquet Canyon,SFV,0,0,0
 2020-04-25,Unincorporated - Bradbury,SGV,0,0,0
@@ -10359,7 +10359,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-04-25,Unincorporated - San Jose Hills,SGV,0,16,79
 2020-04-25,Unincorporated - San Pasqual,SGV,0,0,0
 2020-04-25,Unincorporated - Sand Canyon,AV,0,0,0
-2020-04-25,Unincorporated - Santa Catalina Island,BC,0,0,0
+2020-04-25,Unincorporated - Santa Catalina Island,SB,0,0,0
 2020-04-25,Unincorporated - Santa Monica Mountains,W,0,8,42
 2020-04-25,Unincorporated - Saugus,SFV,0,0,0
 2020-04-25,Unincorporated - Saugus/Canyon Country,SFV,0,0,0
@@ -10628,7 +10628,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-04-26,Unincorporated - Athens-Westmont,S,7,80,188
 2020-04-26,Unincorporated - Avocado Heights,SGV,4,12,177
 2020-04-26,Unincorporated - Azusa,SGV,2,14,87
-2020-04-26,Unincorporated - Bandini Islands,BC,0,0,0
+2020-04-26,Unincorporated - Bandini Islands,SB,0,0,0
 2020-04-26,Unincorporated - Bassett,SGV,2,25,168
 2020-04-26,Unincorporated - Bouquet Canyon,SFV,0,0,0
 2020-04-26,Unincorporated - Bradbury,SGV,0,0,0
@@ -10703,7 +10703,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-04-26,Unincorporated - San Jose Hills,SGV,0,16,79
 2020-04-26,Unincorporated - San Pasqual,SGV,0,0,0
 2020-04-26,Unincorporated - Sand Canyon,AV,0,0,0
-2020-04-26,Unincorporated - Santa Catalina Island,BC,0,0,0
+2020-04-26,Unincorporated - Santa Catalina Island,SB,0,0,0
 2020-04-26,Unincorporated - Santa Monica Mountains,W,1,9,48
 2020-04-26,Unincorporated - Saugus,SFV,0,0,0
 2020-04-26,Unincorporated - Saugus/Canyon Country,SFV,0,0,0
@@ -10972,7 +10972,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-04-27,Unincorporated - Athens-Westmont,S,3,83,195
 2020-04-27,Unincorporated - Avocado Heights,SGV,0,12,177
 2020-04-27,Unincorporated - Azusa,SGV,0,14,87
-2020-04-27,Unincorporated - Bandini Islands,BC,0,0,0
+2020-04-27,Unincorporated - Bandini Islands,SB,0,0,0
 2020-04-27,Unincorporated - Bassett,SGV,0,25,168
 2020-04-27,Unincorporated - Bouquet Canyon,SFV,0,0,0
 2020-04-27,Unincorporated - Bradbury,SGV,0,0,0
@@ -11047,7 +11047,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-04-27,Unincorporated - San Jose Hills,SGV,0,16,79
 2020-04-27,Unincorporated - San Pasqual,SGV,0,0,0
 2020-04-27,Unincorporated - Sand Canyon,AV,0,0,0
-2020-04-27,Unincorporated - Santa Catalina Island,BC,2,2,749
+2020-04-27,Unincorporated - Santa Catalina Island,SB,2,2,749
 2020-04-27,Unincorporated - Santa Monica Mountains,W,0,9,48
 2020-04-27,Unincorporated - Saugus,SFV,2,2,1290
 2020-04-27,Unincorporated - Saugus/Canyon Country,SFV,0,0,0
@@ -11316,7 +11316,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-04-28,Unincorporated - Athens-Westmont,S,7,90,212
 2020-04-28,Unincorporated - Avocado Heights,SGV,1,13,191
 2020-04-28,Unincorporated - Azusa,SGV,1,15,94
-2020-04-28,Unincorporated - Bandini Islands,BC,0,0,0
+2020-04-28,Unincorporated - Bandini Islands,SB,0,0,0
 2020-04-28,Unincorporated - Bassett,SGV,1,26,175
 2020-04-28,Unincorporated - Bouquet Canyon,SFV,0,0,0
 2020-04-28,Unincorporated - Bradbury,SGV,0,0,0
@@ -11391,7 +11391,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-04-28,Unincorporated - San Jose Hills,SGV,3,19,93
 2020-04-28,Unincorporated - San Pasqual,SGV,0,0,0
 2020-04-28,Unincorporated - Sand Canyon,AV,0,0,0
-2020-04-28,Unincorporated - Santa Catalina Island,BC,0,2,749
+2020-04-28,Unincorporated - Santa Catalina Island,SB,0,2,749
 2020-04-28,Unincorporated - Santa Monica Mountains,W,0,9,48
 2020-04-28,Unincorporated - Saugus,SFV,0,2,1290
 2020-04-28,Unincorporated - Saugus/Canyon Country,SFV,0,0,0
@@ -11660,7 +11660,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-04-29,Unincorporated - Athens-Westmont,S,0,90,212
 2020-04-29,Unincorporated - Avocado Heights,SGV,0,13,191
 2020-04-29,Unincorporated - Azusa,SGV,0,15,94
-2020-04-29,Unincorporated - Bandini Islands,BC,0,0,0
+2020-04-29,Unincorporated - Bandini Islands,SB,0,0,0
 2020-04-29,Unincorporated - Bassett,SGV,0,26,175
 2020-04-29,Unincorporated - Bouquet Canyon,SFV,0,0,0
 2020-04-29,Unincorporated - Bradbury,SGV,0,0,0
@@ -11735,7 +11735,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-04-29,Unincorporated - San Jose Hills,SGV,0,19,93
 2020-04-29,Unincorporated - San Pasqual,SGV,0,0,0
 2020-04-29,Unincorporated - Sand Canyon,AV,0,0,0
-2020-04-29,Unincorporated - Santa Catalina Island,BC,0,2,749
+2020-04-29,Unincorporated - Santa Catalina Island,SB,0,2,749
 2020-04-29,Unincorporated - Santa Monica Mountains,W,4,13,69
 2020-04-29,Unincorporated - Saugus,SFV,0,2,1290
 2020-04-29,Unincorporated - Saugus/Canyon Country,SFV,0,0,0
@@ -12004,7 +12004,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-04-30,Unincorporated - Athens-Westmont,S,8,98,230
 2020-04-30,Unincorporated - Avocado Heights,SGV,0,13,191
 2020-04-30,Unincorporated - Azusa,SGV,2,17,106
-2020-04-30,Unincorporated - Bandini Islands,BC,0,0,0
+2020-04-30,Unincorporated - Bandini Islands,SB,0,0,0
 2020-04-30,Unincorporated - Bassett,SGV,2,28,188
 2020-04-30,Unincorporated - Bouquet Canyon,SFV,0,0,0
 2020-04-30,Unincorporated - Bradbury,SGV,0,0,0
@@ -12079,7 +12079,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-04-30,Unincorporated - San Jose Hills,SGV,1,20,98
 2020-04-30,Unincorporated - San Pasqual,SGV,0,0,0
 2020-04-30,Unincorporated - Sand Canyon,AV,0,0,0
-2020-04-30,Unincorporated - Santa Catalina Island,BC,0,2,749
+2020-04-30,Unincorporated - Santa Catalina Island,SB,0,2,749
 2020-04-30,Unincorporated - Santa Monica Mountains,W,0,13,69
 2020-04-30,Unincorporated - Saugus,SFV,0,2,1290
 2020-04-30,Unincorporated - Saugus/Canyon Country,SFV,0,0,0
@@ -12348,7 +12348,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-05-01,Unincorporated - Athens-Westmont,S,2,100,235
 2020-05-01,Unincorporated - Avocado Heights,SGV,0,13,191
 2020-05-01,Unincorporated - Azusa,SGV,0,17,106
-2020-05-01,Unincorporated - Bandini Islands,BC,0,0,0
+2020-05-01,Unincorporated - Bandini Islands,SB,0,0,0
 2020-05-01,Unincorporated - Bassett,SGV,0,28,188
 2020-05-01,Unincorporated - Bouquet Canyon,SFV,0,0,0
 2020-05-01,Unincorporated - Bradbury,SGV,0,0,0
@@ -12423,7 +12423,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-05-01,Unincorporated - San Jose Hills,SGV,0,20,98
 2020-05-01,Unincorporated - San Pasqual,SGV,0,0,0
 2020-05-01,Unincorporated - Sand Canyon,AV,0,0,0
-2020-05-01,Unincorporated - Santa Catalina Island,BC,0,2,749
+2020-05-01,Unincorporated - Santa Catalina Island,SB,0,2,749
 2020-05-01,Unincorporated - Santa Monica Mountains,W,0,13,69
 2020-05-01,Unincorporated - Saugus,SFV,0,2,1290
 2020-05-01,Unincorporated - Saugus/Canyon Country,SFV,0,0,0
@@ -12692,7 +12692,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-05-02,Unincorporated - Athens-Westmont,S,0,100,235
 2020-05-02,Unincorporated - Avocado Heights,SGV,0,13,191
 2020-05-02,Unincorporated - Azusa,SGV,1,18,113
-2020-05-02,Unincorporated - Bandini Islands,BC,0,0,0
+2020-05-02,Unincorporated - Bandini Islands,SB,0,0,0
 2020-05-02,Unincorporated - Bassett,SGV,1,29,195
 2020-05-02,Unincorporated - Bouquet Canyon,SFV,0,0,0
 2020-05-02,Unincorporated - Bradbury,SGV,0,0,0
@@ -12767,7 +12767,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-05-02,Unincorporated - San Jose Hills,SGV,1,21,103
 2020-05-02,Unincorporated - San Pasqual,SGV,0,0,0
 2020-05-02,Unincorporated - Sand Canyon,AV,0,0,0
-2020-05-02,Unincorporated - Santa Catalina Island,BC,0,2,749
+2020-05-02,Unincorporated - Santa Catalina Island,SB,0,2,749
 2020-05-02,Unincorporated - Santa Monica Mountains,W,0,13,69
 2020-05-02,Unincorporated - Saugus,SFV,1,3,1935
 2020-05-02,Unincorporated - Saugus/Canyon Country,SFV,0,0,0
@@ -13036,7 +13036,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-05-03,Unincorporated - Athens-Westmont,S,4,104,245
 2020-05-03,Unincorporated - Avocado Heights,SGV,0,13,191
 2020-05-03,Unincorporated - Azusa,SGV,4,22,138
-2020-05-03,Unincorporated - Bandini Islands,BC,0,0,0
+2020-05-03,Unincorporated - Bandini Islands,SB,0,0,0
 2020-05-03,Unincorporated - Bassett,SGV,1,30,202
 2020-05-03,Unincorporated - Bouquet Canyon,SFV,0,0,0
 2020-05-03,Unincorporated - Bradbury,SGV,0,0,0
@@ -13111,7 +13111,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-05-03,Unincorporated - San Jose Hills,SGV,2,23,113
 2020-05-03,Unincorporated - San Pasqual,SGV,0,0,0
 2020-05-03,Unincorporated - Sand Canyon,AV,0,0,0
-2020-05-03,Unincorporated - Santa Catalina Island,BC,0,2,749
+2020-05-03,Unincorporated - Santa Catalina Island,SB,0,2,749
 2020-05-03,Unincorporated - Santa Monica Mountains,W,1,14,75
 2020-05-03,Unincorporated - Saugus,SFV,0,3,1935
 2020-05-03,Unincorporated - Saugus/Canyon Country,SFV,0,0,0
@@ -13380,7 +13380,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-05-04,Unincorporated - Athens-Westmont,S,4,108,254
 2020-05-04,Unincorporated - Avocado Heights,SGV,0,13,191
 2020-05-04,Unincorporated - Azusa,SGV,0,22,138
-2020-05-04,Unincorporated - Bandini Islands,BC,0,0,0
+2020-05-04,Unincorporated - Bandini Islands,SB,0,0,0
 2020-05-04,Unincorporated - Bassett,SGV,0,30,202
 2020-05-04,Unincorporated - Bouquet Canyon,SFV,0,0,0
 2020-05-04,Unincorporated - Bradbury,SGV,0,0,0
@@ -13455,7 +13455,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-05-04,Unincorporated - San Jose Hills,SGV,0,23,113
 2020-05-04,Unincorporated - San Pasqual,SGV,0,0,0
 2020-05-04,Unincorporated - Sand Canyon,AV,0,0,0
-2020-05-04,Unincorporated - Santa Catalina Island,BC,0,2,749
+2020-05-04,Unincorporated - Santa Catalina Island,SB,0,2,749
 2020-05-04,Unincorporated - Santa Monica Mountains,W,1,15,80
 2020-05-04,Unincorporated - Saugus,SFV,0,3,1935
 2020-05-04,Unincorporated - Saugus/Canyon Country,SFV,0,0,0
@@ -13724,7 +13724,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-05-05,Unincorporated - Athens-Westmont,S,0,108,254
 2020-05-05,Unincorporated - Avocado Heights,SGV,0,13,191
 2020-05-05,Unincorporated - Azusa,SGV,0,22,138
-2020-05-05,Unincorporated - Bandini Islands,BC,0,0,0
+2020-05-05,Unincorporated - Bandini Islands,SB,0,0,0
 2020-05-05,Unincorporated - Bassett,SGV,0,30,202
 2020-05-05,Unincorporated - Bouquet Canyon,SFV,0,0,0
 2020-05-05,Unincorporated - Bradbury,SGV,0,0,0
@@ -13799,7 +13799,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-05-05,Unincorporated - San Jose Hills,SGV,0,23,113
 2020-05-05,Unincorporated - San Pasqual,SGV,0,0,0
 2020-05-05,Unincorporated - Sand Canyon,AV,0,0,0
-2020-05-05,Unincorporated - Santa Catalina Island,BC,0,2,749
+2020-05-05,Unincorporated - Santa Catalina Island,SB,0,2,749
 2020-05-05,Unincorporated - Santa Monica Mountains,W,0,15,80
 2020-05-05,Unincorporated - Saugus,SFV,0,3,1935
 2020-05-05,Unincorporated - Saugus/Canyon Country,SFV,0,0,0
@@ -14068,7 +14068,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-05-06,Unincorporated - Athens-Westmont,S,1,109,256
 2020-05-06,Unincorporated - Avocado Heights,SGV,0,13,191
 2020-05-06,Unincorporated - Azusa,SGV,0,22,138
-2020-05-06,Unincorporated - Bandini Islands,BC,0,0,0
+2020-05-06,Unincorporated - Bandini Islands,SB,0,0,0
 2020-05-06,Unincorporated - Bassett,SGV,1,31,209
 2020-05-06,Unincorporated - Bouquet Canyon,SFV,0,0,0
 2020-05-06,Unincorporated - Bradbury,SGV,0,0,0
@@ -14143,7 +14143,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-05-06,Unincorporated - San Jose Hills,SGV,1,24,118
 2020-05-06,Unincorporated - San Pasqual,SGV,0,0,0
 2020-05-06,Unincorporated - Sand Canyon,AV,0,0,0
-2020-05-06,Unincorporated - Santa Catalina Island,BC,0,2,749
+2020-05-06,Unincorporated - Santa Catalina Island,SB,0,2,749
 2020-05-06,Unincorporated - Santa Monica Mountains,W,0,15,80
 2020-05-06,Unincorporated - Saugus,SFV,0,3,1935
 2020-05-06,Unincorporated - Saugus/Canyon Country,SFV,0,0,0
@@ -14412,7 +14412,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-05-07,Unincorporated - Athens-Westmont,S,7,116,273
 2020-05-07,Unincorporated - Avocado Heights,SGV,0,13,191
 2020-05-07,Unincorporated - Azusa,SGV,0,22,138
-2020-05-07,Unincorporated - Bandini Islands,BC,0,0,0
+2020-05-07,Unincorporated - Bandini Islands,SB,0,0,0
 2020-05-07,Unincorporated - Bassett,SGV,2,33,222
 2020-05-07,Unincorporated - Bouquet Canyon,SFV,0,0,0
 2020-05-07,Unincorporated - Bradbury,SGV,0,0,0
@@ -14487,7 +14487,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-05-07,Unincorporated - San Jose Hills,SGV,2,26,128
 2020-05-07,Unincorporated - San Pasqual,SGV,0,0,0
 2020-05-07,Unincorporated - Sand Canyon,AV,0,0,0
-2020-05-07,Unincorporated - Santa Catalina Island,BC,0,2,749
+2020-05-07,Unincorporated - Santa Catalina Island,SB,0,2,749
 2020-05-07,Unincorporated - Santa Monica Mountains,W,1,16,85
 2020-05-07,Unincorporated - Saugus,SFV,0,3,1935
 2020-05-07,Unincorporated - Saugus/Canyon Country,SFV,0,0,0
@@ -14756,7 +14756,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-05-08,Unincorporated - Athens-Westmont,S,6,122,287
 2020-05-08,Unincorporated - Avocado Heights,SGV,0,13,191
 2020-05-08,Unincorporated - Azusa,SGV,1,23,144
-2020-05-08,Unincorporated - Bandini Islands,BC,0,0,0
+2020-05-08,Unincorporated - Bandini Islands,SB,0,0,0
 2020-05-08,Unincorporated - Bassett,SGV,0,33,222
 2020-05-08,Unincorporated - Bouquet Canyon,SFV,0,0,0
 2020-05-08,Unincorporated - Bradbury,SGV,0,0,0
@@ -14831,7 +14831,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-05-08,Unincorporated - San Jose Hills,SGV,1,27,133
 2020-05-08,Unincorporated - San Pasqual,SGV,0,0,0
 2020-05-08,Unincorporated - Sand Canyon,AV,0,0,0
-2020-05-08,Unincorporated - Santa Catalina Island,BC,0,2,749
+2020-05-08,Unincorporated - Santa Catalina Island,SB,0,2,749
 2020-05-08,Unincorporated - Santa Monica Mountains,W,3,19,102
 2020-05-08,Unincorporated - Saugus,SFV,0,3,1935
 2020-05-08,Unincorporated - Saugus/Canyon Country,SFV,0,0,0
@@ -15100,7 +15100,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-05-09,Unincorporated - Athens-Westmont,S,4,126,296
 2020-05-09,Unincorporated - Avocado Heights,SGV,1,14,206
 2020-05-09,Unincorporated - Azusa,SGV,3,26,163
-2020-05-09,Unincorporated - Bandini Islands,BC,0,0,0
+2020-05-09,Unincorporated - Bandini Islands,SB,0,0,0
 2020-05-09,Unincorporated - Bassett,SGV,0,33,222
 2020-05-09,Unincorporated - Bouquet Canyon,SFV,0,0,0
 2020-05-09,Unincorporated - Bradbury,SGV,0,0,0
@@ -15175,7 +15175,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-05-09,Unincorporated - San Jose Hills,SGV,0,27,133
 2020-05-09,Unincorporated - San Pasqual,SGV,0,0,0
 2020-05-09,Unincorporated - Sand Canyon,AV,0,0,0
-2020-05-09,Unincorporated - Santa Catalina Island,BC,0,2,749
+2020-05-09,Unincorporated - Santa Catalina Island,SB,0,2,749
 2020-05-09,Unincorporated - Santa Monica Mountains,W,0,19,102
 2020-05-09,Unincorporated - Saugus,SFV,1,4,2580
 2020-05-09,Unincorporated - Saugus/Canyon Country,SFV,0,0,0
@@ -15444,7 +15444,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-05-10,Unincorporated - Athens-Westmont,S,0,126,296
 2020-05-10,Unincorporated - Avocado Heights,SGV,0,14,206
 2020-05-10,Unincorporated - Azusa,SGV,3,29,182
-2020-05-10,Unincorporated - Bandini Islands,BC,0,0,0
+2020-05-10,Unincorporated - Bandini Islands,SB,0,0,0
 2020-05-10,Unincorporated - Bassett,SGV,2,35,236
 2020-05-10,Unincorporated - Bouquet Canyon,SFV,0,0,0
 2020-05-10,Unincorporated - Bradbury,SGV,0,0,0
@@ -15519,7 +15519,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-05-10,Unincorporated - San Jose Hills,SGV,1,28,138
 2020-05-10,Unincorporated - San Pasqual,SGV,0,0,0
 2020-05-10,Unincorporated - Sand Canyon,AV,0,0,0
-2020-05-10,Unincorporated - Santa Catalina Island,BC,0,2,749
+2020-05-10,Unincorporated - Santa Catalina Island,SB,0,2,749
 2020-05-10,Unincorporated - Santa Monica Mountains,W,0,19,102
 2020-05-10,Unincorporated - Saugus,SFV,0,4,2580
 2020-05-10,Unincorporated - Saugus/Canyon Country,SFV,0,0,0
@@ -15862,7 +15862,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-05-11,Unincorporated - San Jose Hills,SGV,1,29,143
 2020-05-11,Unincorporated - San Pasqual,SGV,0,0,0
 2020-05-11,Unincorporated - Sand Canyon,AV,0,0,0
-2020-05-11,Unincorporated - Santa Catalina Island,BC,0,2,749
+2020-05-11,Unincorporated - Santa Catalina Island,SB,0,2,749
 2020-05-11,Unincorporated - Santa Monica Mountains,W,0,19,102
 2020-05-11,Unincorporated - Saugus,SFV,0,4,2580
 2020-05-11,Unincorporated - Saugus/Canyon Country,SFV,0,0,0
@@ -16202,7 +16202,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-05-12,Unincorporated - San Jose Hills,SGV,0,29,143
 2020-05-12,Unincorporated - San Pasqual,SGV,0,0,0
 2020-05-12,Unincorporated - Sand Canyon,AV,0,0,0
-2020-05-12,Unincorporated - Santa Catalina Island,BC,0,2,749
+2020-05-12,Unincorporated - Santa Catalina Island,SB,0,2,749
 2020-05-12,Unincorporated - Santa Monica Mountains,W,0,19,102
 2020-05-12,Unincorporated - Saugus,SFV,0,4,2580
 2020-05-12,Unincorporated - Saugus/Canyon Country,SFV,0,0,0
@@ -16541,7 +16541,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-05-13,Unincorporated - San Jose Hills,SGV,1,30,148
 2020-05-13,Unincorporated - San Pasqual,SGV,0,0,0
 2020-05-13,Unincorporated - Sand Canyon,AV,0,0,0
-2020-05-13,Unincorporated - Santa Catalina Island,BC,0,2,749
+2020-05-13,Unincorporated - Santa Catalina Island,SB,0,2,749
 2020-05-13,Unincorporated - Santa Monica Mountains,W,0,19,102
 2020-05-13,Unincorporated - Saugus,SFV,0,4,2580
 2020-05-13,Unincorporated - Saugus/Canyon Country,SFV,0,0,0
@@ -16881,7 +16881,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-05-14,Unincorporated - San Jose Hills,SGV,3,33,163
 2020-05-14,Unincorporated - San Pasqual,SGV,0,0,0
 2020-05-14,Unincorporated - Sand Canyon,AV,0,0,0
-2020-05-14,Unincorporated - Santa Catalina Island,BC,0,2,749
+2020-05-14,Unincorporated - Santa Catalina Island,SB,0,2,749
 2020-05-14,Unincorporated - Santa Monica Mountains,W,1,20,107
 2020-05-14,Unincorporated - Saugus,SFV,0,4,2580
 2020-05-14,Unincorporated - Saugus/Canyon Country,SFV,0,0,0
@@ -17220,7 +17220,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-05-15,Unincorporated - San Jose Hills,SGV,3,36,178
 2020-05-15,Unincorporated - San Pasqual,SGV,1,1,49
 2020-05-15,Unincorporated - Sand Canyon,AV,0,0,0
-2020-05-15,Unincorporated - Santa Catalina Island,BC,0,2,749
+2020-05-15,Unincorporated - Santa Catalina Island,SB,0,2,749
 2020-05-15,Unincorporated - Santa Monica Mountains,W,0,20,107
 2020-05-15,Unincorporated - Saugus,SFV,0,4,2580
 2020-05-15,Unincorporated - Saugus/Canyon Country,SFV,0,0,0
@@ -17559,7 +17559,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-05-16,Unincorporated - San Jose Hills,SGV,0,36,178
 2020-05-16,Unincorporated - San Pasqual,SGV,0,1,49
 2020-05-16,Unincorporated - Sand Canyon,AV,0,0,0
-2020-05-16,Unincorporated - Santa Catalina Island,BC,0,2,749
+2020-05-16,Unincorporated - Santa Catalina Island,SB,0,2,749
 2020-05-16,Unincorporated - Santa Monica Mountains,W,0,20,107
 2020-05-16,Unincorporated - Saugus,SFV,0,4,2580
 2020-05-16,Unincorporated - Saugus/Canyon Country,SFV,0,0,0
@@ -17898,7 +17898,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-05-17,Unincorporated - San Jose Hills,SGV,1,37,182
 2020-05-17,Unincorporated - San Pasqual,SGV,0,1,49
 2020-05-17,Unincorporated - Sand Canyon,AV,0,0,0
-2020-05-17,Unincorporated - Santa Catalina Island,BC,0,2,749
+2020-05-17,Unincorporated - Santa Catalina Island,SB,0,2,749
 2020-05-17,Unincorporated - Santa Monica Mountains,W,0,20,107
 2020-05-17,Unincorporated - Saugus,SFV,0,4,2580
 2020-05-17,Unincorporated - Saugus/Canyon Country,SFV,0,0,0
@@ -18237,7 +18237,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-05-18,Unincorporated - San Jose Hills,SGV,3,40,197
 2020-05-18,Unincorporated - San Pasqual,SGV,0,1,49
 2020-05-18,Unincorporated - Sand Canyon,AV,0,0,0
-2020-05-18,Unincorporated - Santa Catalina Island,BC,0,2,749
+2020-05-18,Unincorporated - Santa Catalina Island,SB,0,2,749
 2020-05-18,Unincorporated - Santa Monica Mountains,W,0,20,107
 2020-05-18,Unincorporated - Saugus,SFV,0,4,2580
 2020-05-18,Unincorporated - Saugus/Canyon Country,SFV,0,0,0
@@ -18576,7 +18576,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-05-19,Unincorporated - San Jose Hills,SGV,0,40,197.81,1,4.95
 2020-05-19,Unincorporated - San Pasqual,SGV,0,1,49.14,0,0
 2020-05-19,Unincorporated - Sand Canyon,AV,0,0,0,0,0
-2020-05-19,Unincorporated - Santa Catalina Island,BC,0,2,749.06,0,0
+2020-05-19,Unincorporated - Santa Catalina Island,SB,0,2,749.06,0,0
 2020-05-19,Unincorporated - Santa Monica Mountains,W,0,20,107.41,1,5.37
 2020-05-19,Unincorporated - Saugus,SFV,0,4,2580.65,0,0
 2020-05-19,Unincorporated - Saugus/Canyon Country,SFV,0,0,0,0,0
@@ -18915,7 +18915,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-05-20,Unincorporated - San Jose Hills,SGV,0,40,197.81,1,4.95
 2020-05-20,Unincorporated - San Pasqual,SGV,0,1,49.14,0,0
 2020-05-20,Unincorporated - Sand Canyon,AV,0,0,0,0,0
-2020-05-20,Unincorporated - Santa Catalina Island,BC,0,2,749.06,0,0
+2020-05-20,Unincorporated - Santa Catalina Island,SB,0,2,749.06,0,0
 2020-05-20,Unincorporated - Santa Monica Mountains,W,0,20,107.41,1,5.37
 2020-05-20,Unincorporated - Saugus,SFV,0,4,2580.65,0,0
 2020-05-20,Unincorporated - Saugus/Canyon Country,SFV,0,0,0,0,0
@@ -19254,7 +19254,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-05-21,Unincorporated - San Jose Hills,SGV,9,49,242.32,1,4.95
 2020-05-21,Unincorporated - San Pasqual,SGV,0,1,49.14,0,0
 2020-05-21,Unincorporated - Sand Canyon,AV,0,0,0,0,0
-2020-05-21,Unincorporated - Santa Catalina Island,BC,0,2,749.06,0,0
+2020-05-21,Unincorporated - Santa Catalina Island,SB,0,2,749.06,0,0
 2020-05-21,Unincorporated - Santa Monica Mountains,W,0,20,107.41,1,5.37
 2020-05-21,Unincorporated - Saugus,SFV,0,4,2580.65,0,0
 2020-05-21,Unincorporated - Saugus/Canyon Country,SFV,0,0,0,0,0
@@ -19593,7 +19593,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-05-22,Unincorporated - San Jose Hills,SGV,0,49,242.32,2,9.89
 2020-05-22,Unincorporated - San Pasqual,SGV,0,1,49.14,0,0
 2020-05-22,Unincorporated - Sand Canyon,AV,0,0,0,0,0
-2020-05-22,Unincorporated - Santa Catalina Island,BC,0,2,749.06,0,0
+2020-05-22,Unincorporated - Santa Catalina Island,SB,0,2,749.06,0,0
 2020-05-22,Unincorporated - Santa Monica Mountains,W,0,20,107.41,1,5.37
 2020-05-22,Unincorporated - Saugus,SFV,0,4,2580.65,0,0
 2020-05-22,Unincorporated - Saugus/Canyon Country,SFV,0,0,0,0,0
@@ -19932,7 +19932,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-05-23,Unincorporated - San Jose Hills,SGV,0,49,242.32,2,9.89
 2020-05-23,Unincorporated - San Pasqual,SGV,0,1,49.14,0,0
 2020-05-23,Unincorporated - Sand Canyon,AV,0,0,0,0,0
-2020-05-23,Unincorporated - Santa Catalina Island,BC,0,2,749.06,0,0
+2020-05-23,Unincorporated - Santa Catalina Island,SB,0,2,749.06,0,0
 2020-05-23,Unincorporated - Santa Monica Mountains,W,0,20,107.41,1,5.37
 2020-05-23,Unincorporated - Saugus,SFV,0,4,2580.65,0,0
 2020-05-23,Unincorporated - Saugus/Canyon Country,SFV,0,0,0,0,0
@@ -20271,7 +20271,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-05-24,Unincorporated - San Jose Hills,SGV,3,52,257.16,2,9.89
 2020-05-24,Unincorporated - San Pasqual,SGV,0,1,49.14,0,0
 2020-05-24,Unincorporated - Sand Canyon,AV,0,0,0,0,0
-2020-05-24,Unincorporated - Santa Catalina Island,BC,0,2,749.06,0,0
+2020-05-24,Unincorporated - Santa Catalina Island,SB,0,2,749.06,0,0
 2020-05-24,Unincorporated - Santa Monica Mountains,W,0,20,107.41,1,5.37
 2020-05-24,Unincorporated - Saugus,SFV,0,4,2580.65,0,0
 2020-05-24,Unincorporated - Saugus/Canyon Country,SFV,0,0,0,0,0
@@ -20610,7 +20610,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-05-25,Unincorporated - San Jose Hills,SGV,1,53,262.1,2,9.89
 2020-05-25,Unincorporated - San Pasqual,SGV,0,1,49.14,0,0
 2020-05-25,Unincorporated - Sand Canyon,AV,0,0,0,0,0
-2020-05-25,Unincorporated - Santa Catalina Island,BC,0,2,749.06,0,0
+2020-05-25,Unincorporated - Santa Catalina Island,SB,0,2,749.06,0,0
 2020-05-25,Unincorporated - Santa Monica Mountains,W,0,20,107.41,1,5.37
 2020-05-25,Unincorporated - Saugus,SFV,0,4,2580.65,0,0
 2020-05-25,Unincorporated - Saugus/Canyon Country,SFV,0,0,0,0,0
@@ -20949,7 +20949,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-05-26,Unincorporated - San Jose Hills,SGV,0,53,262.1,2,9.89
 2020-05-26,Unincorporated - San Pasqual,SGV,0,1,49.14,0,0
 2020-05-26,Unincorporated - Sand Canyon,AV,0,0,0,0,0
-2020-05-26,Unincorporated - Santa Catalina Island,BC,0,2,749.06,0,0
+2020-05-26,Unincorporated - Santa Catalina Island,SB,0,2,749.06,0,0
 2020-05-26,Unincorporated - Santa Monica Mountains,W,0,20,107.41,1,5.37
 2020-05-26,Unincorporated - Saugus,SFV,0,4,2580.65,0,0
 2020-05-26,Unincorporated - Saugus/Canyon Country,SFV,0,0,0,0,0
@@ -21288,7 +21288,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-05-27,Unincorporated - San Jose Hills,SGV,3,56,276.94,2,9.89
 2020-05-27,Unincorporated - San Pasqual,SGV,0,1,49.14,0,0
 2020-05-27,Unincorporated - Sand Canyon,AV,0,0,0,0,0
-2020-05-27,Unincorporated - Santa Catalina Island,BC,0,2,749.06,0,0
+2020-05-27,Unincorporated - Santa Catalina Island,SB,0,2,749.06,0,0
 2020-05-27,Unincorporated - Santa Monica Mountains,W,1,21,112.78,1,5.37
 2020-05-27,Unincorporated - Saugus,SFV,0,4,2580.65,0,0
 2020-05-27,Unincorporated - Saugus/Canyon Country,SFV,0,0,0,0,0
@@ -21627,7 +21627,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-05-28,Unincorporated - San Jose Hills,SGV,1,57,281.89,2,9.89
 2020-05-28,Unincorporated - San Pasqual,SGV,0,1,49.14,0,0
 2020-05-28,Unincorporated - Sand Canyon,AV,0,0,0,0,0
-2020-05-28,Unincorporated - Santa Catalina Island,BC,0,2,749.06,0,0
+2020-05-28,Unincorporated - Santa Catalina Island,SB,0,2,749.06,0,0
 2020-05-28,Unincorporated - Santa Monica Mountains,W,0,21,112.78,1,5.37
 2020-05-28,Unincorporated - Saugus,SFV,0,4,2580.65,0,0
 2020-05-28,Unincorporated - Saugus/Canyon Country,SFV,0,0,0,0,0
@@ -21966,7 +21966,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-05-29,Unincorporated - San Jose Hills,SGV,1,58,286.83,2,9.89
 2020-05-29,Unincorporated - San Pasqual,SGV,0,1,49.14,0,0
 2020-05-29,Unincorporated - Sand Canyon,AV,0,0,0,0,0
-2020-05-29,Unincorporated - Santa Catalina Island,BC,0,2,749.06,0,0
+2020-05-29,Unincorporated - Santa Catalina Island,SB,0,2,749.06,0,0
 2020-05-29,Unincorporated - Santa Monica Mountains,W,1,22,118.15,1,5.37
 2020-05-29,Unincorporated - Saugus,SFV,0,4,2580.65,0,0
 2020-05-29,Unincorporated - Saugus/Canyon Country,SFV,0,0,0,0,0
@@ -22305,7 +22305,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-05-30,Unincorporated - San Jose Hills,SGV,0,58,286.83,2,9.89
 2020-05-30,Unincorporated - San Pasqual,SGV,0,1,49.14,0,0
 2020-05-30,Unincorporated - Sand Canyon,AV,0,0,0,0,0
-2020-05-30,Unincorporated - Santa Catalina Island,BC,0,2,749.06,0,0
+2020-05-30,Unincorporated - Santa Catalina Island,SB,0,2,749.06,0,0
 2020-05-30,Unincorporated - Santa Monica Mountains,W,0,22,118.15,1,5.37
 2020-05-30,Unincorporated - Saugus,SFV,0,4,2580.65,0,0
 2020-05-30,Unincorporated - Saugus/Canyon Country,SFV,0,0,0,0,0
@@ -22644,7 +22644,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-06-01,Unincorporated - San Jose Hills,SGV,3,61,301.67,2,9.89
 2020-06-01,Unincorporated - San Pasqual,SGV,0,1,49.14,0,0
 2020-06-01,Unincorporated - Sand Canyon,AV,0,0,0,0,0
-2020-06-01,Unincorporated - Santa Catalina Island,BC,0,2,749.06,0,0
+2020-06-01,Unincorporated - Santa Catalina Island,SB,0,2,749.06,0,0
 2020-06-01,Unincorporated - Santa Monica Mountains,W,2,24,128.89,1,5.37
 2020-06-01,Unincorporated - Saugus,SFV,0,4,2580.65,0,0
 2020-06-01,Unincorporated - Saugus/Canyon Country,SFV,0,0,0,0,0
@@ -22983,7 +22983,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-06-02,Unincorporated - San Jose Hills,SGV,4,65,321.45,2,9.89
 2020-06-02,Unincorporated - San Pasqual,SGV,0,1,49.14,0,0
 2020-06-02,Unincorporated - Sand Canyon,AV,0,0,0,0,0
-2020-06-02,Unincorporated - Santa Catalina Island,BC,0,2,749.06,0,0
+2020-06-02,Unincorporated - Santa Catalina Island,SB,0,2,749.06,0,0
 2020-06-02,Unincorporated - Santa Monica Mountains,W,2,26,139.63,1,5.37
 2020-06-02,Unincorporated - Saugus,SFV,0,4,2580.65,0,0
 2020-06-02,Unincorporated - Saugus/Canyon Country,SFV,0,0,0,0,0
@@ -23322,7 +23322,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-06-03,Unincorporated - San Jose Hills,SGV,6,71,351.12,2,9.89
 2020-06-03,Unincorporated - San Pasqual,SGV,0,1,49.14,0,0
 2020-06-03,Unincorporated - Sand Canyon,AV,0,0,0,0,0
-2020-06-03,Unincorporated - Santa Catalina Island,BC,0,2,749.06,0,0
+2020-06-03,Unincorporated - Santa Catalina Island,SB,0,2,749.06,0,0
 2020-06-03,Unincorporated - Santa Monica Mountains,W,-1,25,134.26,1,5.37
 2020-06-03,Unincorporated - Saugus,SFV,0,4,2580.65,0,0
 2020-06-03,Unincorporated - Saugus/Canyon Country,SFV,0,0,0,0,0
@@ -23661,7 +23661,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-06-04,Unincorporated - San Jose Hills,SGV,1,72,356.07,2,9.89
 2020-06-04,Unincorporated - San Pasqual,SGV,0,1,49.14,0,0
 2020-06-04,Unincorporated - Sand Canyon,AV,0,0,0,0,0
-2020-06-04,Unincorporated - Santa Catalina Island,BC,0,2,749.06,0,0
+2020-06-04,Unincorporated - Santa Catalina Island,SB,0,2,749.06,0,0
 2020-06-04,Unincorporated - Santa Monica Mountains,W,0,25,134.26,1,5.37
 2020-06-04,Unincorporated - Saugus,SFV,0,4,2580.65,0,0
 2020-06-04,Unincorporated - Saugus/Canyon Country,SFV,0,0,0,0,0
@@ -24000,7 +24000,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-06-05,Unincorporated - San Jose Hills,SGV,6,78,385.74,2,9.89
 2020-06-05,Unincorporated - San Pasqual,SGV,0,1,49.14,0,0
 2020-06-05,Unincorporated - Sand Canyon,AV,0,0,0,0,0
-2020-06-05,Unincorporated - Santa Catalina Island,BC,0,2,749.06,0,0
+2020-06-05,Unincorporated - Santa Catalina Island,SB,0,2,749.06,0,0
 2020-06-05,Unincorporated - Santa Monica Mountains,W,1,26,139.63,1,5.37
 2020-06-05,Unincorporated - Saugus,SFV,0,4,2580.65,0,0
 2020-06-05,Unincorporated - Saugus/Canyon Country,SFV,0,0,0,0,0
@@ -24339,7 +24339,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-06-06,Unincorporated - San Jose Hills,SGV,6,84,415.41,3,14.84
 2020-06-06,Unincorporated - San Pasqual,SGV,0,1,49.14,0,0
 2020-06-06,Unincorporated - Sand Canyon,AV,0,0,0,0,0
-2020-06-06,Unincorporated - Santa Catalina Island,BC,0,2,749.06,0,0
+2020-06-06,Unincorporated - Santa Catalina Island,SB,0,2,749.06,0,0
 2020-06-06,Unincorporated - Santa Monica Mountains,W,0,26,139.63,1,5.37
 2020-06-06,Unincorporated - Saugus,SFV,0,4,2580.65,0,0
 2020-06-06,Unincorporated - Saugus/Canyon Country,SFV,0,0,0,0,0
@@ -24678,7 +24678,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-06-07,Unincorporated - San Jose Hills,SGV,4,88,435.19,3,14.84
 2020-06-07,Unincorporated - San Pasqual,SGV,0,1,49.14,0,0
 2020-06-07,Unincorporated - Sand Canyon,AV,0,0,0,0,0
-2020-06-07,Unincorporated - Santa Catalina Island,BC,0,2,749.06,0,0
+2020-06-07,Unincorporated - Santa Catalina Island,SB,0,2,749.06,0,0
 2020-06-07,Unincorporated - Santa Monica Mountains,W,0,26,139.63,1,5.37
 2020-06-07,Unincorporated - Saugus,SFV,0,4,2580.65,0,0
 2020-06-07,Unincorporated - Saugus/Canyon Country,SFV,0,0,0,0,0
@@ -25017,7 +25017,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-06-08,Unincorporated - San Jose Hills,SGV,0,88,435.19,3,14.84
 2020-06-08,Unincorporated - San Pasqual,SGV,0,1,49.14,0,0
 2020-06-08,Unincorporated - Sand Canyon,AV,0,0,0,0,0
-2020-06-08,Unincorporated - Santa Catalina Island,BC,0,2,749.06,0,0
+2020-06-08,Unincorporated - Santa Catalina Island,SB,0,2,749.06,0,0
 2020-06-08,Unincorporated - Santa Monica Mountains,W,0,26,139.63,1,5.37
 2020-06-08,Unincorporated - Saugus,SFV,0,4,2580.65,0,0
 2020-06-08,Unincorporated - Saugus/Canyon Country,SFV,0,0,0,0,0
@@ -25356,7 +25356,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-06-09,Unincorporated - San Jose Hills,SGV,5,93,459.92,3,14.84
 2020-06-09,Unincorporated - San Pasqual,SGV,0,1,49.14,0,0
 2020-06-09,Unincorporated - Sand Canyon,AV,0,0,0,0,0
-2020-06-09,Unincorporated - Santa Catalina Island,BC,0,2,749.06,0,0
+2020-06-09,Unincorporated - Santa Catalina Island,SB,0,2,749.06,0,0
 2020-06-09,Unincorporated - Santa Monica Mountains,W,0,26,139.63,1,5.37
 2020-06-09,Unincorporated - Saugus,SFV,0,4,2580.65,0,0
 2020-06-09,Unincorporated - Saugus/Canyon Country,SFV,0,0,0,0,0
@@ -25695,7 +25695,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-06-10,Unincorporated - San Jose Hills,SGV,2,95,469.81,3,14.84
 2020-06-10,Unincorporated - San Pasqual,SGV,0,1,49.14,0,0
 2020-06-10,Unincorporated - Sand Canyon,AV,0,0,0,0,0
-2020-06-10,Unincorporated - Santa Catalina Island,BC,0,2,749.06,0,0
+2020-06-10,Unincorporated - Santa Catalina Island,SB,0,2,749.06,0,0
 2020-06-10,Unincorporated - Santa Monica Mountains,W,0,26,139.63,1,5.37
 2020-06-10,Unincorporated - Saugus,SFV,0,4,2580.65,0,0
 2020-06-10,Unincorporated - Saugus/Canyon Country,SFV,0,0,0,0,0
@@ -26034,7 +26034,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-06-11,Unincorporated - San Jose Hills,SGV,6,101,499.48,3,14.84
 2020-06-11,Unincorporated - San Pasqual,SGV,0,1,49.14,0,0
 2020-06-11,Unincorporated - Sand Canyon,AV,0,0,0,0,0
-2020-06-11,Unincorporated - Santa Catalina Island,BC,0,2,749.06,0,0
+2020-06-11,Unincorporated - Santa Catalina Island,SB,0,2,749.06,0,0
 2020-06-11,Unincorporated - Santa Monica Mountains,W,0,26,139.63,1,5.37
 2020-06-11,Unincorporated - Saugus,SFV,0,4,2580.65,0,0
 2020-06-11,Unincorporated - Saugus/Canyon Country,SFV,0,0,0,0,0
@@ -26373,7 +26373,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-06-12,Unincorporated - San Jose Hills,SGV,3,104,514.32,3,14.84
 2020-06-12,Unincorporated - San Pasqual,SGV,0,1,49.14,0,0
 2020-06-12,Unincorporated - Sand Canyon,AV,0,0,0,0,0
-2020-06-12,Unincorporated - Santa Catalina Island,BC,0,2,749.06,0,0
+2020-06-12,Unincorporated - Santa Catalina Island,SB,0,2,749.06,0,0
 2020-06-12,Unincorporated - Santa Monica Mountains,W,2,28,150.37,1,5.37
 2020-06-12,Unincorporated - Saugus,SFV,0,4,2580.65,0,0
 2020-06-12,Unincorporated - Saugus/Canyon Country,SFV,0,0,0,0,0
@@ -26712,7 +26712,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-06-13,Unincorporated - San Jose Hills,SGV,10,114,563.77,3,14.84
 2020-06-13,Unincorporated - San Pasqual,SGV,1,2,98.28,0,0
 2020-06-13,Unincorporated - Sand Canyon,AV,0,0,0,0,0
-2020-06-13,Unincorporated - Santa Catalina Island,BC,0,2,749.06,0,0
+2020-06-13,Unincorporated - Santa Catalina Island,SB,0,2,749.06,0,0
 2020-06-13,Unincorporated - Santa Monica Mountains,W,0,28,150.37,1,5.37
 2020-06-13,Unincorporated - Saugus,SFV,1,5,3225.81,0,0
 2020-06-13,Unincorporated - Saugus/Canyon Country,SFV,0,0,0,0,0
@@ -27051,7 +27051,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-06-14,Unincorporated - San Jose Hills,SGV,8,122,603.33,3,14.84
 2020-06-14,Unincorporated - San Pasqual,SGV,0,2,98.28,0,0
 2020-06-14,Unincorporated - Sand Canyon,AV,0,0,0,0,0
-2020-06-14,Unincorporated - Santa Catalina Island,BC,0,2,749.06,0,0
+2020-06-14,Unincorporated - Santa Catalina Island,SB,0,2,749.06,0,0
 2020-06-14,Unincorporated - Santa Monica Mountains,W,0,28,150.37,1,5.37
 2020-06-14,Unincorporated - Saugus,SFV,0,5,3225.81,0,0
 2020-06-14,Unincorporated - Saugus/Canyon Country,SFV,0,0,0,0,0
@@ -27390,7 +27390,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-06-15,Unincorporated - San Jose Hills,SGV,2,124,613,3,15
 2020-06-15,Unincorporated - San Pasqual,SGV,0,2,98,0,0
 2020-06-15,Unincorporated - Sand Canyon,AV,0,0,0,0,0
-2020-06-15,Unincorporated - Santa Catalina Island,BC,1,3,1124,0,0
+2020-06-15,Unincorporated - Santa Catalina Island,SB,1,3,1124,0,0
 2020-06-15,Unincorporated - Santa Monica Mountains,W,0,28,150,1,5
 2020-06-15,Unincorporated - Saugus,SFV,0,5,3226,0,0
 2020-06-15,Unincorporated - Saugus/Canyon Country,SFV,0,0,0,0,0
@@ -27729,7 +27729,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-06-16,Unincorporated - San Jose Hills,SGV,0,124,613,3,15
 2020-06-16,Unincorporated - San Pasqual,SGV,0,2,98,0,0
 2020-06-16,Unincorporated - Sand Canyon,AV,0,0,0,0,0
-2020-06-16,Unincorporated - Santa Catalina Island,BC,0,3,1124,0,0
+2020-06-16,Unincorporated - Santa Catalina Island,SB,0,3,1124,0,0
 2020-06-16,Unincorporated - Santa Monica Mountains,W,0,28,150,1,5
 2020-06-16,Unincorporated - Saugus,SFV,0,5,3226,0,0
 2020-06-16,Unincorporated - Saugus/Canyon Country,SFV,0,0,0,0,0
@@ -28068,7 +28068,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-06-17,Unincorporated - San Jose Hills,SGV,11,135,668,3,15
 2020-06-17,Unincorporated - San Pasqual,SGV,0,2,98,0,0
 2020-06-17,Unincorporated - Sand Canyon,AV,0,0,0,0,0
-2020-06-17,Unincorporated - Santa Catalina Island,BC,0,3,1124,0,0
+2020-06-17,Unincorporated - Santa Catalina Island,SB,0,3,1124,0,0
 2020-06-17,Unincorporated - Santa Monica Mountains,W,0,28,150,1,5
 2020-06-17,Unincorporated - Saugus,SFV,0,5,3226,0,0
 2020-06-17,Unincorporated - Saugus/Canyon Country,SFV,0,0,0,0,0
@@ -28407,7 +28407,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-06-18,Unincorporated - San Jose Hills,SGV,1,136,673,3,15
 2020-06-18,Unincorporated - San Pasqual,SGV,0,2,98,0,0
 2020-06-18,Unincorporated - Sand Canyon,AV,0,0,0,0,0
-2020-06-18,Unincorporated - Santa Catalina Island,BC,0,3,1124,0,0
+2020-06-18,Unincorporated - Santa Catalina Island,SB,0,3,1124,0,0
 2020-06-18,Unincorporated - Santa Monica Mountains,W,0,28,150,1,5
 2020-06-18,Unincorporated - Saugus,SFV,0,5,3226,0,0
 2020-06-18,Unincorporated - Saugus/Canyon Country,SFV,0,0,0,0,0
@@ -28746,7 +28746,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-06-19,Unincorporated - San Jose Hills,SGV,5,141,697,3,15
 2020-06-19,Unincorporated - San Pasqual,SGV,0,2,98,0,0
 2020-06-19,Unincorporated - Sand Canyon,AV,0,0,0,0,0
-2020-06-19,Unincorporated - Santa Catalina Island,BC,0,3,1124,0,0
+2020-06-19,Unincorporated - Santa Catalina Island,SB,0,3,1124,0,0
 2020-06-19,Unincorporated - Santa Monica Mountains,W,2,30,161,1,5
 2020-06-19,Unincorporated - Saugus,SFV,0,5,3226,0,0
 2020-06-19,Unincorporated - Saugus/Canyon Country,SFV,0,0,0,0,0
@@ -29085,7 +29085,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-06-20,Unincorporated - San Jose Hills,SGV,7,148,732,3,15
 2020-06-20,Unincorporated - San Pasqual,SGV,0,2,98,0,0
 2020-06-20,Unincorporated - Sand Canyon,AV,0,0,0,0,0
-2020-06-20,Unincorporated - Santa Catalina Island,BC,0,3,1124,0,0
+2020-06-20,Unincorporated - Santa Catalina Island,SB,0,3,1124,0,0
 2020-06-20,Unincorporated - Santa Monica Mountains,W,1,31,166,1,5
 2020-06-20,Unincorporated - Saugus,SFV,0,5,3226,0,0
 2020-06-20,Unincorporated - Saugus/Canyon Country,SFV,0,0,0,0,0
@@ -29424,7 +29424,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-06-21,Unincorporated - San Jose Hills,SGV,4,152,752,3,15
 2020-06-21,Unincorporated - San Pasqual,SGV,0,2,98,0,0
 2020-06-21,Unincorporated - Sand Canyon,AV,0,0,0,0,0
-2020-06-21,Unincorporated - Santa Catalina Island,BC,0,3,1124,0,0
+2020-06-21,Unincorporated - Santa Catalina Island,SB,0,3,1124,0,0
 2020-06-21,Unincorporated - Santa Monica Mountains,W,3,34,183,1,5
 2020-06-21,Unincorporated - Saugus,SFV,0,5,3226,0,0
 2020-06-21,Unincorporated - Saugus/Canyon Country,SFV,0,0,0,0,0
@@ -29763,7 +29763,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-06-22,Unincorporated - San Jose Hills,SGV,5,157,776,4,20
 2020-06-22,Unincorporated - San Pasqual,SGV,0,2,98,0,0
 2020-06-22,Unincorporated - Sand Canyon,AV,0,0,0,0,0
-2020-06-22,Unincorporated - Santa Catalina Island,BC,0,3,1124,0,0
+2020-06-22,Unincorporated - Santa Catalina Island,SB,0,3,1124,0,0
 2020-06-22,Unincorporated - Santa Monica Mountains,W,0,34,183,1,5
 2020-06-22,Unincorporated - Saugus,SFV,0,5,3226,0,0
 2020-06-22,Unincorporated - Saugus/Canyon Country,SFV,0,0,0,0,0
@@ -30102,7 +30102,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-06-23,Unincorporated - San Jose Hills,SGV,0,157,776,4,20
 2020-06-23,Unincorporated - San Pasqual,SGV,0,2,98,0,0
 2020-06-23,Unincorporated - Sand Canyon,AV,0,0,0,0,0
-2020-06-23,Unincorporated - Santa Catalina Island,BC,0,3,1124,0,0
+2020-06-23,Unincorporated - Santa Catalina Island,SB,0,3,1124,0,0
 2020-06-23,Unincorporated - Santa Monica Mountains,W,0,34,183,1,5
 2020-06-23,Unincorporated - Saugus,SFV,0,5,3226,0,0
 2020-06-23,Unincorporated - Saugus/Canyon Country,SFV,0,0,0,0,0
@@ -30441,7 +30441,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-06-24,Unincorporated - San Jose Hills,SGV,8,165,816,4,20
 2020-06-24,Unincorporated - San Pasqual,SGV,1,3,147,0,0
 2020-06-24,Unincorporated - Sand Canyon,AV,0,0,0,0,0
-2020-06-24,Unincorporated - Santa Catalina Island,BC,0,3,1124,0,0
+2020-06-24,Unincorporated - Santa Catalina Island,SB,0,3,1124,0,0
 2020-06-24,Unincorporated - Santa Monica Mountains,W,4,38,204,1,5
 2020-06-24,Unincorporated - Saugus,SFV,0,5,3226,0,0
 2020-06-24,Unincorporated - Saugus/Canyon Country,SFV,0,0,0,0,0
@@ -30780,7 +30780,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-06-25,Unincorporated - San Jose Hills,SGV,0,165,816,4,20
 2020-06-25,Unincorporated - San Pasqual,SGV,0,3,147,0,0
 2020-06-25,Unincorporated - Sand Canyon,AV,0,0,0,0,0
-2020-06-25,Unincorporated - Santa Catalina Island,BC,0,3,1124,0,0
+2020-06-25,Unincorporated - Santa Catalina Island,SB,0,3,1124,0,0
 2020-06-25,Unincorporated - Santa Monica Mountains,W,0,38,204,1,5
 2020-06-25,Unincorporated - Saugus,SFV,0,5,3226,0,0
 2020-06-25,Unincorporated - Saugus/Canyon Country,SFV,0,0,0,0,0
@@ -31119,7 +31119,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-06-26,Unincorporated - San Jose Hills,SGV,3,168,831,4,20
 2020-06-26,Unincorporated - San Pasqual,SGV,0,3,147,0,0
 2020-06-26,Unincorporated - Sand Canyon,AV,0,0,0,0,0
-2020-06-26,Unincorporated - Santa Catalina Island,BC,0,3,1124,0,0
+2020-06-26,Unincorporated - Santa Catalina Island,SB,0,3,1124,0,0
 2020-06-26,Unincorporated - Santa Monica Mountains,W,0,38,204,1,5
 2020-06-26,Unincorporated - Saugus,SFV,0,5,3226,0,0
 2020-06-26,Unincorporated - Saugus/Canyon Country,SFV,0,0,0,0,0
@@ -31458,7 +31458,7 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-06-27,Unincorporated - San Jose Hills,SGV,0,168,831,4,20
 2020-06-27,Unincorporated - San Pasqual,SGV,0,3,147,0,0
 2020-06-27,Unincorporated - Sand Canyon,AV,0,0,0,0,0
-2020-06-27,Unincorporated - Santa Catalina Island,BC,0,3,1124,0,0
+2020-06-27,Unincorporated - Santa Catalina Island,SB,0,3,1124,0,0
 2020-06-27,Unincorporated - Santa Monica Mountains,W,0,38,204,1,5
 2020-06-27,Unincorporated - Saugus,SFV,0,5,3226,0,0
 2020-06-27,Unincorporated - Saugus/Canyon Country,SFV,0,0,0,0,0
