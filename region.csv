@@ -1,4 +1,3 @@
-Name,Region
 City of Palmdale,AV
 Unincorporated - Acton,AV
 Unincorporated - Agua Dulce,AV
@@ -47,6 +46,9 @@ Unincorporated - El Camino Village,BC
 Unincorporated - Hawthorne,BC
 Unincorporated - West Carson,BC
 Unincorporated - Wiseburn,BC
+Carson,BC
+Manhattan Beach,BC
+Torrance,BC
 ,Case Increase
 Los Angeles - Angelino Heights,DT
 Los Angeles - Boyle Heights,DT
@@ -71,40 +73,19 @@ Los Angeles - University Park,DT
 Los Angeles - Westlake,DT
 Los Angeles - Wholesale District,DT
 Los Angeles - Wilshire Center,DT
-City of Alhambra,E
-City of Arcadia,E
 City of Artesia,E
 City of Azusa,E
-City of Bradbury,E
-City of Claremont,E
 City of Commerce,E
-City of Covina,E
-City of Duarte,E
 City of El Monte,E
 City of Gardena,E
-City of Glendora,E
-City of Industry,E
-City of Irwindale,E
-City of La Puente,E
-City of La Verne,E
 City of Monrovia,E
 City of Montebello,E
-City of Monterey Park,E
 City of Norwalk,E
 City of Pico Rivera,E
-City of Pomona,E
-City of Rosemead,E
-City of San Dimas,E
 City of San Gabriel,E
-City of San Marino,E
 City of Santa Fe Springs,E
-City of Sierra Madre,E
-City of South Pasadena,E
-City of Temple City,E
 City of Walnut,E
-City of West Covina,E
 City of Whittier,E
-Los Angeles - El Sereno,E
 Los Angeles - Longwood,E
 Unincorporated - Del Sur,E
 Unincorporated - East La Mirada,E
@@ -152,6 +133,8 @@ Unincorporated - Newhall,EV
 Unincorporated - Stevenson Ranch,EV
 Unincorporated - Twin Lakes/Oat Mountain,EV
 Unincorporated - Valencia,EV
+Glendale,EV
+Santa Clarita,EV
 Los Angeles - Eagle Rock,NE
 Los Angeles - Echo Park,NE
 Los Angeles - Glassell Park,NE
@@ -163,15 +146,13 @@ Los Angeles - Los Feliz,NE
 Los Angeles - Mt. Washington,NE
 Los Angeles - Silverlake,NE
 Los Angeles - Thai Town,NE
-,Num tagged
-City of Baldwin Park,S
+Name,Region
 City of Bell,S
 City of Bell Gardens,S
 City of Bellflower,S
 City of Cerritos,S
 City of Compton,S
 City of Cudahy,S
-City of Diamond Bar,S
 City of Downey,S
 City of Hawaiian Gardens,S
 City of Huntington Park,S
@@ -180,7 +161,6 @@ City of La Habra Heights,S
 City of Lakewood,S
 City of Lynwood,S
 City of Maywood,S
-City of South El Monte,S
 City of South Gate,S
 City of Vernon,S
 Los Angeles - Adams-Normandie,S
@@ -212,6 +192,32 @@ Unincorporated - View Park/Windsor Hills,S
 Unincorporated - Walnut Park,S
 Unincorporated - West Rancho Dominguez,S
 Unincorporated - Willowbrook,S
+Inglewood,S
+Lynwood,S
+City of Alhambra,SGV
+City of Arcadia,SGV
+City of Bradbury,SGV
+City of Claremont,SGV
+City of Covina,SGV
+City of Duarte,SGV
+City of Glendora,SGV
+City of Industry,SGV
+City of Irwindale,SGV
+City of La Puente,SGV
+City of La Verne,SGV
+City of Monterey Park,SGV
+City of Pomona,SGV
+City of Rosemead,SGV
+City of San Dimas,SGV
+City of San Marino,SGV
+City of Sierra Madre,SGV
+City of South Pasadena,SGV
+City of Temple City,SGV
+City of West Covina,SGV
+Los Angeles - El Sereno,SGV
+City of Baldwin Park,SGV
+City of Diamond Bar,SGV
+City of South El Monte,SGV
 City of La Canada Flintridge,SGV
 Los Angeles - University Hills,SGV
 Unincorporated - Altadena,SGV
@@ -241,8 +247,199 @@ Unincorporated - Sunrise Village,SGV
 Unincorporated - Valinda,SGV
 Unincorporated - West Puente Valley,SGV
 Unincorporated - Whittier,SGV
-,Total
-,Total tagged
+Alhambra,SGV
+Arcadia,SGV
+Diamond Bar,SGV
+Monterey Park,SGV
+San Dimas,SGV
+South Pasadena,SGV
+Walnut,SGV
+Covina,SGV
+Altadena,SGV
+Duarte,SGV
+Glendora,SGV
+Temple City,SGV
+West Covina,SGV
+Claremont,SGV
+La Puente,SGV
+San Gabriel,SGV
+Hacienda Heights,SGV
+Monrovia,SGV
+City of Pasadena,SGV
+Unincorporated - Bradbury,SGV
+Unincorporated - East Covina,SGV
+Unincorporated - Charter Oak,SGV
+Unincorporated - Walnut,SGV
+Gardena,TBD
+La Mirada,TBD
+West Hollywood,TBD
+Baldwin Hills,TBD
+Beverlywood,TBD
+Boyle Heights,TBD
+Brentwood,TBD
+Burbank,TBD
+Calabasas,TBD
+Castaic,TBD
+Crestview,TBD
+Eagle Rock,TBD
+East Los Angeles,TBD
+Echo Park,TBD
+Encino,TBD
+Granada Hills,TBD
+Hancock Park,TBD
+Hawthorne,TBD
+Hollywood Hills,TBD
+Hollywood,TBD
+Koreatown,TBD
+Lawndale,TBD
+Lomita,TBD
+Mar Vista,TBD
+Melrose,TBD
+North Hollywood,TBD
+Northridge,TBD
+Pacific Palisades,TBD
+Palms,TBD
+Park LaBrea,TBD
+Playa Vista,TBD
+Reseda,TBD
+San Pedro,TBD
+Santa Monica Mountains,TBD
+Sherman Oaks,TBD
+South El Monte,TBD
+Stevenson Ranch,TBD
+Studio City,TBD
+Sylmar,TBD
+Tarzana,TBD
+Tujunga,TBD
+University Park,TBD
+Valley Glen,TBD
+Van Nuys,TBD
+Venice,TBD
+Vermont Knolls,TBD
+West Adams,TBD
+West Hills,TBD
+West Los Angeles,TBD
+West Vernon,TBD
+Westchester,TBD
+Westwood,TBD
+Whittier,TBD
+Woodland Hills,TBD
+Century City,TBD
+Century Palms/Cove,TBD
+Downtown,TBD
+El Segundo,TBD
+Lake Balboa,TBD
+Lakewood,TBD
+Lancaster,TBD
+Miracle Mile,TBD
+Redondo Beach,TBD
+San Fernado,TBD
+South Whittier,TBD
+Winnetka,TBD
+Agoura Hills,TBD
+Athens,TBD
+Bellflower,TBD
+Canoga Park,TBD
+Cerritos,TBD
+Cloverdale/Cochran,TBD
+Compton,TBD
+Eagle Hollywood,TBD
+La Canada Flintridge,TBD
+La Verne,TBD
+Palmdale,TBD
+Paramount,TBD
+Silverlake,TBD
+South Gate,TBD
+South Park,TBD
+Temple,TBD
+Vermont Central,TBD
+Vermont Vista,TBD
+Westlake,TBD
+Wilmington,TBD
+Wilshire Center,TBD
+Canyon County,TBD
+Del Rey,TBD
+Downey,TBD
+East Hollywood,TBD
+Exposition Park,TBD
+Florence,TBD
+Harbor Gateway,TBD
+Harvard Heights,TBD
+Highland Park,TBD
+Los Feliz,TBD
+Mt. Washington,TBD
+Norwalk,TBD
+Pico Rivera,TBD
+Pico,TBD
+Porter Ranch,TBD
+Rancho Palos Verdes,TBD
+Sun Valley,TBD
+Sunland,TBD
+Wholesale District,TBD
+Arleta,TBD
+Bell Gardens,TBD
+Crenshaw District,TBD
+Glassell Park,TBD
+Hyde Park,TBD
+Paramount City,TBD
+Pomona,TBD
+Willowbrook,TBD
+Azuza,TBD
+Bell,TBD
+Canyon Country,TBD
+Chatworth,TBD
+Harbor City,TBD
+Leimert Park,TBD
+Lincoln Heights,TBD
+Little Bangladesh,TBD
+Maywood,TBD
+Montebello,TBD
+North Hills,TBD
+Pacoima,TBD
+San Fernando,TBD
+Valinda,TBD
+Watts,TBD
+West Whittier/Los Nietos,TBD
+City of Avalon,TBD
+City of Azuza,TBD
+City of Long Beach,TBD
+Los Angeles - Brookside,TBD
+Los Angeles - Cadillac-Corning,TBD
+Unincorporated - Cerritos,TBD
+Unincorporated - Claremont,TBD
+Unincorporated - East Lancaster,TBD
+Unincorporated - El Monte,TBD
+Unincorporated - La Habra Heights,TBD
+Unincorporated - Lakewood,TBD
+Unincorporated - Long Beach,TBD
+Unincorporated - Padua Hills,TBD
+Unincorporated - Palos Verdes Peninsula,TBD
+Unincorporated - Placerita Canyon,TBD
+Unincorporated - Roosevelt,TBD
+Unincorporated - Rosewood,TBD
+Unincorporated - Rosewood/East Gardena,TBD
+Unincorporated - Rosewood/West Rancho Dominguez,TBD
+Unincorporated - Sand Canyon,TBD
+Unincorporated - Saugus,TBD
+Unincorporated - Saugus/Canyon Country,TBD
+Unincorporated - Southeast Antelope Valley,TBD
+Unincorporated - Westfield/Academy Hills,TBD
+Unincorporated - Westhills,TBD
+Unincorporated - White Fence Farms,TBD
+City of Los Angeles,TBD
+Los Angeles - Angeles National Forest,TBD
+Unincorporated - Harbor Gateway,TBD
+Unincorporated - Lynwood,TBD
+Unincorporated - Miracle Mile,TBD
+Unincorporated - San Clemente Island,TBD
+Unincorporated - San Francisquito Canyon/Boquet Canyon,TBD
+Unincorporated - South Edwards,TBD
+Unincorporated - Universal City,TBD
+Unincorporated - West Chatsworth,TBD
+Unincorporated - Whittier Narrows,TBD
+Unincorporated - San Francisquito Canyon/Bouquet Canyon,TBD
+Unincorporated - Bandini Islands,TBD
+Unincorporated - Franklin Canyon,TBD
 City of Culver City,W
 City of Malibu,W
 City of Santa Monica,W
@@ -295,6 +492,9 @@ Unincorporated - North Whittier,W
 Unincorporated - Santa Catalina Island,W
 Unincorporated - Santa Monica Mountains,W
 Unincorporated - West LA,W
+Beverly Hills,W
+Culver City,W
+Santa Monica,W
 City of Agoura Hills,WV
 City of Beverly Hills,WV
 City of Calabasas,WV
@@ -309,664 +509,3 @@ Los Angeles - West Hills,WV
 Los Angeles - Winnetka,WV
 Los Angeles - Woodland Hills,WV
 Unincorporated - Lake Manor,WV
-Los Angeles - Cadillac-Corning,
-Unincorporated - Roosevelt,
-Unincorporated - Rosewood,
-Unincorporated - Rosewood/West Rancho Dominguez,
-Unincorporated - Saugus,
-Unincorporated - White Fence Farms,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,
-,

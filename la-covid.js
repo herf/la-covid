@@ -73,6 +73,8 @@ function DFS(o, parser) {
 	}
 }
 
+var regerr = {};
+
 function dedupeDiff(rows) {
 
 	var urows = [];
@@ -98,6 +100,12 @@ function dedupeDiff(rows) {
 		// splice in stuff:		
 		var reg = region[rowtok[1]];
 		rowtok.splice(2, 0, reg);
+		if (!reg) {
+			if (!regerr[rowtok[1]]) {
+				console.log("No region for", rowtok[1]);				
+			}
+			regerr[rowtok[1]] = 1;
+		}
 
 		// diff right after total cases:
 		rowtok.splice(3, 0, diff);
