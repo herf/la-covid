@@ -6,6 +6,6 @@ However, daily snapshots by geography are not available, so it has been difficul
 
 Using the Wayback Machine and daily mirrors, we have constructed a feed of these updates.
 
-### Our main summary feed (deduped and cleaned) is available at [la-covid-feed.js](la-covid-feed.csv)
+### Our main summary feed (deduped and cleaned) is available at [la-covid-feed.js](https://github.com/herf/la-covid/raw/master/la-covid-feed.csv)
 
 Please note that these data are not timestamped with *test dates* but instead with *result dates* (when the webpage updates), and so a delay should be expected when using these timestamps.
