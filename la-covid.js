@@ -61,21 +61,33 @@ function DFS(o, parser) {
 	}
 }
 
-function dedupe(rows) {
+function dedupeDiff(rows) {
 
 	var urows = [];
+	var diffval = {};
+
 	rows.sort();
 	
 	var last;
 	for (var i = 0; i < rows.length; i++) {
 		var rowtok = rows[i].split(',');
-		if (rowtok.length < 2) continue;
+		if (rowtok.length < 3) continue;
 
 		// just show first result per day (key = location + date)
 		var rowkey = rowtok[0] + rowtok[1];
-		if (rowkey != last) {
-			urows.push(rows[i]);
-		}
+		if (rowkey == last) continue;
+
+		// compute diff if we can:
+		var oldval = diffval[rowtok[1]];
+		if (!oldval) oldval = 0;
+		diffval[rowtok[1]] = rowtok[2];
+		var diff = rowtok[2] - oldval;
+		
+		// diff right after total cases:
+		rowtok.splice(3, 0, diff);
+
+		//urows.push(rows[i]);
+		urows.push(rowtok.join(','));
 		last = rowkey;
 	}
 	console.log("Dedupe picked", urows.length, "of", rows.length);
@@ -136,8 +148,8 @@ function CSVAll(d, filename) {
 		}
 	}
 
-	rows = dedupe(rows);
-	var header = "date,location,cases,caserate,deaths,deathrate\n";
+	rows = dedupeDiff(rows);
+	var header = "date,location,cases,casechange,caserate,deaths,deathrate\n";
 
 	fs.writeFileSync(filename, header + rows.join("\n"));
 }
