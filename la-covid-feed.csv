@@ -15778,7 +15778,6 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-05-11,Los Angeles - Wilshire Center,MLA,6,151,300
 2020-05-11,Los Angeles - Winnetka,SFV,6,205,395
 2020-05-11,Los Angeles - Woodland Hills,SFV,1,129,189
-2020-05-11,Los Angeles,,15015,15015,371
 2020-05-11,Unincorporated - Acton,AV,0,8,100
 2020-05-11,Unincorporated - Agua Dulce,AV,0,2,48
 2020-05-11,Unincorporated - Altadena,SGV,7,93,213
@@ -16118,7 +16117,6 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-05-12,Los Angeles - Wilshire Center,MLA,1,152,302
 2020-05-12,Los Angeles - Winnetka,SFV,0,205,395
 2020-05-12,Los Angeles - Woodland Hills,SFV,1,130,191
-2020-05-12,Los Angeles,,208,15223,376
 2020-05-12,Unincorporated - Acton,AV,0,8,100
 2020-05-12,Unincorporated - Agua Dulce,AV,0,2,48
 2020-05-12,Unincorporated - Altadena,SGV,8,101,231
@@ -16797,7 +16795,6 @@ date,location,region,cases,casechange,caserate,deaths,deathrate
 2020-05-14,Los Angeles - Wilshire Center,MLA,2,155,308
 2020-05-14,Los Angeles - Winnetka,SFV,3,213,411
 2020-05-14,Los Angeles - Woodland Hills,SFV,1,132,193
-2020-05-14,Los Angeles,,1387,16610,410
 2020-05-14,Unincorporated - Acton,AV,0,8,100
 2020-05-14,Unincorporated - Agua Dulce,AV,0,3,72
 2020-05-14,Unincorporated - Altadena,SGV,4,105,240

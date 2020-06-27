@@ -140,12 +140,12 @@ function CSVAll(d, filename) {
 			if (pdata.length == 0) continue;
 			if (pdata.length > 10) continue;
 
-			// drop this summary:
-			if (pdata[0] == "Los Angeles") continue;
-
 			// remove *s in names: they aren't changes in the names, instead the data:
 			pdata[0] = pdata[0].replace(/\*/g, '');
 			pdata[0] = pdata[0].replace(',', '-');
+
+			// drop this summary:
+			if (pdata[0] == "Los Angeles") continue;
 
 			// NB:  || 0 converts NaN to 0
 			row.push(datestr);
