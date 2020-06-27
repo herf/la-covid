@@ -68,10 +68,15 @@ function dedupe(rows) {
 	
 	var last;
 	for (var i = 0; i < rows.length; i++) {
-		if (rows[i] != last) {
+		var rowtok = rows[i].split(',');
+		if (rowtok.length < 2) continue;
+
+		// just show first result per day (key = location + date)
+		var rowkey = rowtok[0] + rowtok[1];
+		if (rowkey != last) {
 			urows.push(rows[i]);
 		}
-		last = rows[i];
+		last = rowkey;
 	}
 	console.log("Dedupe picked", urows.length, "of", rows.length);
 
