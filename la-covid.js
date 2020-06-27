@@ -104,6 +104,7 @@ function CSVAll(d, filename) {
 
 			// remove *s in names: they aren't changes in the names, instead the data:
 			pdata[0] = pdata[0].replace(/\*/g, '');
+			pdata[0] = pdata[0].replace(',', '-');
 
 			// NB:  || 0 converts NaN to 0
 			row.push(datestr);

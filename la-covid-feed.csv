@@ -4,7 +4,7 @@ date,location,cases,caserate,deaths,deathrate
 2020-03-19,Beverly Hills,0,4
 2020-03-19,Carson,0,1
 2020-03-19,City of Los Angeles - Communities &lt;25000,11,32
-2020-03-19,County Los Angeles - Unincorporated Areas, Cities and Communities &lt;25000,14,30
+2020-03-19,County Los Angeles - Unincorporated Areas- Cities and Communities &lt;25000,14,30
 2020-03-19,Culver City,0,2
 2020-03-19,Diamond Bar,0,2
 2020-03-19,Gardena,0,1
@@ -64,7 +64,7 @@ date,location,cases,caserate,deaths,deathrate
 2020-03-20,Carson,1
 2020-03-20,Castaic,1
 2020-03-20,City of Los Angeles - Communities &lt;25000,11,32
-2020-03-20,County Los Angeles - Unincorporated Areas, Cities and Communities &lt;25000,14,30
+2020-03-20,County Los Angeles - Unincorporated Areas- Cities and Communities &lt;25000,14,30
 2020-03-20,Covina,1
 2020-03-20,Crestview,1
 2020-03-20,Culver City,0,2
