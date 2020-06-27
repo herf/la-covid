@@ -1,7 +1,4 @@
 // scraper for converting various versions of LA public health website -> CSV
-
-// TODO: HANDLE NAN
-
 var HTML = require('html-parse-stringify2')
 var fs = require('fs');
 const util = require('util')
@@ -33,9 +30,7 @@ function DFS(o, parser) {
 	if (c) {
 
 		for (var ci in c) {
-			//console.log(c[ci]);
 			result = DFS(c[ci], parser);
-			//if (result) return result;
 		}
 	}
 
@@ -55,7 +50,6 @@ function DFS(o, parser) {
 
 	if (parser.inTable) {
 		if (o.name == "tr") {
-			//console.log(o);
 			parser.table.push(new Array());
 		}
 
@@ -113,6 +107,8 @@ function CSVAll(d, filename) {
 
 			// NB:  || 0 converts NaN to 0
 			row.push(datestr);
+
+			// some ad-hoc formats:
 			if (pdata.length == 2) {
 				row.push(pdata[0]);
 				row.push(parseInt(pdata[1]) || 0);	// only cases
@@ -144,7 +140,7 @@ var alldata = [];
 
 //fs.readdir(path, function(err, d) {
 var d = fs.readdirSync(path);
-
+{
 	console.log("Parsing", d.length);
 	for (var f in d) {
 
@@ -176,12 +172,12 @@ var d = fs.readdirSync(path);
 
 		alldata.push(parser);
 	}
-//});
+}
 
 // read wayback data
 d = fs.readdirSync(wayback);
 
-//fs.readdirSync(wayback, function(err, d) {
+{
 	console.log("Parsing", d.length);
 	for (var f in d) {
 
@@ -214,6 +210,6 @@ d = fs.readdirSync(wayback);
 
 		alldata.push(parser);
 	}
-//});
+}
 
 CSVAll(alldata, "la-covid-feed.csv");
