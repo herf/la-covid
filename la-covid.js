@@ -9,6 +9,18 @@ var path = "data/";
 // older data (alternate date format):
 var wayback = "wayback/data/";
 
+// split region into lookup:
+var region = {};
+{
+	var regiondata = fs.readFileSync("region.csv").toString();
+	var regionlines = regiondata.split("\r\n");
+
+	for (var i in regionlines) {
+		var rs = regionlines[i].split(',');
+		region[rs[0]] = rs[1];
+	}
+}
+
 // via https://stackoverflow.com/questions/1833892/converting-a-string-formatted-yyyymmddhhmmss-into-a-javascript-date-object
 // yyyymmddhhmmss -> js date
 function convertWaybackDate(d) {
@@ -82,7 +94,11 @@ function dedupeDiff(rows) {
 		if (!oldval) oldval = 0;
 		diffval[rowtok[1]] = rowtok[2];
 		var diff = rowtok[2] - oldval;
-		
+
+		// splice in stuff:		
+		var reg = region[rowtok[1]];
+		rowtok.splice(2, 0, reg);
+
 		// diff right after total cases:
 		rowtok.splice(3, 0, diff);
 
@@ -149,7 +165,7 @@ function CSVAll(d, filename) {
 	}
 
 	rows = dedupeDiff(rows);
-	var header = "date,location,cases,casechange,caserate,deaths,deathrate\n";
+	var header = "date,location,region,cases,casechange,caserate,deaths,deathrate\n";
 
 	fs.writeFileSync(filename, header + rows.join("\n"));
 }
