@@ -6,10 +6,10 @@ LA public health provides a dashboard of cases, but daily snapshots by geography
 
 Using the Wayback Machine and daily mirrors, we have constructed a feed of these updates.
 
-### Here are our feeds, which you can use for anything your want to:
+### Here are our feeds, which you can link to in your own projects:
 
-- [la-covid-feed.csv](https://github.com/herf/la-covid/raw/master/la-covid-feed.csv)
-- [la-covid-region.csv](https://github.com/herf/la-covid/raw/master/la-covid-region.csv)
+- [la-covid-feed.csv](https://github.com/herf/la-covid/raw/master/la-covid-feed.csv): all timestamped data according to the LA dashboard
+- [la-covid-region.csv](https://github.com/herf/la-covid/raw/master/la-covid-region.csv): our groupings of regions, with daily summaries
 
 We use "Service Planning Areas" to group neighborhoods [region.csv](https://github.com/herf/la-covid/raw/master/region.csv). They apply across the county, not just the city. There may be errors in this file since it was transcribed by hand.
 
