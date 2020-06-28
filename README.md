@@ -4,7 +4,7 @@ Los Angeles county has more than 10 million people organized over a large number
 
 LA public health provides a dashboard of cases, but daily snapshots by geography are not available, so it has been difficult to estimate how COVID-19 is changing by region of the city. 
 
-Using the Wayback Machine and daily mirrors, we have constructed a feed of these updates. **Daily updates are available here.**
+Using the Wayback Machine and daily mirrors, we have constructed a feed of these updates.
 
 ### Here are our feeds, which you can link to in your own projects:
 
