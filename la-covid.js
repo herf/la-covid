@@ -108,7 +108,7 @@ function dedupeDiff(rows) {
 		}
 
 		// diff right after total cases:
-		rowtok.splice(3, 0, diff);
+		rowtok.splice(4, 0, diff);
 
 		//urows.push(rows[i]);
 		urows.push(rowtok.join(','));
