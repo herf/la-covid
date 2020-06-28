@@ -15,6 +15,17 @@ We use "Service Planning Areas" to group neighborhoods in [region.csv](https://g
 
 Please note that these data are not timestamped with *test dates* but instead with *result dates* (when the webpage updates), and so a delay should be expected when using these timestamps.
 
+### Region key
+
+- AV: Antelope Valley
+- E: East LA
+- MLA: Metro LA
+- S: South LA
+- SB: South Bay
+- SFV: San Fernando Valley
+- SGV: San Gabriel Valley
+- W: Westside
+
 ### Data souces
 
 - Los Angeles publishes per-neighborhood COVID case data at [this webpage](http://publichealth.lacounty.gov/media/Coronavirus/locations.htm)
