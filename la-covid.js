@@ -75,12 +75,37 @@ function DFS(o, parser) {
 
 var regerr = {};
 
+// remember populations using new data (it was not in older data)
+// this dataset has "cases" and "case rate per 100k"
+var population = {};
+
+function findPopulation(rows) {
+	
+	population = {};
+
+	for (var i = 0; i < rows.length; i++) {
+		var rowtok = rows[i].split(',');
+		if (rowtok.length < 4) continue;
+
+		var pop = parseFloat(rowtok[2]);
+		var caserate = parseFloat(rowtok[3]);
+		if (caserate == 0) continue;
+		pop /= caserate;
+
+		population[rowtok[1]] = Math.round(pop * 100000);
+	}
+
+	//console.log(population);
+}
+
 function dedupeDiff(rows) {
 
 	var urows = [];
 	var diffval = {};
 
 	rows.sort();
+
+	findPopulation(rows);
 	
 	var last;
 	for (var i = 0; i < rows.length; i++) {
@@ -97,7 +122,10 @@ function dedupeDiff(rows) {
 		diffval[rowtok[1]] = rowtok[2];
 		var diff = rowtok[2] - oldval;
 
-		// splice in stuff:		
+		// diff right after total cases:
+		rowtok.splice(3, 0, diff);
+
+		// splice in stuff:	
 		var reg = region[rowtok[1]];
 		rowtok.splice(2, 0, reg);
 		if (!reg) {
@@ -106,9 +134,8 @@ function dedupeDiff(rows) {
 			}
 			regerr[rowtok[1]] = 1;
 		}
-
-		// diff right after total cases:
-		rowtok.splice(4, 0, diff);
+		var pop = population[rowtok[1]] || 0;
+		rowtok.splice(3, 0, pop);
 
 		//urows.push(rows[i]);
 		urows.push(rowtok.join(','));
@@ -173,7 +200,7 @@ function CSVAll(d, filename) {
 	}
 
 	rows = dedupeDiff(rows);
-	var header = "date,location,region,cases,casechange,caserate,deaths,deathrate\n";
+	var header = "date,location,region,population,cases,casechange,caserate,deaths,deathrate\n";
 
 	fs.writeFileSync(filename, header + rows.join("\n"));
 }
