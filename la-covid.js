@@ -98,6 +98,64 @@ function findPopulation(rows) {
 	//console.log(population);
 }
 
+function regionTable(rows) {
+
+	var cases = {};
+	var last;
+
+	for (var i = 0; i < rows.length; i++) {
+		var rowtok = rows[i].split(',');
+		var reg = region[rowtok[1]];
+		var pop = population[rowtok[1]];
+
+		if (reg == "TBD") continue;
+		if (!reg) continue;
+
+		// dedupe as below $$:
+		var rowkey = rowtok[0] + rowtok[1];
+		if (rowkey == last) continue;
+		last = rowkey;
+
+		// date + region slice
+		var idtok = rowtok[0] + "," + reg;
+
+		// keep these things about each idtok:
+		if (!cases[idtok]) cases[idtok] = {"cases": 0, "pop": 0, "death": 0};
+
+		var cc = cases[idtok];
+		cc.cases += parseInt(rowtok[2]);
+
+		if (rowtok.length > 4) cc.death += parseInt(rowtok[4]);
+		cc.pop += pop || 0;
+	}
+
+	var rows = [];
+	for (var c in cases) {
+		var r = [];
+
+		var caserate = (cases[c].cases * 100000 / cases[c].pop).toFixed(1);
+		var deathrate = (cases[c].death * 100000 / cases[c].pop).toFixed(1);
+
+		if (!isFinite(caserate)) caserate = 0;
+		if (!isFinite(deathrate)) deathrate = 0;
+
+
+		r.push(c);
+		r.push(cases[c].cases);
+		r.push(caserate);
+		r.push(cases[c].death);
+		r.push(deathrate);
+		r.push(cases[c].pop);
+		rows.push(r.join(','));
+	}
+
+	rows.sort();
+
+	var header = "date,region,cases,caserate,death,deathrate,population\n";
+
+	fs.writeFileSync('la-covid-region.csv', header + rows.join('\n'));
+}
+
 function dedupeDiff(rows) {
 
 	var urows = [];
@@ -106,6 +164,7 @@ function dedupeDiff(rows) {
 	rows.sort();
 
 	findPopulation(rows);
+	regionTable(rows);
 	
 	var last;
 	for (var i = 0; i < rows.length; i++) {
