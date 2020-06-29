@@ -284,8 +284,12 @@ var d = fs.readdirSync(path);
 			console.log("Skipping", d[f]);
 			continue;
 		}
+
+		// note our crons are running from 10pm-4am (or 5am-11am GMT)
+		// so (yuck) here we offset to "fix" to timestamp to the earlier day if needed:
+		// i.e. this is 7h for TZ (so we don't rely on server TZ) and 6h for fetch timing:
+		unixdate -= 3600 * 13;
 		var dt = new Date(unixdate * 1000);
-		//console.log(d[f], dt.toString());
 
 		// no async
 		var contents = fs.readFileSync(path + d[f]);
