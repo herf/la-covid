@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/herf/la-covid#readme",
   "dependencies": {
-    "html-parse-stringify2": "^2.0.1"
+    "html-parse-stringify2": "^2.0.1",
+    "sockjs-client": "^1.4.0"
   }
 }
