@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>COVID LA</title>
+<title>COVID LA: case rates in Los Angeles</title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=0.5, shrink-to-fit=no">
 
@@ -17,11 +17,19 @@ body{font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Helv
 .c3-region.substantial { fill:red; }
 .c3-region.moderate { fill:orange; }
 .c3-region.minimal {fill: yellow;}
+.footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  height: 60px; /* Set the fixed height of the footer here */
+  line-height: 60px; /* Vertically center the text there */
+  background-color: #f5f5f5;
+}
 </style>
 </head>
 <body>
 
-<div class="container-fluid mt-5">
+<main class="container-fluid mt-5">
 	<div class="row">
 		<div class="col-md-8 col-sm-12 offset-md-2">
 		<h1>COVID-19 Los Angeles</h1>
@@ -32,7 +40,7 @@ body{font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Helv
 	<div class='row mt-5'>
 	<div class='col-sm-8'>
 	<h3>LA by region</h3>
-	Los Angeles County has 10 million residents (more than all but 9 states). We thought it would be useful to break it up into regions and show how case rate is moving through the county. Source data is updated live and <a href='https://github.com/herf/la-covid'>available on github</a>.
+	Los Angeles County has 10 million residents (more than all but 9 states). We thought it would be useful to break it up into regions and show how case rate is moving through the county. Source data is updated daily.
 		</div>
 		<div class='card shadow-sm mb-4'>
 			<div class='card-header'><h3>California Tiers</h3>
@@ -50,7 +58,13 @@ body{font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Helv
 	</div>
 	</div>
 	</div>
+</main>
+
+<footer class="footer">
+  <div class="container">
+    <span class="float-right text-muted">This page is by Michael Herf. You can <a href="https://twitter.com/herf/">find me on Twitter here</a> and all the code+data is on <a href='https://github.com/herf/la-covid'>github</a>.</span>
 </div>
+</footer>
 
 <script>
 
@@ -211,7 +225,6 @@ fetchData("region.csv");
 //fetchData("feed.csv");
 
 </script>
-
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>
 
