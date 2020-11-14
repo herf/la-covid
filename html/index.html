@@ -96,11 +96,14 @@ function displayData(data) {
 	// save
 	lastdata = JSON.parse(JSON.stringify(data));
 
+	for (var c = 0; c < data.columns.length; c++) {
+		// early data were noisy so chop it:
+		data.columns[c].splice(1, 60);
+	}
+
 	for (var c = 1; c < data.columns.length; c++) {
 		var ci = data.columns[c];
 
-		// early data were noisy so chop it:
-		ci.splice(1, 60);
 		process(ci, 7);
 
 		if (namemap[ci[0]])
