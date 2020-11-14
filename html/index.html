@@ -1,0 +1,213 @@
+<html>
+<head>
+<title>COVID LA</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=0.5, shrink-to-fit=no">
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+<link href="c3/c3.css" rel="stylesheet">
+<script src="https://d3js.org/d3.v5.min.js"></script>
+<script src="c3/c3.min.js"></script>
+
+<style>
+body{font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif}
+
+.c3-tooltip  { font-size: 0.7em;}
+.c3-region.widespread { fill:purple; }
+.c3-region.substantial { fill:red; }
+.c3-region.moderate { fill:orange; }
+.c3-region.minimal {fill: yellow;}
+</style>
+</head>
+<body>
+
+<div class="container-fluid mt-5">
+	<div class="row">
+		<div class="col-md-8 col-sm-12 offset-md-2">
+		<h1>COVID-19 Los Angeles</h1>
+		<h4>Case rates by region</h4>
+		<div id="chart" style='width:100%'></div>
+		<small class='text-muted'>Pinch or mousewheel to zoom</small>
+		<div id='regiondata'><h2>Loading...</h2></div>
+	<div class='row mt-5'>
+	<div class='col-sm-8'>
+	<h3>LA by region</h3>
+	Los Angeles County has 10 million residents (more than all but 9 states). We thought it would be useful to break it up into regions and show how case rate is moving through the county. Source data is updated live and <a href='https://github.com/herf/la-covid'>available on github</a>.
+		</div>
+		<div class='card shadow-sm mb-4'>
+			<div class='card-header'><h3>California Tiers</h3>
+	<small class='text-muted'>
+	from <a target='cdph' href="https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/COVID19CountyMonitoringOverview.aspx">California Department of Public Health</a>
+	</small>
+	</div>
+	<div class='card-body'>
+	Tier 1 (Purple): Widespread<br/>
+	Tier 2 (Red): Substantial<br/>
+	Tier 3 (Orange): Moderate<br/>
+	Tier 4 (Yellow): Minimal<br/>
+	</div>
+	</div>
+	</div>
+	</div>
+	</div>
+</div>
+
+<script>
+
+function process(ci, win) {		
+	var lval = 0;
+	
+	if (!win) win = 1;
+	var na = [];
+	na.push(ci[0]);
+
+	// first item is label
+	for (var i = 1; i < ci.length; i++) {
+		var ind0 = i - win;
+		if (ind0 < 1) ind0 = 1;
+		var dc = ci[i] - ci[ind0];
+		if (dc < 0) dc = 0;
+		dc = Math.round(dc / win);
+		na.push(dc);
+	}
+
+	for (var i = 1; i < ci.length; i++) {
+		ci[i] = na[i];
+	}
+}
+
+var namemap = {
+	"W": "Westside",
+	"SB": "South Bay",
+	"AV": "Antelope Valley",
+	"SFV": "San Fernando Valley",
+	"SGV": "San Gabriel Valley",
+	"S": "South LA",
+	"MLA": "Metro LA",
+	"E": "East LA"
+};
+
+function fetchData(feed, filter) {
+
+	d3.csv(feed).then(function(d) {
+
+		// transpose and sort:
+		var data = {};
+		data.columns = [];
+		data.columns.push(['date']);
+		data.x = 'date';
+
+		//console.log(d.length, "rows");
+		//console.log(d);
+
+		// write date index:
+		var ldate;
+		var row = 0;
+		var col = {};
+		var colmax = 10;
+
+		var dlines = [];
+
+
+
+		for (var i = 0; i < d.length; i++) {
+			var li = d[i];
+			if (li.date != ldate) {
+				data.columns[0].push(li.date);
+				row = data.columns[0].length - 1;
+				ldate = li.date;
+			}
+
+			var ci;
+			//console.log(li);
+
+			if (feed == "feed.csv") {
+				if (!col[li.location]) {
+					if (colmax == 0) continue;
+					colmax --;
+					data.columns.push([li.location]);
+					col[li.location] = data.columns.length - 1;
+				}
+
+				ci = col[li.location];
+
+			} else {
+				// by region in region.csv
+				if (!col[li.region]) {
+					data.columns.push([li.region]);
+					col[li.region] = data.columns.length - 1;
+				}
+
+				ci = col[li.region];
+			}
+
+			// ensure 0 fill not null
+			while (data.columns[ci].length < row) {
+				data.columns[ci].push(0);
+			}
+			data.columns[ci][row] = +li.caserate;
+		}
+
+		var basedata = JSON.parse(JSON.stringify(data.columns));
+
+		for (var c = 1; c < data.columns.length; c++) {
+			var ci = data.columns[c];
+
+			// early data were noisy so chop it:
+			ci.splice(1, 60);
+			process(ci, 7);
+
+			if (namemap[ci[0]])
+				ci[0] = namemap[ci[0]];
+		}
+
+		c3.generate({
+			bindto: '#chart',
+			data: data,
+			grid: {
+				x: { show: true},
+				y: { show: true}
+			},
+			legend: {
+        		position: 'right'
+    		},
+    		point: {
+     		   show: false
+    		},
+			zoom: {
+     		   enabled: true
+    		},
+			axis: { 
+				x: {
+            		type: 'timeseries',
+            		tick: {
+            			fit: true,
+                		format: '%Y-%m-%d'
+            		}
+            	}/*, y: {
+            		max: 60
+            	}*/
+            },
+            regions: [
+            	// https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/COVID19CountyMonitoringOverview.aspx
+            	{axis: 'y', end: 1, class: 'minimal'},
+            	{axis: 'y', start: 1, end: 4, class: 'moderate'},
+            	{axis: 'y', start: 4, end: 7, class: 'substantial'},
+            	{axis: 'y', start: 7, class: 'widespread'}
+            	]
+        });
+
+        document.getElementById('regiondata').innerHTML = dlines.join("<br/>");
+	});
+}
+
+fetchData("region.csv");
+//fetchData("feed.csv");
+
+</script>
+
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>
+
+</body>
+</html>
