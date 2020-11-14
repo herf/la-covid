@@ -143,13 +143,15 @@ function displayData(data) {
 		axis: { 
 			x: {
         		type: 'timeseries',
+        		//label: "Date",
         		tick: {
         			fit: true,
             		format: '%Y-%m-%d'
         		}
-        	}/*, y: {
-        		max: 60
-        	}*/
+        	}, y: {
+        		label: "Cases per 100,000 (7-day average)"
+        		//max: 60
+        	}
         },
         regions: [
         	// https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/COVID19CountyMonitoringOverview.aspx
