@@ -87,6 +87,65 @@ var namemap = {
 	"E": "East LA"
 };
 
+var lastdata;
+
+function displayData(data) {
+
+	var dlines = [];
+
+	// save
+	lastdata = JSON.parse(JSON.stringify(data));
+
+	for (var c = 1; c < data.columns.length; c++) {
+		var ci = data.columns[c];
+
+		// early data were noisy so chop it:
+		ci.splice(1, 60);
+		process(ci, 7);
+
+		if (namemap[ci[0]])
+			ci[0] = namemap[ci[0]];
+	}
+
+	c3.generate({
+		bindto: '#chart',
+		data: data,
+		grid: {
+			x: { show: true},
+			y: { show: true}
+		},
+		legend: {
+    		position: 'right'
+		},
+		point: {
+ 		   show: false
+		},
+		zoom: {
+ 		   enabled: true
+		},
+		axis: { 
+			x: {
+        		type: 'timeseries',
+        		tick: {
+        			fit: true,
+            		format: '%Y-%m-%d'
+        		}
+        	}/*, y: {
+        		max: 60
+        	}*/
+        },
+        regions: [
+        	// https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/COVID19CountyMonitoringOverview.aspx
+        	{axis: 'y', end: 1, class: 'minimal'},
+        	{axis: 'y', start: 1, end: 4, class: 'moderate'},
+        	{axis: 'y', start: 4, end: 7, class: 'substantial'},
+        	{axis: 'y', start: 7, class: 'widespread'}
+        	]
+    });
+
+    document.getElementById('regiondata').innerHTML = dlines.join("<br/>");
+}
+
 function fetchData(feed, filter) {
 
 	d3.csv(feed).then(function(d) {
@@ -97,18 +156,11 @@ function fetchData(feed, filter) {
 		data.columns.push(['date']);
 		data.x = 'date';
 
-		//console.log(d.length, "rows");
-		//console.log(d);
-
 		// write date index:
 		var ldate;
 		var row = 0;
 		var col = {};
 		var colmax = 10;
-
-		var dlines = [];
-
-
 
 		for (var i = 0; i < d.length; i++) {
 			var li = d[i];
@@ -148,56 +200,7 @@ function fetchData(feed, filter) {
 			data.columns[ci][row] = +li.caserate;
 		}
 
-		var basedata = JSON.parse(JSON.stringify(data.columns));
-
-		for (var c = 1; c < data.columns.length; c++) {
-			var ci = data.columns[c];
-
-			// early data were noisy so chop it:
-			ci.splice(1, 60);
-			process(ci, 7);
-
-			if (namemap[ci[0]])
-				ci[0] = namemap[ci[0]];
-		}
-
-		c3.generate({
-			bindto: '#chart',
-			data: data,
-			grid: {
-				x: { show: true},
-				y: { show: true}
-			},
-			legend: {
-        		position: 'right'
-    		},
-    		point: {
-     		   show: false
-    		},
-			zoom: {
-     		   enabled: true
-    		},
-			axis: { 
-				x: {
-            		type: 'timeseries',
-            		tick: {
-            			fit: true,
-                		format: '%Y-%m-%d'
-            		}
-            	}/*, y: {
-            		max: 60
-            	}*/
-            },
-            regions: [
-            	// https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/COVID19CountyMonitoringOverview.aspx
-            	{axis: 'y', end: 1, class: 'minimal'},
-            	{axis: 'y', start: 1, end: 4, class: 'moderate'},
-            	{axis: 'y', start: 4, end: 7, class: 'substantial'},
-            	{axis: 'y', start: 7, class: 'widespread'}
-            	]
-        });
-
-        document.getElementById('regiondata').innerHTML = dlines.join("<br/>");
+		displayData(data);
 	});
 }
 
