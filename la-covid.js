@@ -267,6 +267,7 @@ function CSVAll(d, filename, recentname) {
 	}
 
 	rows = dedupeDiff(rows);
+	rows60 = dedupeDiff(rows60);
 	var header = "date,location,region,population,cases,casechange,caserate,deaths,deathrate\n";
 
 	fs.writeFileSync(filename, header + rows.join("\n"));
