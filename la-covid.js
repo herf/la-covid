@@ -205,9 +205,12 @@ function dedupeDiff(rows) {
 	return urows;
 }
 
-function CSVAll(d, filename) {
+function CSVAll(d, filename, recentname) {
 
 	var rows = [];
+	var rows60 = [];
+
+	var last60 = new Date(Date.now() - 60 * 86400 * 1000);
 
 	for (var i in d) {
 		var di = d[i];
@@ -254,7 +257,12 @@ function CSVAll(d, filename) {
 				console.log("Skipped", pdata.length, pdata);
 			}
 
-			if (row.length > 1) rows.push(row.join(","));
+			if (row.length > 1) {
+				rows.push(row.join(","));
+				if (d[i].date.valueOf() > last60.valueOf()) {
+					rows60.push(row.join(','));
+				}
+			}
 		}
 	}
 
@@ -262,6 +270,7 @@ function CSVAll(d, filename) {
 	var header = "date,location,region,population,cases,casechange,caserate,deaths,deathrate\n";
 
 	fs.writeFileSync(filename, header + rows.join("\n"));
+	fs.writeFileSync(recentname, header + rows60.join("\n"));
 }
 
 var alldata = [];
@@ -344,4 +353,4 @@ d = fs.readdirSync(wayback);
 	}
 }
 
-CSVAll(alldata, "la-covid-feed.csv");
+CSVAll(alldata, "la-covid-feed.csv", "la-covid-recent.csv");
