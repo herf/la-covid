@@ -42,7 +42,9 @@ body{font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Helv
 		<div class='col-sm-12 col-md-6'>
 			<form>
 			  	<div class="form-group">
-					<label for="locationfilt">Neighborhood filter:</label>
+			  		<h5>
+					<label for="locationfilt">Neighborhood filter</label>
+					</h5>
 					<input class="form-control" id="locationfilt" placeholder="Enter locations..." onchange="setfilter(this.value)" onkeyup="setfilter(this.value)">
 					<span class="float-right badge badge-warning collapse" id='search'>Searching...</span>
 					<!--<small class="form-text text-muted" id="preview">Showing all regions.</small>-->
@@ -50,10 +52,9 @@ body{font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Helv
 				</div>
 			</form>
 		</div>
-		<div class='col-sm-12 col-md-6'>
-			<h5>Example filter:</h5>
-			<button class="btn btn-outline-secondary btn-sm" onclick='smfilter();return 0;'>Locations around Santa Monica</button>
-			<button class="btn btn-sm btn-primary" onclick="clearfilter();return 0;">Clear (show everything)</button>
+		<div class='col-sm-12 col-md-6 mt-5'>
+			<button class="btn btn-sm btn-primary" onclick="clearfilter();return 0;">Clear <small>(show all)</small></button>
+			<button class="btn btn-info btn-sm" onclick='smfilter();return 0;'>Example filter <small>(near Santa Monica)</small></button>
 		</div>
 	</div>
 	<div class='row'>
