@@ -10,7 +10,7 @@
 <script src="c3/c3.min.js"></script>
 
 <style>
-body{font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif}
+body{font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif; background-color:#fbfbfb;}
 
 .c3-tooltip  { font-size: 0.7em;}
 .c3-region.widespread { fill:purple; }
@@ -33,26 +33,44 @@ body{font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Helv
 	<div class="row">
 		<div class="col-md-8 col-sm-12 offset-md-2">
 		<h1>COVID-19 Los Angeles</h1>
-		<h4>Case rates by region</h4>
-		<div id="chart" style='width:100%'></div>
+		<h4>Case rates by region (7-day cases per 100,000 population)</h4>
+		<div id="chart" style='width:100%' class='mt-4'></div>
 		<small class='text-muted'>Pinch or mousewheel to zoom</small>
-		<div id='regiondata'><h2>Loading...</h2></div>
-	<div class='row mt-5'>
-	<div class='col-sm-8'>
-	<h3>LA by region</h3>
-	Los Angeles County has 10 million residents (more than all but 9 states). We thought it would be useful to break it up into regions and show how case rate is moving through the county. Source data is updated daily.
+		<div id='regiondata'><h2>Loading...</h2>
+	</div>
+	<div class='row mt-4'>
+		<div class='col-sm-12 col-md-6'>
+			<form>
+			  	<div class="form-group">
+					<label for="locationfilt">Neighborhood filter:</label>
+					<input type="email" class="form-control" id="locationfilt" placeholder="Enter locations..." onchange="setfilter(this.value)" onkeyup="setfilter(this.value)">
+					<small class="form-text text-muted">For more than one location, use commas.</small>
+					<button class="mt-2 btn btn-info">Clear (show everything)</button>
+				</div>
+			</form>
 		</div>
-		<div class='card shadow-sm mb-4'>
-			<div class='card-header'><h3>California Tiers</h3>
-	<small class='text-muted'>
-	from <a target='cdph' href="https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/COVID19CountyMonitoringOverview.aspx">California Department of Public Health</a>
-	</small>
+		<div class='col-sm-12 col-md-6'>
+			<h5>Example neighborhood filters</h5>
+			<button class="btn btn-outline-secondary btn-sm">Locations around Santa Monica</button>
+			<button class="btn btn-outline-secondary btn-sm">Locations around Dodger Stadium</button>
+		</div>
+	</div>
+	<div class='row'>
+	<div class='col-sm-8 mt-4'>
+		<h3>LA by region</h3>
+		Los Angeles County has 10 million residents (more than all but 9 states). We thought it would be useful to break it up into regions and show how case rate is moving through the county. Source data is updated daily.
+			</div>
+			<div class='card shadow-sm mb-4 mt-4'>
+				<div class='card-header'><h3>California Tiers</h3>
+		<small class='text-muted'>
+		from <a target='cdph' href="https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/COVID19CountyMonitoringOverview.aspx">California Department of Public Health</a>
+		</small>
 	</div>
 	<div class='card-body'>
-	Tier 1 (Purple): Widespread<br/>
-	Tier 2 (Red): Substantial<br/>
-	Tier 3 (Orange): Moderate<br/>
-	Tier 4 (Yellow): Minimal<br/>
+		Tier 1 (Purple): Widespread<br/>
+		Tier 2 (Red): Substantial<br/>
+		Tier 3 (Orange): Moderate<br/>
+		Tier 4 (Yellow): Minimal<br/>
 	</div>
 	</div>
 	</div>
@@ -101,18 +119,24 @@ var namemap = {
 	"E": "East LA"
 };
 
-var lastdata;
+function getms() {
+	return new Date().valueOf() / 1000;
+}
 
-function displayData(data) {
+var chart;
+var lastcolumns = [];
+
+function displayData(data, chop) {
+
+var m0 = getms();
 
 	var dlines = [];
 
-	// save
-	lastdata = JSON.parse(JSON.stringify(data));
-
-	for (var c = 0; c < data.columns.length; c++) {
-		// early data were noisy so chop it:
-		data.columns[c].splice(1, 60);
+	if (chop) {
+		for (var c = 0; c < data.columns.length; c++) {
+			// early data were noisy so chop it:
+			data.columns[c].splice(1, chop);
+		}
 	}
 
 	for (var c = 1; c < data.columns.length; c++) {
@@ -124,111 +148,191 @@ function displayData(data) {
 			ci[0] = namemap[ci[0]];
 	}
 
-	c3.generate({
-		bindto: '#chart',
-		data: data,
-		grid: {
-			x: { show: true},
-			y: { show: true}
-		},
-		legend: {
-    		position: 'right'
-		},
-		point: {
- 		   show: false
-		},
-		zoom: {
- 		   enabled: true
-		},
-		axis: { 
-			x: {
-        		type: 'timeseries',
-        		//label: "Date",
-        		tick: {
-        			fit: true,
-            		format: '%Y-%m-%d'
-        		}
-        	}, y: {
-        		label: "Cases per 100,000 (7-day average)"
-        		//max: 60
-        	}
-        },
-        regions: [
-        	// https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/COVID19CountyMonitoringOverview.aspx
-        	{axis: 'y', end: 1, class: 'minimal'},
-        	{axis: 'y', start: 1, end: 4, class: 'moderate'},
-        	{axis: 'y', start: 4, end: 7, class: 'substantial'},
-        	{axis: 'y', start: 7, class: 'widespread'}
-        	]
-    });
+console.log(getms() - m0, "pregen")
+	var ncolumns = [];
+	for (var i = 1; i < data.columns.length; i++) {
+		ncolumns.push(data.columns[i][0])
+	}
+	
 
+	if (chart) {
+
+		// unload isn't reliable?
+		//console.log("Unload", lastcolumns);
+		chart.load({columns: data.columns, unload: true});
+
+		//lastcolumns = ncolumns;
+		return;
+	} else {
+	    lastcolumns = ncolumns;
+
+		chart = c3.generate({
+			bindto: '#chart',
+			data: data,
+			grid: {
+				x: { show: true},
+				y: { show: true}
+			},
+			legend: {
+	    		position: 'right'
+			},
+			point: {
+	 		   show: false
+			},
+			zoom: {
+	 		   enabled: true
+			},
+			axis: { 
+				x: {
+	        		type: 'timeseries',
+	        		//label: "Date",
+	        		tick: {
+	        			fit: true,
+	            		format: '%Y-%m-%d'
+	        		}
+	        	}, y: {
+	        		label: "Cases per 100,000 (7-day average)"
+	        		//max: 60
+	        	}
+	        },
+	        regions: [
+	        	// https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/COVID19CountyMonitoringOverview.aspx
+	        	{axis: 'y', end: 1, class: 'minimal'},
+	        	{axis: 'y', start: 1, end: 4, class: 'moderate'},
+	        	{axis: 'y', start: 4, end: 7, class: 'substantial'},
+	        	{axis: 'y', start: 7, class: 'widespread'}
+	        	]
+	    });
+	}
+
+	console.log(getms() - m0, "postgen");
     document.getElementById('regiondata').innerHTML = dlines.join("<br/>");
 }
 
-function fetchData(feed, filter) {
+var cachefeed = {};
 
-	d3.csv(feed).then(function(d) {
+function displayResult(feed, filt) {
 
-		// transpose and sort:
-		var data = {};
-		data.columns = [];
-		data.columns.push(['date']);
-		data.x = 'date';
+	var d = cachefeed[feed];
+	if (!d) return;
 
-		// write date index:
-		var ldate;
-		var row = 0;
-		var col = {};
-		var colmax = 10;
+	var regionmode = (feed == "region.csv");
 
-		for (var i = 0; i < d.length; i++) {
-			var li = d[i];
-			if (li.date != ldate) {
-				data.columns[0].push(li.date);
-				row = data.columns[0].length - 1;
-				ldate = li.date;
+	// transpose and sort:
+	var data = {};
+	data.columns = [];
+	data.columns.push(['date']);
+	data.x = 'date';
+
+	// write date index:
+	var ldate;
+	var row = 0;
+
+	// a cache of placenames -> columns
+	var col = {};
+
+	// don't explode our chart, this many seris, max:
+	var colmax = 10;
+
+	for (var i = 0; i < d.length; i++) {
+		var li = d[i];
+
+		var fmatch = filt.length ? 0 : 1;
+		for (var f = 0; f < filt.length; f++) {
+			if (li.location.indexOf(filt[f]) != -1) {
+				fmatch = 1;
+				break;
 			}
+		}
+		if (!fmatch) continue;
 
-			var ci;
-			//console.log(li);
-
-			if (feed == "feed.csv") {
-				if (!col[li.location]) {
-					if (colmax == 0) continue;
-					colmax --;
-					data.columns.push([li.location]);
-					col[li.location] = data.columns.length - 1;
-				}
-
-				ci = col[li.location];
-
-			} else {
-				// by region in region.csv
-				if (!col[li.region]) {
-					data.columns.push([li.region]);
-					col[li.region] = data.columns.length - 1;
-				}
-
-				ci = col[li.region];
-			}
-
-			// ensure 0 fill not null
-			while (data.columns[ci].length < row) {
-				data.columns[ci].push(0);
-			}
-			data.columns[ci][row] = +li.caserate;
+		if (li.date != ldate) {
+			data.columns[0].push(li.date);
+			row = data.columns[0].length - 1;
+			ldate = li.date;
 		}
 
-		displayData(data);
+		var ci;
+		
+		// handle individual place names:
+		if (!regionmode) {
+			// by location
+			if (!col[li.location]) {
+				if (colmax == 0) continue;
+				colmax --;
+				data.columns.push([li.location]);
+				col[li.location] = data.columns.length - 1;
+			}
+
+			ci = col[li.location];
+
+		} else {
+			// by region in region.csv
+			if (!col[li.region]) {
+				data.columns.push([li.region]);
+				col[li.region] = data.columns.length - 1;
+			}
+
+			ci = col[li.region];
+		}
+
+		// ensure 0 fill not null
+		while (data.columns[ci].length <= row) {
+			data.columns[ci].push(0);
+		}
+		data.columns[ci][row] = +li.caserate;
+	}
+
+	displayData(data, regionmode ? 60 : 0);
+}
+
+var nodupe;
+
+function fetchData(feed, filter) {
+
+	var dupe = feed + ":" + filter;
+	if (nodupe == dupe) return;
+	nodupe = dupe;
+
+	console.log(dupe);
+
+	let filt = [];
+	if (filter) {
+		filt = filter.split(',');
+		for (var i = 0; i < filt.length; i++) {
+			filt[i] = filt[i].trim();
+		}
+	}
+
+	if (cachefeed[feed]) {
+		return displayResult(feed, filt);
+	}
+
+	d3.csv(feed).then(function(d) {
+		cachefeed[feed] = d;
+		return displayResult(feed, filt);	
 	});
 }
 
 fetchData("region.csv");
-//fetchData("feed.csv");
+
+// stuff from a textbox:
+//var filter = "City of Santa Monica, Palisades, Mar Vista,Brentwood,Malibu";
+//fetchData("recent.csv", filter);
+//fetchData("feed.csv", filter);
+
+function setfilter(v) {
+	if (v.length < 3) {
+		fetchData("region.csv");
+	} else {
+		fetchData("recent.csv", v);
+	}
+}
 
 </script>
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>
+
 
 </body>
 </html>
