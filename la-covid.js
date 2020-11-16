@@ -156,7 +156,7 @@ function regionTable(rows) {
 	fs.writeFileSync('la-covid-region.csv', header + rows.join('\n'));
 }
 
-function dedupeDiff(rows) {
+function dedupeDiff(rows, skipregion) {
 
 	var urows = [];
 	var diffval = {};
@@ -164,7 +164,7 @@ function dedupeDiff(rows) {
 	rows.sort();
 
 	findPopulation(rows);
-	regionTable(rows);
+	if (!skipregion) regionTable(rows);
 	
 	var last;
 	for (var i = 0; i < rows.length; i++) {
@@ -267,7 +267,7 @@ function CSVAll(d, filename, recentname) {
 	}
 
 	rows = dedupeDiff(rows);
-	rows60 = dedupeDiff(rows60);
+	rows60 = dedupeDiff(rows60, true);	// skip region from this
 	var header = "date,location,region,population,cases,casechange,caserate,deaths,deathrate\n";
 
 	fs.writeFileSync(filename, header + rows.join("\n"));
