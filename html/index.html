@@ -373,7 +373,8 @@ window.onload = function () {
 	if (location.hash) {
 		console.log("Loading hash", location.hash);
 		if (location.hash.startsWith("#loc=")) {
-			setfiltervalue(location.hash.substr(5));
+			var unesc = decodeURIComponent(location.hash.substr(5));
+			setfiltervalue(unesc);
 		}
 	} else {
 		// loads regions
