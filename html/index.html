@@ -205,10 +205,10 @@ var m0 = getms();
 	        },
 	        regions: [
 	        	// https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/COVID19CountyMonitoringOverview.aspx
-	        	{axis: 'y', end: 1, class: 'minimal'},
-	        	{axis: 'y', start: 1, end: 4, class: 'moderate'},
-	        	{axis: 'y', start: 4, end: 7, class: 'substantial'},
-	        	{axis: 'y', start: 7, class: 'widespread'}
+	        	{axis: 'y', end: 1, class: 'minimal', opacity: 0.15},//, label: "Minimal"},
+	        	{axis: 'y', start: 1, end: 4, class: 'moderate', opacity: 0.15},//, label: "Moderate"},
+	        	{axis: 'y', start: 4, end: 7, class: 'substantial', opacity: 0.15},//, label: "Substantial"},
+	        	{axis: 'y', start: 7, class: 'widespread', opacity: 0.15}//, label: "Widespread"}
 	        	]
 	    });
 	}
