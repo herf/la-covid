@@ -60,6 +60,7 @@ body{font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Helv
 	<div class='col-sm-8 mt-4'>
 		<h3>LA by region</h3>
 		Los Angeles County has 10 million residents (more than all but 9 states). We thought it would be useful to break it up into regions and show how case rate is moving through the county. Source data is updated daily.
+		Neighborhoods can be requested using their name, and there are several hundred of them on <a target='laal' href='http://www.laalmanac.com/health/he798.php'>this page</a>.
 			</div>
 			<div class='card shadow-sm mb-4 mt-4'>
 				<div class='card-header'><h3>California Tiers</h3>
@@ -132,13 +133,6 @@ var m0 = getms();
 
 	var dlines = [];
 
-	if (chop) {
-		for (var c = 0; c < data.columns.length; c++) {
-			// early data were noisy so chop it:
-			data.columns[c].splice(1, chop);
-		}
-	}
-
 	for (var c = 1; c < data.columns.length; c++) {
 		var ci = data.columns[c];
 
@@ -146,6 +140,23 @@ var m0 = getms();
 
 		if (namemap[ci[0]])
 			ci[0] = namemap[ci[0]];
+	}
+
+	if (chop) {
+		for (var c = 0; c < data.columns.length; c++) {
+			// early data were noisy so chop it:
+			data.columns[c].splice(1, chop);
+
+			// eliminate all-zero columns:
+			var nz = 0;
+			for (var i = 0; i < data.columns[c].length; i++) {
+				if (data.columns[c][i] > 0) { nz = 1; break; }
+			}
+			if (!nz && c) {
+				data.columns.splice(c, 1);
+				c --;
+			}
+		}
 	}
 
 
@@ -228,8 +239,8 @@ function displayResult(feed, filt) {
 	// a cache of placenames -> columns
 	var col = {};
 
-	// don't explode our chart, this many seris, max:
-	var colmax = 10;
+	// don't explode our chart, this many series, max:
+	var colmax = 15;
 
 	for (var i = 0; i < d.length; i++) {
 		var li = d[i];
@@ -284,7 +295,11 @@ function displayResult(feed, filt) {
 		data.columns[ci][row] = +li.caserate;
 	}
 
-	displayData(data, regionmode ? 30 : 0);
+	var chop = 0;
+
+	// there are some "old names" from march feed that are convenient to chop out:
+	if (data.columns[0].length > 70) chop = 45;
+	displayData(data, chop);
 }
 
 var nodupe;
