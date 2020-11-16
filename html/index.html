@@ -43,16 +43,17 @@ body{font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Helv
 			<form>
 			  	<div class="form-group">
 					<label for="locationfilt">Neighborhood filter:</label>
-					<input type="email" class="form-control" id="locationfilt" placeholder="Enter locations..." onchange="setfilter(this.value)" onkeyup="setfilter(this.value)">
+					<input class="form-control" id="locationfilt" placeholder="Enter locations..." onchange="setfilter(this.value)" onkeyup="setfilter(this.value)">
+					<span class="float-right badge badge-warning collapse" id='search'>Searching...</span>
+					<!--<small class="form-text text-muted" id="preview">Showing all regions.</small>-->
 					<small class="form-text text-muted">For more than one location, use commas.</small>
-					<button class="mt-2 btn btn-info">Clear (show everything)</button>
 				</div>
 			</form>
 		</div>
 		<div class='col-sm-12 col-md-6'>
-			<h5>Example neighborhood filters</h5>
-			<button class="btn btn-outline-secondary btn-sm">Locations around Santa Monica</button>
-			<button class="btn btn-outline-secondary btn-sm">Locations around Dodger Stadium</button>
+			<h5>Example filter:</h5>
+			<button class="btn btn-outline-secondary btn-sm" onclick='smfilter();return 0;'>Locations around Santa Monica</button>
+			<button class="btn btn-sm btn-primary" onclick="clearfilter();return 0;">Clear (show everything)</button>
 		</div>
 	</div>
 	<div class='row'>
@@ -124,7 +125,6 @@ function getms() {
 }
 
 var chart;
-var lastcolumns = [];
 
 function displayData(data, chop) {
 
@@ -148,23 +148,20 @@ var m0 = getms();
 			ci[0] = namemap[ci[0]];
 	}
 
-console.log(getms() - m0, "pregen")
-	var ncolumns = [];
-	for (var i = 1; i < data.columns.length; i++) {
-		ncolumns.push(data.columns[i][0])
-	}
-	
 
-	if (chart) {
-
-		// unload isn't reliable?
+	if (0 && chart) {
 		//console.log("Unload", lastcolumns);
-		chart.load({columns: data.columns, unload: true});
+		//chart.unload(true);
+		console.log(data.columns.length + "matches");
+		let d_ = data.columns;
 
-		//lastcolumns = ncolumns;
+		chart.unload({done:function() {
+			chart.load({ columns: d_ });
+		}});
+
+		//chart.load({unload: true, columns: data.columns});
 		return;
 	} else {
-	    lastcolumns = ncolumns;
 
 		chart = c3.generate({
 			bindto: '#chart',
@@ -239,7 +236,11 @@ function displayResult(feed, filt) {
 
 		var fmatch = filt.length ? 0 : 1;
 		for (var f = 0; f < filt.length; f++) {
-			if (li.location.indexOf(filt[f]) != -1) {
+			var lilow = li.location.toLowerCase();
+			var flow = filt[f].toLowerCase();
+			if (flow.length < 3) continue;
+
+			if (lilow.indexOf(flow) != -1) {
 				fmatch = 1;
 				break;
 			}
@@ -283,18 +284,18 @@ function displayResult(feed, filt) {
 		data.columns[ci][row] = +li.caserate;
 	}
 
-	displayData(data, regionmode ? 60 : 0);
+	displayData(data, regionmode ? 30 : 0);
 }
 
 var nodupe;
 
-function fetchData(feed, filter) {
+function fetchData(feed, filter, skipdupe) {
 
 	var dupe = feed + ":" + filter;
-	if (nodupe == dupe) return;
+	if (!skipdupe && nodupe == dupe) return;
 	nodupe = dupe;
 
-	console.log(dupe);
+	console.log("Loading... " + dupe);
 
 	let filt = [];
 	if (filter) {
@@ -305,29 +306,83 @@ function fetchData(feed, filter) {
 	}
 
 	if (cachefeed[feed]) {
+		if (cachefeed[feed] == "queued") {
+			console.log("Queued");
+			return;
+		}
+
 		return displayResult(feed, filt);
 	}
 
+	cachefeed[feed] = "queued";
+
 	d3.csv(feed).then(function(d) {
-		cachefeed[feed] = d;
-		return displayResult(feed, filt);	
+		cachefeed[feed] = d ? d : "no";
+
+		var newerfilter = document.getElementById('locationfilt').value;
+		console.log("APPLYING", newerfilter);
+		fetchData(feed, newerfilter, 1);
+		//return displayResult(feed, filt);	
 	});
 }
-
-fetchData("region.csv");
 
 // stuff from a textbox:
 //var filter = "City of Santa Monica, Palisades, Mar Vista,Brentwood,Malibu";
 //fetchData("recent.csv", filter);
 //fetchData("feed.csv", filter);
 
+// for non-interactive:
+function setfiltervalue(v) {
+	document.getElementById('locationfilt').value = v;
+	applyfilter();
+}
+
+function clearfilter() {
+	setfiltervalue(null);
+}
+
+function smfilter() {
+	setfiltervalue("City of Santa Monica,Brentwood,Pacific Palisades,Venice");
+}
+
+// slow down because c3.js is too slow:
 function setfilter(v) {
+	$('#search').show()
+	setTimeout(applyfilter, 1500);
+}
+
+function applyfilter() {
+	var	v = document.getElementById('locationfilt').value;
+	$('#search').hide();
+
+	if (v.length > 2) {
+		window.location.hash = "loc=" + v;
+	} else {
+		window.location.hash = "";
+	}
+
 	if (v.length < 3) {
 		fetchData("region.csv");
 	} else {
-		fetchData("recent.csv", v);
+		//fetchData("recent.csv", v);
+		fetchData("feed.csv", v);
 	}
 }
+
+window.onload = function () {
+	if (location.hash) {
+		console.log("Loading hash", location.hash);
+		if (location.hash.startsWith("#loc=")) {
+			setfiltervalue(location.hash.substr(5));
+		}
+	} else {
+		// loads regions
+		clearfilter();
+	}
+};
+
+
+document.getElementById('locationfilt').focus();
 
 </script>
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
