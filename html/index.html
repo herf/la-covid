@@ -47,7 +47,6 @@ body{font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Helv
 					</h5>
 					<input class="form-control" id="locationfilt" placeholder="Enter locations..." onchange="setfilter(this.value)" onkeyup="setfilter(this.value)">
 					<span class="float-right badge badge-warning collapse" id='search'>Searching...</span>
-					<!--<small class="form-text text-muted" id="preview">Showing all regions.</small>-->
 					<small class="form-text text-muted">For more than one location, use commas.</small>
 				</div>
 			</form>
@@ -141,6 +140,33 @@ var m0 = getms();
 
 		if (namemap[ci[0]])
 			ci[0] = namemap[ci[0]];
+
+		var doublewidth = 7;
+
+		// write down doubling rate -> dlines
+		if (ci.length > doublewidth) {
+			var rnow = ci[ci.length - 1];
+			var rw = ci[ci.length - doublewidth - 1];
+
+			console.log(ci[0], rnow, rw, rnow / rw);
+
+			if (rw) {
+				// report doubling rate when going up:
+				var ratio = rnow / rw;
+				var pct = ci[0] + ": " + Math.round((ratio - 1) * 100) + "% growth";
+				if (ratio > 1) {
+					var doubling = doublewidth / (Math.log(ratio) / Math.log(2));
+					var dr = Math.round(doubling) + " days";
+					pct += " (doubling in " + dr + ")";
+				}
+				dlines.push(pct);
+			}
+		}
+	}
+
+	// header if we have any growth:
+	if (dlines.length) {
+		dlines.splice(0, 0, "<br/><b>Weekly growth (Doubling rate in days)</b>");
 	}
 
 	if (chop) {
