@@ -1,684 +1,344 @@
 date,location,region,population,cases,casechange,caserate,deaths,deathrate
-2020-09-21,City of Agoura Hills,SFV,20876,158,158,757,1,5
-2020-09-21,City of Alhambra,SGV,86702,1225,1225,1413,27,31
-2020-09-21,City of Arcadia,SGV,57778,479,479,829,33,57
-2020-09-21,City of Artesia,E,16794,361,361,2149,8,48
-2020-09-21,City of Avalon,SB,3876,6,6,155,0,0
-2020-09-21,City of Azusa,SGV,50037,1498,1498,2994,22,44
-2020-09-21,City of Baldwin Park,SGV,76768,2892,2892,3767,83,108
-2020-09-21,City of Bell Gardens,E,43072,1896,1896,4402,21,49
-2020-09-21,City of Bell,E,36330,1563,1563,4302,41,113
-2020-09-21,City of Bellflower,E,77738,2345,2345,3017,61,78
-2020-09-21,City of Beverly Hills,W,34524,667,667,1932,12,35
-2020-09-21,City of Bradbury,SGV,1069,14,14,1310,0,0
-2020-09-21,City of Burbank,SFV,107195,1489,1489,1389,57,53
-2020-09-21,City of Calabasas,SFV,24326,261,261,1073,12,49
-2020-09-21,City of Carson,SB,93858,1814,1814,1933,60,64
-2020-09-21,City of Cerritos,E,50067,556,556,1111,16,32
-2020-09-21,City of Claremont,SGV,36480,379,379,1039,10,27
-2020-09-21,City of Commerce,E,13069,572,572,4377,11,84
-2020-09-21,City of Compton,S,99901,3975,3975,3979,69,69
-2020-09-21,City of Covina,SGV,49033,1357,1357,2768,38,78
-2020-09-21,City of Cudahy,E,24347,1070,1070,4395,15,62
-2020-09-21,City of Culver City,W,39864,383,383,961,29,73
-2020-09-21,City of Diamond Bar,SGV,57523,541,541,941,9,16
-2020-09-21,City of Downey,E,114259,4026,4026,3523,85,74
-2020-09-21,City of Duarte,SGV,22019,542,542,2462,29,132
-2020-09-21,City of El Monte,SGV,117281,4277,4277,3647,157,134
-2020-09-21,City of El Segundo,SB,16779,130,130,774,1,6
-2020-09-21,City of Gardena,E,61310,1225,1225,1998,48,78
-2020-09-21,City of Glendale,SFV,206491,3567,3567,1727,174,84
-2020-09-21,City of Glendora,SGV,52766,1235,1235,2341,70,133
-2020-09-21,City of Hawaiian Gardens,E,14677,529,529,3605,2,14
-2020-09-21,City of Hawthorne,SB,88786,1918,1918,2160,43,48
-2020-09-21,City of Hermosa Beach,SB,19674,206,206,1047,4,20
-2020-09-21,City of Hidden Hills,SFV,1890,7,7,370,0,0
-2020-09-21,City of Huntington Park,E,59481,2853,2853,4796,54,91
-2020-09-21,City of Industry,SGV,437,36,36,8238,2,458
-2020-09-21,City of Inglewood,SB,113565,2808,2808,2472,89,78
-2020-09-21,City of Irwindale,SGV,1459,69,69,4729,2,137
-2020-09-21,City of La Canada Flintridge,SGV,20687,178,178,860,7,34
-2020-09-21,City of La Habra Heights,E,5453,42,42,770,0,0
-2020-09-21,City of La Mirada,E,49598,830,830,1673,26,52
-2020-09-21,City of La Puente,SGV,40701,1467,1467,3605,18,44
-2020-09-21,City of La Verne,SGV,33286,458,458,1376,11,33
-2020-09-21,City of Lakewood,E,80357,1257,1257,1564,14,17
-2020-09-21,City of Lancaster,AV,161566,3277,3277,2028,50,31
-2020-09-21,City of Lawndale,SB,33617,624,624,1856,10,30
-2020-09-21,City of Lomita,SB,20728,239,239,1153,9,43
-2020-09-21,City of Lynwood,S,72048,3215,3215,4462,97,135
-2020-09-21,City of Malibu,W,12963,101,101,779,3,23
-2020-09-21,City of Manhattan Beach,SB,35997,354,354,983,5,14
-2020-09-21,City of Maywood,E,28048,1419,1419,5059,33,118
-2020-09-21,City of Monrovia,SGV,38804,738,738,1902,38,98
-2020-09-21,City of Montebello,E,64374,2269,2269,3525,48,75
-2020-09-21,City of Monterey Park,SGV,62255,945,945,1518,47,75
-2020-09-21,City of Norwalk,E,107628,3191,3191,2965,75,70
-2020-09-21,City of Palmdale,AV,158978,4003,4003,2518,69,43
-2020-09-21,City of Palos Verdes Estates,SB,13528,95,95,703,2,15
-2020-09-21,City of Paramount,S,56020,2348,2348,4191,28,50
-2020-09-21,City of Pico Rivera,E,64289,2389,2389,3716,73,114
-2020-09-21,City of Pomona,SGV,155932,5356,5356,3435,123,79
-2020-09-21,City of Rancho Palos Verdes,SB,42730,293,293,685,13,30
-2020-09-21,City of Redondo Beach,SB,68668,546,546,795,11,16
-2020-09-21,City of Rolling Hills Estates,SB,8112,41,41,505,2,25
-2020-09-21,City of Rolling Hills,SB,1939,11,11,567,0,0
-2020-09-21,City of Rosemead,SGV,55344,818,818,1478,28,51
-2020-09-21,City of San Dimas,SGV,34514,517,517,1498,14,41
-2020-09-21,City of San Fernando,SFV,24610,898,898,3649,18,73
-2020-09-21,City of San Gabriel,SGV,40954,626,626,1529,58,142
-2020-09-21,City of San Marino,SGV,13275,87,87,655,2,15
-2020-09-21,City of Santa Clarita,SFV,220447,3341,3341,1516,47,21
-2020-09-21,City of Santa Fe Springs,E,18365,555,555,3022,4,22
-2020-09-21,City of Santa Monica,W,92465,853,853,923,41,44
-2020-09-21,City of Sierra Madre,SGV,10992,73,73,664,3,27
-2020-09-21,City of Signal Hill,E,11795,269,269,2280,3,25
-2020-09-21,City of South El Monte,SGV,20886,785,785,3759,15,72
-2020-09-21,City of South Gate,E,98149,4353,4353,4435,66,67
-2020-09-21,City of South Pasadena,SGV,26047,272,272,1044,26,100
-2020-09-21,City of Temple City,SGV,36451,516,516,1415,40,110
-2020-09-21,City of Torrance,SB,149303,1402,1402,939,68,46
-2020-09-21,City of Vernon,E,209,12,12,5742,0,0
-2020-09-21,City of Walnut,SGV,30525,262,262,858,4,13
-2020-09-21,City of West Covina,SGV,108221,2806,2806,2593,60,55
-2020-09-21,City of West Hollywood,W,36955,549,549,1486,5,14
-2020-09-21,City of Westlake Village,SFV,8362,32,32,383,0,0
-2020-09-21,City of Whittier,E,87436,2207,2207,2524,34,39
-2020-09-21,Los Angeles - Adams-Normandie,S,8202,262,262,3194,4,49
-2020-09-21,Los Angeles - Alsace,W,12446,364,364,2925,3,24
-2020-09-21,Los Angeles - Angeles National Forest,AV,40,2,2,5000,0,0
-2020-09-21,Los Angeles - Angelino Heights,MLA,2502,75,75,2998,1,40
-2020-09-21,Los Angeles - Arleta,SFV,34370,1421,1421,4134,25,73
-2020-09-21,Los Angeles - Atwater Village,MLA,14666,235,235,1602,7,48
-2020-09-21,Los Angeles - Baldwin Hills,S,31126,609,609,1957,26,84
-2020-09-21,Los Angeles - Bel Air,W,8430,80,80,949,0,0
-2020-09-21,Los Angeles - Beverly Crest,W,12526,118,118,942,2,16
-2020-09-21,Los Angeles - Beverlywood,W,13174,152,152,1154,0,0
-2020-09-21,Los Angeles - Boyle Heights,MLA,86881,4198,4198,4832,67,77
-2020-09-21,Los Angeles - Brentwood,W,30949,288,288,930,3,10
-2020-09-21,Los Angeles - Brookside,MLA,581,3,3,516,0,0
-2020-09-21,Los Angeles - Cadillac-Corning,W,7122,128,128,1798,1,14
-2020-09-21,Los Angeles - Canoga Park,SFV,65283,1841,1841,2820,56,86
-2020-09-21,Los Angeles - Carthay,MLA,14362,208,208,1448,15,104
-2020-09-21,Los Angeles - Central,MLA,38990,2134,2134,5473,40,103
-2020-09-21,Los Angeles - Century City,W,12792,114,114,891,0,0
-2020-09-21,Los Angeles - Century Palms/Cove,S,33766,1473,1473,4362,22,65
-2020-09-21,Los Angeles - Chatsworth,SFV,37056,660,660,1781,35,94
-2020-09-21,Los Angeles - Cheviot Hills,W,9168,69,69,752,2,22
-2020-09-21,Los Angeles - Chinatown,MLA,8020,115,115,1434,3,37
-2020-09-21,Los Angeles - Cloverdale/Cochran,MLA,14551,291,291,2000,5,34
-2020-09-21,Los Angeles - Country Club Park,MLA,15152,342,342,2257,24,158
-2020-09-21,Los Angeles - Crenshaw District,S,13828,296,296,2140,3,22
-2020-09-21,Los Angeles - Crestview,W,11369,189,189,1663,20,176
-2020-09-21,Los Angeles - Del Rey,W,29929,347,347,1159,10,33
-2020-09-21,Los Angeles - Downtown,MLA,27510,792,792,2879,15,55
-2020-09-21,Los Angeles - Eagle Rock,MLA,39590,640,640,1617,24,61
-2020-09-21,Los Angeles - East Hollywood,MLA,29285,610,610,2083,43,147
-2020-09-21,Los Angeles - Echo Park,MLA,14258,246,246,1726,4,28
-2020-09-21,Los Angeles - El Sereno,MLA,41812,1205,1205,2882,32,77
-2020-09-21,Los Angeles - Elysian Park,MLA,5713,95,95,1663,0,0
-2020-09-21,Los Angeles - Elysian Valley,MLA,10171,254,254,2497,3,29
-2020-09-21,Los Angeles - Encino,SFV,45182,574,574,1271,18,40
-2020-09-21,Los Angeles - Exposition Park,S,44914,1297,1297,2888,23,51
-2020-09-21,Los Angeles - Exposition,S,3326,79,79,2375,2,60
-2020-09-21,Los Angeles - Faircrest Heights,MLA,3599,32,32,889,2,56
-2020-09-21,Los Angeles - Figueroa Park Square,S,8722,314,314,3601,4,46
-2020-09-21,Los Angeles - Florence-Firestone,S,47442,2263,2263,4770,27,57
-2020-09-21,Los Angeles - Glassell Park,MLA,31607,680,680,2152,13,41
-2020-09-21,Los Angeles - Gramercy Place,S,10765,240,240,2230,4,37
-2020-09-21,Los Angeles - Granada Hills,SFV,58188,1164,1164,2000,64,110
-2020-09-21,Los Angeles - Green Meadows,S,21506,935,935,4348,13,60
-2020-09-21,Los Angeles - Hancock Park,MLA,17037,223,223,1309,3,18
-2020-09-21,Los Angeles - Harbor City,SB,29075,487,487,1675,11,38
-2020-09-21,Los Angeles - Harbor Gateway,SB,43603,970,970,2225,13,30
-2020-09-21,Los Angeles - Harbor Pines,SB,2410,20,20,830,0,0
-2020-09-21,Los Angeles - Harvard Heights,MLA,18034,551,551,3055,24,133
-2020-09-21,Los Angeles - Harvard Park,S,37938,1595,1595,4205,23,61
-2020-09-21,Los Angeles - Highland Park,MLA,48395,1077,1077,2226,19,39
-2020-09-21,Los Angeles - Historic Filipinotown,MLA,13869,428,428,3086,15,108
-2020-09-21,Los Angeles - Hollywood Hills,MLA,29439,283,283,961,7,24
-2020-09-21,Los Angeles - Hollywood,MLA,68248,1172,1172,1717,14,21
-2020-09-21,Los Angeles - Hyde Park,S,28538,785,785,2750,14,49
-2020-09-21,Los Angeles - Jefferson Park,S,8072,253,253,3134,0,0
-2020-09-21,Los Angeles - Koreatown,MLA,51687,1140,1140,2205,32,62
-2020-09-21,Los Angeles - Lafayette Square,MLA,4559,81,81,1777,3,66
-2020-09-21,Los Angeles - Lake Balboa,SFV,42208,995,995,2357,19,45
-2020-09-21,Los Angeles - Lakeview Terrace,SFV,13132,536,536,4081,23,175
-2020-09-21,Los Angeles - Leimert Park,S,15237,312,312,2048,7,46
-2020-09-21,Los Angeles - Lincoln Heights,MLA,32600,1054,1054,3233,47,144
-2020-09-21,Los Angeles - Little Armenia,MLA,8025,390,390,4860,51,636
-2020-09-21,Los Angeles - Little Bangladesh,MLA,28348,479,479,1690,5,18
-2020-09-21,Los Angeles - Little Tokyo,MLA,3133,86,86,2745,2,64
-2020-09-21,Los Angeles - Longwood,MLA,4304,112,112,2602,0,0
-2020-09-21,Los Angeles - Los Feliz,MLA,21605,206,206,953,2,9
-2020-09-21,Los Angeles - Manchester Square,SB,8536,191,191,2238,4,47
-2020-09-21,Los Angeles - Mandeville Canyon,W,3125,26,26,832,0,0
-2020-09-21,Los Angeles - Mar Vista,W,42468,311,311,732,6,14
-2020-09-21,Los Angeles - Marina Peninsula,W,4359,35,35,803,0,0
-2020-09-21,Los Angeles - Melrose,MLA,77699,1872,1872,2409,70,90
-2020-09-21,Los Angeles - Mid-city,MLA,15028,281,281,1870,24,160
-2020-09-21,Los Angeles - Miracle Mile,MLA,17985,169,169,940,6,33
-2020-09-21,Los Angeles - Mission Hills,SFV,24124,754,754,3126,37,153
-2020-09-21,Los Angeles - Mt. Washington,MLA,24144,544,544,2253,16,66
-2020-09-21,Los Angeles - North Hills,SFV,61575,1788,1788,2904,44,71
-2020-09-21,Los Angeles - North Hollywood,SFV,151416,3757,3757,2481,68,45
-2020-09-21,Los Angeles - Northridge,SFV,69795,1380,1380,1977,43,62
-2020-09-21,Los Angeles - Pacific Palisades,W,21295,124,124,582,4,19
-2020-09-21,Los Angeles - Pacoima,SFV,76978,3389,3389,4402,49,64
-2020-09-21,Los Angeles - Palisades Highlands,W,3846,28,28,728,0,0
-2020-09-21,Los Angeles - Palms,W,43887,534,534,1217,30,68
-2020-09-21,Los Angeles - Panorama City,SFV,75247,2842,2842,3777,89,118
-2020-09-21,Los Angeles - Park La Brea,MLA,13575,104,104,766,1,7
-2020-09-21,Los Angeles - Pico-Union,MLA,41842,1754,1754,4192,93,222
-2020-09-21,Los Angeles - Playa Del Rey,W,3196,27,27,845,0,0
-2020-09-21,Los Angeles - Playa Vista,W,10945,137,137,1251,0,0
-2020-09-21,Los Angeles - Porter Ranch,SFV,35590,358,358,1006,6,17
-2020-09-21,Los Angeles - Rancho Park,W,6560,89,89,1357,0,0
-2020-09-21,Los Angeles - Regent Square,W,2780,30,30,1079,0,0
-2020-09-21,Los Angeles - Reseda Ranch,SFV,4636,111,111,2394,0,0
-2020-09-21,Los Angeles - Reseda,SFV,76624,2106,2106,2749,79,103
-2020-09-21,Los Angeles - Reynier Village,W,4228,39,39,922,0,0
-2020-09-21,Los Angeles - San Pedro,SB,78027,1927,1927,2469,28,36
-2020-09-21,Los Angeles - Shadow Hills,SFV,4442,61,61,1373,0,0
-2020-09-21,Los Angeles - Sherman Oaks,SFV,87240,1021,1021,1170,28,32
-2020-09-21,Los Angeles - Silverlake,MLA,44089,613,613,1391,19,43
-2020-09-21,Los Angeles - South Carthay,MLA,10595,116,116,1095,2,19
-2020-09-21,Los Angeles - South Park,S,37959,2011,2011,5298,28,74
-2020-09-21,Los Angeles - St Elmo Village,MLA,4584,140,140,3054,8,175
-2020-09-21,Los Angeles - Studio City,SFV,22444,240,240,1070,9,40
-2020-09-21,Los Angeles - Sun Valley,SFV,52481,1607,1607,3062,29,55
-2020-09-21,Los Angeles - Sunland,SFV,20411,434,434,2127,29,142
-2020-09-21,Los Angeles - Sycamore Square,SFV,647,7,7,1082,0,0
-2020-09-21,Los Angeles - Sylmar,SFV,82402,3195,3195,3878,83,101
-2020-09-21,Los Angeles - Tarzana,SFV,30880,634,634,2053,37,120
-2020-09-21,Los Angeles - Temple-Beaudry,MLA,39481,1216,1216,3080,27,68
-2020-09-21,Los Angeles - Thai Town,MLA,9810,157,157,1601,1,10
-2020-09-21,Los Angeles - Toluca Lake,SFV,8704,102,102,1172,0,0
-2020-09-21,Los Angeles - Toluca Terrace,SFV,1306,23,23,1761,1,77
-2020-09-21,Los Angeles - Toluca Woods,SFV,1858,18,18,969,0,0
-2020-09-21,Los Angeles - Tujunga,SFV,27811,500,500,1798,14,50
-2020-09-21,Los Angeles - University Hills,SGV,3429,52,52,1516,1,29
-2020-09-21,Los Angeles - University Park,S,27454,1088,1088,3963,19,69
-2020-09-21,Los Angeles - Valley Glen,SFV,30015,619,619,2062,21,70
-2020-09-21,Los Angeles - Valley Village,SFV,24721,504,504,2039,25,101
-2020-09-21,Los Angeles - Van Nuys,SFV,93196,2902,2902,3114,86,92
-2020-09-21,Los Angeles - Venice,W,33895,288,288,850,3,9
-2020-09-21,Los Angeles - Vermont Knolls,S,17200,713,713,4145,16,93
-2020-09-21,Los Angeles - Vermont Square,S,7657,334,334,4362,3,39
-2020-09-21,Los Angeles - Vermont Vista,S,41189,1898,1898,4608,26,63
-2020-09-21,Los Angeles - Vernon Central,S,51998,2943,2943,5660,41,79
-2020-09-21,Los Angeles - Victoria Park,MLA,8399,208,208,2476,4,48
-2020-09-21,Los Angeles - View Heights,S,3693,45,45,1218,3,81
-2020-09-21,Los Angeles - Watts,S,42675,1914,1914,4485,29,68
-2020-09-21,Los Angeles - Wellington Square,MLA,4915,119,119,2421,0,0
-2020-09-21,Los Angeles - West Adams,MLA,27630,888,888,3214,41,148
-2020-09-21,Los Angeles - West Hills,SFV,40553,526,526,1297,29,72
-2020-09-21,Los Angeles - West Los Angeles,W,37629,492,492,1307,15,40
-2020-09-21,Los Angeles - West Vernon,S,53640,2312,2312,4310,50,93
-2020-09-21,Los Angeles - Westchester,W,51602,411,411,796,15,29
-2020-09-21,Los Angeles - Westlake,MLA,59359,2368,2368,3990,140,236
-2020-09-21,Los Angeles - Westwood,W,54102,366,366,676,6,11
-2020-09-21,Los Angeles - Wholesale District,MLA,36129,2360,2360,6532,26,72
-2020-09-21,Los Angeles - Wilmington,SB,56493,1745,1745,3089,19,34
-2020-09-21,Los Angeles - Wilshire Center,MLA,50173,1090,1090,2173,36,72
-2020-09-21,Los Angeles - Winnetka,SFV,51782,1228,1228,2371,18,35
-2020-09-21,Los Angeles - Woodland Hills,SFV,68049,870,870,1278,31,46
-2020-09-21,Unincorporated - Acton,AV,7974,68,68,853,2,25
-2020-09-21,Unincorporated - Agua Dulce,AV,4157,26,26,625,0,0
-2020-09-21,Unincorporated - Altadena,SGV,43616,684,684,1568,14,32
-2020-09-21,Unincorporated - Anaverde,AV,1508,16,16,1061,0,0
-2020-09-21,Unincorporated - Angeles National Forest,AV,1245,5,5,402,0,0
-2020-09-21,Unincorporated - Arcadia,SGV,7981,87,87,1090,3,38
-2020-09-21,Unincorporated - Athens Village,S,4897,235,235,4799,10,204
-2020-09-21,Unincorporated - Athens-Westmont,S,42438,1518,1518,3577,27,64
-2020-09-21,Unincorporated - Avocado Heights,SGV,6775,290,290,4280,3,44
-2020-09-21,Unincorporated - Azusa,SGV,15922,497,497,3121,3,19
-2020-09-21,Unincorporated - Bassett,SGV,14818,626,626,4225,9,61
-2020-09-21,Unincorporated - Bouquet Canyon,SFV,1073,6,6,559,1,93
-2020-09-21,Unincorporated - Bradbury,SGV,108,4,4,3704,1,926
-2020-09-21,Unincorporated - Canyon Country,SFV,7728,130,130,1682,0,0
-2020-09-21,Unincorporated - Castaic,SFV,27192,1937,1937,7124,4,15
-2020-09-21,Unincorporated - Cerritos,E,587,17,17,2896,0,0
-2020-09-21,Unincorporated - Charter Oak,SGV,0,0,0,0,0,0
-2020-09-21,Unincorporated - Claremont,SGV,702,22,22,3134,3,427
-2020-09-21,Unincorporated - Covina (Charter Oak),SGV,13146,305,305,2320,2,15
-2020-09-21,Unincorporated - Covina,SGV,16819,422,422,2509,7,42
-2020-09-21,Unincorporated - Del Aire,SB,4394,75,75,1707,2,46
-2020-09-21,Unincorporated - Del Rey,W,318,3,3,943,0,0
-2020-09-21,Unincorporated - Del Sur,AV,2415,15,15,621,1,41
-2020-09-21,Unincorporated - Desert View Highlands,AV,2493,47,47,1885,1,40
-2020-09-21,Unincorporated - Duarte,SGV,4428,147,147,3320,4,90
-2020-09-21,Unincorporated - East Covina,SGV,329,4,4,1216,0,0
-2020-09-21,Unincorporated - East La Mirada,E,5292,99,99,1871,1,19
-2020-09-21,Unincorporated - East Lancaster,AV,114,0,0,0,0,0
-2020-09-21,Unincorporated - East Los Angeles,E,125274,6161,6161,4918,102,81
-2020-09-21,Unincorporated - East Pasadena,SGV,6404,80,80,1249,1,16
-2020-09-21,Unincorporated - East Rancho Dominguez,S,15309,670,670,4377,14,91
-2020-09-21,Unincorporated - East Whittier,E,5307,86,86,1621,0,0
-2020-09-21,Unincorporated - El Camino Village,SB,8791,146,146,1661,3,34
-2020-09-21,Unincorporated - El Monte,SGV,145,6,6,4138,0,0
-2020-09-21,Unincorporated - Elizabeth Lake,AV,1661,7,7,421,0,0
-2020-09-21,Unincorporated - Florence-Firestone,S,64703,3380,3380,5224,49,76
-2020-09-21,Unincorporated - Franklin Canyon,MLA,0,0,0,0,0,0
-2020-09-21,Unincorporated - Glendora,SGV,660,12,12,1818,0,0
-2020-09-21,Unincorporated - Hacienda Heights,SGV,55931,1003,1003,1793,16,29
-2020-09-21,Unincorporated - Harbor Gateway,S,0,0,0,0,0,0
-2020-09-21,Unincorporated - Hawthorne,SB,2514,60,60,2387,0,0
-2020-09-21,Unincorporated - Hi Vista,AV,1098,7,7,638,0,0
-2020-09-21,Unincorporated - Kagel/Lopez Canyons,SFV,1412,37,37,2620,1,71
-2020-09-21,Unincorporated - La Crescenta-Montrose,SFV,19804,198,198,1000,2,10
-2020-09-21,Unincorporated - La Habra Heights,E,676,0,0,0,0,0
-2020-09-21,Unincorporated - La Rambla,SGV,2075,77,77,3711,12,578
-2020-09-21,Unincorporated - La Verne,SGV,2040,34,34,1667,0,0
-2020-09-21,Unincorporated - Ladera Heights,W,7070,95,95,1344,3,42
-2020-09-21,Unincorporated - Lake Hughes,AV,668,3,3,449,0,0
-2020-09-21,Unincorporated - Lake Los Angeles,AV,12994,222,222,1708,4,31
-2020-09-21,Unincorporated - Lake Manor,SFV,1643,24,24,1461,0,0
-2020-09-21,Unincorporated - Lakewood,E,0,0,0,0,0,0
-2020-09-21,Unincorporated - Lennox,SB,22543,697,697,3092,6,27
-2020-09-21,Unincorporated - Leona Valley,AV,1751,18,18,1028,0,0
-2020-09-21,Unincorporated - Littlerock,AV,4021,84,84,2089,0,0
-2020-09-21,Unincorporated - Littlerock/Juniper Hills,AV,1297,9,9,694,0,0
-2020-09-21,Unincorporated - Littlerock/Pearblossom,AV,3569,90,90,2522,0,0
-2020-09-21,Unincorporated - Llano,AV,877,3,3,342,0,0
-2020-09-21,Unincorporated - Marina del Rey,W,9409,68,68,723,1,11
-2020-09-21,Unincorporated - Miracle Mile,MLA,0,0,0,0,0,0
-2020-09-21,Unincorporated - Monrovia,SGV,3881,80,80,2061,0,0
-2020-09-21,Unincorporated - Newhall,SFV,220,7,7,3182,0,0
-2020-09-21,Unincorporated - North Lancaster,AV,1198,18,18,1503,0,0
-2020-09-21,Unincorporated - North Whittier,W,8360,205,205,2452,10,120
-2020-09-21,Unincorporated - Northeast San Gabriel,SGV,24032,330,330,1373,8,33
-2020-09-21,Unincorporated - Padua Hills,SGV,215,3,3,1395,0,0
-2020-09-21,Unincorporated - Palmdale,AV,842,21,21,2494,0,0
-2020-09-21,Unincorporated - Palos Verdes Peninsula,SB,621,3,3,483,0,0
-2020-09-21,Unincorporated - Pearblossom/Llano,AV,1957,24,24,1227,1,51
-2020-09-21,Unincorporated - Pellissier Village,SGV,619,26,26,4200,0,0
-2020-09-21,Unincorporated - Placerita Canyon,SGV,0,0,0,0,0,0
-2020-09-21,Unincorporated - Pomona,SGV,1939,16,16,826,1,52
-2020-09-21,Unincorporated - Quartz Hill,AV,12908,172,172,1333,11,85
-2020-09-21,Unincorporated - Rancho Dominguez,S,2661,72,72,2706,2,75
-2020-09-21,Unincorporated - Roosevelt,S,931,8,8,859,0,0
-2020-09-21,Unincorporated - Rosewood,S,1286,28,28,2177,0,0
-2020-09-21,Unincorporated - Rosewood/East Gardena,S,1193,28,28,2347,1,84
-2020-09-21,Unincorporated - Rosewood/West Rancho Dominguez,S,3361,106,106,3154,0,0
-2020-09-21,Unincorporated - Rowland Heights,SGV,51027,650,650,1274,13,25
-2020-09-21,Unincorporated - San Clemente Island,SB,0,0,0,0,0,0
-2020-09-21,Unincorporated - San Francisquito Canyon/Bouquet Canyon,SFV,857,0,0,0,0,0
-2020-09-21,Unincorporated - San Jose Hills,SGV,20220,705,705,3486,10,49
-2020-09-21,Unincorporated - San Pasqual,SGV,2034,10,10,491,0,0
-2020-09-21,Unincorporated - Sand Canyon,AV,308,6,6,1948,0,0
-2020-09-21,Unincorporated - Santa Catalina Island,SB,267,25,25,9363,0,0
-2020-09-21,Unincorporated - Santa Monica Mountains,W,18618,113,113,607,1,5
-2020-09-21,Unincorporated - Saugus,SFV,155,27,27,17419,0,0
-2020-09-21,Unincorporated - Saugus/Canyon Country,SFV,356,1,1,281,0,0
-2020-09-21,Unincorporated - South Antelope Valley,AV,455,6,6,1319,0,0
-2020-09-21,Unincorporated - South El Monte,SGV,1795,86,86,4791,0,0
-2020-09-21,Unincorporated - South San Gabriel,SGV,8849,176,176,1989,5,57
-2020-09-21,Unincorporated - South Whittier,SGV,59224,1733,1733,2926,31,52
-2020-09-21,Unincorporated - Southeast Antelope Valley,AV,781,13,13,1665,0,0
-2020-09-21,Unincorporated - Stevenson Ranch,SFV,20966,159,159,758,2,10
-2020-09-21,Unincorporated - Sun Village,AV,6036,160,160,2651,2,33
-2020-09-21,Unincorporated - Sunrise Village,SGV,1296,53,53,4090,0,0
-2020-09-21,Unincorporated - Twin Lakes/Oat Mountain,SFV,1658,12,12,724,1,60
-2020-09-21,Unincorporated - Val Verde,AV,3309,69,69,2085,1,30
-2020-09-21,Unincorporated - Valencia,SFV,3071,42,42,1367,1,33
-2020-09-21,Unincorporated - Valinda,SGV,23372,737,737,3153,7,30
-2020-09-21,Unincorporated - View Park/Windsor Hills,S,11633,142,142,1220,3,26
-2020-09-21,Unincorporated - Walnut Park,S,16143,697,697,4318,12,74
-2020-09-21,Unincorporated - West Antelope Valley,AV,1512,5,5,331,0,0
-2020-09-21,Unincorporated - West Carson,SB,22083,425,425,1924,35,158
-2020-09-21,Unincorporated - West Chatsworth,SFV,0,0,0,0,0,0
-2020-09-21,Unincorporated - West LA,W,952,43,43,4517,2,210
-2020-09-21,Unincorporated - West Puente Valley,SGV,9835,379,379,3854,3,31
-2020-09-21,Unincorporated - West Rancho Dominguez,S,1359,22,22,1619,3,221
-2020-09-21,Unincorporated - West Whittier/Los Nietos,E,26923,964,964,3580,15,56
-2020-09-21,Unincorporated - Westfield/Academy Hills,TBD,1300,7,7,538,0,0
-2020-09-21,Unincorporated - Westhills,SFV,839,9,9,1073,0,0
-2020-09-21,Unincorporated - White Fence Farms,AV,3683,44,44,1195,0,0
-2020-09-21,Unincorporated - Whittier Narrows,E,12,2,2,16667,0,0
-2020-09-21,Unincorporated - Whittier,SGV,3784,65,65,1718,2,53
-2020-09-21,Unincorporated - Willowbrook,S,34912,1434,1434,4107,20,57
-2020-09-21,Unincorporated - Wiseburn,SB,6026,122,122,2024,1,17
-2020-09-22,City of Agoura Hills,SFV,20876,158,0,757,1,5
-2020-09-22,City of Alhambra,SGV,86702,1229,4,1417,26,30
-2020-09-22,City of Arcadia,SGV,57778,479,0,829,33,57
-2020-09-22,City of Artesia,E,16794,363,2,2161,9,54
-2020-09-22,City of Avalon,SB,3876,6,0,155,0,0
-2020-09-22,City of Azusa,SGV,50037,1505,7,3008,22,44
-2020-09-22,City of Baldwin Park,SGV,76768,2907,15,3787,83,108
-2020-09-22,City of Bell Gardens,E,43072,1904,8,4421,22,51
-2020-09-22,City of Bell,E,36330,1574,11,4332,41,113
-2020-09-22,City of Bellflower,E,77738,2345,0,3017,60,77
-2020-09-22,City of Beverly Hills,W,34524,667,0,1932,12,35
-2020-09-22,City of Bradbury,SGV,1069,14,0,1310,0,0
-2020-09-22,City of Burbank,SFV,107195,1504,15,1403,57,53
-2020-09-22,City of Calabasas,SFV,24326,262,1,1077,12,49
-2020-09-22,City of Carson,SB,93858,1818,4,1937,60,64
-2020-09-22,City of Cerritos,E,50067,557,1,1113,16,32
-2020-09-22,City of Claremont,SGV,36480,379,0,1039,10,27
-2020-09-22,City of Commerce,E,13069,574,2,4392,11,84
-2020-09-22,City of Compton,S,99901,3988,13,3992,68,68
-2020-09-22,City of Covina,SGV,49033,1368,11,2790,41,84
-2020-09-22,City of Cudahy,E,24347,1073,3,4407,15,62
-2020-09-22,City of Culver City,W,39864,383,0,961,29,73
-2020-09-22,City of Diamond Bar,SGV,57523,544,3,946,9,16
-2020-09-22,City of Downey,E,114259,4039,13,3535,86,75
-2020-09-22,City of Duarte,SGV,22019,542,0,2462,29,132
-2020-09-22,City of El Monte,SGV,117281,4281,4,3651,158,135
-2020-09-22,City of El Segundo,SB,16779,130,0,774,1,6
-2020-09-22,City of Gardena,E,61310,1227,2,2001,50,82
-2020-09-22,City of Glendale,SFV,206491,3593,26,1740,175,85
-2020-09-22,City of Glendora,SGV,52766,1239,4,2348,70,133
-2020-09-22,City of Hawaiian Gardens,E,14677,529,0,3605,2,14
-2020-09-22,City of Hawthorne,SB,88786,1921,3,2164,45,51
-2020-09-22,City of Hermosa Beach,SB,19674,206,0,1047,4,20
-2020-09-22,City of Hidden Hills,SFV,1890,7,0,370,0,0
-2020-09-22,City of Huntington Park,E,59481,2857,4,4803,54,91
-2020-09-22,City of Industry,SGV,437,36,0,8238,2,458
-2020-09-22,City of Inglewood,SB,113565,2816,8,2479,89,78
-2020-09-22,City of Irwindale,SGV,1459,69,0,4729,2,137
-2020-09-22,City of La Canada Flintridge,SGV,20687,179,1,865,7,34
-2020-09-22,City of La Habra Heights,E,5453,43,1,788,0,0
-2020-09-22,City of La Mirada,E,49598,835,5,1684,26,52
-2020-09-22,City of La Puente,SGV,40701,1473,6,3619,19,47
-2020-09-22,City of La Verne,SGV,33286,460,2,1382,12,36
-2020-09-22,City of Lakewood,E,80357,1259,2,1567,14,17
-2020-09-22,City of Lancaster,AV,161566,3293,16,2038,52,32
-2020-09-22,City of Lawndale,SB,33617,628,4,1868,10,30
-2020-09-22,City of Lomita,SB,20728,239,0,1153,9,43
-2020-09-22,City of Lynwood,S,72048,3224,9,4475,97,135
-2020-09-22,City of Malibu,W,12963,101,0,779,3,23
-2020-09-22,City of Manhattan Beach,SB,35997,354,0,983,5,14
-2020-09-22,City of Maywood,E,28048,1419,0,5059,33,118
-2020-09-22,City of Monrovia,SGV,38804,739,1,1905,38,98
-2020-09-22,City of Montebello,E,64374,2274,5,3532,48,75
-2020-09-22,City of Monterey Park,SGV,62255,948,3,1523,47,75
-2020-09-22,City of Norwalk,E,107628,3202,11,2975,75,70
-2020-09-22,City of Palmdale,AV,158978,4024,21,2531,70,44
-2020-09-22,City of Palos Verdes Estates,SB,13528,96,1,710,2,15
-2020-09-22,City of Paramount,S,56020,2356,8,4205,28,50
-2020-09-22,City of Pico Rivera,E,64289,2396,7,3727,73,114
-2020-09-22,City of Pomona,SGV,155932,5371,15,3444,125,80
-2020-09-22,City of Rancho Palos Verdes,SB,42730,297,4,695,13,30
-2020-09-22,City of Redondo Beach,SB,68668,550,4,801,11,16
-2020-09-22,City of Rolling Hills Estates,SB,8112,41,0,505,2,25
-2020-09-22,City of Rolling Hills,SB,1939,11,0,567,0,0
-2020-09-22,City of Rosemead,SGV,55344,818,0,1478,28,51
-2020-09-22,City of San Dimas,SGV,34514,524,7,1518,14,41
-2020-09-22,City of San Fernando,SFV,24610,903,5,3669,18,73
-2020-09-22,City of San Gabriel,SGV,40954,625,-1,1526,59,144
-2020-09-22,City of San Marino,SGV,13275,87,0,655,2,15
-2020-09-22,City of Santa Clarita,SFV,220447,3349,8,1519,47,21
-2020-09-22,City of Santa Fe Springs,E,18365,558,3,3039,4,22
-2020-09-22,City of Santa Monica,W,92465,854,1,924,41,44
-2020-09-22,City of Sierra Madre,SGV,10992,73,0,664,3,27
-2020-09-22,City of Signal Hill,E,11795,267,-2,2263,3,25
-2020-09-22,City of South El Monte,SGV,20886,787,2,3768,15,72
-2020-09-22,City of South Gate,E,98149,4368,15,4450,67,68
-2020-09-22,City of South Pasadena,SGV,26047,274,2,1052,26,100
-2020-09-22,City of Temple City,SGV,36451,517,1,1418,40,110
-2020-09-22,City of Torrance,SB,149303,1405,3,941,68,46
-2020-09-22,City of Vernon,E,209,12,0,5742,0,0
-2020-09-22,City of Walnut,SGV,30525,265,3,868,4,13
-2020-09-22,City of West Covina,SGV,108221,2816,10,2602,60,55
-2020-09-22,City of West Hollywood,W,36955,552,3,1494,5,14
-2020-09-22,City of Westlake Village,SFV,8362,32,0,383,0,0
-2020-09-22,City of Whittier,E,87436,2210,3,2528,35,40
-2020-09-22,Los Angeles - Adams-Normandie,S,8202,262,0,3194,4,49
-2020-09-22,Los Angeles - Alsace,W,12446,364,0,2925,3,24
-2020-09-22,Los Angeles - Angeles National Forest,AV,40,2,0,5000,0,0
-2020-09-22,Los Angeles - Angelino Heights,MLA,2502,75,0,2998,1,40
-2020-09-22,Los Angeles - Arleta,SFV,34370,1425,4,4146,25,73
-2020-09-22,Los Angeles - Atwater Village,MLA,14666,235,0,1602,7,48
-2020-09-22,Los Angeles - Baldwin Hills,S,31126,610,1,1960,26,84
-2020-09-22,Los Angeles - Bel Air,W,8430,80,0,949,0,0
-2020-09-22,Los Angeles - Beverly Crest,W,12526,118,0,942,2,16
-2020-09-22,Los Angeles - Beverlywood,W,13174,153,1,1161,0,0
-2020-09-22,Los Angeles - Boyle Heights,MLA,86881,4200,2,4834,68,78
-2020-09-22,Los Angeles - Brentwood,W,30949,289,1,934,3,10
-2020-09-22,Los Angeles - Brookside,MLA,581,3,0,516,0,0
-2020-09-22,Los Angeles - Cadillac-Corning,W,7122,129,1,1812,1,14
-2020-09-22,Los Angeles - Canoga Park,SFV,65283,1842,1,2821,55,84
-2020-09-22,Los Angeles - Carthay,MLA,14362,208,0,1448,15,104
-2020-09-22,Los Angeles - Central,MLA,38990,2139,5,5486,40,103
-2020-09-22,Los Angeles - Century City,W,12792,114,0,891,0,0
-2020-09-22,Los Angeles - Century Palms/Cove,S,33766,1477,4,4374,22,65
-2020-09-22,Los Angeles - Chatsworth,SFV,37056,659,-1,1778,35,94
-2020-09-22,Los Angeles - Cheviot Hills,W,9168,70,1,763,2,22
-2020-09-22,Los Angeles - Chinatown,MLA,8020,115,0,1434,3,37
-2020-09-22,Los Angeles - Cloverdale/Cochran,MLA,14551,291,0,2000,5,34
-2020-09-22,Los Angeles - Country Club Park,MLA,15152,341,-1,2250,24,158
-2020-09-22,Los Angeles - Crenshaw District,S,13828,297,1,2148,3,22
-2020-09-22,Los Angeles - Crestview,W,11369,189,0,1663,20,176
-2020-09-22,Los Angeles - Del Rey,W,29929,347,0,1159,10,33
-2020-09-22,Los Angeles - Downtown,MLA,27510,794,2,2887,15,55
-2020-09-22,Los Angeles - Eagle Rock,MLA,39590,642,2,1622,24,61
-2020-09-22,Los Angeles - East Hollywood,MLA,29285,612,2,2090,43,147
-2020-09-22,Los Angeles - Echo Park,MLA,14258,247,1,1733,4,28
-2020-09-22,Los Angeles - El Sereno,MLA,41812,1207,2,2887,33,79
-2020-09-22,Los Angeles - Elysian Park,MLA,5713,95,0,1663,0,0
-2020-09-22,Los Angeles - Elysian Valley,MLA,10171,255,1,2507,3,29
-2020-09-22,Los Angeles - Encino,SFV,45182,580,6,1284,18,40
-2020-09-22,Los Angeles - Exposition Park,S,44914,1300,3,2894,23,51
-2020-09-22,Los Angeles - Exposition,S,3326,79,0,2375,2,60
-2020-09-22,Los Angeles - Faircrest Heights,MLA,3599,32,0,889,2,56
-2020-09-22,Los Angeles - Figueroa Park Square,S,8722,314,0,3601,4,46
-2020-09-22,Los Angeles - Florence-Firestone,S,47442,2267,4,4778,27,57
-2020-09-22,Los Angeles - Glassell Park,MLA,31607,680,0,2152,13,41
-2020-09-22,Los Angeles - Gramercy Place,S,10765,240,0,2230,4,37
-2020-09-22,Los Angeles - Granada Hills,SFV,58188,1168,4,2007,64,110
-2020-09-22,Los Angeles - Green Meadows,S,21506,936,1,4352,13,60
-2020-09-22,Los Angeles - Hancock Park,MLA,17037,223,0,1309,3,18
-2020-09-22,Los Angeles - Harbor City,SB,29075,490,3,1686,11,38
-2020-09-22,Los Angeles - Harbor Gateway,SB,43603,974,4,2234,13,30
-2020-09-22,Los Angeles - Harbor Pines,SB,2410,20,0,830,0,0
-2020-09-22,Los Angeles - Harvard Heights,MLA,18034,553,2,3066,24,133
-2020-09-22,Los Angeles - Harvard Park,S,37938,1598,3,4212,23,61
-2020-09-22,Los Angeles - Highland Park,MLA,48395,1077,0,2226,19,39
-2020-09-22,Los Angeles - Historic Filipinotown,MLA,13869,429,1,3093,15,108
-2020-09-22,Los Angeles - Hollywood Hills,MLA,29439,289,6,982,7,24
-2020-09-22,Los Angeles - Hollywood,MLA,68248,1173,1,1719,14,21
-2020-09-22,Los Angeles - Hyde Park,S,28538,785,0,2750,14,49
-2020-09-22,Los Angeles - Jefferson Park,S,8072,253,0,3134,0,0
-2020-09-22,Los Angeles - Koreatown,MLA,51687,1139,-1,2203,32,62
-2020-09-22,Los Angeles - Lafayette Square,MLA,4559,82,1,1799,3,66
-2020-09-22,Los Angeles - Lake Balboa,SFV,42208,1000,5,2369,19,45
-2020-09-22,Los Angeles - Lakeview Terrace,SFV,13132,537,1,4089,23,175
-2020-09-22,Los Angeles - Leimert Park,S,15237,312,0,2048,7,46
-2020-09-22,Los Angeles - Lincoln Heights,MLA,32600,1055,1,3236,47,144
-2020-09-22,Los Angeles - Little Armenia,MLA,8025,392,2,4885,51,636
-2020-09-22,Los Angeles - Little Bangladesh,MLA,28348,479,0,1690,5,18
-2020-09-22,Los Angeles - Little Tokyo,MLA,3133,87,1,2777,2,64
-2020-09-22,Los Angeles - Longwood,MLA,4304,112,0,2602,0,0
-2020-09-22,Los Angeles - Los Feliz,MLA,21605,207,1,958,2,9
-2020-09-22,Los Angeles - Manchester Square,SB,8536,190,-1,2226,4,47
-2020-09-22,Los Angeles - Mandeville Canyon,W,3125,26,0,832,0,0
-2020-09-22,Los Angeles - Mar Vista,W,42468,311,0,732,6,14
-2020-09-22,Los Angeles - Marina Peninsula,W,4359,35,0,803,0,0
-2020-09-22,Los Angeles - Melrose,MLA,77699,1874,2,2412,70,90
-2020-09-22,Los Angeles - Mid-city,MLA,15028,281,0,1870,24,160
-2020-09-22,Los Angeles - Miracle Mile,MLA,17985,170,1,945,6,33
-2020-09-22,Los Angeles - Mission Hills,SFV,24124,758,4,3142,37,153
-2020-09-22,Los Angeles - Mt. Washington,MLA,24144,544,0,2253,16,66
-2020-09-22,Los Angeles - North Hills,SFV,61575,1789,1,2905,44,71
-2020-09-22,Los Angeles - North Hollywood,SFV,151416,3770,13,2490,69,46
-2020-09-22,Los Angeles - Northridge,SFV,69795,1382,2,1980,43,62
-2020-09-22,Los Angeles - Pacific Palisades,W,21295,125,1,587,4,19
-2020-09-22,Los Angeles - Pacoima,SFV,76978,3390,1,4404,49,64
-2020-09-22,Los Angeles - Palisades Highlands,W,3846,28,0,728,0,0
-2020-09-22,Los Angeles - Palms,W,43887,537,3,1224,31,71
-2020-09-22,Los Angeles - Panorama City,SFV,75247,2845,3,3781,89,118
-2020-09-22,Los Angeles - Park La Brea,MLA,13575,104,0,766,1,7
-2020-09-22,Los Angeles - Pico-Union,MLA,41842,1756,2,4197,94,225
-2020-09-22,Los Angeles - Playa Del Rey,W,3196,27,0,845,0,0
-2020-09-22,Los Angeles - Playa Vista,W,10945,139,2,1270,0,0
-2020-09-22,Los Angeles - Porter Ranch,SFV,35590,360,2,1012,6,17
-2020-09-22,Los Angeles - Rancho Park,W,6560,89,0,1357,0,0
-2020-09-22,Los Angeles - Regent Square,W,2780,30,0,1079,0,0
-2020-09-22,Los Angeles - Reseda Ranch,SFV,4636,111,0,2394,0,0
-2020-09-22,Los Angeles - Reseda,SFV,76624,2112,6,2757,81,106
-2020-09-22,Los Angeles - Reynier Village,W,4228,39,0,922,0,0
-2020-09-22,Los Angeles - San Pedro,SB,78027,1927,0,2469,28,36
-2020-09-22,Los Angeles - Shadow Hills,SFV,4442,61,0,1373,0,0
-2020-09-22,Los Angeles - Sherman Oaks,SFV,87240,1024,3,1174,28,32
-2020-09-22,Los Angeles - Silverlake,MLA,44089,613,0,1391,19,43
-2020-09-22,Los Angeles - South Carthay,MLA,10595,116,0,1095,2,19
-2020-09-22,Los Angeles - South Park,S,37959,2011,0,5298,28,74
-2020-09-22,Los Angeles - St Elmo Village,MLA,4584,140,0,3054,8,175
-2020-09-22,Los Angeles - Studio City,SFV,22444,239,-1,1065,9,40
-2020-09-22,Los Angeles - Sun Valley,SFV,52481,1617,10,3081,29,55
-2020-09-22,Los Angeles - Sunland,SFV,20411,434,0,2127,29,142
-2020-09-22,Los Angeles - Sycamore Square,SFV,647,7,0,1082,0,0
-2020-09-22,Los Angeles - Sylmar,SFV,82402,3188,-7,3869,82,100
-2020-09-22,Los Angeles - Tarzana,SFV,30880,637,3,2063,37,120
-2020-09-22,Los Angeles - Temple-Beaudry,MLA,39481,1219,3,3087,27,68
-2020-09-22,Los Angeles - Thai Town,MLA,9810,157,0,1601,2,20
-2020-09-22,Los Angeles - Toluca Lake,SFV,8704,102,0,1172,0,0
-2020-09-22,Los Angeles - Toluca Terrace,SFV,1306,23,0,1761,1,77
-2020-09-22,Los Angeles - Toluca Woods,SFV,1858,18,0,969,0,0
-2020-09-22,Los Angeles - Tujunga,SFV,27811,501,1,1802,14,50
-2020-09-22,Los Angeles - University Hills,SGV,3429,52,0,1516,1,29
-2020-09-22,Los Angeles - University Park,S,27454,1102,14,4014,19,69
-2020-09-22,Los Angeles - Valley Glen,SFV,30015,623,4,2076,21,70
-2020-09-22,Los Angeles - Valley Village,SFV,24721,509,5,2059,25,101
-2020-09-22,Los Angeles - Van Nuys,SFV,93196,2906,4,3118,87,93
-2020-09-22,Los Angeles - Venice,W,33895,288,0,850,3,9
-2020-09-22,Los Angeles - Vermont Knolls,S,17200,713,0,4145,16,93
-2020-09-22,Los Angeles - Vermont Square,S,7657,334,0,4362,4,52
-2020-09-22,Los Angeles - Vermont Vista,S,41189,1899,1,4611,26,63
-2020-09-22,Los Angeles - Vernon Central,S,51998,2944,1,5662,42,81
-2020-09-22,Los Angeles - Victoria Park,MLA,8399,209,1,2488,4,48
-2020-09-22,Los Angeles - View Heights,S,3693,45,0,1218,3,81
-2020-09-22,Los Angeles - Watts,S,42675,1910,-4,4476,30,70
-2020-09-22,Los Angeles - Wellington Square,MLA,4915,119,0,2421,1,20
-2020-09-22,Los Angeles - West Adams,MLA,27630,890,2,3221,41,148
-2020-09-22,Los Angeles - West Hills,SFV,40553,527,1,1300,29,72
-2020-09-22,Los Angeles - West Los Angeles,W,37629,490,-2,1302,15,40
-2020-09-22,Los Angeles - West Vernon,S,53640,2319,7,4323,50,93
-2020-09-22,Los Angeles - Westchester,W,51602,411,0,796,15,29
-2020-09-22,Los Angeles - Westlake,MLA,59359,2377,9,4005,140,236
-2020-09-22,Los Angeles - Westwood,W,54102,367,1,678,6,11
-2020-09-22,Los Angeles - Wholesale District,MLA,36129,2361,1,6535,26,72
-2020-09-22,Los Angeles - Wilmington,SB,56493,1749,4,3096,20,35
-2020-09-22,Los Angeles - Wilshire Center,MLA,50173,1091,1,2175,36,72
-2020-09-22,Los Angeles - Winnetka,SFV,51782,1235,7,2385,18,35
-2020-09-22,Los Angeles - Woodland Hills,SFV,68049,876,6,1287,31,46
-2020-09-22,Unincorporated - Acton,AV,7974,69,1,866,2,25
-2020-09-22,Unincorporated - Agua Dulce,AV,4157,26,0,625,0,0
-2020-09-22,Unincorporated - Altadena,SGV,43616,686,2,1573,14,32
-2020-09-22,Unincorporated - Anaverde,AV,1508,16,0,1061,0,0
-2020-09-22,Unincorporated - Angeles National Forest,AV,1245,5,0,402,0,0
-2020-09-22,Unincorporated - Arcadia,SGV,7981,87,0,1090,3,38
-2020-09-22,Unincorporated - Athens Village,S,4897,235,0,4799,10,204
-2020-09-22,Unincorporated - Athens-Westmont,S,42438,1523,5,3588,27,64
-2020-09-22,Unincorporated - Avocado Heights,SGV,6775,290,0,4280,3,44
-2020-09-22,Unincorporated - Azusa,SGV,15922,498,1,3128,3,19
-2020-09-22,Unincorporated - Bassett,SGV,14818,632,6,4265,9,61
-2020-09-22,Unincorporated - Bouquet Canyon,SFV,1073,7,1,652,1,93
-2020-09-22,Unincorporated - Bradbury,SGV,108,4,0,3704,1,926
-2020-09-22,Unincorporated - Canyon Country,SFV,7728,132,2,1708,0,0
-2020-09-22,Unincorporated - Castaic,SFV,27192,1943,6,7146,4,15
-2020-09-22,Unincorporated - Cerritos,E,587,17,0,2896,0,0
+2020-09-22,City of Agoura Hills,SFV,20876,158,158,757,1,5
+2020-09-22,City of Alhambra,SGV,86702,1229,1229,1417,26,30
+2020-09-22,City of Arcadia,SGV,57778,479,479,829,33,57
+2020-09-22,City of Artesia,E,16794,363,363,2161,9,54
+2020-09-22,City of Avalon,SB,3876,6,6,155,0,0
+2020-09-22,City of Azusa,SGV,50037,1505,1505,3008,22,44
+2020-09-22,City of Baldwin Park,SGV,76768,2907,2907,3787,83,108
+2020-09-22,City of Bell Gardens,E,43072,1904,1904,4421,22,51
+2020-09-22,City of Bell,E,36330,1574,1574,4332,41,113
+2020-09-22,City of Bellflower,E,77738,2345,2345,3017,60,77
+2020-09-22,City of Beverly Hills,W,34524,667,667,1932,12,35
+2020-09-22,City of Bradbury,SGV,1069,14,14,1310,0,0
+2020-09-22,City of Burbank,SFV,107195,1504,1504,1403,57,53
+2020-09-22,City of Calabasas,SFV,24326,262,262,1077,12,49
+2020-09-22,City of Carson,SB,93858,1818,1818,1937,60,64
+2020-09-22,City of Cerritos,E,50067,557,557,1113,16,32
+2020-09-22,City of Claremont,SGV,36480,379,379,1039,10,27
+2020-09-22,City of Commerce,E,13069,574,574,4392,11,84
+2020-09-22,City of Compton,S,99901,3988,3988,3992,68,68
+2020-09-22,City of Covina,SGV,49033,1368,1368,2790,41,84
+2020-09-22,City of Cudahy,E,24347,1073,1073,4407,15,62
+2020-09-22,City of Culver City,W,39864,383,383,961,29,73
+2020-09-22,City of Diamond Bar,SGV,57523,544,544,946,9,16
+2020-09-22,City of Downey,E,114259,4039,4039,3535,86,75
+2020-09-22,City of Duarte,SGV,22019,542,542,2462,29,132
+2020-09-22,City of El Monte,SGV,117281,4281,4281,3651,158,135
+2020-09-22,City of El Segundo,SB,16779,130,130,774,1,6
+2020-09-22,City of Gardena,E,61310,1227,1227,2001,50,82
+2020-09-22,City of Glendale,SFV,206491,3593,3593,1740,175,85
+2020-09-22,City of Glendora,SGV,52766,1239,1239,2348,70,133
+2020-09-22,City of Hawaiian Gardens,E,14677,529,529,3605,2,14
+2020-09-22,City of Hawthorne,SB,88786,1921,1921,2164,45,51
+2020-09-22,City of Hermosa Beach,SB,19674,206,206,1047,4,20
+2020-09-22,City of Hidden Hills,SFV,1890,7,7,370,0,0
+2020-09-22,City of Huntington Park,E,59481,2857,2857,4803,54,91
+2020-09-22,City of Industry,SGV,437,36,36,8238,2,458
+2020-09-22,City of Inglewood,SB,113565,2816,2816,2479,89,78
+2020-09-22,City of Irwindale,SGV,1459,69,69,4729,2,137
+2020-09-22,City of La Canada Flintridge,SGV,20687,179,179,865,7,34
+2020-09-22,City of La Habra Heights,E,5453,43,43,788,0,0
+2020-09-22,City of La Mirada,E,49598,835,835,1684,26,52
+2020-09-22,City of La Puente,SGV,40701,1473,1473,3619,19,47
+2020-09-22,City of La Verne,SGV,33286,460,460,1382,12,36
+2020-09-22,City of Lakewood,E,80357,1259,1259,1567,14,17
+2020-09-22,City of Lancaster,AV,161566,3293,3293,2038,52,32
+2020-09-22,City of Lawndale,SB,33617,628,628,1868,10,30
+2020-09-22,City of Lomita,SB,20728,239,239,1153,9,43
+2020-09-22,City of Lynwood,S,72048,3224,3224,4475,97,135
+2020-09-22,City of Malibu,W,12963,101,101,779,3,23
+2020-09-22,City of Manhattan Beach,SB,35997,354,354,983,5,14
+2020-09-22,City of Maywood,E,28048,1419,1419,5059,33,118
+2020-09-22,City of Monrovia,SGV,38804,739,739,1905,38,98
+2020-09-22,City of Montebello,E,64374,2274,2274,3532,48,75
+2020-09-22,City of Monterey Park,SGV,62255,948,948,1523,47,75
+2020-09-22,City of Norwalk,E,107628,3202,3202,2975,75,70
+2020-09-22,City of Palmdale,AV,158978,4024,4024,2531,70,44
+2020-09-22,City of Palos Verdes Estates,SB,13528,96,96,710,2,15
+2020-09-22,City of Paramount,S,56020,2356,2356,4205,28,50
+2020-09-22,City of Pico Rivera,E,64289,2396,2396,3727,73,114
+2020-09-22,City of Pomona,SGV,155932,5371,5371,3444,125,80
+2020-09-22,City of Rancho Palos Verdes,SB,42730,297,297,695,13,30
+2020-09-22,City of Redondo Beach,SB,68668,550,550,801,11,16
+2020-09-22,City of Rolling Hills Estates,SB,8112,41,41,505,2,25
+2020-09-22,City of Rolling Hills,SB,1939,11,11,567,0,0
+2020-09-22,City of Rosemead,SGV,55344,818,818,1478,28,51
+2020-09-22,City of San Dimas,SGV,34514,524,524,1518,14,41
+2020-09-22,City of San Fernando,SFV,24610,903,903,3669,18,73
+2020-09-22,City of San Gabriel,SGV,40954,625,625,1526,59,144
+2020-09-22,City of San Marino,SGV,13275,87,87,655,2,15
+2020-09-22,City of Santa Clarita,SFV,220447,3349,3349,1519,47,21
+2020-09-22,City of Santa Fe Springs,E,18365,558,558,3039,4,22
+2020-09-22,City of Santa Monica,W,92465,854,854,924,41,44
+2020-09-22,City of Sierra Madre,SGV,10992,73,73,664,3,27
+2020-09-22,City of Signal Hill,E,11795,267,267,2263,3,25
+2020-09-22,City of South El Monte,SGV,20886,787,787,3768,15,72
+2020-09-22,City of South Gate,E,98149,4368,4368,4450,67,68
+2020-09-22,City of South Pasadena,SGV,26047,274,274,1052,26,100
+2020-09-22,City of Temple City,SGV,36451,517,517,1418,40,110
+2020-09-22,City of Torrance,SB,149303,1405,1405,941,68,46
+2020-09-22,City of Vernon,E,209,12,12,5742,0,0
+2020-09-22,City of Walnut,SGV,30525,265,265,868,4,13
+2020-09-22,City of West Covina,SGV,108221,2816,2816,2602,60,55
+2020-09-22,City of West Hollywood,W,36955,552,552,1494,5,14
+2020-09-22,City of Westlake Village,SFV,8362,32,32,383,0,0
+2020-09-22,City of Whittier,E,87436,2210,2210,2528,35,40
+2020-09-22,Los Angeles - Adams-Normandie,S,8202,262,262,3194,4,49
+2020-09-22,Los Angeles - Alsace,W,12446,364,364,2925,3,24
+2020-09-22,Los Angeles - Angeles National Forest,AV,40,2,2,5000,0,0
+2020-09-22,Los Angeles - Angelino Heights,MLA,2502,75,75,2998,1,40
+2020-09-22,Los Angeles - Arleta,SFV,34370,1425,1425,4146,25,73
+2020-09-22,Los Angeles - Atwater Village,MLA,14666,235,235,1602,7,48
+2020-09-22,Los Angeles - Baldwin Hills,S,31126,610,610,1960,26,84
+2020-09-22,Los Angeles - Bel Air,W,8430,80,80,949,0,0
+2020-09-22,Los Angeles - Beverly Crest,W,12526,118,118,942,2,16
+2020-09-22,Los Angeles - Beverlywood,W,13174,153,153,1161,0,0
+2020-09-22,Los Angeles - Boyle Heights,MLA,86881,4200,4200,4834,68,78
+2020-09-22,Los Angeles - Brentwood,W,30949,289,289,934,3,10
+2020-09-22,Los Angeles - Brookside,MLA,581,3,3,516,0,0
+2020-09-22,Los Angeles - Cadillac-Corning,W,7122,129,129,1812,1,14
+2020-09-22,Los Angeles - Canoga Park,SFV,65283,1842,1842,2821,55,84
+2020-09-22,Los Angeles - Carthay,MLA,14362,208,208,1448,15,104
+2020-09-22,Los Angeles - Central,MLA,38990,2139,2139,5486,40,103
+2020-09-22,Los Angeles - Century City,W,12792,114,114,891,0,0
+2020-09-22,Los Angeles - Century Palms/Cove,S,33766,1477,1477,4374,22,65
+2020-09-22,Los Angeles - Chatsworth,SFV,37056,659,659,1778,35,94
+2020-09-22,Los Angeles - Cheviot Hills,W,9168,70,70,763,2,22
+2020-09-22,Los Angeles - Chinatown,MLA,8020,115,115,1434,3,37
+2020-09-22,Los Angeles - Cloverdale/Cochran,MLA,14551,291,291,2000,5,34
+2020-09-22,Los Angeles - Country Club Park,MLA,15152,341,341,2250,24,158
+2020-09-22,Los Angeles - Crenshaw District,S,13828,297,297,2148,3,22
+2020-09-22,Los Angeles - Crestview,W,11369,189,189,1663,20,176
+2020-09-22,Los Angeles - Del Rey,W,29929,347,347,1159,10,33
+2020-09-22,Los Angeles - Downtown,MLA,27510,794,794,2887,15,55
+2020-09-22,Los Angeles - Eagle Rock,MLA,39590,642,642,1622,24,61
+2020-09-22,Los Angeles - East Hollywood,MLA,29285,612,612,2090,43,147
+2020-09-22,Los Angeles - Echo Park,MLA,14258,247,247,1733,4,28
+2020-09-22,Los Angeles - El Sereno,MLA,41812,1207,1207,2887,33,79
+2020-09-22,Los Angeles - Elysian Park,MLA,5713,95,95,1663,0,0
+2020-09-22,Los Angeles - Elysian Valley,MLA,10171,255,255,2507,3,29
+2020-09-22,Los Angeles - Encino,SFV,45182,580,580,1284,18,40
+2020-09-22,Los Angeles - Exposition Park,S,44914,1300,1300,2894,23,51
+2020-09-22,Los Angeles - Exposition,S,3326,79,79,2375,2,60
+2020-09-22,Los Angeles - Faircrest Heights,MLA,3599,32,32,889,2,56
+2020-09-22,Los Angeles - Figueroa Park Square,S,8722,314,314,3601,4,46
+2020-09-22,Los Angeles - Florence-Firestone,S,47442,2267,2267,4778,27,57
+2020-09-22,Los Angeles - Glassell Park,MLA,31607,680,680,2152,13,41
+2020-09-22,Los Angeles - Gramercy Place,S,10765,240,240,2230,4,37
+2020-09-22,Los Angeles - Granada Hills,SFV,58188,1168,1168,2007,64,110
+2020-09-22,Los Angeles - Green Meadows,S,21506,936,936,4352,13,60
+2020-09-22,Los Angeles - Hancock Park,MLA,17037,223,223,1309,3,18
+2020-09-22,Los Angeles - Harbor City,SB,29075,490,490,1686,11,38
+2020-09-22,Los Angeles - Harbor Gateway,SB,43603,974,974,2234,13,30
+2020-09-22,Los Angeles - Harbor Pines,SB,2410,20,20,830,0,0
+2020-09-22,Los Angeles - Harvard Heights,MLA,18034,553,553,3066,24,133
+2020-09-22,Los Angeles - Harvard Park,S,37938,1598,1598,4212,23,61
+2020-09-22,Los Angeles - Highland Park,MLA,48395,1077,1077,2226,19,39
+2020-09-22,Los Angeles - Historic Filipinotown,MLA,13869,429,429,3093,15,108
+2020-09-22,Los Angeles - Hollywood Hills,MLA,29439,289,289,982,7,24
+2020-09-22,Los Angeles - Hollywood,MLA,68248,1173,1173,1719,14,21
+2020-09-22,Los Angeles - Hyde Park,S,28538,785,785,2750,14,49
+2020-09-22,Los Angeles - Jefferson Park,S,8072,253,253,3134,0,0
+2020-09-22,Los Angeles - Koreatown,MLA,51687,1139,1139,2203,32,62
+2020-09-22,Los Angeles - Lafayette Square,MLA,4559,82,82,1799,3,66
+2020-09-22,Los Angeles - Lake Balboa,SFV,42208,1000,1000,2369,19,45
+2020-09-22,Los Angeles - Lakeview Terrace,SFV,13132,537,537,4089,23,175
+2020-09-22,Los Angeles - Leimert Park,S,15237,312,312,2048,7,46
+2020-09-22,Los Angeles - Lincoln Heights,MLA,32600,1055,1055,3236,47,144
+2020-09-22,Los Angeles - Little Armenia,MLA,8025,392,392,4885,51,636
+2020-09-22,Los Angeles - Little Bangladesh,MLA,28348,479,479,1690,5,18
+2020-09-22,Los Angeles - Little Tokyo,MLA,3133,87,87,2777,2,64
+2020-09-22,Los Angeles - Longwood,MLA,4304,112,112,2602,0,0
+2020-09-22,Los Angeles - Los Feliz,MLA,21605,207,207,958,2,9
+2020-09-22,Los Angeles - Manchester Square,SB,8536,190,190,2226,4,47
+2020-09-22,Los Angeles - Mandeville Canyon,W,3125,26,26,832,0,0
+2020-09-22,Los Angeles - Mar Vista,W,42468,311,311,732,6,14
+2020-09-22,Los Angeles - Marina Peninsula,W,4359,35,35,803,0,0
+2020-09-22,Los Angeles - Melrose,MLA,77699,1874,1874,2412,70,90
+2020-09-22,Los Angeles - Mid-city,MLA,15028,281,281,1870,24,160
+2020-09-22,Los Angeles - Miracle Mile,MLA,17985,170,170,945,6,33
+2020-09-22,Los Angeles - Mission Hills,SFV,24124,758,758,3142,37,153
+2020-09-22,Los Angeles - Mt. Washington,MLA,24144,544,544,2253,16,66
+2020-09-22,Los Angeles - North Hills,SFV,61575,1789,1789,2905,44,71
+2020-09-22,Los Angeles - North Hollywood,SFV,151416,3770,3770,2490,69,46
+2020-09-22,Los Angeles - Northridge,SFV,69795,1382,1382,1980,43,62
+2020-09-22,Los Angeles - Pacific Palisades,W,21295,125,125,587,4,19
+2020-09-22,Los Angeles - Pacoima,SFV,76978,3390,3390,4404,49,64
+2020-09-22,Los Angeles - Palisades Highlands,W,3846,28,28,728,0,0
+2020-09-22,Los Angeles - Palms,W,43887,537,537,1224,31,71
+2020-09-22,Los Angeles - Panorama City,SFV,75247,2845,2845,3781,89,118
+2020-09-22,Los Angeles - Park La Brea,MLA,13575,104,104,766,1,7
+2020-09-22,Los Angeles - Pico-Union,MLA,41842,1756,1756,4197,94,225
+2020-09-22,Los Angeles - Playa Del Rey,W,3196,27,27,845,0,0
+2020-09-22,Los Angeles - Playa Vista,W,10945,139,139,1270,0,0
+2020-09-22,Los Angeles - Porter Ranch,SFV,35590,360,360,1012,6,17
+2020-09-22,Los Angeles - Rancho Park,W,6560,89,89,1357,0,0
+2020-09-22,Los Angeles - Regent Square,W,2780,30,30,1079,0,0
+2020-09-22,Los Angeles - Reseda Ranch,SFV,4636,111,111,2394,0,0
+2020-09-22,Los Angeles - Reseda,SFV,76624,2112,2112,2757,81,106
+2020-09-22,Los Angeles - Reynier Village,W,4228,39,39,922,0,0
+2020-09-22,Los Angeles - San Pedro,SB,78027,1927,1927,2469,28,36
+2020-09-22,Los Angeles - Shadow Hills,SFV,4442,61,61,1373,0,0
+2020-09-22,Los Angeles - Sherman Oaks,SFV,87240,1024,1024,1174,28,32
+2020-09-22,Los Angeles - Silverlake,MLA,44089,613,613,1391,19,43
+2020-09-22,Los Angeles - South Carthay,MLA,10595,116,116,1095,2,19
+2020-09-22,Los Angeles - South Park,S,37959,2011,2011,5298,28,74
+2020-09-22,Los Angeles - St Elmo Village,MLA,4584,140,140,3054,8,175
+2020-09-22,Los Angeles - Studio City,SFV,22444,239,239,1065,9,40
+2020-09-22,Los Angeles - Sun Valley,SFV,52481,1617,1617,3081,29,55
+2020-09-22,Los Angeles - Sunland,SFV,20411,434,434,2127,29,142
+2020-09-22,Los Angeles - Sycamore Square,SFV,647,7,7,1082,0,0
+2020-09-22,Los Angeles - Sylmar,SFV,82402,3188,3188,3869,82,100
+2020-09-22,Los Angeles - Tarzana,SFV,30880,637,637,2063,37,120
+2020-09-22,Los Angeles - Temple-Beaudry,MLA,39481,1219,1219,3087,27,68
+2020-09-22,Los Angeles - Thai Town,MLA,9810,157,157,1601,2,20
+2020-09-22,Los Angeles - Toluca Lake,SFV,8704,102,102,1172,0,0
+2020-09-22,Los Angeles - Toluca Terrace,SFV,1306,23,23,1761,1,77
+2020-09-22,Los Angeles - Toluca Woods,SFV,1858,18,18,969,0,0
+2020-09-22,Los Angeles - Tujunga,SFV,27811,501,501,1802,14,50
+2020-09-22,Los Angeles - University Hills,SGV,3429,52,52,1516,1,29
+2020-09-22,Los Angeles - University Park,S,27454,1102,1102,4014,19,69
+2020-09-22,Los Angeles - Valley Glen,SFV,30015,623,623,2076,21,70
+2020-09-22,Los Angeles - Valley Village,SFV,24721,509,509,2059,25,101
+2020-09-22,Los Angeles - Van Nuys,SFV,93196,2906,2906,3118,87,93
+2020-09-22,Los Angeles - Venice,W,33895,288,288,850,3,9
+2020-09-22,Los Angeles - Vermont Knolls,S,17200,713,713,4145,16,93
+2020-09-22,Los Angeles - Vermont Square,S,7657,334,334,4362,4,52
+2020-09-22,Los Angeles - Vermont Vista,S,41189,1899,1899,4611,26,63
+2020-09-22,Los Angeles - Vernon Central,S,51998,2944,2944,5662,42,81
+2020-09-22,Los Angeles - Victoria Park,MLA,8399,209,209,2488,4,48
+2020-09-22,Los Angeles - View Heights,S,3693,45,45,1218,3,81
+2020-09-22,Los Angeles - Watts,S,42675,1910,1910,4476,30,70
+2020-09-22,Los Angeles - Wellington Square,MLA,4915,119,119,2421,1,20
+2020-09-22,Los Angeles - West Adams,MLA,27630,890,890,3221,41,148
+2020-09-22,Los Angeles - West Hills,SFV,40553,527,527,1300,29,72
+2020-09-22,Los Angeles - West Los Angeles,W,37629,490,490,1302,15,40
+2020-09-22,Los Angeles - West Vernon,S,53640,2319,2319,4323,50,93
+2020-09-22,Los Angeles - Westchester,W,51602,411,411,796,15,29
+2020-09-22,Los Angeles - Westlake,MLA,59359,2377,2377,4005,140,236
+2020-09-22,Los Angeles - Westwood,W,54102,367,367,678,6,11
+2020-09-22,Los Angeles - Wholesale District,MLA,36129,2361,2361,6535,26,72
+2020-09-22,Los Angeles - Wilmington,SB,56493,1749,1749,3096,20,35
+2020-09-22,Los Angeles - Wilshire Center,MLA,50173,1091,1091,2175,36,72
+2020-09-22,Los Angeles - Winnetka,SFV,51782,1235,1235,2385,18,35
+2020-09-22,Los Angeles - Woodland Hills,SFV,68049,876,876,1287,31,46
+2020-09-22,Unincorporated - Acton,AV,7974,69,69,866,2,25
+2020-09-22,Unincorporated - Agua Dulce,AV,4157,26,26,625,0,0
+2020-09-22,Unincorporated - Altadena,SGV,43616,686,686,1573,14,32
+2020-09-22,Unincorporated - Anaverde,AV,1508,16,16,1061,0,0
+2020-09-22,Unincorporated - Angeles National Forest,AV,1245,5,5,402,0,0
+2020-09-22,Unincorporated - Arcadia,SGV,7981,87,87,1090,3,38
+2020-09-22,Unincorporated - Athens Village,S,4897,235,235,4799,10,204
+2020-09-22,Unincorporated - Athens-Westmont,S,42438,1523,1523,3588,27,64
+2020-09-22,Unincorporated - Avocado Heights,SGV,6775,290,290,4280,3,44
+2020-09-22,Unincorporated - Azusa,SGV,15922,498,498,3128,3,19
+2020-09-22,Unincorporated - Bassett,SGV,14818,632,632,4265,9,61
+2020-09-22,Unincorporated - Bouquet Canyon,SFV,1073,7,7,652,1,93
+2020-09-22,Unincorporated - Bradbury,SGV,108,4,4,3704,1,926
+2020-09-22,Unincorporated - Canyon Country,SFV,7728,132,132,1708,0,0
+2020-09-22,Unincorporated - Castaic,SFV,27192,1943,1943,7146,4,15
+2020-09-22,Unincorporated - Cerritos,E,587,17,17,2896,0,0
 2020-09-22,Unincorporated - Charter Oak,SGV,0,0,0,0,0,0
-2020-09-22,Unincorporated - Claremont,SGV,702,22,0,3134,3,427
-2020-09-22,Unincorporated - Covina (Charter Oak),SGV,13146,305,0,2320,2,15
-2020-09-22,Unincorporated - Covina,SGV,16819,424,2,2521,7,42
-2020-09-22,Unincorporated - Del Aire,SB,4394,76,1,1730,2,46
-2020-09-22,Unincorporated - Del Rey,W,318,3,0,943,0,0
-2020-09-22,Unincorporated - Del Sur,AV,2415,15,0,621,1,41
-2020-09-22,Unincorporated - Desert View Highlands,AV,2493,49,2,1966,1,40
-2020-09-22,Unincorporated - Duarte,SGV,4428,147,0,3320,4,90
-2020-09-22,Unincorporated - East Covina,SGV,329,4,0,1216,0,0
-2020-09-22,Unincorporated - East La Mirada,E,5292,99,0,1871,1,19
+2020-09-22,Unincorporated - Claremont,SGV,702,22,22,3134,3,427
+2020-09-22,Unincorporated - Covina (Charter Oak),SGV,13146,305,305,2320,2,15
+2020-09-22,Unincorporated - Covina,SGV,16819,424,424,2521,7,42
+2020-09-22,Unincorporated - Del Aire,SB,4394,76,76,1730,2,46
+2020-09-22,Unincorporated - Del Rey,W,318,3,3,943,0,0
+2020-09-22,Unincorporated - Del Sur,AV,2415,15,15,621,1,41
+2020-09-22,Unincorporated - Desert View Highlands,AV,2493,49,49,1966,1,40
+2020-09-22,Unincorporated - Duarte,SGV,4428,147,147,3320,4,90
+2020-09-22,Unincorporated - East Covina,SGV,329,4,4,1216,0,0
+2020-09-22,Unincorporated - East La Mirada,E,5292,99,99,1871,1,19
 2020-09-22,Unincorporated - East Lancaster,AV,114,0,0,0,0,0
-2020-09-22,Unincorporated - East Los Angeles,E,125274,6175,14,4929,102,81
-2020-09-22,Unincorporated - East Pasadena,SGV,6404,80,0,1249,1,16
-2020-09-22,Unincorporated - East Rancho Dominguez,S,15309,671,1,4383,15,98
-2020-09-22,Unincorporated - East Whittier,E,5307,87,1,1640,0,0
-2020-09-22,Unincorporated - El Camino Village,SB,8791,146,0,1661,3,34
-2020-09-22,Unincorporated - El Monte,SGV,145,6,0,4138,0,0
-2020-09-22,Unincorporated - Elizabeth Lake,AV,1661,7,0,421,0,0
-2020-09-22,Unincorporated - Florence-Firestone,S,64703,3387,7,5235,50,77
+2020-09-22,Unincorporated - East Los Angeles,E,125274,6175,6175,4929,102,81
+2020-09-22,Unincorporated - East Pasadena,SGV,6404,80,80,1249,1,16
+2020-09-22,Unincorporated - East Rancho Dominguez,S,15309,671,671,4383,15,98
+2020-09-22,Unincorporated - East Whittier,E,5307,87,87,1640,0,0
+2020-09-22,Unincorporated - El Camino Village,SB,8791,146,146,1661,3,34
+2020-09-22,Unincorporated - El Monte,SGV,145,6,6,4138,0,0
+2020-09-22,Unincorporated - Elizabeth Lake,AV,1661,7,7,421,0,0
+2020-09-22,Unincorporated - Florence-Firestone,S,64703,3387,3387,5235,50,77
 2020-09-22,Unincorporated - Franklin Canyon,MLA,0,0,0,0,0,0
-2020-09-22,Unincorporated - Glendora,SGV,660,13,1,1970,0,0
-2020-09-22,Unincorporated - Hacienda Heights,SGV,55931,1009,6,1804,16,29
+2020-09-22,Unincorporated - Glendora,SGV,660,13,13,1970,0,0
+2020-09-22,Unincorporated - Hacienda Heights,SGV,55931,1009,1009,1804,16,29
 2020-09-22,Unincorporated - Harbor Gateway,S,0,0,0,0,0,0
-2020-09-22,Unincorporated - Hawthorne,SB,2514,60,0,2387,0,0
-2020-09-22,Unincorporated - Hi Vista,AV,1098,7,0,638,0,0
-2020-09-22,Unincorporated - Kagel/Lopez Canyons,SFV,1412,37,0,2620,1,71
-2020-09-22,Unincorporated - La Crescenta-Montrose,SFV,19804,198,0,1000,2,10
+2020-09-22,Unincorporated - Hawthorne,SB,2514,60,60,2387,0,0
+2020-09-22,Unincorporated - Hi Vista,AV,1098,7,7,638,0,0
+2020-09-22,Unincorporated - Kagel/Lopez Canyons,SFV,1412,37,37,2620,1,71
+2020-09-22,Unincorporated - La Crescenta-Montrose,SFV,19804,198,198,1000,2,10
 2020-09-22,Unincorporated - La Habra Heights,E,676,0,0,0,0,0
-2020-09-22,Unincorporated - La Rambla,SGV,2075,78,1,3759,12,578
-2020-09-22,Unincorporated - La Verne,SGV,2040,34,0,1667,0,0
-2020-09-22,Unincorporated - Ladera Heights,W,7070,95,0,1344,3,42
-2020-09-22,Unincorporated - Lake Hughes,AV,668,3,0,449,0,0
-2020-09-22,Unincorporated - Lake Los Angeles,AV,12994,223,1,1716,4,31
-2020-09-22,Unincorporated - Lake Manor,SFV,1643,24,0,1461,0,0
+2020-09-22,Unincorporated - La Rambla,SGV,2075,78,78,3759,12,578
+2020-09-22,Unincorporated - La Verne,SGV,2040,34,34,1667,0,0
+2020-09-22,Unincorporated - Ladera Heights,W,7070,95,95,1344,3,42
+2020-09-22,Unincorporated - Lake Hughes,AV,668,3,3,449,0,0
+2020-09-22,Unincorporated - Lake Los Angeles,AV,12994,223,223,1716,4,31
+2020-09-22,Unincorporated - Lake Manor,SFV,1643,24,24,1461,0,0
 2020-09-22,Unincorporated - Lakewood,E,0,0,0,0,0,0
-2020-09-22,Unincorporated - Lennox,SB,22543,697,0,3092,6,27
-2020-09-22,Unincorporated - Leona Valley,AV,1751,18,0,1028,0,0
-2020-09-22,Unincorporated - Littlerock,AV,4021,84,0,2089,0,0
-2020-09-22,Unincorporated - Littlerock/Juniper Hills,AV,1297,9,0,694,0,0
-2020-09-22,Unincorporated - Littlerock/Pearblossom,AV,3569,90,0,2522,0,0
-2020-09-22,Unincorporated - Llano,AV,877,3,0,342,0,0
-2020-09-22,Unincorporated - Marina del Rey,W,9409,69,1,733,1,11
+2020-09-22,Unincorporated - Lennox,SB,22543,697,697,3092,6,27
+2020-09-22,Unincorporated - Leona Valley,AV,1751,18,18,1028,0,0
+2020-09-22,Unincorporated - Littlerock,AV,4021,84,84,2089,0,0
+2020-09-22,Unincorporated - Littlerock/Juniper Hills,AV,1297,9,9,694,0,0
+2020-09-22,Unincorporated - Littlerock/Pearblossom,AV,3569,90,90,2522,0,0
+2020-09-22,Unincorporated - Llano,AV,877,3,3,342,0,0
+2020-09-22,Unincorporated - Marina del Rey,W,9409,69,69,733,1,11
 2020-09-22,Unincorporated - Miracle Mile,MLA,0,0,0,0,0,0
-2020-09-22,Unincorporated - Monrovia,SGV,3881,80,0,2061,0,0
-2020-09-22,Unincorporated - Newhall,SFV,220,7,0,3182,0,0
-2020-09-22,Unincorporated - North Lancaster,AV,1198,18,0,1503,0,0
-2020-09-22,Unincorporated - North Whittier,W,8360,205,0,2452,10,120
-2020-09-22,Unincorporated - Northeast San Gabriel,SGV,24032,333,3,1385,8,33
-2020-09-22,Unincorporated - Padua Hills,SGV,215,3,0,1395,0,0
-2020-09-22,Unincorporated - Palmdale,AV,842,21,0,2494,0,0
-2020-09-22,Unincorporated - Palos Verdes Peninsula,SB,621,3,0,483,0,0
-2020-09-22,Unincorporated - Pearblossom/Llano,AV,1957,24,0,1227,1,51
-2020-09-22,Unincorporated - Pellissier Village,SGV,619,27,1,4362,0,0
+2020-09-22,Unincorporated - Monrovia,SGV,3881,80,80,2061,0,0
+2020-09-22,Unincorporated - Newhall,SFV,220,7,7,3182,0,0
+2020-09-22,Unincorporated - North Lancaster,AV,1198,18,18,1503,0,0
+2020-09-22,Unincorporated - North Whittier,W,8360,205,205,2452,10,120
+2020-09-22,Unincorporated - Northeast San Gabriel,SGV,24032,333,333,1385,8,33
+2020-09-22,Unincorporated - Padua Hills,SGV,215,3,3,1395,0,0
+2020-09-22,Unincorporated - Palmdale,AV,842,21,21,2494,0,0
+2020-09-22,Unincorporated - Palos Verdes Peninsula,SB,621,3,3,483,0,0
+2020-09-22,Unincorporated - Pearblossom/Llano,AV,1957,24,24,1227,1,51
+2020-09-22,Unincorporated - Pellissier Village,SGV,619,27,27,4362,0,0
 2020-09-22,Unincorporated - Placerita Canyon,SGV,0,0,0,0,0,0
-2020-09-22,Unincorporated - Pomona,SGV,1939,16,0,826,1,52
-2020-09-22,Unincorporated - Quartz Hill,AV,12908,172,0,1333,11,85
-2020-09-22,Unincorporated - Rancho Dominguez,S,2661,72,0,2706,2,75
-2020-09-22,Unincorporated - Roosevelt,S,931,8,0,859,0,0
-2020-09-22,Unincorporated - Rosewood,S,1286,28,0,2177,0,0
-2020-09-22,Unincorporated - Rosewood/East Gardena,S,1193,28,0,2347,1,84
-2020-09-22,Unincorporated - Rosewood/West Rancho Dominguez,S,3361,107,1,3184,0,0
-2020-09-22,Unincorporated - Rowland Heights,SGV,51027,653,3,1280,14,27
+2020-09-22,Unincorporated - Pomona,SGV,1939,16,16,826,1,52
+2020-09-22,Unincorporated - Quartz Hill,AV,12908,172,172,1333,11,85
+2020-09-22,Unincorporated - Rancho Dominguez,S,2661,72,72,2706,2,75
+2020-09-22,Unincorporated - Roosevelt,S,931,8,8,859,0,0
+2020-09-22,Unincorporated - Rosewood,S,1286,28,28,2177,0,0
+2020-09-22,Unincorporated - Rosewood/East Gardena,S,1193,28,28,2347,1,84
+2020-09-22,Unincorporated - Rosewood/West Rancho Dominguez,S,3361,107,107,3184,0,0
+2020-09-22,Unincorporated - Rowland Heights,SGV,51027,653,653,1280,14,27
 2020-09-22,Unincorporated - San Clemente Island,SB,0,0,0,0,0,0
 2020-09-22,Unincorporated - San Francisquito Canyon/Bouquet Canyon,SFV,857,0,0,0,0,0
-2020-09-22,Unincorporated - San Jose Hills,SGV,20220,712,7,3521,10,49
-2020-09-22,Unincorporated - San Pasqual,SGV,2034,10,0,491,0,0
-2020-09-22,Unincorporated - Sand Canyon,AV,308,6,0,1948,0,0
-2020-09-22,Unincorporated - Santa Catalina Island,SB,267,25,0,9363,0,0
-2020-09-22,Unincorporated - Santa Monica Mountains,W,18618,113,0,607,1,5
-2020-09-22,Unincorporated - Saugus,SFV,155,27,0,17419,0,0
-2020-09-22,Unincorporated - Saugus/Canyon Country,SFV,356,1,0,281,0,0
-2020-09-22,Unincorporated - South Antelope Valley,AV,455,6,0,1319,0,0
-2020-09-22,Unincorporated - South El Monte,SGV,1795,87,1,4847,0,0
-2020-09-22,Unincorporated - South San Gabriel,SGV,8849,176,0,1989,5,57
-2020-09-22,Unincorporated - South Whittier,SGV,59224,1740,7,2938,31,52
-2020-09-22,Unincorporated - Southeast Antelope Valley,AV,781,13,0,1665,0,0
-2020-09-22,Unincorporated - Stevenson Ranch,SFV,20966,159,0,758,2,10
-2020-09-22,Unincorporated - Sun Village,AV,6036,161,1,2667,2,33
-2020-09-22,Unincorporated - Sunrise Village,SGV,1296,53,0,4090,0,0
-2020-09-22,Unincorporated - Twin Lakes/Oat Mountain,SFV,1658,12,0,724,1,60
-2020-09-22,Unincorporated - Val Verde,AV,3309,69,0,2085,1,30
-2020-09-22,Unincorporated - Valencia,SFV,3071,42,0,1367,1,33
-2020-09-22,Unincorporated - Valinda,SGV,23372,739,2,3162,7,30
-2020-09-22,Unincorporated - View Park/Windsor Hills,S,11633,142,0,1220,3,26
-2020-09-22,Unincorporated - Walnut Park,S,16143,696,-1,4311,12,74
-2020-09-22,Unincorporated - West Antelope Valley,AV,1512,5,0,331,0,0
-2020-09-22,Unincorporated - West Carson,SB,22083,434,9,1965,35,158
+2020-09-22,Unincorporated - San Jose Hills,SGV,20220,712,712,3521,10,49
+2020-09-22,Unincorporated - San Pasqual,SGV,2034,10,10,491,0,0
+2020-09-22,Unincorporated - Sand Canyon,AV,308,6,6,1948,0,0
+2020-09-22,Unincorporated - Santa Catalina Island,SB,267,25,25,9363,0,0
+2020-09-22,Unincorporated - Santa Monica Mountains,W,18618,113,113,607,1,5
+2020-09-22,Unincorporated - Saugus,SFV,155,27,27,17419,0,0
+2020-09-22,Unincorporated - Saugus/Canyon Country,SFV,356,1,1,281,0,0
+2020-09-22,Unincorporated - South Antelope Valley,AV,455,6,6,1319,0,0
+2020-09-22,Unincorporated - South El Monte,SGV,1795,87,87,4847,0,0
+2020-09-22,Unincorporated - South San Gabriel,SGV,8849,176,176,1989,5,57
+2020-09-22,Unincorporated - South Whittier,SGV,59224,1740,1740,2938,31,52
+2020-09-22,Unincorporated - Southeast Antelope Valley,AV,781,13,13,1665,0,0
+2020-09-22,Unincorporated - Stevenson Ranch,SFV,20966,159,159,758,2,10
+2020-09-22,Unincorporated - Sun Village,AV,6036,161,161,2667,2,33
+2020-09-22,Unincorporated - Sunrise Village,SGV,1296,53,53,4090,0,0
+2020-09-22,Unincorporated - Twin Lakes/Oat Mountain,SFV,1658,12,12,724,1,60
+2020-09-22,Unincorporated - Val Verde,AV,3309,69,69,2085,1,30
+2020-09-22,Unincorporated - Valencia,SFV,3071,42,42,1367,1,33
+2020-09-22,Unincorporated - Valinda,SGV,23372,739,739,3162,7,30
+2020-09-22,Unincorporated - View Park/Windsor Hills,S,11633,142,142,1220,3,26
+2020-09-22,Unincorporated - Walnut Park,S,16143,696,696,4311,12,74
+2020-09-22,Unincorporated - West Antelope Valley,AV,1512,5,5,331,0,0
+2020-09-22,Unincorporated - West Carson,SB,22083,434,434,1965,35,158
 2020-09-22,Unincorporated - West Chatsworth,SFV,0,0,0,0,0,0
-2020-09-22,Unincorporated - West LA,W,952,43,0,4517,2,210
-2020-09-22,Unincorporated - West Puente Valley,SGV,9835,379,0,3854,3,31
-2020-09-22,Unincorporated - West Rancho Dominguez,S,1359,22,0,1619,3,221
-2020-09-22,Unincorporated - West Whittier/Los Nietos,E,26923,970,6,3603,15,56
-2020-09-22,Unincorporated - Westfield/Academy Hills,TBD,1300,7,0,538,0,0
-2020-09-22,Unincorporated - Westhills,SFV,839,9,0,1073,0,0
-2020-09-22,Unincorporated - White Fence Farms,AV,3683,44,0,1195,0,0
-2020-09-22,Unincorporated - Whittier Narrows,E,12,2,0,16667,0,0
-2020-09-22,Unincorporated - Whittier,SGV,3784,65,0,1718,2,53
-2020-09-22,Unincorporated - Willowbrook,S,34912,1437,3,4116,20,57
-2020-09-22,Unincorporated - Wiseburn,SB,6026,124,2,2057,1,17
+2020-09-22,Unincorporated - West LA,W,952,43,43,4517,2,210
+2020-09-22,Unincorporated - West Puente Valley,SGV,9835,379,379,3854,3,31
+2020-09-22,Unincorporated - West Rancho Dominguez,S,1359,22,22,1619,3,221
+2020-09-22,Unincorporated - West Whittier/Los Nietos,E,26923,970,970,3603,15,56
+2020-09-22,Unincorporated - Westfield/Academy Hills,TBD,1300,7,7,538,0,0
+2020-09-22,Unincorporated - Westhills,SFV,839,9,9,1073,0,0
+2020-09-22,Unincorporated - White Fence Farms,AV,3683,44,44,1195,0,0
+2020-09-22,Unincorporated - Whittier Narrows,E,12,2,2,16667,0,0
+2020-09-22,Unincorporated - Whittier,SGV,3784,65,65,1718,2,53
+2020-09-22,Unincorporated - Willowbrook,S,34912,1437,1437,4116,20,57
+2020-09-22,Unincorporated - Wiseburn,SB,6026,124,124,2057,1,17
 2020-09-23,City of Agoura Hills,SFV,20876,160,2,766,1,5
 2020-09-23,City of Alhambra,SGV,86702,1234,5,1423,26,30
 2020-09-23,City of Arcadia,SGV,57778,486,7,842,33,57
@@ -20399,3 +20059,343 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-11-19,Unincorporated - Whittier,SGV,3784,86,4,2273,3,79
 2020-11-19,Unincorporated - Willowbrook,S,34912,1784,28,5110,23,66
 2020-11-19,Unincorporated - Wiseburn,SB,6026,155,0,2572,1,17
+2020-11-20,City of Agoura Hills,SFV,20876,262,0,1255,6,29
+2020-11-20,City of Alhambra,SGV,86702,1656,0,1910,34,39
+2020-11-20,City of Arcadia,SGV,57778,676,0,1170,44,76
+2020-11-20,City of Artesia,E,16794,485,0,2888,11,65
+2020-11-20,City of Avalon,SB,3876,5,0,129,0,0
+2020-11-20,City of Azusa,SGV,50037,2011,0,4019,25,50
+2020-11-20,City of Baldwin Park,SGV,76768,3919,0,5105,107,139
+2020-11-20,City of Bell Gardens,E,43072,2524,0,5860,27,63
+2020-11-20,City of Bell,E,36330,1988,0,5472,45,124
+2020-11-20,City of Bellflower,E,77738,3024,0,3890,64,82
+2020-11-20,City of Beverly Hills,W,34524,870,0,2520,12,35
+2020-11-20,City of Bradbury,SGV,1069,21,0,1964,0,0
+2020-11-20,City of Burbank,SFV,107195,2339,0,2182,78,73
+2020-11-20,City of Calabasas,SFV,24326,370,0,1521,14,58
+2020-11-20,City of Carson,SB,93858,2338,0,2491,67,71
+2020-11-20,City of Cerritos,E,50067,743,0,1484,17,34
+2020-11-20,City of Claremont,SGV,36480,572,0,1568,11,30
+2020-11-20,City of Commerce,E,13069,761,0,5823,13,99
+2020-11-20,City of Compton,S,99901,5058,0,5063,83,83
+2020-11-20,City of Covina,SGV,49033,1800,0,3671,60,122
+2020-11-20,City of Cudahy,E,24347,1399,0,5746,18,74
+2020-11-20,City of Culver City,W,39864,527,0,1322,28,70
+2020-11-20,City of Diamond Bar,SGV,57523,799,0,1389,13,23
+2020-11-20,City of Downey,E,114259,5401,0,4727,94,82
+2020-11-20,City of Duarte,SGV,22019,722,0,3279,32,145
+2020-11-20,City of El Monte,SGV,117281,5599,0,4774,176,150
+2020-11-20,City of El Segundo,SB,16779,174,0,1037,1,6
+2020-11-20,City of Gardena,E,61310,1526,0,2489,58,95
+2020-11-20,City of Glendale,SFV,206491,5472,0,2650,187,91
+2020-11-20,City of Glendora,SGV,52766,1545,0,2928,79,150
+2020-11-20,City of Hawaiian Gardens,E,14677,643,0,4381,3,20
+2020-11-20,City of Hawthorne,SB,88786,2502,0,2818,52,59
+2020-11-20,City of Hermosa Beach,SB,19674,314,0,1596,4,20
+2020-11-20,City of Hidden Hills,SFV,1890,23,0,1217,0,0
+2020-11-20,City of Huntington Park,E,59481,3601,0,6054,65,109
+2020-11-20,City of Industry,SGV,437,57,0,13043,2,458
+2020-11-20,City of Inglewood,SB,113565,3692,0,3251,94,83
+2020-11-20,City of Irwindale,SGV,1459,86,0,5894,2,137
+2020-11-20,City of La Canada Flintridge,SGV,20687,229,0,1107,6,29
+2020-11-20,City of La Habra Heights,E,5453,68,0,1247,1,18
+2020-11-20,City of La Mirada,E,49598,1110,0,2238,27,54
+2020-11-20,City of La Puente,SGV,40701,1963,0,4823,28,69
+2020-11-20,City of La Verne,SGV,33286,698,0,2097,14,42
+2020-11-20,City of Lakewood,E,80357,1665,0,2072,16,20
+2020-11-20,City of Lancaster,AV,161566,5448,0,3372,69,43
+2020-11-20,City of Lawndale,SB,33617,869,0,2585,12,36
+2020-11-20,City of Lomita,SB,20728,302,0,1457,9,43
+2020-11-20,City of Lynwood,S,72048,4119,0,5717,108,150
+2020-11-20,City of Malibu,W,12963,140,0,1080,3,23
+2020-11-20,City of Manhattan Beach,SB,35997,473,0,1314,5,14
+2020-11-20,City of Maywood,E,28048,1721,0,6136,38,135
+2020-11-20,City of Monrovia,SGV,38804,986,0,2541,42,108
+2020-11-20,City of Montebello,E,64374,3014,0,4682,54,84
+2020-11-20,City of Monterey Park,SGV,62255,1209,0,1942,52,84
+2020-11-20,City of Norwalk,E,107628,4388,0,4077,91,85
+2020-11-20,City of Palmdale,AV,158978,6534,0,4110,82,52
+2020-11-20,City of Palos Verdes Estates,SB,13528,125,0,924,2,15
+2020-11-20,City of Paramount,S,56020,3029,0,5407,31,55
+2020-11-20,City of Pico Rivera,E,64289,3208,0,4990,83,129
+2020-11-20,City of Pomona,SGV,155932,7360,0,4720,147,94
+2020-11-20,City of Rancho Palos Verdes,SB,42730,385,0,901,13,30
+2020-11-20,City of Redondo Beach,SB,68668,789,0,1149,12,17
+2020-11-20,City of Rolling Hills Estates,SB,8112,61,0,752,3,37
+2020-11-20,City of Rolling Hills,SB,1939,12,0,619,0,0
+2020-11-20,City of Rosemead,SGV,55344,1165,0,2105,32,58
+2020-11-20,City of San Dimas,SGV,34514,760,0,2202,15,43
+2020-11-20,City of San Fernando,SFV,24610,1404,0,5705,20,81
+2020-11-20,City of San Gabriel,SGV,40954,867,0,2117,73,178
+2020-11-20,City of San Marino,SGV,13275,107,0,806,2,15
+2020-11-20,City of Santa Clarita,SFV,220447,5423,0,2460,65,29
+2020-11-20,City of Santa Fe Springs,E,18365,721,0,3926,7,38
+2020-11-20,City of Santa Monica,W,92465,1313,0,1420,41,44
+2020-11-20,City of Sierra Madre,SGV,10992,113,0,1028,4,36
+2020-11-20,City of Signal Hill,E,11795,364,0,3086,4,34
+2020-11-20,City of South El Monte,SGV,20886,1056,0,5056,17,81
+2020-11-20,City of South Gate,E,98149,5622,0,5728,77,78
+2020-11-20,City of South Pasadena,SGV,26047,367,0,1409,26,100
+2020-11-20,City of Temple City,SGV,36451,647,0,1775,43,118
+2020-11-20,City of Torrance,SB,149303,1820,0,1219,72,48
+2020-11-20,City of Vernon,E,209,17,0,8134,0,0
+2020-11-20,City of Walnut,SGV,30525,413,0,1353,6,20
+2020-11-20,City of West Covina,SGV,108221,3765,0,3479,74,68
+2020-11-20,City of West Hollywood,W,36955,847,0,2292,8,22
+2020-11-20,City of Westlake Village,SFV,8362,48,0,574,0,0
+2020-11-20,City of Whittier,E,87436,3083,0,3526,43,49
+2020-11-20,Los Angeles - Adams-Normandie,S,8202,353,0,4304,5,61
+2020-11-20,Los Angeles - Alsace,W,12446,488,0,3921,3,24
+2020-11-20,Los Angeles - Angeles National Forest,AV,40,2,0,5000,0,0
+2020-11-20,Los Angeles - Angelino Heights,MLA,2502,83,0,3317,1,40
+2020-11-20,Los Angeles - Arleta,SFV,34370,2100,0,6110,28,81
+2020-11-20,Los Angeles - Atwater Village,MLA,14666,353,0,2407,8,55
+2020-11-20,Los Angeles - Baldwin Hills,S,31126,799,0,2567,29,93
+2020-11-20,Los Angeles - Bel Air,W,8430,116,0,1376,0,0
+2020-11-20,Los Angeles - Beverly Crest,W,12526,180,0,1437,2,16
+2020-11-20,Los Angeles - Beverlywood,W,13174,220,0,1670,0,0
+2020-11-20,Los Angeles - Boyle Heights,MLA,86881,5424,0,6243,81,93
+2020-11-20,Los Angeles - Brentwood,W,30949,437,0,1412,4,13
+2020-11-20,Los Angeles - Brookside,MLA,581,6,0,1033,0,0
+2020-11-20,Los Angeles - Cadillac-Corning,W,7122,174,0,2443,1,14
+2020-11-20,Los Angeles - Canoga Park,SFV,65283,2689,0,4119,65,100
+2020-11-20,Los Angeles - Carthay,MLA,14362,294,0,2047,17,118
+2020-11-20,Los Angeles - Central,MLA,38990,2617,0,6712,44,113
+2020-11-20,Los Angeles - Century City,W,12792,175,0,1368,0,0
+2020-11-20,Los Angeles - Century Palms/Cove,S,33766,1849,0,5476,23,68
+2020-11-20,Los Angeles - Chatsworth,SFV,37056,959,0,2588,38,103
+2020-11-20,Los Angeles - Cheviot Hills,W,9168,119,0,1298,3,33
+2020-11-20,Los Angeles - Chinatown,MLA,8020,192,0,2394,3,37
+2020-11-20,Los Angeles - Cloverdale/Cochran,MLA,14551,400,0,2749,5,34
+2020-11-20,Los Angeles - Country Club Park,MLA,15152,460,0,3036,36,238
+2020-11-20,Los Angeles - Crenshaw District,S,13828,406,0,2936,5,36
+2020-11-20,Los Angeles - Crestview,W,11369,245,0,2155,22,194
+2020-11-20,Los Angeles - Del Rey,W,29929,504,0,1684,10,33
+2020-11-20,Los Angeles - Downtown,MLA,27510,1074,0,3904,18,65
+2020-11-20,Los Angeles - Eagle Rock,MLA,39590,907,0,2291,28,71
+2020-11-20,Los Angeles - East Hollywood,MLA,29285,844,0,2882,45,154
+2020-11-20,Los Angeles - Echo Park,MLA,14258,370,0,2595,6,42
+2020-11-20,Los Angeles - El Sereno,MLA,41812,1708,0,4085,37,88
+2020-11-20,Los Angeles - Elysian Park,MLA,5713,131,0,2293,0,0
+2020-11-20,Los Angeles - Elysian Valley,MLA,10171,357,0,3510,5,49
+2020-11-20,Los Angeles - Encino,SFV,45182,994,0,2200,21,46
+2020-11-20,Los Angeles - Exposition Park,S,44914,1731,0,3854,27,60
+2020-11-20,Los Angeles - Exposition,S,3326,87,0,2616,2,60
+2020-11-20,Los Angeles - Faircrest Heights,MLA,3599,51,0,1417,2,56
+2020-11-20,Los Angeles - Figueroa Park Square,S,8722,406,0,4655,5,57
+2020-11-20,Los Angeles - Florence-Firestone,S,47442,2884,0,6079,37,78
+2020-11-20,Los Angeles - Glassell Park,MLA,31607,940,0,2974,15,47
+2020-11-20,Los Angeles - Gramercy Place,S,10765,321,0,2982,6,56
+2020-11-20,Los Angeles - Granada Hills,SFV,58188,1773,0,3047,69,119
+2020-11-20,Los Angeles - Green Meadows,S,21506,1168,0,5431,16,74
+2020-11-20,Los Angeles - Hancock Park,MLA,17037,314,0,1843,4,23
+2020-11-20,Los Angeles - Harbor City,SB,29075,635,0,2184,12,41
+2020-11-20,Los Angeles - Harbor Gateway,SB,43603,1244,0,2853,19,44
+2020-11-20,Los Angeles - Harbor Pines,SB,2410,38,0,1577,0,0
+2020-11-20,Los Angeles - Harvard Heights,MLA,18034,677,0,3754,24,133
+2020-11-20,Los Angeles - Harvard Park,S,37938,2002,0,5277,25,66
+2020-11-20,Los Angeles - Highland Park,MLA,48395,1538,0,3178,23,48
+2020-11-20,Los Angeles - Historic Filipinotown,MLA,13869,556,0,4009,16,115
+2020-11-20,Los Angeles - Hollywood Hills,MLA,29439,504,0,1712,7,24
+2020-11-20,Los Angeles - Hollywood,MLA,68248,1683,0,2466,18,26
+2020-11-20,Los Angeles - Hyde Park,S,28538,986,0,3455,15,53
+2020-11-20,Los Angeles - Jefferson Park,S,8072,335,0,4150,1,12
+2020-11-20,Los Angeles - Koreatown,MLA,51687,1471,0,2846,34,66
+2020-11-20,Los Angeles - Lafayette Square,MLA,4559,123,0,2698,3,66
+2020-11-20,Los Angeles - Lake Balboa,SFV,42208,1468,0,3478,22,52
+2020-11-20,Los Angeles - Lakeview Terrace,SFV,13132,743,0,5658,23,175
+2020-11-20,Los Angeles - Leimert Park,S,15237,412,0,2704,8,53
+2020-11-20,Los Angeles - Lincoln Heights,MLA,32600,1393,0,4273,49,150
+2020-11-20,Los Angeles - Little Armenia,MLA,8025,442,0,5508,52,648
+2020-11-20,Los Angeles - Little Bangladesh,MLA,28348,688,0,2427,6,21
+2020-11-20,Los Angeles - Little Tokyo,MLA,3133,130,0,4149,2,64
+2020-11-20,Los Angeles - Longwood,MLA,4304,144,0,3346,0,0
+2020-11-20,Los Angeles - Los Feliz,MLA,21605,323,0,1495,3,14
+2020-11-20,Los Angeles - Manchester Square,SB,8536,263,0,3081,5,59
+2020-11-20,Los Angeles - Mandeville Canyon,W,3125,36,0,1152,0,0
+2020-11-20,Los Angeles - Mar Vista,W,42468,468,0,1102,7,16
+2020-11-20,Los Angeles - Marina Peninsula,W,4359,53,0,1216,1,23
+2020-11-20,Los Angeles - Melrose,MLA,77699,2533,0,3260,76,98
+2020-11-20,Los Angeles - Mid-city,MLA,15028,347,0,2309,23,153
+2020-11-20,Los Angeles - Miracle Mile,MLA,17985,266,0,1479,6,33
+2020-11-20,Los Angeles - Mission Hills,SFV,24124,1225,0,5078,59,245
+2020-11-20,Los Angeles - Mt. Washington,MLA,24144,726,0,3007,16,66
+2020-11-20,Los Angeles - North Hills,SFV,61575,2564,0,4164,49,80
+2020-11-20,Los Angeles - North Hollywood,SFV,151416,5613,0,3707,81,53
+2020-11-20,Los Angeles - Northridge,SFV,69795,2008,0,2877,49,70
+2020-11-20,Los Angeles - Pacific Palisades,W,21295,194,0,911,4,19
+2020-11-20,Los Angeles - Pacoima,SFV,76978,4992,0,6485,68,88
+2020-11-20,Los Angeles - Palisades Highlands,W,3846,43,0,1118,0,0
+2020-11-20,Los Angeles - Palms,W,43887,682,0,1554,31,71
+2020-11-20,Los Angeles - Panorama City,SFV,75247,4034,0,5361,101,134
+2020-11-20,Los Angeles - Park La Brea,MLA,13575,172,0,1267,1,7
+2020-11-20,Los Angeles - Pico-Union,MLA,41842,2144,0,5124,96,229
+2020-11-20,Los Angeles - Playa Del Rey,W,3196,41,0,1283,0,0
+2020-11-20,Los Angeles - Playa Vista,W,10945,176,0,1608,0,0
+2020-11-20,Los Angeles - Porter Ranch,SFV,35590,573,0,1610,8,22
+2020-11-20,Los Angeles - Rancho Park,W,6560,115,0,1753,0,0
+2020-11-20,Los Angeles - Regent Square,W,2780,39,0,1403,0,0
+2020-11-20,Los Angeles - Reseda Ranch,SFV,4636,182,0,3926,1,22
+2020-11-20,Los Angeles - Reseda,SFV,76624,3232,0,4218,94,123
+2020-11-20,Los Angeles - Reynier Village,W,4228,55,0,1301,0,0
+2020-11-20,Los Angeles - San Pedro,SB,78027,2333,0,2990,30,38
+2020-11-20,Los Angeles - Shadow Hills,SFV,4442,105,0,2364,0,0
+2020-11-20,Los Angeles - Sherman Oaks,SFV,87240,1593,0,1826,32,37
+2020-11-20,Los Angeles - Silverlake,MLA,44089,869,0,1971,18,41
+2020-11-20,Los Angeles - South Carthay,MLA,10595,162,0,1529,2,19
+2020-11-20,Los Angeles - South Park,S,37959,2459,0,6478,32,84
+2020-11-20,Los Angeles - St Elmo Village,MLA,4584,178,0,3883,8,175
+2020-11-20,Los Angeles - Studio City,SFV,22444,349,0,1555,9,40
+2020-11-20,Los Angeles - Sun Valley,SFV,52481,2475,0,4716,35,67
+2020-11-20,Los Angeles - Sunland,SFV,20411,626,0,3067,32,157
+2020-11-20,Los Angeles - Sycamore Square,SFV,647,8,0,1236,0,0
+2020-11-20,Los Angeles - Sylmar,SFV,82402,4687,0,5688,94,114
+2020-11-20,Los Angeles - Tarzana,SFV,30880,1007,0,3261,37,120
+2020-11-20,Los Angeles - Temple-Beaudry,MLA,39481,1537,0,3893,30,76
+2020-11-20,Los Angeles - Thai Town,MLA,9810,269,0,2742,3,31
+2020-11-20,Los Angeles - Toluca Lake,SFV,8704,143,0,1643,2,23
+2020-11-20,Los Angeles - Toluca Terrace,SFV,1306,30,0,2297,1,77
+2020-11-20,Los Angeles - Toluca Woods,SFV,1858,33,0,1776,0,0
+2020-11-20,Los Angeles - Tujunga,SFV,27811,784,0,2819,18,65
+2020-11-20,Los Angeles - University Hills,SGV,3429,74,0,2158,1,29
+2020-11-20,Los Angeles - University Park,S,27454,1404,0,5114,21,76
+2020-11-20,Los Angeles - Valley Glen,SFV,30015,980,0,3265,24,80
+2020-11-20,Los Angeles - Valley Village,SFV,24721,664,0,2686,28,113
+2020-11-20,Los Angeles - Van Nuys,SFV,93196,4287,0,4600,100,107
+2020-11-20,Los Angeles - Venice,W,33895,463,0,1366,3,9
+2020-11-20,Los Angeles - Vermont Knolls,S,17200,850,0,4942,16,93
+2020-11-20,Los Angeles - Vermont Square,S,7657,422,0,5511,5,65
+2020-11-20,Los Angeles - Vermont Vista,S,41189,2335,0,5669,26,63
+2020-11-20,Los Angeles - Vernon Central,S,51998,3631,0,6983,47,90
+2020-11-20,Los Angeles - Victoria Park,MLA,8399,266,0,3167,3,36
+2020-11-20,Los Angeles - View Heights,S,3693,64,0,1733,3,81
+2020-11-20,Los Angeles - Watts,S,42675,2371,0,5556,36,84
+2020-11-20,Los Angeles - Wellington Square,MLA,4915,165,0,3357,2,41
+2020-11-20,Los Angeles - West Adams,MLA,27630,1145,0,4144,44,159
+2020-11-20,Los Angeles - West Hills,SFV,40553,777,0,1916,42,104
+2020-11-20,Los Angeles - West Los Angeles,W,37629,657,0,1746,17,45
+2020-11-20,Los Angeles - West Vernon,S,53640,2888,0,5384,57,106
+2020-11-20,Los Angeles - Westchester,W,51602,596,0,1155,15,29
+2020-11-20,Los Angeles - Westlake,MLA,59359,2851,0,4803,150,253
+2020-11-20,Los Angeles - Westwood,W,54102,666,0,1231,7,13
+2020-11-20,Los Angeles - Wholesale District,MLA,36129,2826,0,7822,34,94
+2020-11-20,Los Angeles - Wilmington,SB,56493,2223,0,3935,30,53
+2020-11-20,Los Angeles - Wilshire Center,MLA,50173,1450,0,2890,39,78
+2020-11-20,Los Angeles - Winnetka,SFV,51782,1860,0,3592,23,44
+2020-11-20,Los Angeles - Woodland Hills,SFV,68049,1395,0,2050,38,56
+2020-11-20,Unincorporated - Acton,AV,7974,98,0,1229,3,38
+2020-11-20,Unincorporated - Agua Dulce,AV,4157,54,0,1299,0,0
+2020-11-20,Unincorporated - Altadena,SGV,43616,895,0,2052,19,44
+2020-11-20,Unincorporated - Anaverde,AV,1508,28,0,1857,0,0
+2020-11-20,Unincorporated - Angeles National Forest,AV,1245,6,0,482,0,0
+2020-11-20,Unincorporated - Arcadia,SGV,7981,132,0,1654,4,50
+2020-11-20,Unincorporated - Athens Village,S,4897,309,0,6310,11,225
+2020-11-20,Unincorporated - Athens-Westmont,S,42438,1894,0,4463,33,78
+2020-11-20,Unincorporated - Avocado Heights,SGV,6775,353,0,5210,4,59
+2020-11-20,Unincorporated - Azusa,SGV,15922,659,0,4139,7,44
+2020-11-20,Unincorporated - Bassett,SGV,14818,815,0,5500,10,67
+2020-11-20,Unincorporated - Bouquet Canyon,SFV,1073,16,0,1491,1,93
+2020-11-20,Unincorporated - Bradbury,SGV,108,7,0,6481,1,926
+2020-11-20,Unincorporated - Canyon Country,SFV,7728,198,0,2562,0,0
+2020-11-20,Unincorporated - Castaic,SFV,27192,2298,0,8451,6,22
+2020-11-20,Unincorporated - Cerritos,E,587,25,0,4259,0,0
+2020-11-20,Unincorporated - Charter Oak,SGV,0,0,0,0,0,0
+2020-11-20,Unincorporated - Claremont,SGV,702,27,0,3846,4,570
+2020-11-20,Unincorporated - Covina (Charter Oak),SGV,13146,425,0,3233,3,23
+2020-11-20,Unincorporated - Covina,SGV,16819,608,0,3615,9,54
+2020-11-20,Unincorporated - Del Aire,SB,4394,92,0,2094,2,46
+2020-11-20,Unincorporated - Del Rey,W,318,4,0,1258,0,0
+2020-11-20,Unincorporated - Del Sur,AV,2415,34,0,1408,1,41
+2020-11-20,Unincorporated - Desert View Highlands,AV,2493,77,0,3089,1,40
+2020-11-20,Unincorporated - Duarte,SGV,4428,196,0,4426,4,90
+2020-11-20,Unincorporated - East Covina,SGV,329,8,0,2432,0,0
+2020-11-20,Unincorporated - East La Mirada,E,5292,147,0,2778,1,19
+2020-11-20,Unincorporated - East Lancaster,AV,114,2,0,1754,0,0
+2020-11-20,Unincorporated - East Los Angeles,E,125274,8015,0,6398,122,97
+2020-11-20,Unincorporated - East Pasadena,SGV,6404,104,0,1624,2,31
+2020-11-20,Unincorporated - East Rancho Dominguez,S,15309,806,0,5265,16,105
+2020-11-20,Unincorporated - East Whittier,E,5307,122,0,2299,0,0
+2020-11-20,Unincorporated - El Camino Village,SB,8791,200,0,2275,3,34
+2020-11-20,Unincorporated - El Monte,SGV,145,7,0,4828,0,0
+2020-11-20,Unincorporated - Elizabeth Lake,AV,1661,10,0,602,0,0
+2020-11-20,Unincorporated - Florence-Firestone,S,64703,4295,0,6638,60,93
+2020-11-20,Unincorporated - Franklin Canyon,MLA,0,0,0,0,0,0
+2020-11-20,Unincorporated - Glendora,SGV,660,16,0,2424,0,0
+2020-11-20,Unincorporated - Hacienda Heights,SGV,55931,1424,0,2546,20,36
+2020-11-20,Unincorporated - Harbor Gateway,S,0,0,0,0,0,0
+2020-11-20,Unincorporated - Hawthorne,SB,2514,77,0,3063,0,0
+2020-11-20,Unincorporated - Hi Vista,AV,1098,9,0,820,0,0
+2020-11-20,Unincorporated - Kagel/Lopez Canyons,SFV,1412,51,0,3612,1,71
+2020-11-20,Unincorporated - La Crescenta-Montrose,SFV,19804,303,0,1530,2,10
+2020-11-20,Unincorporated - La Habra Heights,E,676,9,0,1331,0,0
+2020-11-20,Unincorporated - La Rambla,SGV,2075,83,0,4000,12,578
+2020-11-20,Unincorporated - La Verne,SGV,2040,46,0,2255,0,0
+2020-11-20,Unincorporated - Ladera Heights,W,7070,132,0,1867,3,42
+2020-11-20,Unincorporated - Lake Hughes,AV,668,10,0,1497,0,0
+2020-11-20,Unincorporated - Lake Los Angeles,AV,12994,401,0,3086,4,31
+2020-11-20,Unincorporated - Lake Manor,SFV,1643,30,0,1826,1,61
+2020-11-20,Unincorporated - Lakewood,E,0,0,0,0,0,0
+2020-11-20,Unincorporated - Lennox,SB,22543,906,0,4019,7,31
+2020-11-20,Unincorporated - Leona Valley,AV,1751,26,0,1485,0,0
+2020-11-20,Unincorporated - Littlerock,AV,4021,107,0,2661,1,25
+2020-11-20,Unincorporated - Littlerock/Juniper Hills,AV,1297,26,0,2005,0,0
+2020-11-20,Unincorporated - Littlerock/Pearblossom,AV,3569,129,0,3614,0,0
+2020-11-20,Unincorporated - Llano,AV,877,5,0,570,0,0
+2020-11-20,Unincorporated - Marina del Rey,W,9409,105,0,1116,0,0
+2020-11-20,Unincorporated - Miracle Mile,MLA,0,0,0,0,0,0
+2020-11-20,Unincorporated - Monrovia,SGV,3881,91,0,2345,0,0
+2020-11-20,Unincorporated - Newhall,SFV,220,31,0,14091,0,0
+2020-11-20,Unincorporated - North Lancaster,AV,1198,37,0,3088,2,167
+2020-11-20,Unincorporated - North Whittier,W,8360,292,0,3493,10,120
+2020-11-20,Unincorporated - Northeast San Gabriel,SGV,24032,478,0,1989,18,75
+2020-11-20,Unincorporated - Padua Hills,SGV,215,3,0,1395,0,0
+2020-11-20,Unincorporated - Palmdale,AV,842,29,0,3444,0,0
+2020-11-20,Unincorporated - Palos Verdes Peninsula,SB,621,6,0,966,0,0
+2020-11-20,Unincorporated - Pearblossom/Llano,AV,1957,28,0,1431,1,51
+2020-11-20,Unincorporated - Pellissier Village,SGV,619,43,0,6947,0,0
+2020-11-20,Unincorporated - Placerita Canyon,SGV,0,0,0,0,0,0
+2020-11-20,Unincorporated - Pomona,SGV,1939,19,0,980,1,52
+2020-11-20,Unincorporated - Quartz Hill,AV,12908,285,0,2208,11,85
+2020-11-20,Unincorporated - Rancho Dominguez,S,2661,100,0,3758,2,75
+2020-11-20,Unincorporated - Roosevelt,S,931,30,0,3222,0,0
+2020-11-20,Unincorporated - Rosewood,S,1286,43,0,3344,1,78
+2020-11-20,Unincorporated - Rosewood/East Gardena,S,1193,41,0,3437,1,84
+2020-11-20,Unincorporated - Rosewood/West Rancho Dominguez,S,3361,133,0,3957,1,30
+2020-11-20,Unincorporated - Rowland Heights,SGV,51027,919,0,1801,19,37
+2020-11-20,Unincorporated - San Clemente Island,SB,0,0,0,0,0,0
+2020-11-20,Unincorporated - San Francisquito Canyon/Bouquet Canyon,SFV,857,3,0,350,0,0
+2020-11-20,Unincorporated - San Jose Hills,SGV,20220,1046,0,5173,19,94
+2020-11-20,Unincorporated - San Pasqual,SGV,2034,13,0,639,0,0
+2020-11-20,Unincorporated - Sand Canyon,AV,308,7,0,2273,0,0
+2020-11-20,Unincorporated - Santa Catalina Island,SB,267,31,0,11610,0,0
+2020-11-20,Unincorporated - Santa Monica Mountains,W,18618,159,0,854,1,5
+2020-11-20,Unincorporated - Saugus,SFV,155,46,0,29677,0,0
+2020-11-20,Unincorporated - Saugus/Canyon Country,SFV,356,12,0,3371,0,0
+2020-11-20,Unincorporated - South Antelope Valley,AV,455,7,0,1538,0,0
+2020-11-20,Unincorporated - South El Monte,SGV,1795,114,0,6351,0,0
+2020-11-20,Unincorporated - South San Gabriel,SGV,8849,239,0,2701,7,79
+2020-11-20,Unincorporated - South Whittier,SGV,59224,2398,0,4049,39,66
+2020-11-20,Unincorporated - Southeast Antelope Valley,AV,781,19,0,2433,0,0
+2020-11-20,Unincorporated - Stevenson Ranch,SFV,20966,256,0,1221,3,14
+2020-11-20,Unincorporated - Sun Village,AV,6036,235,0,3893,3,50
+2020-11-20,Unincorporated - Sunrise Village,SGV,1296,68,0,5247,0,0
+2020-11-20,Unincorporated - Twin Lakes/Oat Mountain,SFV,1658,19,0,1146,2,121
+2020-11-20,Unincorporated - Val Verde,AV,3309,113,0,3415,1,30
+2020-11-20,Unincorporated - Valencia,SFV,3071,59,0,1921,1,33
+2020-11-20,Unincorporated - Valinda,SGV,23372,1084,0,4638,12,51
+2020-11-20,Unincorporated - View Park/Windsor Hills,S,11633,198,0,1702,3,26
+2020-11-20,Unincorporated - Walnut Park,S,16143,878,0,5439,15,93
+2020-11-20,Unincorporated - West Antelope Valley,AV,1512,8,0,529,0,0
+2020-11-20,Unincorporated - West Carson,SB,22083,547,0,2477,42,190
+2020-11-20,Unincorporated - West Chatsworth,SFV,0,0,0,0,0,0
+2020-11-20,Unincorporated - West LA,W,952,45,0,4727,2,210
+2020-11-20,Unincorporated - West Puente Valley,SGV,9835,495,0,5033,4,41
+2020-11-20,Unincorporated - West Rancho Dominguez,S,1359,26,0,1913,3,221
+2020-11-20,Unincorporated - West Whittier/Los Nietos,E,26923,1316,0,4888,18,67
+2020-11-20,Unincorporated - Westfield/Academy Hills,TBD,1300,13,0,1000,0,0
+2020-11-20,Unincorporated - Westhills,SFV,839,13,0,1549,0,0
+2020-11-20,Unincorporated - White Fence Farms,AV,3683,87,0,2362,0,0
+2020-11-20,Unincorporated - Whittier Narrows,E,12,3,0,25000,0,0
+2020-11-20,Unincorporated - Whittier,SGV,3784,86,0,2273,3,79
+2020-11-20,Unincorporated - Willowbrook,S,34912,1784,0,5110,23,66
+2020-11-20,Unincorporated - Wiseburn,SB,6026,155,0,2572,1,17
