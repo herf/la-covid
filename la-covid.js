@@ -46,6 +46,11 @@ function DFS(o, parser) {
 		}
 	}
 
+	if (o.type == 'tag' && o.name == 'table') {
+		if (parser.tablenum) parser.tablenum ++;
+		else parser.tablenum = 1;
+	}
+
 	if (o.type =='text') {
 
 		// very basic parser state:
@@ -55,8 +60,14 @@ function DFS(o, parser) {
 			}
 		}
 		if (o.content.indexOf("CITY/COMMUNITY") != -1) {
-			parser.inTable = true;
-			parser.table = [];
+
+			// don't use the secondary tables for now?
+			if (!parser.tablenum || parser.tablenum < 2) {
+				parser.table = [];
+				parser.inTable = 1;
+			} else {
+				console.log("Skipping table", parser.tablenum);
+			}
 		} 
 	}
 
