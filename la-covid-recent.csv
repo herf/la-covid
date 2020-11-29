@@ -225,7 +225,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-10-01,Los Angeles - Woodland Hills,SFV,68057,932,932,1369,34,50
 2020-10-01,Unincorporated - Acton,AV,7969,72,72,903,2,25
 2020-10-01,Unincorporated - Agua Dulce,AV,4158,28,28,673,0,0
-2020-10-01,Unincorporated - Altadena,SGV,43616,727,727,1667,15,34
+2020-10-01,Unincorporated - Altadena,SGV,43622,727,727,1667,15,34
 2020-10-01,Unincorporated - Anaverde,AV,1508,16,16,1061,0,0
 2020-10-01,Unincorporated - Angeles National Forest,AV,1245,6,6,482,0,0
 2020-10-01,Unincorporated - Arcadia,SGV,7980,93,93,1165,3,38
@@ -283,7 +283,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-10-01,Unincorporated - Llano,AV,877,3,3,342,0,0
 2020-10-01,Unincorporated - Marina del Rey,W,9415,71,71,754,1,11
 2020-10-01,Unincorporated - Miracle Mile,MLA,0,0,0,0,0,0
-2020-10-01,Unincorporated - Monrovia,SGV,3881,81,81,2087,0,0
+2020-10-01,Unincorporated - Monrovia,SGV,3882,81,81,2087,0,0
 2020-10-01,Unincorporated - Newhall,SFV,220,14,14,6364,0,0
 2020-10-01,Unincorporated - North Lancaster,AV,1198,19,19,1586,0,0
 2020-10-01,Unincorporated - North Whittier,W,8360,216,216,2584,10,120
@@ -565,7 +565,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-10-02,Los Angeles - Woodland Hills,SFV,68057,941,9,1383,34,50
 2020-10-02,Unincorporated - Acton,AV,7969,73,1,916,2,25
 2020-10-02,Unincorporated - Agua Dulce,AV,4158,28,0,673,0,0
-2020-10-02,Unincorporated - Altadena,SGV,43616,730,3,1674,15,34
+2020-10-02,Unincorporated - Altadena,SGV,43622,730,3,1674,15,34
 2020-10-02,Unincorporated - Anaverde,AV,1508,16,0,1061,0,0
 2020-10-02,Unincorporated - Angeles National Forest,AV,1245,6,0,482,0,0
 2020-10-02,Unincorporated - Arcadia,SGV,7980,94,1,1178,3,38
@@ -623,7 +623,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-10-02,Unincorporated - Llano,AV,877,3,0,342,0,0
 2020-10-02,Unincorporated - Marina del Rey,W,9415,72,1,765,1,11
 2020-10-02,Unincorporated - Miracle Mile,MLA,0,0,0,0,0,0
-2020-10-02,Unincorporated - Monrovia,SGV,3881,82,1,2113,0,0
+2020-10-02,Unincorporated - Monrovia,SGV,3882,82,1,2113,0,0
 2020-10-02,Unincorporated - Newhall,SFV,220,14,0,6364,0,0
 2020-10-02,Unincorporated - North Lancaster,AV,1198,19,0,1586,0,0
 2020-10-02,Unincorporated - North Whittier,W,8360,216,0,2584,10,120
@@ -905,7 +905,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-10-03,Los Angeles - Woodland Hills,SFV,68057,947,6,1392,34,50
 2020-10-03,Unincorporated - Acton,AV,7969,73,0,916,2,25
 2020-10-03,Unincorporated - Agua Dulce,AV,4158,28,0,673,0,0
-2020-10-03,Unincorporated - Altadena,SGV,43616,738,8,1692,15,34
+2020-10-03,Unincorporated - Altadena,SGV,43622,738,8,1692,15,34
 2020-10-03,Unincorporated - Anaverde,AV,1508,17,1,1127,0,0
 2020-10-03,Unincorporated - Angeles National Forest,AV,1245,6,0,482,0,0
 2020-10-03,Unincorporated - Arcadia,SGV,7980,95,1,1190,3,38
@@ -963,7 +963,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-10-03,Unincorporated - Llano,AV,877,3,0,342,0,0
 2020-10-03,Unincorporated - Marina del Rey,W,9415,72,0,765,1,11
 2020-10-03,Unincorporated - Miracle Mile,MLA,0,0,0,0,0,0
-2020-10-03,Unincorporated - Monrovia,SGV,3881,82,0,2113,0,0
+2020-10-03,Unincorporated - Monrovia,SGV,3882,82,0,2113,0,0
 2020-10-03,Unincorporated - Newhall,SFV,220,14,0,6364,0,0
 2020-10-03,Unincorporated - North Lancaster,AV,1198,19,0,1586,0,0
 2020-10-03,Unincorporated - North Whittier,W,8360,217,1,2596,10,120
@@ -1245,7 +1245,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-10-04,Los Angeles - Woodland Hills,SFV,68057,948,1,1393,34,50
 2020-10-04,Unincorporated - Acton,AV,7969,73,0,916,2,25
 2020-10-04,Unincorporated - Agua Dulce,AV,4158,28,0,673,0,0
-2020-10-04,Unincorporated - Altadena,SGV,43616,743,5,1703,15,34
+2020-10-04,Unincorporated - Altadena,SGV,43622,743,5,1703,15,34
 2020-10-04,Unincorporated - Anaverde,AV,1508,17,0,1127,0,0
 2020-10-04,Unincorporated - Angeles National Forest,AV,1245,6,0,482,0,0
 2020-10-04,Unincorporated - Arcadia,SGV,7980,95,0,1190,3,38
@@ -1303,7 +1303,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-10-04,Unincorporated - Llano,AV,877,3,0,342,0,0
 2020-10-04,Unincorporated - Marina del Rey,W,9415,72,0,765,1,11
 2020-10-04,Unincorporated - Miracle Mile,MLA,0,0,0,0,0,0
-2020-10-04,Unincorporated - Monrovia,SGV,3881,82,0,2113,0,0
+2020-10-04,Unincorporated - Monrovia,SGV,3882,82,0,2113,0,0
 2020-10-04,Unincorporated - Newhall,SFV,220,14,0,6364,0,0
 2020-10-04,Unincorporated - North Lancaster,AV,1198,19,0,1586,0,0
 2020-10-04,Unincorporated - North Whittier,W,8360,217,0,2596,10,120
@@ -1585,7 +1585,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-10-05,Los Angeles - Woodland Hills,SFV,68057,952,4,1399,34,50
 2020-10-05,Unincorporated - Acton,AV,7969,73,0,916,2,25
 2020-10-05,Unincorporated - Agua Dulce,AV,4158,28,0,673,0,0
-2020-10-05,Unincorporated - Altadena,SGV,43616,744,1,1706,15,34
+2020-10-05,Unincorporated - Altadena,SGV,43622,744,1,1706,15,34
 2020-10-05,Unincorporated - Anaverde,AV,1508,17,0,1127,0,0
 2020-10-05,Unincorporated - Angeles National Forest,AV,1245,6,0,482,0,0
 2020-10-05,Unincorporated - Arcadia,SGV,7980,95,0,1190,3,38
@@ -1643,7 +1643,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-10-05,Unincorporated - Llano,AV,877,3,0,342,0,0
 2020-10-05,Unincorporated - Marina del Rey,W,9415,72,0,765,1,11
 2020-10-05,Unincorporated - Miracle Mile,MLA,0,0,0,0,0,0
-2020-10-05,Unincorporated - Monrovia,SGV,3881,82,0,2113,0,0
+2020-10-05,Unincorporated - Monrovia,SGV,3882,82,0,2113,0,0
 2020-10-05,Unincorporated - Newhall,SFV,220,14,0,6364,0,0
 2020-10-05,Unincorporated - North Lancaster,AV,1198,19,0,1586,0,0
 2020-10-05,Unincorporated - North Whittier,W,8360,217,0,2596,10,120
@@ -1925,7 +1925,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-10-06,Los Angeles - Woodland Hills,SFV,68057,959,7,1409,34,50
 2020-10-06,Unincorporated - Acton,AV,7969,73,0,916,2,25
 2020-10-06,Unincorporated - Agua Dulce,AV,4158,28,0,673,0,0
-2020-10-06,Unincorporated - Altadena,SGV,43616,745,1,1708,15,34
+2020-10-06,Unincorporated - Altadena,SGV,43622,745,1,1708,15,34
 2020-10-06,Unincorporated - Anaverde,AV,1508,18,1,1194,0,0
 2020-10-06,Unincorporated - Angeles National Forest,AV,1245,6,0,482,0,0
 2020-10-06,Unincorporated - Arcadia,SGV,7980,95,0,1190,3,38
@@ -1983,7 +1983,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-10-06,Unincorporated - Llano,AV,877,3,0,342,0,0
 2020-10-06,Unincorporated - Marina del Rey,W,9415,75,3,797,1,11
 2020-10-06,Unincorporated - Miracle Mile,MLA,0,0,0,0,0,0
-2020-10-06,Unincorporated - Monrovia,SGV,3881,83,1,2139,0,0
+2020-10-06,Unincorporated - Monrovia,SGV,3882,83,1,2139,0,0
 2020-10-06,Unincorporated - Newhall,SFV,220,14,0,6364,0,0
 2020-10-06,Unincorporated - North Lancaster,AV,1198,19,0,1586,0,0
 2020-10-06,Unincorporated - North Whittier,W,8360,217,0,2596,10,120
@@ -2265,7 +2265,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-10-07,Los Angeles - Woodland Hills,SFV,68057,968,9,1422,34,50
 2020-10-07,Unincorporated - Acton,AV,7969,74,1,928,2,25
 2020-10-07,Unincorporated - Agua Dulce,AV,4158,28,0,673,0,0
-2020-10-07,Unincorporated - Altadena,SGV,43616,748,3,1715,15,34
+2020-10-07,Unincorporated - Altadena,SGV,43622,748,3,1715,15,34
 2020-10-07,Unincorporated - Anaverde,AV,1508,18,0,1194,0,0
 2020-10-07,Unincorporated - Angeles National Forest,AV,1245,6,0,482,0,0
 2020-10-07,Unincorporated - Arcadia,SGV,7980,95,0,1190,3,38
@@ -2323,7 +2323,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-10-07,Unincorporated - Llano,AV,877,3,0,342,0,0
 2020-10-07,Unincorporated - Marina del Rey,W,9415,76,1,808,1,11
 2020-10-07,Unincorporated - Miracle Mile,MLA,0,0,0,0,0,0
-2020-10-07,Unincorporated - Monrovia,SGV,3881,83,0,2139,0,0
+2020-10-07,Unincorporated - Monrovia,SGV,3882,83,0,2139,0,0
 2020-10-07,Unincorporated - Newhall,SFV,220,14,0,6364,0,0
 2020-10-07,Unincorporated - North Lancaster,AV,1198,19,0,1586,0,0
 2020-10-07,Unincorporated - North Whittier,W,8360,217,0,2596,10,120
@@ -2605,7 +2605,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-10-08,Los Angeles - Woodland Hills,SFV,68057,979,11,1439,34,50
 2020-10-08,Unincorporated - Acton,AV,7969,74,0,928,2,25
 2020-10-08,Unincorporated - Agua Dulce,AV,4158,28,0,673,0,0
-2020-10-08,Unincorporated - Altadena,SGV,43616,750,2,1719,16,37
+2020-10-08,Unincorporated - Altadena,SGV,43622,750,2,1719,16,37
 2020-10-08,Unincorporated - Anaverde,AV,1508,19,1,1260,0,0
 2020-10-08,Unincorporated - Angeles National Forest,AV,1245,6,0,482,0,0
 2020-10-08,Unincorporated - Arcadia,SGV,7980,95,0,1190,3,38
@@ -2663,7 +2663,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-10-08,Unincorporated - Llano,AV,877,3,0,342,0,0
 2020-10-08,Unincorporated - Marina del Rey,W,9415,76,0,808,1,11
 2020-10-08,Unincorporated - Miracle Mile,MLA,0,0,0,0,0,0
-2020-10-08,Unincorporated - Monrovia,SGV,3881,83,0,2139,0,0
+2020-10-08,Unincorporated - Monrovia,SGV,3882,83,0,2139,0,0
 2020-10-08,Unincorporated - Newhall,SFV,220,14,0,6364,0,0
 2020-10-08,Unincorporated - North Lancaster,AV,1198,18,-1,1503,0,0
 2020-10-08,Unincorporated - North Whittier,W,8360,218,1,2608,10,120
@@ -2945,7 +2945,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-10-09,Los Angeles - Woodland Hills,SFV,68057,994,15,1461,34,50
 2020-10-09,Unincorporated - Acton,AV,7969,74,0,928,2,25
 2020-10-09,Unincorporated - Agua Dulce,AV,4158,28,0,673,0,0
-2020-10-09,Unincorporated - Altadena,SGV,43616,750,0,1719,16,37
+2020-10-09,Unincorporated - Altadena,SGV,43622,750,0,1719,16,37
 2020-10-09,Unincorporated - Anaverde,AV,1508,19,0,1260,0,0
 2020-10-09,Unincorporated - Angeles National Forest,AV,1245,6,0,482,0,0
 2020-10-09,Unincorporated - Arcadia,SGV,7980,95,0,1190,3,38
@@ -3003,7 +3003,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-10-09,Unincorporated - Llano,AV,877,3,0,342,0,0
 2020-10-09,Unincorporated - Marina del Rey,W,9415,78,2,829,1,11
 2020-10-09,Unincorporated - Miracle Mile,MLA,0,0,0,0,0,0
-2020-10-09,Unincorporated - Monrovia,SGV,3881,83,0,2139,0,0
+2020-10-09,Unincorporated - Monrovia,SGV,3882,83,0,2139,0,0
 2020-10-09,Unincorporated - Newhall,SFV,220,14,0,6364,0,0
 2020-10-09,Unincorporated - North Lancaster,AV,1198,18,0,1503,0,0
 2020-10-09,Unincorporated - North Whittier,W,8360,219,1,2620,10,120
@@ -3285,7 +3285,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-10-10,Los Angeles - Woodland Hills,SFV,68057,1011,17,1486,34,50
 2020-10-10,Unincorporated - Acton,AV,7969,75,1,941,2,25
 2020-10-10,Unincorporated - Agua Dulce,AV,4158,28,0,673,0,0
-2020-10-10,Unincorporated - Altadena,SGV,43616,752,2,1724,16,37
+2020-10-10,Unincorporated - Altadena,SGV,43622,752,2,1724,16,37
 2020-10-10,Unincorporated - Anaverde,AV,1508,19,0,1260,0,0
 2020-10-10,Unincorporated - Angeles National Forest,AV,1245,6,0,482,0,0
 2020-10-10,Unincorporated - Arcadia,SGV,7980,95,0,1190,4,50
@@ -3343,7 +3343,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-10-10,Unincorporated - Llano,AV,877,3,0,342,0,0
 2020-10-10,Unincorporated - Marina del Rey,W,9415,78,0,829,1,11
 2020-10-10,Unincorporated - Miracle Mile,MLA,0,0,0,0,0,0
-2020-10-10,Unincorporated - Monrovia,SGV,3881,85,2,2190,0,0
+2020-10-10,Unincorporated - Monrovia,SGV,3882,85,2,2190,0,0
 2020-10-10,Unincorporated - Newhall,SFV,220,14,0,6364,0,0
 2020-10-10,Unincorporated - North Lancaster,AV,1198,18,0,1503,0,0
 2020-10-10,Unincorporated - North Whittier,W,8360,222,3,2656,10,120
@@ -3625,7 +3625,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-10-11,Los Angeles - Woodland Hills,SFV,68057,1017,6,1494,34,50
 2020-10-11,Unincorporated - Acton,AV,7969,77,2,966,2,25
 2020-10-11,Unincorporated - Agua Dulce,AV,4158,28,0,673,0,0
-2020-10-11,Unincorporated - Altadena,SGV,43616,752,0,1724,16,37
+2020-10-11,Unincorporated - Altadena,SGV,43622,752,0,1724,16,37
 2020-10-11,Unincorporated - Anaverde,AV,1508,19,0,1260,0,0
 2020-10-11,Unincorporated - Angeles National Forest,AV,1245,6,0,482,0,0
 2020-10-11,Unincorporated - Arcadia,SGV,7980,95,0,1190,4,50
@@ -3683,7 +3683,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-10-11,Unincorporated - Llano,AV,877,3,0,342,0,0
 2020-10-11,Unincorporated - Marina del Rey,W,9415,78,0,829,1,11
 2020-10-11,Unincorporated - Miracle Mile,MLA,0,0,0,0,0,0
-2020-10-11,Unincorporated - Monrovia,SGV,3881,85,0,2190,0,0
+2020-10-11,Unincorporated - Monrovia,SGV,3882,85,0,2190,0,0
 2020-10-11,Unincorporated - Newhall,SFV,220,14,0,6364,0,0
 2020-10-11,Unincorporated - North Lancaster,AV,1198,18,0,1503,0,0
 2020-10-11,Unincorporated - North Whittier,W,8360,222,0,2656,10,120
@@ -3965,7 +3965,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-10-12,Los Angeles - Woodland Hills,SFV,68057,1020,3,1499,34,50
 2020-10-12,Unincorporated - Acton,AV,7969,77,0,966,2,25
 2020-10-12,Unincorporated - Agua Dulce,AV,4158,29,1,697,0,0
-2020-10-12,Unincorporated - Altadena,SGV,43616,752,0,1724,16,37
+2020-10-12,Unincorporated - Altadena,SGV,43622,752,0,1724,16,37
 2020-10-12,Unincorporated - Anaverde,AV,1508,19,0,1260,0,0
 2020-10-12,Unincorporated - Angeles National Forest,AV,1245,6,0,482,0,0
 2020-10-12,Unincorporated - Arcadia,SGV,7980,95,0,1190,4,50
@@ -4023,7 +4023,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-10-12,Unincorporated - Llano,AV,877,3,0,342,0,0
 2020-10-12,Unincorporated - Marina del Rey,W,9415,78,0,829,1,11
 2020-10-12,Unincorporated - Miracle Mile,MLA,0,0,0,0,0,0
-2020-10-12,Unincorporated - Monrovia,SGV,3881,85,0,2190,0,0
+2020-10-12,Unincorporated - Monrovia,SGV,3882,85,0,2190,0,0
 2020-10-12,Unincorporated - Newhall,SFV,220,14,0,6364,0,0
 2020-10-12,Unincorporated - North Lancaster,AV,1198,19,1,1586,0,0
 2020-10-12,Unincorporated - North Whittier,W,8360,224,2,2679,10,120
@@ -4305,7 +4305,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-10-13,Los Angeles - Woodland Hills,SFV,68057,1023,3,1503,35,51
 2020-10-13,Unincorporated - Acton,AV,7969,77,0,966,2,25
 2020-10-13,Unincorporated - Agua Dulce,AV,4158,30,1,722,0,0
-2020-10-13,Unincorporated - Altadena,SGV,43616,754,2,1729,16,37
+2020-10-13,Unincorporated - Altadena,SGV,43622,754,2,1729,16,37
 2020-10-13,Unincorporated - Anaverde,AV,1508,19,0,1260,0,0
 2020-10-13,Unincorporated - Angeles National Forest,AV,1245,6,0,482,0,0
 2020-10-13,Unincorporated - Arcadia,SGV,7980,95,0,1190,4,50
@@ -4363,7 +4363,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-10-13,Unincorporated - Llano,AV,877,3,0,342,0,0
 2020-10-13,Unincorporated - Marina del Rey,W,9415,78,0,829,1,11
 2020-10-13,Unincorporated - Miracle Mile,MLA,0,0,0,0,0,0
-2020-10-13,Unincorporated - Monrovia,SGV,3881,85,0,2190,0,0
+2020-10-13,Unincorporated - Monrovia,SGV,3882,85,0,2190,0,0
 2020-10-13,Unincorporated - Newhall,SFV,220,14,0,6364,0,0
 2020-10-13,Unincorporated - North Lancaster,AV,1198,19,0,1586,0,0
 2020-10-13,Unincorporated - North Whittier,W,8360,227,3,2715,10,120
@@ -4645,7 +4645,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-10-14,Los Angeles - Woodland Hills,SFV,68057,1031,8,1515,35,51
 2020-10-14,Unincorporated - Acton,AV,7969,78,1,979,2,25
 2020-10-14,Unincorporated - Agua Dulce,AV,4158,30,0,722,0,0
-2020-10-14,Unincorporated - Altadena,SGV,43616,755,1,1731,16,37
+2020-10-14,Unincorporated - Altadena,SGV,43622,755,1,1731,16,37
 2020-10-14,Unincorporated - Anaverde,AV,1508,19,0,1260,0,0
 2020-10-14,Unincorporated - Angeles National Forest,AV,1245,6,0,482,0,0
 2020-10-14,Unincorporated - Arcadia,SGV,7980,95,0,1190,4,50
@@ -4703,7 +4703,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-10-14,Unincorporated - Llano,AV,877,3,0,342,0,0
 2020-10-14,Unincorporated - Marina del Rey,W,9415,78,0,829,1,11
 2020-10-14,Unincorporated - Miracle Mile,MLA,0,0,0,0,0,0
-2020-10-14,Unincorporated - Monrovia,SGV,3881,86,1,2216,0,0
+2020-10-14,Unincorporated - Monrovia,SGV,3882,86,1,2216,0,0
 2020-10-14,Unincorporated - Newhall,SFV,220,14,0,6364,0,0
 2020-10-14,Unincorporated - North Lancaster,AV,1198,19,0,1586,0,0
 2020-10-14,Unincorporated - North Whittier,W,8360,230,3,2751,10,120
@@ -4985,7 +4985,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-10-15,Los Angeles - Woodland Hills,SFV,68057,1038,7,1525,35,51
 2020-10-15,Unincorporated - Acton,AV,7969,78,0,979,2,25
 2020-10-15,Unincorporated - Agua Dulce,AV,4158,30,0,722,0,0
-2020-10-15,Unincorporated - Altadena,SGV,43616,758,3,1738,16,37
+2020-10-15,Unincorporated - Altadena,SGV,43622,758,3,1738,16,37
 2020-10-15,Unincorporated - Anaverde,AV,1508,19,0,1260,0,0
 2020-10-15,Unincorporated - Angeles National Forest,AV,1245,6,0,482,0,0
 2020-10-15,Unincorporated - Arcadia,SGV,7980,95,0,1190,4,50
@@ -5043,7 +5043,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-10-15,Unincorporated - Llano,AV,877,3,0,342,0,0
 2020-10-15,Unincorporated - Marina del Rey,W,9415,78,0,829,1,11
 2020-10-15,Unincorporated - Miracle Mile,MLA,0,0,0,0,0,0
-2020-10-15,Unincorporated - Monrovia,SGV,3881,86,0,2216,0,0
+2020-10-15,Unincorporated - Monrovia,SGV,3882,86,0,2216,0,0
 2020-10-15,Unincorporated - Newhall,SFV,220,14,0,6364,0,0
 2020-10-15,Unincorporated - North Lancaster,AV,1198,19,0,1586,0,0
 2020-10-15,Unincorporated - North Whittier,W,8360,230,0,2751,10,120
@@ -5325,7 +5325,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-10-16,Los Angeles - Woodland Hills,SFV,68057,1045,7,1536,35,51
 2020-10-16,Unincorporated - Acton,AV,7969,78,0,979,2,25
 2020-10-16,Unincorporated - Agua Dulce,AV,4158,30,0,722,0,0
-2020-10-16,Unincorporated - Altadena,SGV,43616,761,3,1745,16,37
+2020-10-16,Unincorporated - Altadena,SGV,43622,761,3,1745,16,37
 2020-10-16,Unincorporated - Anaverde,AV,1508,19,0,1260,0,0
 2020-10-16,Unincorporated - Angeles National Forest,AV,1245,6,0,482,0,0
 2020-10-16,Unincorporated - Arcadia,SGV,7980,95,0,1190,4,50
@@ -5383,7 +5383,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-10-16,Unincorporated - Llano,AV,877,3,0,342,0,0
 2020-10-16,Unincorporated - Marina del Rey,W,9415,78,0,829,1,11
 2020-10-16,Unincorporated - Miracle Mile,MLA,0,0,0,0,0,0
-2020-10-16,Unincorporated - Monrovia,SGV,3881,86,0,2216,0,0
+2020-10-16,Unincorporated - Monrovia,SGV,3882,86,0,2216,0,0
 2020-10-16,Unincorporated - Newhall,SFV,220,14,0,6364,0,0
 2020-10-16,Unincorporated - North Lancaster,AV,1198,20,1,1669,0,0
 2020-10-16,Unincorporated - North Whittier,W,8360,230,0,2751,10,120
@@ -5665,7 +5665,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-10-17,Los Angeles - Woodland Hills,SFV,68057,1054,9,1549,35,51
 2020-10-17,Unincorporated - Acton,AV,7969,78,0,979,2,25
 2020-10-17,Unincorporated - Agua Dulce,AV,4158,30,0,722,0,0
-2020-10-17,Unincorporated - Altadena,SGV,43616,764,3,1751,16,37
+2020-10-17,Unincorporated - Altadena,SGV,43622,764,3,1751,16,37
 2020-10-17,Unincorporated - Anaverde,AV,1508,19,0,1260,0,0
 2020-10-17,Unincorporated - Angeles National Forest,AV,1245,6,0,482,0,0
 2020-10-17,Unincorporated - Arcadia,SGV,7980,95,0,1190,4,50
@@ -5723,7 +5723,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-10-17,Unincorporated - Llano,AV,877,3,0,342,0,0
 2020-10-17,Unincorporated - Marina del Rey,W,9415,79,1,839,1,11
 2020-10-17,Unincorporated - Miracle Mile,MLA,0,0,0,0,0,0
-2020-10-17,Unincorporated - Monrovia,SGV,3881,86,0,2216,0,0
+2020-10-17,Unincorporated - Monrovia,SGV,3882,86,0,2216,0,0
 2020-10-17,Unincorporated - Newhall,SFV,220,14,0,6364,0,0
 2020-10-17,Unincorporated - North Lancaster,AV,1198,21,1,1753,0,0
 2020-10-17,Unincorporated - North Whittier,W,8360,230,0,2751,10,120
@@ -6005,7 +6005,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-10-18,Los Angeles - Woodland Hills,SFV,68057,1056,2,1552,35,51
 2020-10-18,Unincorporated - Acton,AV,7969,78,0,979,2,25
 2020-10-18,Unincorporated - Agua Dulce,AV,4158,30,0,722,0,0
-2020-10-18,Unincorporated - Altadena,SGV,43616,765,1,1754,16,37
+2020-10-18,Unincorporated - Altadena,SGV,43622,765,1,1754,16,37
 2020-10-18,Unincorporated - Anaverde,AV,1508,19,0,1260,0,0
 2020-10-18,Unincorporated - Angeles National Forest,AV,1245,6,0,482,0,0
 2020-10-18,Unincorporated - Arcadia,SGV,7980,95,0,1190,4,50
@@ -6063,7 +6063,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-10-18,Unincorporated - Llano,AV,877,3,0,342,0,0
 2020-10-18,Unincorporated - Marina del Rey,W,9415,79,0,839,1,11
 2020-10-18,Unincorporated - Miracle Mile,MLA,0,0,0,0,0,0
-2020-10-18,Unincorporated - Monrovia,SGV,3881,86,0,2216,0,0
+2020-10-18,Unincorporated - Monrovia,SGV,3882,86,0,2216,0,0
 2020-10-18,Unincorporated - Newhall,SFV,220,14,0,6364,0,0
 2020-10-18,Unincorporated - North Lancaster,AV,1198,21,0,1753,0,0
 2020-10-18,Unincorporated - North Whittier,W,8360,230,0,2751,10,120
@@ -6345,7 +6345,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-10-19,Los Angeles - Woodland Hills,SFV,68057,1064,8,1563,35,51
 2020-10-19,Unincorporated - Acton,AV,7969,78,0,979,2,25
 2020-10-19,Unincorporated - Agua Dulce,AV,4158,30,0,722,0,0
-2020-10-19,Unincorporated - Altadena,SGV,43616,768,3,1761,16,37
+2020-10-19,Unincorporated - Altadena,SGV,43622,768,3,1761,16,37
 2020-10-19,Unincorporated - Anaverde,AV,1508,19,0,1260,0,0
 2020-10-19,Unincorporated - Angeles National Forest,AV,1245,6,0,482,0,0
 2020-10-19,Unincorporated - Arcadia,SGV,7980,95,0,1190,4,50
@@ -6403,7 +6403,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-10-19,Unincorporated - Llano,AV,877,3,0,342,0,0
 2020-10-19,Unincorporated - Marina del Rey,W,9415,79,0,839,1,11
 2020-10-19,Unincorporated - Miracle Mile,MLA,0,0,0,0,0,0
-2020-10-19,Unincorporated - Monrovia,SGV,3881,87,1,2242,0,0
+2020-10-19,Unincorporated - Monrovia,SGV,3882,87,1,2242,0,0
 2020-10-19,Unincorporated - Newhall,SFV,220,15,1,6818,0,0
 2020-10-19,Unincorporated - North Lancaster,AV,1198,21,0,1753,0,0
 2020-10-19,Unincorporated - North Whittier,W,8360,230,0,2751,10,120
@@ -6685,7 +6685,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-10-20,Los Angeles - Woodland Hills,SFV,68057,1068,4,1569,35,51
 2020-10-20,Unincorporated - Acton,AV,7969,78,0,979,2,25
 2020-10-20,Unincorporated - Agua Dulce,AV,4158,30,0,722,0,0
-2020-10-20,Unincorporated - Altadena,SGV,43616,762,-6,1747,16,37
+2020-10-20,Unincorporated - Altadena,SGV,43622,762,-6,1747,16,37
 2020-10-20,Unincorporated - Anaverde,AV,1508,19,0,1260,0,0
 2020-10-20,Unincorporated - Angeles National Forest,AV,1245,6,0,482,0,0
 2020-10-20,Unincorporated - Arcadia,SGV,7980,94,-1,1178,4,50
@@ -6743,7 +6743,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-10-20,Unincorporated - Llano,AV,877,3,0,342,0,0
 2020-10-20,Unincorporated - Marina del Rey,W,9415,79,0,839,1,11
 2020-10-20,Unincorporated - Miracle Mile,MLA,0,0,0,0,0,0
-2020-10-20,Unincorporated - Monrovia,SGV,3881,87,0,2242,0,0
+2020-10-20,Unincorporated - Monrovia,SGV,3882,87,0,2242,0,0
 2020-10-20,Unincorporated - Newhall,SFV,220,15,0,6818,0,0
 2020-10-20,Unincorporated - North Lancaster,AV,1198,21,0,1753,0,0
 2020-10-20,Unincorporated - North Whittier,W,8360,231,1,2763,10,120
@@ -7025,7 +7025,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-10-21,Los Angeles - Woodland Hills,SFV,68057,1071,3,1574,35,51
 2020-10-21,Unincorporated - Acton,AV,7969,77,-1,966,2,25
 2020-10-21,Unincorporated - Agua Dulce,AV,4158,30,0,722,0,0
-2020-10-21,Unincorporated - Altadena,SGV,43616,762,0,1747,16,37
+2020-10-21,Unincorporated - Altadena,SGV,43622,762,0,1747,16,37
 2020-10-21,Unincorporated - Anaverde,AV,1508,19,0,1260,0,0
 2020-10-21,Unincorporated - Angeles National Forest,AV,1245,6,0,482,0,0
 2020-10-21,Unincorporated - Arcadia,SGV,7980,94,0,1178,4,50
@@ -7083,7 +7083,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-10-21,Unincorporated - Llano,AV,877,3,0,342,0,0
 2020-10-21,Unincorporated - Marina del Rey,W,9415,79,0,839,1,11
 2020-10-21,Unincorporated - Miracle Mile,MLA,0,0,0,0,0,0
-2020-10-21,Unincorporated - Monrovia,SGV,3881,87,0,2242,0,0
+2020-10-21,Unincorporated - Monrovia,SGV,3882,87,0,2242,0,0
 2020-10-21,Unincorporated - Newhall,SFV,220,15,0,6818,0,0
 2020-10-21,Unincorporated - North Lancaster,AV,1198,21,0,1753,0,0
 2020-10-21,Unincorporated - North Whittier,W,8360,231,0,2763,10,120
@@ -7365,7 +7365,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-10-22,Los Angeles - Woodland Hills,SFV,68057,1090,19,1602,35,51
 2020-10-22,Unincorporated - Acton,AV,7969,80,3,1004,2,25
 2020-10-22,Unincorporated - Agua Dulce,AV,4158,30,0,722,0,0
-2020-10-22,Unincorporated - Altadena,SGV,43616,772,10,1770,18,41
+2020-10-22,Unincorporated - Altadena,SGV,43622,772,10,1770,18,41
 2020-10-22,Unincorporated - Anaverde,AV,1508,21,2,1393,0,0
 2020-10-22,Unincorporated - Angeles National Forest,AV,1245,6,0,482,0,0
 2020-10-22,Unincorporated - Arcadia,SGV,7980,96,2,1203,4,50
@@ -7423,7 +7423,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-10-22,Unincorporated - Llano,AV,877,3,0,342,0,0
 2020-10-22,Unincorporated - Marina del Rey,W,9415,79,0,839,1,11
 2020-10-22,Unincorporated - Miracle Mile,MLA,0,0,0,0,0,0
-2020-10-22,Unincorporated - Monrovia,SGV,3881,88,1,2267,0,0
+2020-10-22,Unincorporated - Monrovia,SGV,3882,88,1,2267,0,0
 2020-10-22,Unincorporated - Newhall,SFV,220,20,5,9091,0,0
 2020-10-22,Unincorporated - North Lancaster,AV,1198,22,1,1836,0,0
 2020-10-22,Unincorporated - North Whittier,W,8360,234,3,2799,10,120
@@ -7705,7 +7705,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-10-23,Los Angeles - Woodland Hills,SFV,68057,1111,21,1633,36,53
 2020-10-23,Unincorporated - Acton,AV,7969,80,0,1004,2,25
 2020-10-23,Unincorporated - Agua Dulce,AV,4158,31,1,746,0,0
-2020-10-23,Unincorporated - Altadena,SGV,43616,778,6,1784,18,41
+2020-10-23,Unincorporated - Altadena,SGV,43622,778,6,1784,18,41
 2020-10-23,Unincorporated - Anaverde,AV,1508,21,0,1393,0,0
 2020-10-23,Unincorporated - Angeles National Forest,AV,1245,6,0,482,0,0
 2020-10-23,Unincorporated - Arcadia,SGV,7980,97,1,1215,4,50
@@ -7763,7 +7763,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-10-23,Unincorporated - Llano,AV,877,3,0,342,0,0
 2020-10-23,Unincorporated - Marina del Rey,W,9415,79,0,839,1,11
 2020-10-23,Unincorporated - Miracle Mile,MLA,0,0,0,0,0,0
-2020-10-23,Unincorporated - Monrovia,SGV,3881,88,0,2267,0,0
+2020-10-23,Unincorporated - Monrovia,SGV,3882,88,0,2267,0,0
 2020-10-23,Unincorporated - Newhall,SFV,220,24,4,10909,0,0
 2020-10-23,Unincorporated - North Lancaster,AV,1198,23,1,1920,0,0
 2020-10-23,Unincorporated - North Whittier,W,8360,235,1,2811,10,120
@@ -8045,7 +8045,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-10-24,Los Angeles - Woodland Hills,SFV,68057,1121,10,1647,36,53
 2020-10-24,Unincorporated - Acton,AV,7969,83,3,1041,2,25
 2020-10-24,Unincorporated - Agua Dulce,AV,4158,31,0,746,0,0
-2020-10-24,Unincorporated - Altadena,SGV,43616,783,5,1795,18,41
+2020-10-24,Unincorporated - Altadena,SGV,43622,783,5,1795,18,41
 2020-10-24,Unincorporated - Anaverde,AV,1508,21,0,1393,0,0
 2020-10-24,Unincorporated - Angeles National Forest,AV,1245,6,0,482,0,0
 2020-10-24,Unincorporated - Arcadia,SGV,7980,97,0,1215,4,50
@@ -8103,7 +8103,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-10-24,Unincorporated - Llano,AV,877,3,0,342,0,0
 2020-10-24,Unincorporated - Marina del Rey,W,9415,79,0,839,1,11
 2020-10-24,Unincorporated - Miracle Mile,MLA,0,0,0,0,0,0
-2020-10-24,Unincorporated - Monrovia,SGV,3881,89,1,2293,0,0
+2020-10-24,Unincorporated - Monrovia,SGV,3882,89,1,2293,0,0
 2020-10-24,Unincorporated - Newhall,SFV,220,24,0,10909,0,0
 2020-10-24,Unincorporated - North Lancaster,AV,1198,24,1,2003,0,0
 2020-10-24,Unincorporated - North Whittier,W,8360,237,2,2835,10,120
@@ -8385,7 +8385,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-10-25,Los Angeles - Woodland Hills,SFV,68057,1128,7,1657,36,53
 2020-10-25,Unincorporated - Acton,AV,7969,83,0,1041,2,25
 2020-10-25,Unincorporated - Agua Dulce,AV,4158,31,0,746,0,0
-2020-10-25,Unincorporated - Altadena,SGV,43616,783,0,1795,18,41
+2020-10-25,Unincorporated - Altadena,SGV,43622,783,0,1795,18,41
 2020-10-25,Unincorporated - Anaverde,AV,1508,21,0,1393,0,0
 2020-10-25,Unincorporated - Angeles National Forest,AV,1245,6,0,482,0,0
 2020-10-25,Unincorporated - Arcadia,SGV,7980,97,0,1215,4,50
@@ -8443,7 +8443,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-10-25,Unincorporated - Llano,AV,877,3,0,342,0,0
 2020-10-25,Unincorporated - Marina del Rey,W,9415,80,1,850,1,11
 2020-10-25,Unincorporated - Miracle Mile,MLA,0,0,0,0,0,0
-2020-10-25,Unincorporated - Monrovia,SGV,3881,89,0,2293,0,0
+2020-10-25,Unincorporated - Monrovia,SGV,3882,89,0,2293,0,0
 2020-10-25,Unincorporated - Newhall,SFV,220,26,2,11818,0,0
 2020-10-25,Unincorporated - North Lancaster,AV,1198,24,0,2003,0,0
 2020-10-25,Unincorporated - North Whittier,W,8360,237,0,2835,10,120
@@ -8725,7 +8725,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-10-26,Los Angeles - Woodland Hills,SFV,68057,1131,3,1662,36,53
 2020-10-26,Unincorporated - Acton,AV,7969,83,0,1041,2,25
 2020-10-26,Unincorporated - Agua Dulce,AV,4158,31,0,746,0,0
-2020-10-26,Unincorporated - Altadena,SGV,43616,784,1,1797,18,41
+2020-10-26,Unincorporated - Altadena,SGV,43622,784,1,1797,18,41
 2020-10-26,Unincorporated - Anaverde,AV,1508,21,0,1393,0,0
 2020-10-26,Unincorporated - Angeles National Forest,AV,1245,6,0,482,0,0
 2020-10-26,Unincorporated - Arcadia,SGV,7980,97,0,1215,4,50
@@ -8783,7 +8783,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-10-26,Unincorporated - Llano,AV,877,3,0,342,0,0
 2020-10-26,Unincorporated - Marina del Rey,W,9415,80,0,850,1,11
 2020-10-26,Unincorporated - Miracle Mile,MLA,0,0,0,0,0,0
-2020-10-26,Unincorporated - Monrovia,SGV,3881,89,0,2293,0,0
+2020-10-26,Unincorporated - Monrovia,SGV,3882,89,0,2293,0,0
 2020-10-26,Unincorporated - Newhall,SFV,220,26,0,11818,0,0
 2020-10-26,Unincorporated - North Lancaster,AV,1198,24,0,2003,0,0
 2020-10-26,Unincorporated - North Whittier,W,8360,237,0,2835,10,120
@@ -9065,7 +9065,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-10-27,Los Angeles - Woodland Hills,SFV,68057,1136,5,1669,36,53
 2020-10-27,Unincorporated - Acton,AV,7969,83,0,1041,2,25
 2020-10-27,Unincorporated - Agua Dulce,AV,4158,32,1,770,0,0
-2020-10-27,Unincorporated - Altadena,SGV,43616,784,0,1797,18,41
+2020-10-27,Unincorporated - Altadena,SGV,43622,784,0,1797,18,41
 2020-10-27,Unincorporated - Anaverde,AV,1508,21,0,1393,0,0
 2020-10-27,Unincorporated - Angeles National Forest,AV,1245,6,0,482,0,0
 2020-10-27,Unincorporated - Arcadia,SGV,7980,100,3,1253,4,50
@@ -9123,7 +9123,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-10-27,Unincorporated - Llano,AV,877,3,0,342,0,0
 2020-10-27,Unincorporated - Marina del Rey,W,9415,80,0,850,1,11
 2020-10-27,Unincorporated - Miracle Mile,MLA,0,0,0,0,0,0
-2020-10-27,Unincorporated - Monrovia,SGV,3881,89,0,2293,0,0
+2020-10-27,Unincorporated - Monrovia,SGV,3882,89,0,2293,0,0
 2020-10-27,Unincorporated - Newhall,SFV,220,26,0,11818,0,0
 2020-10-27,Unincorporated - North Lancaster,AV,1198,25,1,2087,0,0
 2020-10-27,Unincorporated - North Whittier,W,8360,237,0,2835,10,120
@@ -9405,7 +9405,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-10-28,Los Angeles - Woodland Hills,SFV,68057,1139,3,1674,36,53
 2020-10-28,Unincorporated - Acton,AV,7969,85,2,1066,2,25
 2020-10-28,Unincorporated - Agua Dulce,AV,4158,33,1,794,0,0
-2020-10-28,Unincorporated - Altadena,SGV,43616,789,5,1809,18,41
+2020-10-28,Unincorporated - Altadena,SGV,43622,789,5,1809,18,41
 2020-10-28,Unincorporated - Anaverde,AV,1508,21,0,1393,0,0
 2020-10-28,Unincorporated - Angeles National Forest,AV,1245,6,0,482,0,0
 2020-10-28,Unincorporated - Arcadia,SGV,7980,101,1,1266,4,50
@@ -9463,7 +9463,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-10-28,Unincorporated - Llano,AV,877,3,0,342,0,0
 2020-10-28,Unincorporated - Marina del Rey,W,9415,80,0,850,1,11
 2020-10-28,Unincorporated - Miracle Mile,MLA,0,0,0,0,0,0
-2020-10-28,Unincorporated - Monrovia,SGV,3881,89,0,2293,0,0
+2020-10-28,Unincorporated - Monrovia,SGV,3882,89,0,2293,0,0
 2020-10-28,Unincorporated - Newhall,SFV,220,26,0,11818,0,0
 2020-10-28,Unincorporated - North Lancaster,AV,1198,25,0,2087,0,0
 2020-10-28,Unincorporated - North Whittier,W,8360,238,1,2847,10,120
@@ -9745,7 +9745,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-10-29,Los Angeles - Woodland Hills,SFV,68057,1153,14,1694,36,53
 2020-10-29,Unincorporated - Acton,AV,7969,85,0,1066,2,25
 2020-10-29,Unincorporated - Agua Dulce,AV,4158,36,3,866,0,0
-2020-10-29,Unincorporated - Altadena,SGV,43616,796,7,1825,18,41
+2020-10-29,Unincorporated - Altadena,SGV,43622,796,7,1825,18,41
 2020-10-29,Unincorporated - Anaverde,AV,1508,21,0,1393,0,0
 2020-10-29,Unincorporated - Angeles National Forest,AV,1245,6,0,482,0,0
 2020-10-29,Unincorporated - Arcadia,SGV,7980,101,0,1266,4,50
@@ -9803,7 +9803,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-10-29,Unincorporated - Llano,AV,877,3,0,342,0,0
 2020-10-29,Unincorporated - Marina del Rey,W,9415,84,4,893,1,11
 2020-10-29,Unincorporated - Miracle Mile,MLA,0,0,0,0,0,0
-2020-10-29,Unincorporated - Monrovia,SGV,3881,89,0,2293,0,0
+2020-10-29,Unincorporated - Monrovia,SGV,3882,89,0,2293,0,0
 2020-10-29,Unincorporated - Newhall,SFV,220,26,0,11818,0,0
 2020-10-29,Unincorporated - North Lancaster,AV,1198,25,0,2087,0,0
 2020-10-29,Unincorporated - North Whittier,W,8360,239,1,2859,10,120
@@ -10085,7 +10085,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-10-30,Los Angeles - Woodland Hills,SFV,68057,1158,5,1702,36,53
 2020-10-30,Unincorporated - Acton,AV,7969,85,0,1066,2,25
 2020-10-30,Unincorporated - Agua Dulce,AV,4158,37,1,890,0,0
-2020-10-30,Unincorporated - Altadena,SGV,43616,798,2,1829,18,41
+2020-10-30,Unincorporated - Altadena,SGV,43622,798,2,1829,18,41
 2020-10-30,Unincorporated - Anaverde,AV,1508,21,0,1393,0,0
 2020-10-30,Unincorporated - Angeles National Forest,AV,1245,6,0,482,0,0
 2020-10-30,Unincorporated - Arcadia,SGV,7980,101,0,1266,4,50
@@ -10143,7 +10143,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-10-30,Unincorporated - Llano,AV,877,3,0,342,0,0
 2020-10-30,Unincorporated - Marina del Rey,W,9415,86,2,914,1,11
 2020-10-30,Unincorporated - Miracle Mile,MLA,0,0,0,0,0,0
-2020-10-30,Unincorporated - Monrovia,SGV,3881,89,0,2293,0,0
+2020-10-30,Unincorporated - Monrovia,SGV,3882,89,0,2293,0,0
 2020-10-30,Unincorporated - Newhall,SFV,220,26,0,11818,0,0
 2020-10-30,Unincorporated - North Lancaster,AV,1198,25,0,2087,0,0
 2020-10-30,Unincorporated - North Whittier,W,8360,239,0,2859,10,120
@@ -10425,7 +10425,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-10-31,Los Angeles - Woodland Hills,SFV,68057,1161,3,1706,36,53
 2020-10-31,Unincorporated - Acton,AV,7969,86,1,1079,2,25
 2020-10-31,Unincorporated - Agua Dulce,AV,4158,37,0,890,0,0
-2020-10-31,Unincorporated - Altadena,SGV,43616,803,5,1841,18,41
+2020-10-31,Unincorporated - Altadena,SGV,43622,803,5,1841,18,41
 2020-10-31,Unincorporated - Anaverde,AV,1508,21,0,1393,0,0
 2020-10-31,Unincorporated - Angeles National Forest,AV,1245,6,0,482,0,0
 2020-10-31,Unincorporated - Arcadia,SGV,7980,102,1,1278,4,50
@@ -10483,7 +10483,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-10-31,Unincorporated - Llano,AV,877,3,0,342,0,0
 2020-10-31,Unincorporated - Marina del Rey,W,9415,86,0,914,1,11
 2020-10-31,Unincorporated - Miracle Mile,MLA,0,0,0,0,0,0
-2020-10-31,Unincorporated - Monrovia,SGV,3881,89,0,2293,0,0
+2020-10-31,Unincorporated - Monrovia,SGV,3882,89,0,2293,0,0
 2020-10-31,Unincorporated - Newhall,SFV,220,26,0,11818,0,0
 2020-10-31,Unincorporated - North Lancaster,AV,1198,25,0,2087,0,0
 2020-10-31,Unincorporated - North Whittier,W,8360,239,0,2859,10,120
@@ -10765,7 +10765,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-11-01,Los Angeles - Woodland Hills,SFV,68057,1175,14,1727,36,53
 2020-11-01,Unincorporated - Acton,AV,7969,86,0,1079,2,25
 2020-11-01,Unincorporated - Agua Dulce,AV,4158,37,0,890,0,0
-2020-11-01,Unincorporated - Altadena,SGV,43616,805,2,1845,18,41
+2020-11-01,Unincorporated - Altadena,SGV,43622,805,2,1845,18,41
 2020-11-01,Unincorporated - Anaverde,AV,1508,21,0,1393,0,0
 2020-11-01,Unincorporated - Angeles National Forest,AV,1245,6,0,482,0,0
 2020-11-01,Unincorporated - Arcadia,SGV,7980,102,0,1278,4,50
@@ -10823,7 +10823,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-11-01,Unincorporated - Llano,AV,877,3,0,342,0,0
 2020-11-01,Unincorporated - Marina del Rey,W,9415,87,1,924,1,11
 2020-11-01,Unincorporated - Miracle Mile,MLA,0,0,0,0,0,0
-2020-11-01,Unincorporated - Monrovia,SGV,3881,89,0,2293,0,0
+2020-11-01,Unincorporated - Monrovia,SGV,3882,89,0,2293,0,0
 2020-11-01,Unincorporated - Newhall,SFV,220,26,0,11818,0,0
 2020-11-01,Unincorporated - North Lancaster,AV,1198,25,0,2087,0,0
 2020-11-01,Unincorporated - North Whittier,W,8360,240,1,2871,10,120
@@ -11105,7 +11105,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-11-02,Los Angeles - Woodland Hills,SFV,68057,1182,7,1737,36,53
 2020-11-02,Unincorporated - Acton,AV,7969,86,0,1079,2,25
 2020-11-02,Unincorporated - Agua Dulce,AV,4158,38,1,914,0,0
-2020-11-02,Unincorporated - Altadena,SGV,43616,807,2,1850,18,41
+2020-11-02,Unincorporated - Altadena,SGV,43622,807,2,1850,18,41
 2020-11-02,Unincorporated - Anaverde,AV,1508,21,0,1393,0,0
 2020-11-02,Unincorporated - Angeles National Forest,AV,1245,6,0,482,0,0
 2020-11-02,Unincorporated - Arcadia,SGV,7980,103,1,1291,4,50
@@ -11163,7 +11163,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-11-02,Unincorporated - Llano,AV,877,3,0,342,0,0
 2020-11-02,Unincorporated - Marina del Rey,W,9415,87,0,924,1,11
 2020-11-02,Unincorporated - Miracle Mile,MLA,0,0,0,0,0,0
-2020-11-02,Unincorporated - Monrovia,SGV,3881,89,0,2293,0,0
+2020-11-02,Unincorporated - Monrovia,SGV,3882,89,0,2293,0,0
 2020-11-02,Unincorporated - Newhall,SFV,220,27,1,12273,0,0
 2020-11-02,Unincorporated - North Lancaster,AV,1198,25,0,2087,0,0
 2020-11-02,Unincorporated - North Whittier,W,8360,240,0,2871,10,120
@@ -11445,7 +11445,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-11-03,Los Angeles - Woodland Hills,SFV,68057,1183,1,1738,36,53
 2020-11-03,Unincorporated - Acton,AV,7969,86,0,1079,2,25
 2020-11-03,Unincorporated - Agua Dulce,AV,4158,38,0,914,0,0
-2020-11-03,Unincorporated - Altadena,SGV,43616,807,0,1850,18,41
+2020-11-03,Unincorporated - Altadena,SGV,43622,807,0,1850,18,41
 2020-11-03,Unincorporated - Anaverde,AV,1508,21,0,1393,0,0
 2020-11-03,Unincorporated - Angeles National Forest,AV,1245,6,0,482,0,0
 2020-11-03,Unincorporated - Arcadia,SGV,7980,103,0,1291,4,50
@@ -11503,7 +11503,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-11-03,Unincorporated - Llano,AV,877,3,0,342,0,0
 2020-11-03,Unincorporated - Marina del Rey,W,9415,87,0,924,1,11
 2020-11-03,Unincorporated - Miracle Mile,MLA,0,0,0,0,0,0
-2020-11-03,Unincorporated - Monrovia,SGV,3881,89,0,2293,0,0
+2020-11-03,Unincorporated - Monrovia,SGV,3882,89,0,2293,0,0
 2020-11-03,Unincorporated - Newhall,SFV,220,27,0,12273,0,0
 2020-11-03,Unincorporated - North Lancaster,AV,1198,26,1,2170,0,0
 2020-11-03,Unincorporated - North Whittier,W,8360,240,0,2871,10,120
@@ -11785,7 +11785,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-11-04,Los Angeles - Woodland Hills,SFV,68057,1194,11,1754,36,53
 2020-11-04,Unincorporated - Acton,AV,7969,87,1,1091,3,38
 2020-11-04,Unincorporated - Agua Dulce,AV,4158,38,0,914,0,0
-2020-11-04,Unincorporated - Altadena,SGV,43616,808,1,1852,18,41
+2020-11-04,Unincorporated - Altadena,SGV,43622,808,1,1852,18,41
 2020-11-04,Unincorporated - Anaverde,AV,1508,21,0,1393,0,0
 2020-11-04,Unincorporated - Angeles National Forest,AV,1245,6,0,482,0,0
 2020-11-04,Unincorporated - Arcadia,SGV,7980,105,2,1316,4,50
@@ -11843,7 +11843,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-11-04,Unincorporated - Llano,AV,877,3,0,342,0,0
 2020-11-04,Unincorporated - Marina del Rey,W,9415,91,4,967,1,11
 2020-11-04,Unincorporated - Miracle Mile,MLA,0,0,0,0,0,0
-2020-11-04,Unincorporated - Monrovia,SGV,3881,89,0,2293,0,0
+2020-11-04,Unincorporated - Monrovia,SGV,3882,89,0,2293,0,0
 2020-11-04,Unincorporated - Newhall,SFV,220,27,0,12273,0,0
 2020-11-04,Unincorporated - North Lancaster,AV,1198,26,0,2170,0,0
 2020-11-04,Unincorporated - North Whittier,W,8360,240,0,2871,10,120
@@ -12125,7 +12125,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-11-05,Los Angeles - Woodland Hills,SFV,68057,1202,8,1766,36,53
 2020-11-05,Unincorporated - Acton,AV,7969,87,0,1091,3,38
 2020-11-05,Unincorporated - Agua Dulce,AV,4158,40,2,962,0,0
-2020-11-05,Unincorporated - Altadena,SGV,43616,811,3,1859,18,41
+2020-11-05,Unincorporated - Altadena,SGV,43622,811,3,1859,18,41
 2020-11-05,Unincorporated - Anaverde,AV,1508,21,0,1393,0,0
 2020-11-05,Unincorporated - Angeles National Forest,AV,1245,6,0,482,0,0
 2020-11-05,Unincorporated - Arcadia,SGV,7980,105,0,1316,4,50
@@ -12183,7 +12183,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-11-05,Unincorporated - Llano,AV,877,3,0,342,0,0
 2020-11-05,Unincorporated - Marina del Rey,W,9415,93,2,988,1,11
 2020-11-05,Unincorporated - Miracle Mile,MLA,0,0,0,0,0,0
-2020-11-05,Unincorporated - Monrovia,SGV,3881,89,0,2293,0,0
+2020-11-05,Unincorporated - Monrovia,SGV,3882,89,0,2293,0,0
 2020-11-05,Unincorporated - Newhall,SFV,220,27,0,12273,0,0
 2020-11-05,Unincorporated - North Lancaster,AV,1198,26,0,2170,0,0
 2020-11-05,Unincorporated - North Whittier,W,8360,244,4,2919,10,120
@@ -12465,7 +12465,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-11-06,Los Angeles - Woodland Hills,SFV,68057,1223,21,1797,37,54
 2020-11-06,Unincorporated - Acton,AV,7969,89,2,1117,3,38
 2020-11-06,Unincorporated - Agua Dulce,AV,4158,41,1,986,0,0
-2020-11-06,Unincorporated - Altadena,SGV,43616,814,3,1866,18,41
+2020-11-06,Unincorporated - Altadena,SGV,43622,814,3,1866,18,41
 2020-11-06,Unincorporated - Anaverde,AV,1508,21,0,1393,0,0
 2020-11-06,Unincorporated - Angeles National Forest,AV,1245,6,0,482,0,0
 2020-11-06,Unincorporated - Arcadia,SGV,7980,105,0,1316,4,50
@@ -12523,7 +12523,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-11-06,Unincorporated - Llano,AV,877,3,0,342,0,0
 2020-11-06,Unincorporated - Marina del Rey,W,9415,93,0,988,1,11
 2020-11-06,Unincorporated - Miracle Mile,MLA,0,0,0,0,0,0
-2020-11-06,Unincorporated - Monrovia,SGV,3881,89,0,2293,0,0
+2020-11-06,Unincorporated - Monrovia,SGV,3882,89,0,2293,0,0
 2020-11-06,Unincorporated - Newhall,SFV,220,28,1,12727,0,0
 2020-11-06,Unincorporated - North Lancaster,AV,1198,26,0,2170,1,83
 2020-11-06,Unincorporated - North Whittier,W,8360,247,3,2955,10,120
@@ -12805,7 +12805,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-11-07,Los Angeles - Woodland Hills,SFV,68057,1235,12,1815,37,54
 2020-11-07,Unincorporated - Acton,AV,7969,90,1,1129,3,38
 2020-11-07,Unincorporated - Agua Dulce,AV,4158,43,2,1034,0,0
-2020-11-07,Unincorporated - Altadena,SGV,43616,815,1,1868,18,41
+2020-11-07,Unincorporated - Altadena,SGV,43622,815,1,1868,18,41
 2020-11-07,Unincorporated - Anaverde,AV,1508,21,0,1393,0,0
 2020-11-07,Unincorporated - Angeles National Forest,AV,1245,6,0,482,0,0
 2020-11-07,Unincorporated - Arcadia,SGV,7980,108,3,1353,4,50
@@ -12863,7 +12863,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-11-07,Unincorporated - Llano,AV,877,3,0,342,0,0
 2020-11-07,Unincorporated - Marina del Rey,W,9415,93,0,988,1,11
 2020-11-07,Unincorporated - Miracle Mile,MLA,0,0,0,0,0,0
-2020-11-07,Unincorporated - Monrovia,SGV,3881,90,1,2319,0,0
+2020-11-07,Unincorporated - Monrovia,SGV,3882,90,1,2319,0,0
 2020-11-07,Unincorporated - Newhall,SFV,220,29,1,13182,0,0
 2020-11-07,Unincorporated - North Lancaster,AV,1198,26,0,2170,1,83
 2020-11-07,Unincorporated - North Whittier,W,8360,249,2,2978,10,120
@@ -13145,7 +13145,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-11-08,Los Angeles - Woodland Hills,SFV,68057,1250,15,1837,37,54
 2020-11-08,Unincorporated - Acton,AV,7969,92,2,1154,3,38
 2020-11-08,Unincorporated - Agua Dulce,AV,4158,43,0,1034,0,0
-2020-11-08,Unincorporated - Altadena,SGV,43616,819,4,1878,18,41
+2020-11-08,Unincorporated - Altadena,SGV,43622,819,4,1878,18,41
 2020-11-08,Unincorporated - Anaverde,AV,1508,21,0,1393,0,0
 2020-11-08,Unincorporated - Angeles National Forest,AV,1245,6,0,482,0,0
 2020-11-08,Unincorporated - Arcadia,SGV,7980,110,2,1378,4,50
@@ -13203,7 +13203,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-11-08,Unincorporated - Llano,AV,877,3,0,342,0,0
 2020-11-08,Unincorporated - Marina del Rey,W,9415,94,1,999,1,11
 2020-11-08,Unincorporated - Miracle Mile,MLA,0,0,0,0,0,0
-2020-11-08,Unincorporated - Monrovia,SGV,3881,90,0,2319,0,0
+2020-11-08,Unincorporated - Monrovia,SGV,3882,90,0,2319,0,0
 2020-11-08,Unincorporated - Newhall,SFV,220,29,0,13182,0,0
 2020-11-08,Unincorporated - North Lancaster,AV,1198,26,0,2170,1,83
 2020-11-08,Unincorporated - North Whittier,W,8360,249,0,2978,10,120
@@ -13485,7 +13485,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-11-09,Los Angeles - Woodland Hills,SFV,68057,1257,7,1847,37,54
 2020-11-09,Unincorporated - Acton,AV,7969,92,0,1154,3,38
 2020-11-09,Unincorporated - Agua Dulce,AV,4158,44,1,1058,0,0
-2020-11-09,Unincorporated - Altadena,SGV,43616,821,2,1882,18,41
+2020-11-09,Unincorporated - Altadena,SGV,43622,821,2,1882,18,41
 2020-11-09,Unincorporated - Anaverde,AV,1508,21,0,1393,0,0
 2020-11-09,Unincorporated - Angeles National Forest,AV,1245,6,0,482,0,0
 2020-11-09,Unincorporated - Arcadia,SGV,7980,110,0,1378,4,50
@@ -13543,7 +13543,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-11-09,Unincorporated - Llano,AV,877,3,0,342,0,0
 2020-11-09,Unincorporated - Marina del Rey,W,9415,95,1,1009,1,11
 2020-11-09,Unincorporated - Miracle Mile,MLA,0,0,0,0,0,0
-2020-11-09,Unincorporated - Monrovia,SGV,3881,90,0,2319,0,0
+2020-11-09,Unincorporated - Monrovia,SGV,3882,90,0,2319,0,0
 2020-11-09,Unincorporated - Newhall,SFV,220,29,0,13182,0,0
 2020-11-09,Unincorporated - North Lancaster,AV,1198,27,1,2254,1,83
 2020-11-09,Unincorporated - North Whittier,W,8360,250,1,2990,10,120
@@ -13825,7 +13825,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-11-10,Los Angeles - Woodland Hills,SFV,68057,1268,11,1863,37,54
 2020-11-10,Unincorporated - Acton,AV,7969,92,0,1154,3,38
 2020-11-10,Unincorporated - Agua Dulce,AV,4158,46,2,1106,0,0
-2020-11-10,Unincorporated - Altadena,SGV,43616,825,4,1891,18,41
+2020-11-10,Unincorporated - Altadena,SGV,43622,825,4,1891,18,41
 2020-11-10,Unincorporated - Anaverde,AV,1508,21,0,1393,0,0
 2020-11-10,Unincorporated - Angeles National Forest,AV,1245,6,0,482,0,0
 2020-11-10,Unincorporated - Arcadia,SGV,7980,114,4,1428,4,50
@@ -13883,7 +13883,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-11-10,Unincorporated - Llano,AV,877,3,0,342,0,0
 2020-11-10,Unincorporated - Marina del Rey,W,9415,95,0,1009,1,11
 2020-11-10,Unincorporated - Miracle Mile,MLA,0,0,0,0,0,0
-2020-11-10,Unincorporated - Monrovia,SGV,3881,90,0,2319,0,0
+2020-11-10,Unincorporated - Monrovia,SGV,3882,90,0,2319,0,0
 2020-11-10,Unincorporated - Newhall,SFV,220,30,1,13636,0,0
 2020-11-10,Unincorporated - North Lancaster,AV,1198,28,1,2337,2,167
 2020-11-10,Unincorporated - North Whittier,W,8360,258,8,3086,10,120
@@ -14165,7 +14165,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-11-11,Los Angeles - Woodland Hills,SFV,68057,1281,13,1882,37,54
 2020-11-11,Unincorporated - Acton,AV,7969,92,0,1154,3,38
 2020-11-11,Unincorporated - Agua Dulce,AV,4158,46,0,1106,0,0
-2020-11-11,Unincorporated - Altadena,SGV,43616,830,5,1903,18,41
+2020-11-11,Unincorporated - Altadena,SGV,43622,830,5,1903,18,41
 2020-11-11,Unincorporated - Anaverde,AV,1508,21,0,1393,0,0
 2020-11-11,Unincorporated - Angeles National Forest,AV,1245,6,0,482,0,0
 2020-11-11,Unincorporated - Arcadia,SGV,7980,116,2,1453,4,50
@@ -14223,7 +14223,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-11-11,Unincorporated - Llano,AV,877,3,0,342,0,0
 2020-11-11,Unincorporated - Marina del Rey,W,9415,97,2,1031,1,11
 2020-11-11,Unincorporated - Miracle Mile,MLA,0,0,0,0,0,0
-2020-11-11,Unincorporated - Monrovia,SGV,3881,90,0,2319,0,0
+2020-11-11,Unincorporated - Monrovia,SGV,3882,90,0,2319,0,0
 2020-11-11,Unincorporated - Newhall,SFV,220,30,0,13636,0,0
 2020-11-11,Unincorporated - North Lancaster,AV,1198,28,0,2337,2,167
 2020-11-11,Unincorporated - North Whittier,W,8360,259,1,3098,10,120
@@ -14505,7 +14505,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-11-12,Los Angeles - Woodland Hills,SFV,68057,1289,8,1894,37,54
 2020-11-12,Unincorporated - Acton,AV,7969,93,1,1167,3,38
 2020-11-12,Unincorporated - Agua Dulce,AV,4158,46,0,1106,0,0
-2020-11-12,Unincorporated - Altadena,SGV,43616,834,4,1912,18,41
+2020-11-12,Unincorporated - Altadena,SGV,43622,834,4,1912,18,41
 2020-11-12,Unincorporated - Anaverde,AV,1508,23,2,1525,0,0
 2020-11-12,Unincorporated - Angeles National Forest,AV,1245,6,0,482,0,0
 2020-11-12,Unincorporated - Arcadia,SGV,7980,116,0,1453,4,50
@@ -14563,7 +14563,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-11-12,Unincorporated - Llano,AV,877,3,0,342,0,0
 2020-11-12,Unincorporated - Marina del Rey,W,9415,97,0,1031,1,11
 2020-11-12,Unincorporated - Miracle Mile,MLA,0,0,0,0,0,0
-2020-11-12,Unincorporated - Monrovia,SGV,3881,91,1,2345,0,0
+2020-11-12,Unincorporated - Monrovia,SGV,3882,91,1,2345,0,0
 2020-11-12,Unincorporated - Newhall,SFV,220,30,0,13636,0,0
 2020-11-12,Unincorporated - North Lancaster,AV,1198,28,0,2337,2,167
 2020-11-12,Unincorporated - North Whittier,W,8360,265,6,3170,10,120
@@ -14845,7 +14845,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-11-13,Los Angeles - Woodland Hills,SFV,68057,1300,11,1910,37,54
 2020-11-13,Unincorporated - Acton,AV,7969,94,1,1179,3,38
 2020-11-13,Unincorporated - Agua Dulce,AV,4158,47,1,1130,0,0
-2020-11-13,Unincorporated - Altadena,SGV,43616,841,7,1928,18,41
+2020-11-13,Unincorporated - Altadena,SGV,43622,841,7,1928,18,41
 2020-11-13,Unincorporated - Anaverde,AV,1508,23,0,1525,0,0
 2020-11-13,Unincorporated - Angeles National Forest,AV,1245,6,0,482,0,0
 2020-11-13,Unincorporated - Arcadia,SGV,7980,117,1,1466,4,50
@@ -14903,7 +14903,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-11-13,Unincorporated - Llano,AV,877,3,0,342,0,0
 2020-11-13,Unincorporated - Marina del Rey,W,9415,98,1,1041,1,11
 2020-11-13,Unincorporated - Miracle Mile,MLA,0,0,0,0,0,0
-2020-11-13,Unincorporated - Monrovia,SGV,3881,91,0,2345,0,0
+2020-11-13,Unincorporated - Monrovia,SGV,3882,91,0,2345,0,0
 2020-11-13,Unincorporated - Newhall,SFV,220,30,0,13636,0,0
 2020-11-13,Unincorporated - North Lancaster,AV,1198,29,1,2421,2,167
 2020-11-13,Unincorporated - North Whittier,W,8360,269,4,3218,10,120
@@ -15185,7 +15185,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-11-14,Los Angeles - Woodland Hills,SFV,68057,1333,33,1959,37,54
 2020-11-14,Unincorporated - Acton,AV,7969,97,3,1217,3,38
 2020-11-14,Unincorporated - Agua Dulce,AV,4158,53,6,1275,0,0
-2020-11-14,Unincorporated - Altadena,SGV,43616,850,9,1949,18,41
+2020-11-14,Unincorporated - Altadena,SGV,43622,850,9,1949,18,41
 2020-11-14,Unincorporated - Anaverde,AV,1508,23,0,1525,0,0
 2020-11-14,Unincorporated - Angeles National Forest,AV,1245,6,0,482,0,0
 2020-11-14,Unincorporated - Arcadia,SGV,7980,118,1,1479,4,50
@@ -15243,7 +15243,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-11-14,Unincorporated - Llano,AV,877,3,0,342,0,0
 2020-11-14,Unincorporated - Marina del Rey,W,9415,98,0,1041,1,11
 2020-11-14,Unincorporated - Miracle Mile,MLA,0,0,0,0,0,0
-2020-11-14,Unincorporated - Monrovia,SGV,3881,91,0,2345,0,0
+2020-11-14,Unincorporated - Monrovia,SGV,3882,91,0,2345,0,0
 2020-11-14,Unincorporated - Newhall,SFV,220,30,0,13636,0,0
 2020-11-14,Unincorporated - North Lancaster,AV,1198,32,3,2671,2,167
 2020-11-14,Unincorporated - North Whittier,W,8360,271,2,3242,10,120
@@ -15525,7 +15525,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-11-15,Los Angeles - Woodland Hills,SFV,68057,1342,9,1972,37,54
 2020-11-15,Unincorporated - Acton,AV,7969,98,1,1229,3,38
 2020-11-15,Unincorporated - Agua Dulce,AV,4158,53,0,1275,0,0
-2020-11-15,Unincorporated - Altadena,SGV,43616,858,8,1967,18,41
+2020-11-15,Unincorporated - Altadena,SGV,43622,858,8,1967,18,41
 2020-11-15,Unincorporated - Anaverde,AV,1508,24,1,1592,0,0
 2020-11-15,Unincorporated - Angeles National Forest,AV,1245,6,0,482,0,0
 2020-11-15,Unincorporated - Arcadia,SGV,7980,119,1,1491,4,50
@@ -15583,7 +15583,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-11-15,Unincorporated - Llano,AV,877,4,1,456,0,0
 2020-11-15,Unincorporated - Marina del Rey,W,9415,99,1,1052,1,11
 2020-11-15,Unincorporated - Miracle Mile,MLA,0,0,0,0,0,0
-2020-11-15,Unincorporated - Monrovia,SGV,3881,91,0,2345,0,0
+2020-11-15,Unincorporated - Monrovia,SGV,3882,91,0,2345,0,0
 2020-11-15,Unincorporated - Newhall,SFV,220,30,0,13636,0,0
 2020-11-15,Unincorporated - North Lancaster,AV,1198,35,3,2922,2,167
 2020-11-15,Unincorporated - North Whittier,W,8360,277,6,3313,10,120
@@ -15865,7 +15865,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-11-16,Los Angeles - Woodland Hills,SFV,68057,1356,14,1993,37,54
 2020-11-16,Unincorporated - Acton,AV,7969,99,1,1242,3,38
 2020-11-16,Unincorporated - Agua Dulce,AV,4158,54,1,1299,0,0
-2020-11-16,Unincorporated - Altadena,SGV,43616,868,10,1990,18,41
+2020-11-16,Unincorporated - Altadena,SGV,43622,868,10,1990,18,41
 2020-11-16,Unincorporated - Anaverde,AV,1508,25,1,1658,0,0
 2020-11-16,Unincorporated - Angeles National Forest,AV,1245,6,0,482,0,0
 2020-11-16,Unincorporated - Arcadia,SGV,7980,122,3,1529,4,50
@@ -15923,7 +15923,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-11-16,Unincorporated - Llano,AV,877,5,1,570,0,0
 2020-11-16,Unincorporated - Marina del Rey,W,9415,101,2,1073,1,11
 2020-11-16,Unincorporated - Miracle Mile,MLA,0,0,0,0,0,0
-2020-11-16,Unincorporated - Monrovia,SGV,3881,91,0,2345,0,0
+2020-11-16,Unincorporated - Monrovia,SGV,3882,91,0,2345,0,0
 2020-11-16,Unincorporated - Newhall,SFV,220,30,0,13636,0,0
 2020-11-16,Unincorporated - North Lancaster,AV,1198,36,1,3005,2,167
 2020-11-16,Unincorporated - North Whittier,W,8360,279,2,3337,10,120
@@ -16205,7 +16205,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-11-17,Los Angeles - Woodland Hills,SFV,68057,1361,5,2000,37,54
 2020-11-17,Unincorporated - Acton,AV,7969,98,-1,1229,3,38
 2020-11-17,Unincorporated - Agua Dulce,AV,4158,55,1,1323,0,0
-2020-11-17,Unincorporated - Altadena,SGV,43616,872,4,1999,18,41
+2020-11-17,Unincorporated - Altadena,SGV,43622,872,4,1999,18,41
 2020-11-17,Unincorporated - Anaverde,AV,1508,27,2,1790,0,0
 2020-11-17,Unincorporated - Angeles National Forest,AV,1245,6,0,482,0,0
 2020-11-17,Unincorporated - Arcadia,SGV,7980,123,1,1541,4,50
@@ -16263,7 +16263,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-11-17,Unincorporated - Llano,AV,877,5,0,570,0,0
 2020-11-17,Unincorporated - Marina del Rey,W,9415,100,-1,1063,1,11
 2020-11-17,Unincorporated - Miracle Mile,MLA,0,0,0,0,0,0
-2020-11-17,Unincorporated - Monrovia,SGV,3881,91,0,2345,0,0
+2020-11-17,Unincorporated - Monrovia,SGV,3882,91,0,2345,0,0
 2020-11-17,Unincorporated - Newhall,SFV,220,30,0,13636,0,0
 2020-11-17,Unincorporated - North Lancaster,AV,1198,36,0,3005,2,167
 2020-11-17,Unincorporated - North Whittier,W,8360,284,5,3397,10,120
@@ -16545,7 +16545,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-11-18,Los Angeles - Woodland Hills,SFV,68057,1376,15,2022,38,56
 2020-11-18,Unincorporated - Acton,AV,7969,98,0,1229,3,38
 2020-11-18,Unincorporated - Agua Dulce,AV,4158,55,0,1323,0,0
-2020-11-18,Unincorporated - Altadena,SGV,43616,881,9,2020,19,44
+2020-11-18,Unincorporated - Altadena,SGV,43622,881,9,2020,19,44
 2020-11-18,Unincorporated - Anaverde,AV,1508,27,0,1790,0,0
 2020-11-18,Unincorporated - Angeles National Forest,AV,1245,6,0,482,0,0
 2020-11-18,Unincorporated - Arcadia,SGV,7980,127,4,1591,4,50
@@ -16603,7 +16603,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-11-18,Unincorporated - Llano,AV,877,5,0,570,0,0
 2020-11-18,Unincorporated - Marina del Rey,W,9415,99,-1,1052,0,0
 2020-11-18,Unincorporated - Miracle Mile,MLA,0,0,0,0,0,0
-2020-11-18,Unincorporated - Monrovia,SGV,3881,91,0,2345,0,0
+2020-11-18,Unincorporated - Monrovia,SGV,3882,91,0,2345,0,0
 2020-11-18,Unincorporated - Newhall,SFV,220,31,1,14091,0,0
 2020-11-18,Unincorporated - North Lancaster,AV,1198,36,0,3005,2,167
 2020-11-18,Unincorporated - North Whittier,W,8360,286,2,3421,10,120
@@ -16885,7 +16885,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-11-19,Los Angeles - Woodland Hills,SFV,68057,1395,19,2050,38,56
 2020-11-19,Unincorporated - Acton,AV,7969,98,0,1229,3,38
 2020-11-19,Unincorporated - Agua Dulce,AV,4158,54,-1,1299,0,0
-2020-11-19,Unincorporated - Altadena,SGV,43616,895,14,2052,19,44
+2020-11-19,Unincorporated - Altadena,SGV,43622,895,14,2052,19,44
 2020-11-19,Unincorporated - Anaverde,AV,1508,28,1,1857,0,0
 2020-11-19,Unincorporated - Angeles National Forest,AV,1245,6,0,482,0,0
 2020-11-19,Unincorporated - Arcadia,SGV,7980,132,5,1654,4,50
@@ -16943,7 +16943,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-11-19,Unincorporated - Llano,AV,877,5,0,570,0,0
 2020-11-19,Unincorporated - Marina del Rey,W,9415,105,6,1116,0,0
 2020-11-19,Unincorporated - Miracle Mile,MLA,0,0,0,0,0,0
-2020-11-19,Unincorporated - Monrovia,SGV,3881,91,0,2345,0,0
+2020-11-19,Unincorporated - Monrovia,SGV,3882,91,0,2345,0,0
 2020-11-19,Unincorporated - Newhall,SFV,220,31,0,14091,0,0
 2020-11-19,Unincorporated - North Lancaster,AV,1198,37,1,3088,2,167
 2020-11-19,Unincorporated - North Whittier,W,8360,292,6,3493,10,120
@@ -17225,7 +17225,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-11-20,Los Angeles - Woodland Hills,SFV,68057,1395,0,2050,38,56
 2020-11-20,Unincorporated - Acton,AV,7969,98,0,1229,3,38
 2020-11-20,Unincorporated - Agua Dulce,AV,4158,54,0,1299,0,0
-2020-11-20,Unincorporated - Altadena,SGV,43616,895,0,2052,19,44
+2020-11-20,Unincorporated - Altadena,SGV,43622,895,0,2052,19,44
 2020-11-20,Unincorporated - Anaverde,AV,1508,28,0,1857,0,0
 2020-11-20,Unincorporated - Angeles National Forest,AV,1245,6,0,482,0,0
 2020-11-20,Unincorporated - Arcadia,SGV,7980,132,0,1654,4,50
@@ -17283,7 +17283,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-11-20,Unincorporated - Llano,AV,877,5,0,570,0,0
 2020-11-20,Unincorporated - Marina del Rey,W,9415,105,0,1116,0,0
 2020-11-20,Unincorporated - Miracle Mile,MLA,0,0,0,0,0,0
-2020-11-20,Unincorporated - Monrovia,SGV,3881,91,0,2345,0,0
+2020-11-20,Unincorporated - Monrovia,SGV,3882,91,0,2345,0,0
 2020-11-20,Unincorporated - Newhall,SFV,220,31,0,14091,0,0
 2020-11-20,Unincorporated - North Lancaster,AV,1198,37,0,3088,2,167
 2020-11-20,Unincorporated - North Whittier,W,8360,292,0,3493,10,120
@@ -17565,7 +17565,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-11-21,Los Angeles - Woodland Hills,SFV,68057,1435,40,2109,38,56
 2020-11-21,Unincorporated - Acton,AV,7969,101,3,1267,3,38
 2020-11-21,Unincorporated - Agua Dulce,AV,4158,57,3,1371,0,0
-2020-11-21,Unincorporated - Altadena,SGV,43616,918,23,2105,21,48
+2020-11-21,Unincorporated - Altadena,SGV,43622,918,23,2105,21,48
 2020-11-21,Unincorporated - Anaverde,AV,1508,30,2,1989,0,0
 2020-11-21,Unincorporated - Angeles National Forest,AV,1245,6,0,482,0,0
 2020-11-21,Unincorporated - Arcadia,SGV,7980,135,3,1692,4,50
@@ -17623,7 +17623,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-11-21,Unincorporated - Llano,AV,877,5,0,570,0,0
 2020-11-21,Unincorporated - Marina del Rey,W,9415,110,5,1169,0,0
 2020-11-21,Unincorporated - Miracle Mile,MLA,0,0,0,0,0,0
-2020-11-21,Unincorporated - Monrovia,SGV,3881,92,1,2371,0,0
+2020-11-21,Unincorporated - Monrovia,SGV,3882,92,1,2371,0,0
 2020-11-21,Unincorporated - Newhall,SFV,220,31,0,14091,0,0
 2020-11-21,Unincorporated - North Lancaster,AV,1198,40,3,3339,2,167
 2020-11-21,Unincorporated - North Whittier,W,8360,305,13,3648,10,120
@@ -17905,7 +17905,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-11-22,Los Angeles - Woodland Hills,SFV,68057,1442,7,2119,38,56
 2020-11-22,Unincorporated - Acton,AV,7969,101,0,1267,3,38
 2020-11-22,Unincorporated - Agua Dulce,AV,4158,56,-1,1347,0,0
-2020-11-22,Unincorporated - Altadena,SGV,43616,922,4,2114,21,48
+2020-11-22,Unincorporated - Altadena,SGV,43622,922,4,2114,21,48
 2020-11-22,Unincorporated - Anaverde,AV,1508,30,0,1989,0,0
 2020-11-22,Unincorporated - Angeles National Forest,AV,1245,6,0,482,0,0
 2020-11-22,Unincorporated - Arcadia,SGV,7980,136,1,1704,4,50
@@ -17963,7 +17963,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-11-22,Unincorporated - Llano,AV,877,6,1,684,0,0
 2020-11-22,Unincorporated - Marina del Rey,W,9415,112,2,1190,0,0
 2020-11-22,Unincorporated - Miracle Mile,MLA,0,0,0,0,0,0
-2020-11-22,Unincorporated - Monrovia,SGV,3881,93,1,2396,0,0
+2020-11-22,Unincorporated - Monrovia,SGV,3882,93,1,2396,0,0
 2020-11-22,Unincorporated - Newhall,SFV,220,31,0,14091,0,0
 2020-11-22,Unincorporated - North Lancaster,AV,1198,41,1,3422,2,167
 2020-11-22,Unincorporated - North Whittier,W,8360,308,3,3684,10,120
@@ -18245,7 +18245,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-11-23,Los Angeles - Woodland Hills,SFV,68057,1477,35,2170,38,56
 2020-11-23,Unincorporated - Acton,AV,7969,105,4,1317,3,38
 2020-11-23,Unincorporated - Agua Dulce,AV,4158,58,2,1395,0,0
-2020-11-23,Unincorporated - Altadena,SGV,43616,941,19,2157,21,48
+2020-11-23,Unincorporated - Altadena,SGV,43622,941,19,2157,21,48
 2020-11-23,Unincorporated - Anaverde,AV,1508,38,8,2520,0,0
 2020-11-23,Unincorporated - Angeles National Forest,AV,1245,6,0,482,0,0
 2020-11-23,Unincorporated - Arcadia,SGV,7980,137,1,1717,4,50
@@ -18303,7 +18303,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-11-23,Unincorporated - Llano,AV,877,6,0,684,0,0
 2020-11-23,Unincorporated - Marina del Rey,W,9415,112,0,1190,0,0
 2020-11-23,Unincorporated - Miracle Mile,MLA,0,0,0,0,0,0
-2020-11-23,Unincorporated - Monrovia,SGV,3881,95,2,2448,0,0
+2020-11-23,Unincorporated - Monrovia,SGV,3882,95,2,2448,0,0
 2020-11-23,Unincorporated - Newhall,SFV,220,33,2,15000,0,0
 2020-11-23,Unincorporated - North Lancaster,AV,1198,41,0,3422,2,167
 2020-11-23,Unincorporated - North Whittier,W,8360,311,3,3720,10,120
@@ -18585,7 +18585,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-11-24,Los Angeles - Woodland Hills,SFV,68057,1482,5,2178,38,56
 2020-11-24,Unincorporated - Acton,AV,7969,106,1,1330,3,38
 2020-11-24,Unincorporated - Agua Dulce,AV,4158,57,-1,1371,0,0
-2020-11-24,Unincorporated - Altadena,SGV,43616,948,7,2173,21,48
+2020-11-24,Unincorporated - Altadena,SGV,43622,948,7,2173,21,48
 2020-11-24,Unincorporated - Anaverde,AV,1508,41,3,2719,0,0
 2020-11-24,Unincorporated - Angeles National Forest,AV,1245,6,0,482,0,0
 2020-11-24,Unincorporated - Arcadia,SGV,7980,138,1,1729,4,50
@@ -18643,7 +18643,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-11-24,Unincorporated - Llano,AV,877,6,0,684,0,0
 2020-11-24,Unincorporated - Marina del Rey,W,9415,113,1,1201,0,0
 2020-11-24,Unincorporated - Miracle Mile,MLA,0,0,0,0,0,0
-2020-11-24,Unincorporated - Monrovia,SGV,3881,96,1,2474,0,0
+2020-11-24,Unincorporated - Monrovia,SGV,3882,96,1,2474,0,0
 2020-11-24,Unincorporated - Newhall,SFV,220,33,0,15000,0,0
 2020-11-24,Unincorporated - North Lancaster,AV,1198,45,4,3756,2,167
 2020-11-24,Unincorporated - North Whittier,W,8360,318,7,3804,10,120
@@ -18925,7 +18925,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-11-25,Los Angeles - Woodland Hills,SFV,68057,1492,10,2192,36,53
 2020-11-25,Unincorporated - Acton,AV,7969,106,0,1330,3,38
 2020-11-25,Unincorporated - Agua Dulce,AV,4158,59,2,1419,0,0
-2020-11-25,Unincorporated - Altadena,SGV,43616,953,5,2185,20,46
+2020-11-25,Unincorporated - Altadena,SGV,43622,953,5,2185,20,46
 2020-11-25,Unincorporated - Anaverde,AV,1508,41,0,2719,0,0
 2020-11-25,Unincorporated - Angeles National Forest,AV,1245,6,0,482,0,0
 2020-11-25,Unincorporated - Arcadia,SGV,7980,137,-1,1717,3,38
@@ -18983,7 +18983,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-11-25,Unincorporated - Llano,AV,877,6,0,684,0,0
 2020-11-25,Unincorporated - Marina del Rey,W,9415,116,3,1233,0,0
 2020-11-25,Unincorporated - Miracle Mile,MLA,0,0,0,0,0,0
-2020-11-25,Unincorporated - Monrovia,SGV,3881,96,0,2474,0,0
+2020-11-25,Unincorporated - Monrovia,SGV,3882,96,0,2474,0,0
 2020-11-25,Unincorporated - Newhall,SFV,220,33,0,15000,0,0
 2020-11-25,Unincorporated - North Lancaster,AV,1198,45,0,3756,1,83
 2020-11-25,Unincorporated - North Whittier,W,8360,322,4,3852,10,120
@@ -19265,7 +19265,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-11-26,Los Angeles - Woodland Hills,SFV,68057,1515,23,2226,36,53
 2020-11-26,Unincorporated - Acton,AV,7969,109,3,1367,3,38
 2020-11-26,Unincorporated - Agua Dulce,AV,4158,59,0,1419,0,0
-2020-11-26,Unincorporated - Altadena,SGV,43616,964,11,2210,20,46
+2020-11-26,Unincorporated - Altadena,SGV,43622,964,11,2210,20,46
 2020-11-26,Unincorporated - Anaverde,AV,1508,42,1,2785,0,0
 2020-11-26,Unincorporated - Angeles National Forest,AV,1245,6,0,482,0,0
 2020-11-26,Unincorporated - Arcadia,SGV,7980,141,4,1767,3,38
@@ -19323,7 +19323,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-11-26,Unincorporated - Llano,AV,877,6,0,684,0,0
 2020-11-26,Unincorporated - Marina del Rey,W,9415,117,1,1243,0,0
 2020-11-26,Unincorporated - Miracle Mile,MLA,0,0,0,0,0,0
-2020-11-26,Unincorporated - Monrovia,SGV,3881,97,1,2499,0,0
+2020-11-26,Unincorporated - Monrovia,SGV,3882,97,1,2499,0,0
 2020-11-26,Unincorporated - Newhall,SFV,220,33,0,15000,0,0
 2020-11-26,Unincorporated - North Lancaster,AV,1198,45,0,3756,1,83
 2020-11-26,Unincorporated - North Whittier,W,8360,326,4,3900,10,120
@@ -19605,7 +19605,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-11-27,Los Angeles - Woodland Hills,SFV,68057,1515,0,2226,36,53
 2020-11-27,Unincorporated - Acton,AV,7969,109,0,1367,3,38
 2020-11-27,Unincorporated - Agua Dulce,AV,4158,59,0,1419,0,0
-2020-11-27,Unincorporated - Altadena,SGV,43616,964,0,2210,20,46
+2020-11-27,Unincorporated - Altadena,SGV,43622,964,0,2210,20,46
 2020-11-27,Unincorporated - Anaverde,AV,1508,42,0,2785,0,0
 2020-11-27,Unincorporated - Angeles National Forest,AV,1245,6,0,482,0,0
 2020-11-27,Unincorporated - Arcadia,SGV,7980,141,0,1767,3,38
@@ -19663,7 +19663,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-11-27,Unincorporated - Llano,AV,877,6,0,684,0,0
 2020-11-27,Unincorporated - Marina del Rey,W,9415,117,0,1243,0,0
 2020-11-27,Unincorporated - Miracle Mile,MLA,0,0,0,0,0,0
-2020-11-27,Unincorporated - Monrovia,SGV,3881,97,0,2499,0,0
+2020-11-27,Unincorporated - Monrovia,SGV,3882,97,0,2499,0,0
 2020-11-27,Unincorporated - Newhall,SFV,220,33,0,15000,0,0
 2020-11-27,Unincorporated - North Lancaster,AV,1198,45,0,3756,1,83
 2020-11-27,Unincorporated - North Whittier,W,8360,326,0,3900,10,120
@@ -19945,7 +19945,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-11-28,Los Angeles - Woodland Hills,SFV,68057,1547,32,2273,36,53
 2020-11-28,Unincorporated - Acton,AV,7969,113,4,1418,3,38
 2020-11-28,Unincorporated - Agua Dulce,AV,4158,60,1,1443,0,0
-2020-11-28,Unincorporated - Altadena,SGV,43616,994,30,2279,20,46
+2020-11-28,Unincorporated - Altadena,SGV,43622,994,30,2279,20,46
 2020-11-28,Unincorporated - Anaverde,AV,1508,46,4,3050,0,0
 2020-11-28,Unincorporated - Angeles National Forest,AV,1245,6,0,482,0,0
 2020-11-28,Unincorporated - Arcadia,SGV,7980,142,1,1779,3,38
@@ -20003,7 +20003,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-11-28,Unincorporated - Llano,AV,877,6,0,684,0,0
 2020-11-28,Unincorporated - Marina del Rey,W,9415,118,1,1254,0,0
 2020-11-28,Unincorporated - Miracle Mile,MLA,0,0,0,0,0,0
-2020-11-28,Unincorporated - Monrovia,SGV,3881,98,1,2525,0,0
+2020-11-28,Unincorporated - Monrovia,SGV,3882,98,1,2525,0,0
 2020-11-28,Unincorporated - Newhall,SFV,220,35,2,15909,0,0
 2020-11-28,Unincorporated - North Lancaster,AV,1198,48,3,4007,1,83
 2020-11-28,Unincorporated - North Whittier,W,8360,333,7,3983,10,120
@@ -20059,343 +20059,343 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-11-28,Unincorporated - Whittier,SGV,3784,97,2,2563,3,79
 2020-11-28,Unincorporated - Willowbrook,S,34913,1997,31,5720,25,72
 2020-11-28,Unincorporated - Wiseburn,SB,6027,168,4,2787,1,17
-2020-11-29,City of Agoura Hills,SFV,20877,280,0,1341,6,29
-2020-11-29,City of Alhambra,SGV,86713,1848,0,2131,34,39
-2020-11-29,City of Arcadia,SGV,57763,773,0,1338,45,78
-2020-11-29,City of Artesia,E,16795,557,0,3316,13,77
+2020-11-29,City of Agoura Hills,SFV,20877,281,1,1346,6,29
+2020-11-29,City of Alhambra,SGV,86713,1873,25,2160,34,39
+2020-11-29,City of Arcadia,SGV,57763,785,12,1359,45,78
+2020-11-29,City of Artesia,E,16795,565,8,3364,13,77
 2020-11-29,City of Avalon,SB,3876,5,0,129,0,0
-2020-11-29,City of Azusa,SGV,50035,2160,0,4317,28,56
-2020-11-29,City of Baldwin Park,SGV,76763,4344,0,5659,110,143
-2020-11-29,City of Bell Gardens,E,43068,2794,0,6487,29,67
-2020-11-29,City of Bell,E,36329,2177,0,5992,46,127
-2020-11-29,City of Bellflower,E,77734,3323,0,4275,66,85
-2020-11-29,City of Beverly Hills,W,34524,960,0,2781,11,32
+2020-11-29,City of Azusa,SGV,50035,2172,12,4341,28,56
+2020-11-29,City of Baldwin Park,SGV,76763,4397,53,5728,110,143
+2020-11-29,City of Bell Gardens,E,43068,2858,64,6636,30,70
+2020-11-29,City of Bell,E,36329,2203,26,6064,47,129
+2020-11-29,City of Bellflower,E,77734,3362,39,4325,66,85
+2020-11-29,City of Beverly Hills,W,34524,976,16,2827,11,32
 2020-11-29,City of Bradbury,SGV,1069,23,0,2152,0,0
-2020-11-29,City of Burbank,SFV,107185,2673,0,2494,91,85
-2020-11-29,City of Calabasas,SFV,24320,416,0,1710,14,58
-2020-11-29,City of Carson,SB,93861,2661,0,2835,65,69
-2020-11-29,City of Cerritos,E,50060,826,0,1650,17,34
-2020-11-29,City of Claremont,SGV,36477,684,0,1875,10,27
-2020-11-29,City of Commerce,E,13070,849,0,6496,13,99
-2020-11-29,City of Compton,S,99911,5565,0,5570,82,82
-2020-11-29,City of Covina,SGV,49030,2013,0,4105,61,124
-2020-11-29,City of Cudahy,E,24346,1550,0,6366,19,78
-2020-11-29,City of Culver City,W,39872,619,0,1553,30,75
-2020-11-29,City of Diamond Bar,SGV,57533,913,0,1587,16,28
-2020-11-29,City of Downey,E,114272,5991,0,5243,97,85
-2020-11-29,City of Duarte,SGV,22013,778,0,3534,36,164
-2020-11-29,City of El Monte,SGV,117272,6149,0,5243,183,156
-2020-11-29,City of El Segundo,SB,16784,187,0,1114,1,6
-2020-11-29,City of Gardena,E,61302,1669,0,2722,59,96
-2020-11-29,City of Glendale,SFV,206507,6117,0,2962,193,93
-2020-11-29,City of Glendora,SGV,52772,1724,0,3267,80,152
-2020-11-29,City of Hawaiian Gardens,E,14677,722,0,4920,3,20
-2020-11-29,City of Hawthorne,SB,88780,2844,0,3203,54,61
-2020-11-29,City of Hermosa Beach,SB,19669,341,0,1734,4,20
-2020-11-29,City of Hidden Hills,SFV,1890,24,0,1270,0,0
-2020-11-29,City of Huntington Park,E,59480,3912,0,6577,66,111
-2020-11-29,City of Industry,SGV,437,50,0,11442,2,458
-2020-11-29,City of Inglewood,SB,113595,4047,0,3563,94,83
-2020-11-29,City of Irwindale,SGV,1459,96,0,6580,2,137
-2020-11-29,City of La Canada Flintridge,SGV,20698,252,0,1218,6,29
+2020-11-29,City of Burbank,SFV,107185,2700,27,2519,93,87
+2020-11-29,City of Calabasas,SFV,24320,420,4,1727,14,58
+2020-11-29,City of Carson,SB,93861,2691,30,2867,65,69
+2020-11-29,City of Cerritos,E,50060,837,11,1672,17,34
+2020-11-29,City of Claremont,SGV,36477,700,16,1919,10,27
+2020-11-29,City of Commerce,E,13070,863,14,6603,13,99
+2020-11-29,City of Compton,S,99911,5628,63,5633,82,82
+2020-11-29,City of Covina,SGV,49030,2048,35,4177,61,124
+2020-11-29,City of Cudahy,E,24346,1572,22,6457,19,78
+2020-11-29,City of Culver City,W,39872,622,3,1560,31,78
+2020-11-29,City of Diamond Bar,SGV,57533,928,15,1613,16,28
+2020-11-29,City of Downey,E,114272,6085,94,5325,97,85
+2020-11-29,City of Duarte,SGV,22013,785,7,3566,36,164
+2020-11-29,City of El Monte,SGV,117272,6199,50,5286,183,156
+2020-11-29,City of El Segundo,SB,16784,191,4,1138,1,6
+2020-11-29,City of Gardena,E,61302,1695,26,2765,59,96
+2020-11-29,City of Glendale,SFV,206507,6189,72,2997,193,93
+2020-11-29,City of Glendora,SGV,52772,1742,18,3301,80,152
+2020-11-29,City of Hawaiian Gardens,E,14677,729,7,4967,3,20
+2020-11-29,City of Hawthorne,SB,88780,2888,44,3253,54,61
+2020-11-29,City of Hermosa Beach,SB,19669,345,4,1754,4,20
+2020-11-29,City of Hidden Hills,SFV,1890,25,1,1323,0,0
+2020-11-29,City of Huntington Park,E,59480,3959,47,6656,66,111
+2020-11-29,City of Industry,SGV,437,51,1,11670,2,458
+2020-11-29,City of Inglewood,SB,113595,4111,64,3619,94,83
+2020-11-29,City of Irwindale,SGV,1459,97,1,6648,2,137
+2020-11-29,City of La Canada Flintridge,SGV,20698,255,3,1232,6,29
 2020-11-29,City of La Habra Heights,E,5455,69,0,1265,1,18
-2020-11-29,City of La Mirada,E,49595,1266,0,2552,28,56
-2020-11-29,City of La Puente,SGV,40694,2193,0,5389,28,69
-2020-11-29,City of La Verne,SGV,33279,800,0,2404,14,42
-2020-11-29,City of Lakewood,E,80353,1895,0,2358,15,19
-2020-11-29,City of Lancaster,AV,161556,6232,0,3857,73,45
-2020-11-29,City of Lawndale,SB,33618,974,0,2898,13,39
+2020-11-29,City of La Mirada,E,49595,1285,19,2591,28,56
+2020-11-29,City of La Puente,SGV,40694,2217,24,5448,28,69
+2020-11-29,City of La Verne,SGV,33279,815,15,2449,14,42
+2020-11-29,City of Lakewood,E,80353,1910,15,2377,15,19
+2020-11-29,City of Lancaster,AV,161556,6312,80,3907,73,45
+2020-11-29,City of Lawndale,SB,33618,984,10,2927,13,39
 2020-11-29,City of Lomita,SB,20725,326,0,1573,10,48
-2020-11-29,City of Lynwood,S,72049,4559,0,6328,112,155
-2020-11-29,City of Malibu,W,12957,154,0,1188,3,23
-2020-11-29,City of Manhattan Beach,SB,36006,519,0,1442,5,14
-2020-11-29,City of Maywood,E,28047,1858,0,6624,38,135
-2020-11-29,City of Monrovia,SGV,38801,1096,0,2825,40,103
-2020-11-29,City of Montebello,E,64378,3349,0,5202,54,84
-2020-11-29,City of Monterey Park,SGV,62262,1324,0,2126,57,92
-2020-11-29,City of Norwalk,E,107612,4976,0,4624,95,88
-2020-11-29,City of Palmdale,AV,158957,7535,0,4740,82,52
-2020-11-29,City of Palos Verdes Estates,SB,13527,139,0,1028,2,15
-2020-11-29,City of Paramount,S,56021,3319,0,5924,32,57
-2020-11-29,City of Pico Rivera,E,64283,3586,0,5578,87,135
-2020-11-29,City of Pomona,SGV,155918,8302,0,5324,152,97
-2020-11-29,City of Rancho Palos Verdes,SB,42743,424,0,992,12,28
-2020-11-29,City of Redondo Beach,SB,68702,886,0,1290,14,20
-2020-11-29,City of Rolling Hills Estates,SB,8115,66,0,814,3,37
-2020-11-29,City of Rolling Hills,SB,1940,14,0,722,0,0
-2020-11-29,City of Rosemead,SGV,55355,1325,0,2394,33,60
-2020-11-29,City of San Dimas,SGV,34515,894,0,2590,14,41
-2020-11-29,City of San Fernando,SFV,24614,1580,0,6420,21,85
-2020-11-29,City of San Gabriel,SGV,40961,1026,0,2505,84,205
-2020-11-29,City of San Marino,SGV,13275,121,0,911,3,23
-2020-11-29,City of Santa Clarita,SFV,220399,6092,0,2764,67,30
-2020-11-29,City of Santa Fe Springs,E,18362,824,0,4487,8,44
-2020-11-29,City of Santa Monica,W,92442,1466,0,1586,45,49
+2020-11-29,City of Lynwood,S,72049,4614,55,6404,112,155
+2020-11-29,City of Malibu,W,12957,156,2,1204,3,23
+2020-11-29,City of Manhattan Beach,SB,36006,521,2,1447,5,14
+2020-11-29,City of Maywood,E,28047,1873,15,6678,38,135
+2020-11-29,City of Monrovia,SGV,38801,1107,11,2853,40,103
+2020-11-29,City of Montebello,E,64378,3394,45,5272,54,84
+2020-11-29,City of Monterey Park,SGV,62262,1338,14,2149,57,92
+2020-11-29,City of Norwalk,E,107612,5033,57,4677,95,88
+2020-11-29,City of Palmdale,AV,158957,7622,87,4795,83,52
+2020-11-29,City of Palos Verdes Estates,SB,13527,140,1,1035,2,15
+2020-11-29,City of Paramount,S,56021,3354,35,5987,32,57
+2020-11-29,City of Pico Rivera,E,64283,3632,46,5650,87,135
+2020-11-29,City of Pomona,SGV,155918,8418,116,5399,152,97
+2020-11-29,City of Rancho Palos Verdes,SB,42743,427,3,999,12,28
+2020-11-29,City of Redondo Beach,SB,68702,900,14,1310,14,20
+2020-11-29,City of Rolling Hills Estates,SB,8115,68,2,838,3,37
+2020-11-29,City of Rolling Hills,SB,1940,15,1,773,0,0
+2020-11-29,City of Rosemead,SGV,55355,1349,24,2437,33,60
+2020-11-29,City of San Dimas,SGV,34515,915,21,2651,14,41
+2020-11-29,City of San Fernando,SFV,24614,1608,28,6533,21,85
+2020-11-29,City of San Gabriel,SGV,40961,1031,5,2517,85,208
+2020-11-29,City of San Marino,SGV,13275,122,1,919,3,23
+2020-11-29,City of Santa Clarita,SFV,220399,6191,99,2809,67,30
+2020-11-29,City of Santa Fe Springs,E,18362,832,8,4531,9,49
+2020-11-29,City of Santa Monica,W,92442,1480,14,1601,45,49
 2020-11-29,City of Sierra Madre,SGV,10990,131,0,1192,4,36
-2020-11-29,City of Signal Hill,E,11797,389,0,3297,4,34
-2020-11-29,City of South El Monte,SGV,20885,1182,0,5660,16,77
-2020-11-29,City of South Gate,E,98154,6132,0,6247,81,83
-2020-11-29,City of South Pasadena,SGV,26056,399,0,1531,26,100
-2020-11-29,City of Temple City,SGV,36462,734,0,2013,44,121
-2020-11-29,City of Torrance,SB,149305,2027,0,1358,76,51
-2020-11-29,City of Vernon,E,209,21,0,10048,0,0
-2020-11-29,City of Walnut,SGV,30533,492,0,1611,5,16
-2020-11-29,City of West Covina,SGV,108231,4179,0,3861,73,67
-2020-11-29,City of West Hollywood,W,36946,925,0,2503,8,22
+2020-11-29,City of Signal Hill,E,11797,390,1,3306,4,34
+2020-11-29,City of South El Monte,SGV,20885,1199,17,5741,16,77
+2020-11-29,City of South Gate,E,98154,6220,88,6337,81,83
+2020-11-29,City of South Pasadena,SGV,26056,401,2,1539,26,100
+2020-11-29,City of Temple City,SGV,36462,738,4,2024,44,121
+2020-11-29,City of Torrance,SB,149305,2041,14,1367,77,52
+2020-11-29,City of Vernon,E,209,22,1,10526,0,0
+2020-11-29,City of Walnut,SGV,30533,498,6,1631,5,16
+2020-11-29,City of West Covina,SGV,108231,4234,55,3912,73,67
+2020-11-29,City of West Hollywood,W,36946,934,9,2528,8,22
 2020-11-29,City of Westlake Village,SFV,8359,55,0,658,0,0
-2020-11-29,City of Whittier,E,87439,3564,0,4076,58,66
-2020-11-29,Los Angeles - Adams-Normandie,S,8202,385,0,4694,5,61
-2020-11-29,Los Angeles - Alsace,W,12444,525,0,4219,3,24
+2020-11-29,City of Whittier,E,87439,3592,28,4108,59,67
+2020-11-29,Los Angeles - Adams-Normandie,S,8202,389,4,4743,5,61
+2020-11-29,Los Angeles - Alsace,W,12444,531,6,4267,3,24
 2020-11-29,Los Angeles - Angeles National Forest,AV,40,2,0,5000,0,0
-2020-11-29,Los Angeles - Angelino Heights,MLA,2502,89,0,3557,1,40
-2020-11-29,Los Angeles - Arleta,SFV,34371,2293,0,6672,28,81
-2020-11-29,Los Angeles - Atwater Village,MLA,14669,398,0,2714,8,55
-2020-11-29,Los Angeles - Baldwin Hills,S,31128,852,0,2737,29,93
-2020-11-29,Los Angeles - Bel Air,W,8431,128,0,1519,0,0
-2020-11-29,Los Angeles - Beverly Crest,W,12523,203,0,1621,2,16
+2020-11-29,Los Angeles - Angelino Heights,MLA,2502,91,2,3637,1,40
+2020-11-29,Los Angeles - Arleta,SFV,34371,2319,26,6747,28,81
+2020-11-29,Los Angeles - Atwater Village,MLA,14669,405,7,2761,8,55
+2020-11-29,Los Angeles - Baldwin Hills,S,31128,861,9,2766,29,93
+2020-11-29,Los Angeles - Bel Air,W,8431,129,1,1530,0,0
+2020-11-29,Los Angeles - Beverly Crest,W,12523,207,4,1653,2,16
 2020-11-29,Los Angeles - Beverlywood,W,13171,243,0,1845,0,0
-2020-11-29,Los Angeles - Boyle Heights,MLA,86883,5885,0,6773,83,96
-2020-11-29,Los Angeles - Brentwood,W,30964,498,0,1609,5,16
+2020-11-29,Los Angeles - Boyle Heights,MLA,86883,5981,96,6884,83,96
+2020-11-29,Los Angeles - Brentwood,W,30964,501,3,1618,5,16
 2020-11-29,Los Angeles - Brookside,MLA,581,6,0,1033,0,0
 2020-11-29,Los Angeles - Cadillac-Corning,W,7122,195,0,2738,1,14
-2020-11-29,Los Angeles - Canoga Park,SFV,65290,2969,0,4547,68,104
-2020-11-29,Los Angeles - Carthay,MLA,14363,340,0,2367,17,118
-2020-11-29,Los Angeles - Central,MLA,38992,2825,0,7245,45,115
-2020-11-29,Los Angeles - Century City,W,12791,197,0,1540,0,0
-2020-11-29,Los Angeles - Century Palms/Cove,S,33764,2046,0,6059,23,68
-2020-11-29,Los Angeles - Chatsworth,SFV,37061,1109,0,2992,36,97
-2020-11-29,Los Angeles - Cheviot Hills,W,9174,137,0,1494,3,33
-2020-11-29,Los Angeles - Chinatown,MLA,8020,217,0,2705,4,50
-2020-11-29,Los Angeles - Cloverdale/Cochran,MLA,14554,433,0,2975,5,34
-2020-11-29,Los Angeles - Country Club Park,MLA,15153,514,0,3392,37,244
-2020-11-29,Los Angeles - Crenshaw District,S,13827,443,0,3203,5,36
-2020-11-29,Los Angeles - Crestview,W,11366,273,0,2401,22,194
-2020-11-29,Los Angeles - Del Rey,W,29928,571,0,1907,9,30
-2020-11-29,Los Angeles - Downtown,MLA,27507,1273,0,4628,17,62
-2020-11-29,Los Angeles - Eagle Rock,MLA,39594,1040,0,2627,28,71
-2020-11-29,Los Angeles - East Hollywood,MLA,29287,943,0,3220,45,154
-2020-11-29,Los Angeles - Echo Park,MLA,14257,413,0,2897,6,42
-2020-11-29,Los Angeles - El Sereno,MLA,41807,1889,0,4518,39,93
-2020-11-29,Los Angeles - Elysian Park,MLA,5711,141,0,2468,0,0
-2020-11-29,Los Angeles - Elysian Valley,MLA,10172,377,0,3707,5,49
-2020-11-29,Los Angeles - Encino,SFV,45175,1083,0,2398,23,51
-2020-11-29,Los Angeles - Exposition Park,S,44922,1914,0,4261,26,58
-2020-11-29,Los Angeles - Exposition,S,3326,95,0,2856,2,60
-2020-11-29,Los Angeles - Faircrest Heights,MLA,3599,55,0,1528,2,56
-2020-11-29,Los Angeles - Figueroa Park Square,S,8721,437,0,5011,5,57
-2020-11-29,Los Angeles - Florence-Firestone,S,47444,3122,0,6580,39,82
-2020-11-29,Los Angeles - Glassell Park,MLA,31600,1017,0,3218,15,47
-2020-11-29,Los Angeles - Gramercy Place,S,10765,348,0,3233,6,56
-2020-11-29,Los Angeles - Granada Hills,SFV,58197,2025,0,3480,71,122
-2020-11-29,Los Angeles - Green Meadows,S,21505,1249,0,5808,15,70
-2020-11-29,Los Angeles - Hancock Park,MLA,17037,341,0,2001,4,23
-2020-11-29,Los Angeles - Harbor City,SB,29066,705,0,2425,12,41
-2020-11-29,Los Angeles - Harbor Gateway,SB,43605,1392,0,3193,18,41
+2020-11-29,Los Angeles - Canoga Park,SFV,65290,3019,50,4624,68,104
+2020-11-29,Los Angeles - Carthay,MLA,14363,345,5,2402,17,118
+2020-11-29,Los Angeles - Central,MLA,38992,2855,30,7322,45,115
+2020-11-29,Los Angeles - Century City,W,12791,198,1,1548,0,0
+2020-11-29,Los Angeles - Century Palms/Cove,S,33764,2064,18,6113,23,68
+2020-11-29,Los Angeles - Chatsworth,SFV,37061,1150,41,3103,36,97
+2020-11-29,Los Angeles - Cheviot Hills,W,9174,141,4,1537,3,33
+2020-11-29,Los Angeles - Chinatown,MLA,8020,222,5,2768,4,50
+2020-11-29,Los Angeles - Cloverdale/Cochran,MLA,14554,441,8,3030,5,34
+2020-11-29,Los Angeles - Country Club Park,MLA,15153,519,5,3425,37,244
+2020-11-29,Los Angeles - Crenshaw District,S,13827,448,5,3240,5,36
+2020-11-29,Los Angeles - Crestview,W,11366,277,4,2437,22,194
+2020-11-29,Los Angeles - Del Rey,W,29928,586,15,1958,9,30
+2020-11-29,Los Angeles - Downtown,MLA,27507,1289,16,4686,17,62
+2020-11-29,Los Angeles - Eagle Rock,MLA,39594,1054,14,2662,28,71
+2020-11-29,Los Angeles - East Hollywood,MLA,29287,953,10,3254,45,154
+2020-11-29,Los Angeles - Echo Park,MLA,14257,421,8,2953,6,42
+2020-11-29,Los Angeles - El Sereno,MLA,41807,1906,17,4559,39,93
+2020-11-29,Los Angeles - Elysian Park,MLA,5711,143,2,2504,0,0
+2020-11-29,Los Angeles - Elysian Valley,MLA,10172,385,8,3785,5,49
+2020-11-29,Los Angeles - Encino,SFV,45175,1100,17,2435,23,51
+2020-11-29,Los Angeles - Exposition Park,S,44922,1924,10,4283,26,58
+2020-11-29,Los Angeles - Exposition,S,3326,96,1,2886,2,60
+2020-11-29,Los Angeles - Faircrest Heights,MLA,3599,56,1,1556,2,56
+2020-11-29,Los Angeles - Figueroa Park Square,S,8721,441,4,5057,5,57
+2020-11-29,Los Angeles - Florence-Firestone,S,47444,3165,43,6671,39,82
+2020-11-29,Los Angeles - Glassell Park,MLA,31600,1027,10,3250,15,47
+2020-11-29,Los Angeles - Gramercy Place,S,10765,352,4,3270,6,56
+2020-11-29,Los Angeles - Granada Hills,SFV,58197,2059,34,3538,71,122
+2020-11-29,Los Angeles - Green Meadows,S,21505,1263,14,5873,15,70
+2020-11-29,Los Angeles - Hancock Park,MLA,17037,345,4,2025,4,23
+2020-11-29,Los Angeles - Harbor City,SB,29066,713,8,2453,12,41
+2020-11-29,Los Angeles - Harbor Gateway,SB,43605,1408,16,3229,18,41
 2020-11-29,Los Angeles - Harbor Pines,SB,2409,41,0,1702,0,0
-2020-11-29,Los Angeles - Harvard Heights,MLA,18034,736,0,4081,24,133
-2020-11-29,Los Angeles - Harvard Park,S,37936,2145,0,5654,26,69
-2020-11-29,Los Angeles - Highland Park,MLA,48390,1721,0,3556,25,52
-2020-11-29,Los Angeles - Historic Filipinotown,MLA,13870,616,0,4441,16,115
-2020-11-29,Los Angeles - Hollywood Hills,MLA,29439,559,0,1899,7,24
-2020-11-29,Los Angeles - Hollywood,MLA,68264,1856,0,2719,19,28
-2020-11-29,Los Angeles - Hyde Park,S,28537,1063,0,3724,15,53
-2020-11-29,Los Angeles - Jefferson Park,S,8072,374,0,4633,1,12
-2020-11-29,Los Angeles - Koreatown,MLA,51688,1588,0,3072,36,70
-2020-11-29,Los Angeles - Lafayette Square,MLA,4558,155,0,3400,3,66
-2020-11-29,Los Angeles - Lake Balboa,SFV,42204,1625,0,3850,22,52
-2020-11-29,Los Angeles - Lakeview Terrace,SFV,13133,802,0,6107,26,198
-2020-11-29,Los Angeles - Leimert Park,S,15237,466,0,3059,7,46
-2020-11-29,Los Angeles - Lincoln Heights,MLA,32599,1536,0,4712,52,160
-2020-11-29,Los Angeles - Little Armenia,MLA,8025,472,0,5882,53,660
-2020-11-29,Los Angeles - Little Bangladesh,MLA,28348,751,0,2650,6,21
+2020-11-29,Los Angeles - Harvard Heights,MLA,18034,743,7,4120,24,133
+2020-11-29,Los Angeles - Harvard Park,S,37936,2165,20,5707,27,71
+2020-11-29,Los Angeles - Highland Park,MLA,48390,1743,22,3602,25,52
+2020-11-29,Los Angeles - Historic Filipinotown,MLA,13870,620,4,4470,16,115
+2020-11-29,Los Angeles - Hollywood Hills,MLA,29439,567,8,1926,7,24
+2020-11-29,Los Angeles - Hollywood,MLA,68264,1880,24,2754,19,28
+2020-11-29,Los Angeles - Hyde Park,S,28537,1075,12,3767,15,53
+2020-11-29,Los Angeles - Jefferson Park,S,8072,376,2,4658,1,12
+2020-11-29,Los Angeles - Koreatown,MLA,51688,1608,20,3111,36,70
+2020-11-29,Los Angeles - Lafayette Square,MLA,4558,160,5,3510,3,66
+2020-11-29,Los Angeles - Lake Balboa,SFV,42204,1662,37,3938,22,52
+2020-11-29,Los Angeles - Lakeview Terrace,SFV,13133,812,10,6183,26,198
+2020-11-29,Los Angeles - Leimert Park,S,15237,469,3,3078,7,46
+2020-11-29,Los Angeles - Lincoln Heights,MLA,32599,1554,18,4767,52,160
+2020-11-29,Los Angeles - Little Armenia,MLA,8025,473,1,5894,53,660
+2020-11-29,Los Angeles - Little Bangladesh,MLA,28348,760,9,2681,6,21
 2020-11-29,Los Angeles - Little Tokyo,MLA,3133,138,0,4405,2,64
 2020-11-29,Los Angeles - Longwood,MLA,4304,157,0,3648,0,0
 2020-11-29,Los Angeles - Los Feliz,MLA,21607,371,0,1717,3,14
-2020-11-29,Los Angeles - Manchester Square,SB,8536,273,0,3198,6,70
-2020-11-29,Los Angeles - Mandeville Canyon,W,3125,39,0,1248,0,0
-2020-11-29,Los Angeles - Mar Vista,W,42484,533,0,1255,7,16
-2020-11-29,Los Angeles - Marina Peninsula,W,4361,57,0,1307,1,23
-2020-11-29,Los Angeles - Melrose,MLA,77698,2790,0,3591,82,106
-2020-11-29,Los Angeles - Mid-city,MLA,15028,376,0,2502,23,153
-2020-11-29,Los Angeles - Miracle Mile,MLA,17984,293,0,1629,6,33
-2020-11-29,Los Angeles - Mission Hills,SFV,24122,1342,0,5563,58,240
-2020-11-29,Los Angeles - Mt. Washington,MLA,24146,799,0,3309,18,75
-2020-11-29,Los Angeles - North Hills,SFV,61576,2897,0,4705,51,83
-2020-11-29,Los Angeles - North Hollywood,SFV,151425,6280,0,4147,88,58
-2020-11-29,Los Angeles - Northridge,SFV,69794,2257,0,3234,52,75
-2020-11-29,Los Angeles - Pacific Palisades,W,21299,221,0,1038,4,19
-2020-11-29,Los Angeles - Pacoima,SFV,76981,5555,0,7216,72,94
+2020-11-29,Los Angeles - Manchester Square,SB,8536,274,1,3210,6,70
+2020-11-29,Los Angeles - Mandeville Canyon,W,3125,40,1,1280,0,0
+2020-11-29,Los Angeles - Mar Vista,W,42484,537,4,1264,7,16
+2020-11-29,Los Angeles - Marina Peninsula,W,4361,58,1,1330,1,23
+2020-11-29,Los Angeles - Melrose,MLA,77698,2829,39,3641,82,106
+2020-11-29,Los Angeles - Mid-city,MLA,15028,382,6,2542,23,153
+2020-11-29,Los Angeles - Miracle Mile,MLA,17984,298,5,1657,6,33
+2020-11-29,Los Angeles - Mission Hills,SFV,24122,1360,18,5638,58,240
+2020-11-29,Los Angeles - Mt. Washington,MLA,24146,806,7,3338,19,79
+2020-11-29,Los Angeles - North Hills,SFV,61576,2939,42,4773,51,83
+2020-11-29,Los Angeles - North Hollywood,SFV,151425,6378,98,4212,88,58
+2020-11-29,Los Angeles - Northridge,SFV,69794,2299,42,3294,52,75
+2020-11-29,Los Angeles - Pacific Palisades,W,21299,223,2,1047,4,19
+2020-11-29,Los Angeles - Pacoima,SFV,76981,5625,70,7307,72,94
 2020-11-29,Los Angeles - Palisades Highlands,W,3846,49,0,1274,0,0
-2020-11-29,Los Angeles - Palms,W,43878,771,0,1757,32,73
-2020-11-29,Los Angeles - Panorama City,SFV,75250,4459,0,5926,103,137
-2020-11-29,Los Angeles - Park La Brea,MLA,13584,186,0,1370,1,7
-2020-11-29,Los Angeles - Pico-Union,MLA,41843,2291,0,5475,96,229
+2020-11-29,Los Angeles - Palms,W,43878,774,3,1764,32,73
+2020-11-29,Los Angeles - Panorama City,SFV,75250,4509,50,5992,103,137
+2020-11-29,Los Angeles - Park La Brea,MLA,13584,188,2,1384,1,7
+2020-11-29,Los Angeles - Pico-Union,MLA,41843,2316,25,5535,96,229
 2020-11-29,Los Angeles - Playa Del Rey,W,3196,45,0,1408,0,0
-2020-11-29,Los Angeles - Playa Vista,W,10944,187,0,1708,0,0
-2020-11-29,Los Angeles - Porter Ranch,SFV,35581,652,0,1832,8,22
+2020-11-29,Los Angeles - Playa Vista,W,10944,189,2,1727,0,0
+2020-11-29,Los Angeles - Porter Ranch,SFV,35581,665,13,1869,8,22
 2020-11-29,Los Angeles - Rancho Park,W,6558,121,0,1845,0,0
 2020-11-29,Los Angeles - Regent Square,W,2780,43,0,1547,0,0
-2020-11-29,Los Angeles - Reseda Ranch,SFV,4636,199,0,4292,1,22
-2020-11-29,Los Angeles - Reseda,SFV,76618,3638,0,4748,102,133
-2020-11-29,Los Angeles - Reynier Village,W,4227,63,0,1490,0,0
-2020-11-29,Los Angeles - San Pedro,SB,78039,2502,0,3206,30,38
-2020-11-29,Los Angeles - Shadow Hills,SFV,4441,121,0,2724,0,0
-2020-11-29,Los Angeles - Sherman Oaks,SFV,87236,1788,0,2049,34,39
-2020-11-29,Los Angeles - Silverlake,MLA,44091,972,0,2205,20,45
-2020-11-29,Los Angeles - South Carthay,MLA,10595,182,0,1718,2,19
-2020-11-29,Los Angeles - South Park,S,37962,2631,0,6931,32,84
-2020-11-29,Los Angeles - St Elmo Village,MLA,4584,199,0,4341,8,175
-2020-11-29,Los Angeles - Studio City,SFV,22440,397,0,1769,9,40
-2020-11-29,Los Angeles - Sun Valley,SFV,52482,2687,0,5120,36,69
-2020-11-29,Los Angeles - Sunland,SFV,20411,696,0,3410,32,157
+2020-11-29,Los Angeles - Reseda Ranch,SFV,4636,200,1,4314,1,22
+2020-11-29,Los Angeles - Reseda,SFV,76618,3693,55,4820,104,136
+2020-11-29,Los Angeles - Reynier Village,W,4227,64,1,1514,0,0
+2020-11-29,Los Angeles - San Pedro,SB,78039,2523,21,3233,30,38
+2020-11-29,Los Angeles - Shadow Hills,SFV,4441,122,1,2747,0,0
+2020-11-29,Los Angeles - Sherman Oaks,SFV,87236,1818,30,2084,34,39
+2020-11-29,Los Angeles - Silverlake,MLA,44091,985,13,2234,20,45
+2020-11-29,Los Angeles - South Carthay,MLA,10595,187,5,1765,2,19
+2020-11-29,Los Angeles - South Park,S,37962,2649,18,6978,32,84
+2020-11-29,Los Angeles - St Elmo Village,MLA,4584,202,3,4407,8,175
+2020-11-29,Los Angeles - Studio City,SFV,22440,412,15,1836,9,40
+2020-11-29,Los Angeles - Sun Valley,SFV,52482,2717,30,5177,36,69
+2020-11-29,Los Angeles - Sunland,SFV,20411,706,10,3459,32,157
 2020-11-29,Los Angeles - Sycamore Square,SFV,647,8,0,1236,0,0
-2020-11-29,Los Angeles - Sylmar,SFV,82404,5183,0,6290,101,123
-2020-11-29,Los Angeles - Tarzana,SFV,30874,1116,0,3614,39,126
-2020-11-29,Los Angeles - Temple-Beaudry,MLA,39482,1686,0,4270,30,76
-2020-11-29,Los Angeles - Thai Town,MLA,9808,286,0,2916,3,31
-2020-11-29,Los Angeles - Toluca Lake,SFV,8702,170,0,1953,2,23
+2020-11-29,Los Angeles - Sylmar,SFV,82404,5259,76,6382,101,123
+2020-11-29,Los Angeles - Tarzana,SFV,30874,1130,14,3660,39,126
+2020-11-29,Los Angeles - Temple-Beaudry,MLA,39482,1706,20,4321,30,76
+2020-11-29,Los Angeles - Thai Town,MLA,9808,291,5,2967,3,31
+2020-11-29,Los Angeles - Toluca Lake,SFV,8702,171,1,1965,2,23
 2020-11-29,Los Angeles - Toluca Terrace,SFV,1306,34,0,2603,1,77
 2020-11-29,Los Angeles - Toluca Woods,SFV,1858,36,0,1938,0,0
-2020-11-29,Los Angeles - Tujunga,SFV,27814,849,0,3053,18,65
+2020-11-29,Los Angeles - Tujunga,SFV,27814,860,11,3092,18,65
 2020-11-29,Los Angeles - University Hills,SGV,3430,82,0,2391,1,29
-2020-11-29,Los Angeles - University Park,S,27455,1480,0,5390,22,80
-2020-11-29,Los Angeles - Valley Glen,SFV,30016,1107,0,3688,23,77
-2020-11-29,Los Angeles - Valley Village,SFV,24718,718,0,2905,29,117
-2020-11-29,Los Angeles - Van Nuys,SFV,93191,4781,0,5130,107,115
-2020-11-29,Los Angeles - Venice,W,33890,524,0,1546,3,9
-2020-11-29,Los Angeles - Vermont Knolls,S,17199,921,0,5355,18,105
-2020-11-29,Los Angeles - Vermont Square,S,7656,455,0,5942,6,78
-2020-11-29,Los Angeles - Vermont Vista,S,41189,2498,0,6065,26,63
-2020-11-29,Los Angeles - Vernon Central,S,52000,3893,0,7487,48,92
-2020-11-29,Los Angeles - Victoria Park,MLA,8400,314,0,3739,3,36
+2020-11-29,Los Angeles - University Park,S,27455,1490,10,5427,22,80
+2020-11-29,Los Angeles - Valley Glen,SFV,30016,1125,18,3748,23,77
+2020-11-29,Los Angeles - Valley Village,SFV,24718,723,5,2925,29,117
+2020-11-29,Los Angeles - Van Nuys,SFV,93191,4845,64,5199,107,115
+2020-11-29,Los Angeles - Venice,W,33890,528,4,1558,3,9
+2020-11-29,Los Angeles - Vermont Knolls,S,17199,926,5,5384,18,105
+2020-11-29,Los Angeles - Vermont Square,S,7656,460,5,6008,6,78
+2020-11-29,Los Angeles - Vermont Vista,S,41189,2522,24,6123,26,63
+2020-11-29,Los Angeles - Vernon Central,S,52000,3926,33,7550,48,92
+2020-11-29,Los Angeles - Victoria Park,MLA,8400,315,1,3750,3,36
 2020-11-29,Los Angeles - View Heights,S,3694,71,0,1922,3,81
-2020-11-29,Los Angeles - Watts,S,42671,2561,0,6001,39,91
-2020-11-29,Los Angeles - Wellington Square,MLA,4915,181,0,3683,2,41
-2020-11-29,Los Angeles - West Adams,MLA,27629,1229,0,4448,45,163
-2020-11-29,Los Angeles - West Hills,SFV,40538,879,0,2168,43,106
-2020-11-29,Los Angeles - West Los Angeles,W,37644,743,0,1974,19,50
-2020-11-29,Los Angeles - West Vernon,S,53642,3155,0,5881,59,110
-2020-11-29,Los Angeles - Westchester,W,51610,680,0,1318,16,31
-2020-11-29,Los Angeles - Westlake,MLA,59359,3039,0,5120,154,259
-2020-11-29,Los Angeles - Westwood,W,54119,761,0,1406,6,11
-2020-11-29,Los Angeles - Wholesale District,MLA,36128,2971,0,8223,36,100
-2020-11-29,Los Angeles - Wilmington,SB,56481,2456,0,4348,29,51
-2020-11-29,Los Angeles - Wilshire Center,MLA,50177,1545,0,3080,39,78
-2020-11-29,Los Angeles - Winnetka,SFV,51787,2079,0,4015,28,54
-2020-11-29,Los Angeles - Woodland Hills,SFV,68057,1547,0,2273,36,53
+2020-11-29,Los Angeles - Watts,S,42671,2594,33,6079,39,91
+2020-11-29,Los Angeles - Wellington Square,MLA,4915,184,3,3744,2,41
+2020-11-29,Los Angeles - West Adams,MLA,27629,1240,11,4488,45,163
+2020-11-29,Los Angeles - West Hills,SFV,40538,889,10,2193,43,106
+2020-11-29,Los Angeles - West Los Angeles,W,37644,751,8,1995,19,50
+2020-11-29,Los Angeles - West Vernon,S,53642,3174,19,5917,59,110
+2020-11-29,Los Angeles - Westchester,W,51610,689,9,1335,16,31
+2020-11-29,Los Angeles - Westlake,MLA,59359,3057,18,5150,154,259
+2020-11-29,Los Angeles - Westwood,W,54119,762,1,1408,6,11
+2020-11-29,Los Angeles - Wholesale District,MLA,36128,2986,15,8265,36,100
+2020-11-29,Los Angeles - Wilmington,SB,56481,2475,19,4382,29,51
+2020-11-29,Los Angeles - Wilshire Center,MLA,50177,1563,18,3115,39,78
+2020-11-29,Los Angeles - Winnetka,SFV,51787,2116,37,4086,28,54
+2020-11-29,Los Angeles - Woodland Hills,SFV,68057,1566,19,2301,36,53
 2020-11-29,Unincorporated - Acton,AV,7969,113,0,1418,3,38
 2020-11-29,Unincorporated - Agua Dulce,AV,4158,60,0,1443,0,0
-2020-11-29,Unincorporated - Altadena,SGV,43616,1002,8,2297,20,46
-2020-11-29,Unincorporated - Anaverde,AV,1508,46,0,3050,0,0
+2020-11-29,Unincorporated - Altadena,SGV,43622,1002,8,2297,20,46
+2020-11-29,Unincorporated - Anaverde,AV,1508,48,2,3183,0,0
 2020-11-29,Unincorporated - Angeles National Forest,AV,1245,6,0,482,0,0
-2020-11-29,Unincorporated - Arcadia,SGV,7980,142,0,1779,3,38
-2020-11-29,Unincorporated - Athens Village,S,4897,352,0,7188,11,225
-2020-11-29,Unincorporated - Athens-Westmont,S,42444,2033,0,4790,34,80
-2020-11-29,Unincorporated - Avocado Heights,SGV,6775,395,0,5830,4,59
-2020-11-29,Unincorporated - Azusa,SGV,15922,746,0,4685,7,44
-2020-11-29,Unincorporated - Bassett,SGV,14818,917,0,6189,10,67
+2020-11-29,Unincorporated - Arcadia,SGV,7980,143,1,1792,3,38
+2020-11-29,Unincorporated - Athens Village,S,4897,359,7,7331,11,225
+2020-11-29,Unincorporated - Athens-Westmont,S,42444,2056,23,4844,34,80
+2020-11-29,Unincorporated - Avocado Heights,SGV,6775,396,1,5845,4,59
+2020-11-29,Unincorporated - Azusa,SGV,15922,756,10,4748,7,44
+2020-11-29,Unincorporated - Bassett,SGV,14818,927,10,6256,10,67
 2020-11-29,Unincorporated - Bouquet Canyon,SFV,1073,16,0,1491,1,93
 2020-11-29,Unincorporated - Bradbury,SGV,108,8,0,7407,1,926
-2020-11-29,Unincorporated - Canyon Country,SFV,7729,227,0,2937,1,13
-2020-11-29,Unincorporated - Castaic,SFV,27191,2398,0,8819,5,18
+2020-11-29,Unincorporated - Canyon Country,SFV,7729,229,2,2963,1,13
+2020-11-29,Unincorporated - Castaic,SFV,27191,2411,13,8867,5,18
 2020-11-29,Unincorporated - Cerritos,E,587,27,0,4600,0,0
 2020-11-29,Unincorporated - Charter Oak,SGV,0,0,0,0,0,0
 2020-11-29,Unincorporated - Claremont,SGV,702,28,0,3989,4,570
-2020-11-29,Unincorporated - Covina (Charter Oak),SGV,13143,477,0,3629,4,30
-2020-11-29,Unincorporated - Covina,SGV,16819,690,0,4103,9,54
+2020-11-29,Unincorporated - Covina (Charter Oak),SGV,13143,488,11,3713,4,30
+2020-11-29,Unincorporated - Covina,SGV,16819,701,11,4168,9,54
 2020-11-29,Unincorporated - Del Aire,SB,4392,95,0,2163,2,46
 2020-11-29,Unincorporated - Del Rey,W,318,9,0,2830,0,0
-2020-11-29,Unincorporated - Del Sur,AV,2415,36,0,1491,1,41
+2020-11-29,Unincorporated - Del Sur,AV,2415,37,1,1532,1,41
 2020-11-29,Unincorporated - Desert View Highlands,AV,2493,95,0,3811,1,40
-2020-11-29,Unincorporated - Duarte,SGV,4428,271,0,6120,4,90
-2020-11-29,Unincorporated - East Covina,SGV,329,8,0,2432,0,0
-2020-11-29,Unincorporated - East La Mirada,E,5293,168,0,3175,1,19
+2020-11-29,Unincorporated - Duarte,SGV,4428,274,3,6188,4,90
+2020-11-29,Unincorporated - East Covina,SGV,329,9,1,2736,0,0
+2020-11-29,Unincorporated - East La Mirada,E,5293,169,1,3193,1,19
 2020-11-29,Unincorporated - East Lancaster,AV,114,2,0,1754,0,0
-2020-11-29,Unincorporated - East Los Angeles,E,125275,8690,0,6937,128,102
+2020-11-29,Unincorporated - East Los Angeles,E,125275,8783,93,7011,129,103
 2020-11-29,Unincorporated - East Pasadena,SGV,6403,110,0,1718,2,31
-2020-11-29,Unincorporated - East Rancho Dominguez,S,15307,892,0,5827,18,118
-2020-11-29,Unincorporated - East Whittier,E,5305,130,0,2450,0,0
-2020-11-29,Unincorporated - El Camino Village,SB,8790,216,0,2457,3,34
+2020-11-29,Unincorporated - East Rancho Dominguez,S,15307,899,7,5873,18,118
+2020-11-29,Unincorporated - East Whittier,E,5305,133,3,2507,0,0
+2020-11-29,Unincorporated - El Camino Village,SB,8790,218,2,2480,3,34
 2020-11-29,Unincorporated - El Monte,SGV,145,7,0,4828,0,0
-2020-11-29,Unincorporated - Elizabeth Lake,AV,1661,15,0,903,0,0
-2020-11-29,Unincorporated - Florence-Firestone,S,64703,4683,0,7237,60,93
+2020-11-29,Unincorporated - Elizabeth Lake,AV,1661,16,1,963,0,0
+2020-11-29,Unincorporated - Florence-Firestone,S,64703,4755,72,7349,60,93
 2020-11-29,Unincorporated - Franklin Canyon,MLA,0,0,0,0,0,0
 2020-11-29,Unincorporated - Glendora,SGV,660,19,0,2879,0,0
-2020-11-29,Unincorporated - Hacienda Heights,SGV,55922,1573,0,2813,19,34
+2020-11-29,Unincorporated - Hacienda Heights,SGV,55922,1596,23,2854,19,34
 2020-11-29,Unincorporated - Harbor Gateway,S,0,0,0,0,0,0
 2020-11-29,Unincorporated - Hawthorne,SB,2514,88,0,3500,0,0
 2020-11-29,Unincorporated - Hi Vista,AV,1098,12,0,1093,0,0
 2020-11-29,Unincorporated - Kagel/Lopez Canyons,SFV,1412,55,0,3895,1,71
-2020-11-29,Unincorporated - La Crescenta-Montrose,SFV,19800,332,0,1677,3,15
+2020-11-29,Unincorporated - La Crescenta-Montrose,SFV,19800,336,4,1697,3,15
 2020-11-29,Unincorporated - La Habra Heights,E,676,10,0,1479,0,0
 2020-11-29,Unincorporated - La Rambla,SGV,2075,96,0,4627,15,723
-2020-11-29,Unincorporated - La Verne,SGV,2040,49,0,2402,0,0
+2020-11-29,Unincorporated - La Verne,SGV,2040,51,2,2500,0,0
 2020-11-29,Unincorporated - Ladera Heights,W,7073,137,0,1937,3,42
 2020-11-29,Unincorporated - Lake Hughes,AV,668,10,0,1497,0,0
-2020-11-29,Unincorporated - Lake Los Angeles,AV,12994,453,0,3486,4,31
+2020-11-29,Unincorporated - Lake Los Angeles,AV,12994,457,4,3517,4,31
 2020-11-29,Unincorporated - Lake Manor,SFV,1643,32,0,1948,1,61
 2020-11-29,Unincorporated - Lakewood,E,0,0,0,0,0,0
-2020-11-29,Unincorporated - Lennox,SB,22542,983,0,4361,7,31
+2020-11-29,Unincorporated - Lennox,SB,22542,995,12,4414,7,31
 2020-11-29,Unincorporated - Leona Valley,AV,1751,27,0,1542,0,0
-2020-11-29,Unincorporated - Littlerock,AV,4021,135,0,3357,1,25
+2020-11-29,Unincorporated - Littlerock,AV,4021,137,2,3407,1,25
 2020-11-29,Unincorporated - Littlerock/Juniper Hills,AV,1297,28,0,2159,0,0
-2020-11-29,Unincorporated - Littlerock/Pearblossom,AV,3569,142,0,3979,0,0
-2020-11-29,Unincorporated - Llano,AV,877,6,0,684,0,0
-2020-11-29,Unincorporated - Marina del Rey,W,9415,118,0,1254,0,0
+2020-11-29,Unincorporated - Littlerock/Pearblossom,AV,3569,144,2,4035,0,0
+2020-11-29,Unincorporated - Llano,AV,877,7,1,798,0,0
+2020-11-29,Unincorporated - Marina del Rey,W,9415,119,1,1264,0,0
 2020-11-29,Unincorporated - Miracle Mile,MLA,0,0,0,0,0,0
-2020-11-29,Unincorporated - Monrovia,SGV,3881,101,3,2602,0,0
-2020-11-29,Unincorporated - Newhall,SFV,220,35,0,15909,0,0
+2020-11-29,Unincorporated - Monrovia,SGV,3882,101,3,2602,0,0
+2020-11-29,Unincorporated - Newhall,SFV,220,36,1,16364,0,0
 2020-11-29,Unincorporated - North Lancaster,AV,1198,48,0,4007,1,83
-2020-11-29,Unincorporated - North Whittier,W,8360,333,0,3983,10,120
-2020-11-29,Unincorporated - Northeast San Gabriel,SGV,24031,528,0,2197,19,79
+2020-11-29,Unincorporated - North Whittier,W,8360,337,4,4031,10,120
+2020-11-29,Unincorporated - Northeast San Gabriel,SGV,24031,533,5,2218,19,79
 2020-11-29,Unincorporated - Padua Hills,SGV,215,3,0,1395,0,0
 2020-11-29,Unincorporated - Palmdale,AV,842,29,0,3444,0,0
 2020-11-29,Unincorporated - Palos Verdes Peninsula,SB,621,7,0,1127,0,0
-2020-11-29,Unincorporated - Pearblossom/Llano,AV,1956,29,0,1483,1,51
-2020-11-29,Unincorporated - Pellissier Village,SGV,619,52,0,8401,0,0
+2020-11-29,Unincorporated - Pearblossom/Llano,AV,1956,30,1,1534,1,51
+2020-11-29,Unincorporated - Pellissier Village,SGV,619,54,2,8724,0,0
 2020-11-29,Unincorporated - Placerita Canyon,SGV,0,0,0,0,0,0
-2020-11-29,Unincorporated - Pomona,SGV,1938,22,0,1135,1,52
-2020-11-29,Unincorporated - Quartz Hill,AV,12906,325,0,2518,12,93
+2020-11-29,Unincorporated - Pomona,SGV,1938,23,1,1187,1,52
+2020-11-29,Unincorporated - Quartz Hill,AV,12906,334,9,2588,12,93
 2020-11-29,Unincorporated - Rancho Dominguez,S,2661,112,0,4209,1,38
 2020-11-29,Unincorporated - Roosevelt,S,931,30,0,3222,0,0
-2020-11-29,Unincorporated - Rosewood,S,1286,46,0,3577,1,78
+2020-11-29,Unincorporated - Rosewood,S,1286,47,1,3655,1,78
 2020-11-29,Unincorporated - Rosewood/East Gardena,S,1193,49,0,4107,1,84
-2020-11-29,Unincorporated - Rosewood/West Rancho Dominguez,S,3361,145,0,4314,1,30
-2020-11-29,Unincorporated - Rowland Heights,SGV,51031,1049,0,2056,19,37
+2020-11-29,Unincorporated - Rosewood/West Rancho Dominguez,S,3361,149,4,4433,1,30
+2020-11-29,Unincorporated - Rowland Heights,SGV,51031,1064,15,2085,19,37
 2020-11-29,Unincorporated - San Clemente Island,SB,0,0,0,0,0,0
 2020-11-29,Unincorporated - San Francisquito Canyon/Bouquet Canyon,SFV,857,3,0,350,0,0
-2020-11-29,Unincorporated - San Jose Hills,SGV,20221,1172,0,5796,20,99
+2020-11-29,Unincorporated - San Jose Hills,SGV,20221,1190,18,5885,20,99
 2020-11-29,Unincorporated - San Pasqual,SGV,2034,13,0,639,0,0
 2020-11-29,Unincorporated - Sand Canyon,AV,308,7,0,2273,0,0
 2020-11-29,Unincorporated - Santa Catalina Island,SB,267,36,0,13483,0,0
-2020-11-29,Unincorporated - Santa Monica Mountains,W,18616,179,0,961,1,5
+2020-11-29,Unincorporated - Santa Monica Mountains,W,18616,183,4,983,1,5
 2020-11-29,Unincorporated - Saugus,SFV,155,50,0,32258,0,0
 2020-11-29,Unincorporated - Saugus/Canyon Country,SFV,356,14,0,3933,0,0
 2020-11-29,Unincorporated - South Antelope Valley,AV,455,8,0,1758,0,0
-2020-11-29,Unincorporated - South El Monte,SGV,1795,125,0,6964,0,0
-2020-11-29,Unincorporated - South San Gabriel,SGV,8847,276,0,3119,9,102
-2020-11-29,Unincorporated - South Whittier,SGV,59224,2747,0,4638,40,68
+2020-11-29,Unincorporated - South El Monte,SGV,1795,127,2,7075,0,0
+2020-11-29,Unincorporated - South San Gabriel,SGV,8847,277,1,3131,9,102
+2020-11-29,Unincorporated - South Whittier,SGV,59224,2777,30,4689,40,68
 2020-11-29,Unincorporated - Southeast Antelope Valley,AV,781,22,0,2817,0,0
-2020-11-29,Unincorporated - Stevenson Ranch,SFV,20970,303,0,1445,3,14
-2020-11-29,Unincorporated - Sun Village,AV,6036,262,0,4341,3,50
-2020-11-29,Unincorporated - Sunrise Village,SGV,1296,73,0,5633,0,0
+2020-11-29,Unincorporated - Stevenson Ranch,SFV,20970,307,4,1464,3,14
+2020-11-29,Unincorporated - Sun Village,AV,6036,265,3,4390,3,50
+2020-11-29,Unincorporated - Sunrise Village,SGV,1296,75,2,5787,0,0
 2020-11-29,Unincorporated - Twin Lakes/Oat Mountain,SFV,1658,20,0,1206,2,121
 2020-11-29,Unincorporated - Val Verde,AV,3309,119,0,3596,1,30
 2020-11-29,Unincorporated - Valencia,SFV,3072,64,-1,2083,1,33
-2020-11-29,Unincorporated - Valinda,SGV,23371,1196,0,5117,12,51
-2020-11-29,Unincorporated - View Park/Windsor Hills,S,11637,223,0,1917,3,26
-2020-11-29,Unincorporated - Walnut Park,S,16143,959,0,5941,17,105
+2020-11-29,Unincorporated - Valinda,SGV,23371,1216,20,5203,12,51
+2020-11-29,Unincorporated - View Park/Windsor Hills,S,11637,226,3,1942,3,26
+2020-11-29,Unincorporated - Walnut Park,S,16143,966,7,5984,17,105
 2020-11-29,Unincorporated - West Antelope Valley,AV,1512,7,0,463,0,0
-2020-11-29,Unincorporated - West Carson,SB,22085,617,0,2794,49,222
+2020-11-29,Unincorporated - West Carson,SB,22085,625,8,2830,49,222
 2020-11-29,Unincorporated - West Chatsworth,SFV,12,1,0,8333,0,0
 2020-11-29,Unincorporated - West LA,W,952,50,0,5252,2,210
-2020-11-29,Unincorporated - West Puente Valley,SGV,9836,564,0,5735,4,41
+2020-11-29,Unincorporated - West Puente Valley,SGV,9836,575,11,5846,4,41
 2020-11-29,Unincorporated - West Rancho Dominguez,S,1359,29,0,2134,3,221
-2020-11-29,Unincorporated - West Whittier/Los Nietos,E,26927,1456,0,5408,19,71
+2020-11-29,Unincorporated - West Whittier/Los Nietos,E,26927,1478,22,5489,19,71
 2020-11-29,Unincorporated - Westfield/Academy Hills,TBD,1300,13,0,1000,0,0
 2020-11-29,Unincorporated - Westhills,SFV,839,22,0,2622,0,0
 2020-11-29,Unincorporated - White Fence Farms,AV,3683,100,1,2715,0,0
 2020-11-29,Unincorporated - Whittier Narrows,E,12,5,0,41667,0,0
-2020-11-29,Unincorporated - Whittier,SGV,3784,97,0,2563,3,79
-2020-11-29,Unincorporated - Willowbrook,S,34913,1997,0,5720,25,72
-2020-11-29,Unincorporated - Wiseburn,SB,6027,168,0,2787,1,17
+2020-11-29,Unincorporated - Whittier,SGV,3784,98,1,2590,3,79
+2020-11-29,Unincorporated - Willowbrook,S,34913,2026,29,5803,26,74
+2020-11-29,Unincorporated - Wiseburn,SB,6027,169,1,2804,1,17
