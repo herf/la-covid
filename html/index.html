@@ -225,10 +225,12 @@ var m0 = getms();
 	            		format: '%Y-%m-%d'
 	        		}
 	        	}, y: {
-	        		label: "Cases per 100,000 (7-day average)"
-	        		//max: 60
+	        		label: "Cases per 100,000 (7-day average)",
+	        		//type: "log",
+	        		//min: 1
 	        	}
 	        },
+			
 	        regions: [
 	        	// https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/COVID19CountyMonitoringOverview.aspx
 	        	{axis: 'y', end: 1, class: 'minimal', opacity: 0.15},//, label: "Minimal"},
