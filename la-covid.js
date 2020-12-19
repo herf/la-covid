@@ -362,6 +362,8 @@ function CSVAll(d, filename, recentname, settingname) {
 			// quote location names:
 			xset[1] = '"' + xset[1] + '"';
 			xset[2] = '"' + xset[2] + '"';
+			xset[3] = parseInt(xset[3]);
+			xset[4] = parseInt(xset[4]);
 
 			//settingx.push(settinglog.table[i].join(","));
 			settingx.push(xset.join(","));
