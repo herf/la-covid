@@ -76,6 +76,7 @@ function DFS(o, parser) {
 
 		if (o.content.indexOf("Setting Name") != -1) {
 			parser.inSetting = 1;
+			settingline = [];
 			return;
 		}
  
