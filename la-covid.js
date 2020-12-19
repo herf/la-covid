@@ -29,6 +29,13 @@ function convertWaybackDate(d) {
     '$4:$5:$6 $2/$3/$1'));
 }
 
+var settinglog = {
+	table: [],
+	diff: {}
+};
+
+var settingline = [];
+
 // find main table
 function DFS(o, parser) {
 
@@ -49,6 +56,13 @@ function DFS(o, parser) {
 	if (o.type == 'tag' && o.name == 'table') {
 		if (parser.tablenum) parser.tablenum ++;
 		else parser.tablenum = 1;
+
+		delete parser.inSetting;
+	}
+
+	// $$$
+	if (o.name == "small") {
+		delete parser.inSetting;
 	}
 
 	if (o.type =='text') {
@@ -59,6 +73,12 @@ function DFS(o, parser) {
 				delete parser.inTable;
 			}
 		}
+
+		if (o.content.indexOf("Setting Name") != -1) {
+			parser.inSetting = 1;
+			return;
+		}
+ 
 		if (o.content.indexOf("CITY/COMMUNITY") != -1) {
 
 			// don't use the secondary tables for now?
@@ -69,6 +89,48 @@ function DFS(o, parser) {
 				console.log("Skipping table", parser.tablenum);
 			}
 		} 
+	}
+
+	if (parser.inSetting) {
+		if (o.content && settingline.length) {
+			if (o.content == "Total") {
+				//console.log("END", o.content);
+				delete parser.inSetting;
+			} else if (o.content) {
+
+				// bad filter for row numbers?
+				if (settingline.length > 1 || o.content.length > 4) {
+					settingline.push(o.content);
+				}
+			}
+		}
+
+		if (o.name == "tr") {
+			if (settingline.length) {
+				//var tok = settingline.slice(1).join("");
+				var tok = settingline[1];
+				var oval = settinglog.diff[tok];
+
+				// trim date and compare
+				var ovalmerge;
+				// ES6 shallow [...copy]:
+				if (oval) ovalmerge = [...oval].splice(1).join(",");
+				var nvalmerge = [...settingline].splice(1).join(",");
+
+				//console.log(tok, "***", ovalmerge, "***", nvalmerge);
+				//console.log(oval, ovalmerge);
+
+				if (ovalmerge != nvalmerge) {
+					//if (oval) console.log(parser.date, "Change", nvalmerge, "***", ovalmerge);
+
+					settinglog.table.push(settingline);
+					settinglog.diff[tok] = settingline;
+				}
+			}
+			settingline = [];
+			// always record date
+			settingline.push(parser.date);
+		}
 	}
 
 	if (parser.inTable) {
@@ -216,7 +278,7 @@ function dedupeDiff(rows, skipregion) {
 	return urows;
 }
 
-function CSVAll(d, filename, recentname) {
+function CSVAll(d, filename, recentname, settingname) {
 
 	var rows = [];
 	var rows60 = [];
@@ -283,6 +345,28 @@ function CSVAll(d, filename, recentname) {
 
 	fs.writeFileSync(filename, header + rows.join("\n"));
 	fs.writeFileSync(recentname, header + rows60.join("\n"));
+
+	// sort by date:
+	settinglog.table.sort(function(a, b){
+		return (a[0] > b[0]) - (a[0] < b[0]);
+	});
+
+	if (settinglog.table.length) {
+		header = "date,name,address,staff,non-staff,deaths\n";
+
+		var settingx = [];
+		for (var i = 0; i < settinglog.table.length; i++) {
+			var xset = [...settinglog.table[i]];
+
+			// quote location names:
+			xset[1] = '"' + xset[1] + '"';
+			xset[2] = '"' + xset[2] + '"';
+
+			//settingx.push(settinglog.table[i].join(","));
+			settingx.push(xset.join(","));
+		}
+		fs.writeFileSync(settingname, header + settingx.join("\n"));
+	}
 }
 
 var alldata = [];
@@ -291,6 +375,7 @@ var alldata = [];
 var d = fs.readdirSync(path);
 {
 	console.log("Parsing", d.length);
+	d.sort();
 	for (var f in d) {
 
 		// skip for now
@@ -332,6 +417,7 @@ d = fs.readdirSync(wayback);
 
 {
 	console.log("Parsing", d.length);
+	d.sort();
 	for (var f in d) {
 
 		// skip for now
@@ -365,4 +451,4 @@ d = fs.readdirSync(wayback);
 	}
 }
 
-CSVAll(alldata, "la-covid-feed.csv", "la-covid-recent.csv");
+CSVAll(alldata, "la-covid-feed.csv", "la-covid-recent.csv", "la-setting.csv");
