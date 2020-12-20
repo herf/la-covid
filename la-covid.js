@@ -79,6 +79,14 @@ function DFS(o, parser) {
 			settingline = [];
 			return;
 		}
+		
+		// residential, so we don't keep it in our "public settings" table
+		if (o.content.indexOf("Total Deaths") != -1) {
+			parser.inSetting = 0;
+			settingline = [];
+			return;
+		}
+
  
 		if (o.content.indexOf("CITY/COMMUNITY") != -1) {
 
