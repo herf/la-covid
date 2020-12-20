@@ -184,6 +184,20 @@ var m0 = getms();
 
 			console.log(ci[0], rnow, rw, rnow / rw);
 
+			// alternate growth metric: estimate this week's ICU bed increase:
+			// assumptions: lag is around a week, discharge after 3 weeks
+			var ICUratio = 0;
+			/*
+			if (ci.length > doublewidth * 3) {
+				var ci0 = ci[ci.length - 1];
+				var ci1 = ci[ci.length - 1 - doublewidth];
+				var ci2 = ci[ci.length - 1 - doublewidth * 2];
+
+				var past2 = ci0 + ci1;
+				var past2p = ci1 + ci2;
+				ICUratio = past2 / past2p;
+			}*/
+
 			if (rw) {
 				// report doubling rate when going up:
 				var ratio = rnow / rw;
@@ -192,6 +206,9 @@ var m0 = getms();
 					var doubling = doublewidth / (Math.log(ratio) / Math.log(2));
 					var dr = Math.round(doubling) + " days";
 					pct += " (doubling in " + dr + ")";
+				}
+				if (ICUratio > 1) {
+					pct += "  <small>ICU next week: +" + Math.round(ICUratio * 100 - 100) + "% (experimental)</small>";
 				}
 				dlines.push("<div>" + pct + "</div>");
 			}
