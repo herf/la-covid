@@ -1,5 +1,7 @@
 ## Daily feed of LA Public Health Data
 
+[Dashboard is here](https://herf.org/la-covid/).
+
 Los Angeles county has more than 10 million people organized over a large number of regions. 
 
 LA public health provides a dashboard of cases, but daily snapshots by geography are not available, so it has been difficult to estimate how COVID-19 is changing by region of the city. 
