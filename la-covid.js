@@ -353,7 +353,7 @@ function CSVAll(d, filename, recentname, settingname) {
 	});
 
 	if (settinglog.table.length) {
-		header = "date,name,address,staff,non-staff,deaths\n";
+		header = "date,name,address,staff,nonstaff,deaths\n";
 
 		var settingx = [];
 		for (var i = 0; i < settinglog.table.length; i++) {
