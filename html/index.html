@@ -40,7 +40,7 @@ td,th {
 	<div class="row">
 		<div class="col-md-8 col-sm-12 offset-md-2">
 			<h1>COVID-19 Los Angeles</h1>
-			<a href='#newcases'>See new outbreaks in public settings</a>
+			<a href='#newcases'>See new outbreaks reported in schools, workplaces, and public spaces</a>
 			<h4>Case rates by region (7-day average daily cases per 100,000)</h4>
 			<div id="chart" style='width:100%' class='mt-4'></div>
 			<small class='text-muted'>Pinch or mousewheel to zoom</small>
@@ -318,7 +318,7 @@ function displaySetting(feed, filt) {
 	filt = nfilt;
 
 	var flist = [];
-	var maxlist = 100;
+	var maxlist = 250;
 	for (var i = d.length - 1; i >= 0; i--) {
 		if (maxlist <= 0) break;
 
