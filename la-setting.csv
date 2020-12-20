@@ -1,4 +1,4 @@
-date,name,address,staff,non-staff,deaths
+date,name,address,staff,nonstaff,deaths
 Mon May 11 2020 18:30:24 GMT-0700 (PDT),"A Bridge Home - St. Andrew's","Los Angeles, CA",0,1,0
 Mon May 11 2020 18:30:24 GMT-0700 (PDT),"A Bridge Home- Casa Azul","Los Angeles, CA",0,2,0
 Mon May 11 2020 18:30:24 GMT-0700 (PDT),"Alcott Rehabilitation Hospital","Los Angeles, CA",23,28,14
