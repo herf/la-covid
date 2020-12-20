@@ -284,6 +284,8 @@ function displaySetting(feed, filt) {
 	var d = cachefeed[feed];
 	if (!d) return;
 
+	console.log("Updating table");
+
 	//console.log(d.length, filt);
 
 	// diff first, then filter:
@@ -291,6 +293,7 @@ function displaySetting(feed, filt) {
 
 	for (var i = 0; i < d.length; i++) {
 
+		d[i].name = d[i].name.replace(/[\u2018\u2019]/g, "'");
 		d[i].date = new Date(d[i].date);
 		d[i].staff = parseInt(d[i].staff) || 0;
 		d[i].nonstaff = parseInt(d[i].nonstaff) || 0;
@@ -299,13 +302,16 @@ function displaySetting(feed, filt) {
 		var last = diffrow[n];
 		diffrow[n] = d[i];
 
-		if (last) {
+		if (typeof(last) != "undefined") {
 			d[i].newstaff 		= d[i].staff - last.staff;
 			d[i].newnonstaff 	= d[i].nonstaff - last.nonstaff;
 		} else {
 			d[i].newstaff 		= d[i].staff;
 			d[i].newnonstaff 	= d[i].nonstaff;
 		}
+
+		if (n.indexOf("Hank") != -1) console.log(i, last, d[i]);
+
 		//console.log(i, d[i]);
 	}
 
@@ -330,6 +336,7 @@ function displaySetting(feed, filt) {
 
 		for (var f = 0; f < filt.length; f++) {
 			if (filt[f].length < 3) continue;
+			if (d[i].newnonstaff == 0 && d[i].newstaff == 0) continue;
 
 			var nlower = d[i].name.toLowerCase();
 			var alower = d[i].address.toLowerCase();
