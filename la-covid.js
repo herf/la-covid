@@ -87,12 +87,18 @@ function DFS(o, parser) {
 			return;
 		}
 
- 
+		//  log ages too
+		/*
+ 		if (o.content.indexOf("Age Group") != -1) {
+ 			if (!parser.table) parser.table = [];
+ 			parser.inTable = 1;
+ 		}*/
+
 		if (o.content.indexOf("CITY/COMMUNITY") != -1) {
 
 			// don't use the secondary tables for now?
 			if (!parser.tablenum || parser.tablenum < 2) {
-				parser.table = [];
+				if (!parser.table) parser.table = [];
 				parser.inTable = 1;
 			} else {
 				console.log("Skipping table", parser.tablenum);
@@ -150,7 +156,13 @@ function DFS(o, parser) {
 		// this pulls in th+td usually:
 		if (o.content && parser.table.length > 0) {
 			var pt = parser.table[parser.table.length - 1];
-			if (o.content != ' ') pt.push(o.content);
+
+			if (o.content[0] == '-' && pt.length == 0) {
+				var token = "age" + o.content;
+				pt.push(token);
+			} else {
+				if (o.content != ' ') pt.push(o.content);
+			}
 		}
 	}
 }

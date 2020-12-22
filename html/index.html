@@ -212,7 +212,7 @@ var m0 = getms();
 					var dr = Math.round(doubling) + " days";
 					pct += " (doubling in " + dr + ")";
 				}
-				if (ICUratio > 1) {
+				if (0 && ICUratio > 1) {
 					pct += "  <small>Predicted ICU increase this week: +" + Math.round(ICUratio * 100 - 100) + "%</small>";
 				}
 				dlines.push("<div>" + pct + "</div>");
