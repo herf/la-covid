@@ -161,6 +161,14 @@ function getms() {
 
 var chart;
 
+// ICU notes:
+// trying out a simple model of "mean days" in ICU with a fixed delay
+// loosely based on berlin data from https://arxiv.org/pdf/2004.03384.pdf
+// there are much better distributions for this...
+
+const ICUdays = 12;
+const ICUdelay = 6;
+
 function displayData(data, chop) {
 
 var m0 = getms();
@@ -169,6 +177,9 @@ var m0 = getms();
 
 	for (var c = 1; c < data.columns.length; c++) {
 		var ci = data.columns[c];
+
+		var icuduration = new Int32Array(data.columns[c]);
+		process(icuduration, ICUdays);
 
 		process(ci, 7);
 
@@ -187,16 +198,10 @@ var m0 = getms();
 			// alternate growth metric: estimate this week's ICU bed increase:
 			// assumptions: lag is around a week, discharge after 3 weeks
 			var ICUratio = 0;
-			/*
-			if (ci.length > doublewidth * 3) {
-				var ci0 = ci[ci.length - 1];
-				var ci1 = ci[ci.length - 1 - doublewidth];
-				var ci2 = ci[ci.length - 1 - doublewidth * 2];
-
-				var past2 = ci0 + ci1;
-				var past2p = ci1 + ci2;
-				ICUratio = past2 / past2p;
-			}*/
+			
+			if (icuduration.length > ICUdelay) {
+				ICUratio = icuduration[icuduration.length - 1] / icuduration[icuduration.length - 1 - ICUdelay];
+			}
 
 			if (rw) {
 				// report doubling rate when going up:
@@ -208,7 +213,7 @@ var m0 = getms();
 					pct += " (doubling in " + dr + ")";
 				}
 				if (ICUratio > 1) {
-					pct += "  <small>ICU next week: +" + Math.round(ICUratio * 100 - 100) + "% (experimental)</small>";
+					pct += "  <small>Predicted ICU increase this week: +" + Math.round(ICUratio * 100 - 100) + "%</small>";
 				}
 				dlines.push("<div>" + pct + "</div>");
 			}
