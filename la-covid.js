@@ -115,7 +115,7 @@ function DFS(o, parser) {
 
 				// bad filter for row numbers?
 				//if (settingline.length > 1 || o.content.length > 4) {
-				if (settingline.length > 1 || isNaN(o.content)) {
+				if (settingline.length > 1 || (isNaN(o.content) && o.content.length > 2)) {
 					settingline.push(o.content);
 				}
 			}
