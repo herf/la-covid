@@ -324,6 +324,17 @@ function displaySetting(feed, filt) {
 		d[i].nonstaff = parseInt(d[i].nonstaff) || 0;
 
 		var n = d[i].name;
+
+		// some normalization for those reporting varied names
+		if (n.startsWith("Trader Joe")) n = "Trader Joe's";
+
+		n += d[i].address;
+
+		if (n.length < 2) {
+			continue;
+			//console.log("missing addr", d[i].name, d[i].address, d[i].staff, d[i].nonstaff);
+		}
+		//var n = d[i].name;
 		var last = diffrow[n];
 		diffrow[n] = d[i];
 
@@ -333,6 +344,10 @@ function displaySetting(feed, filt) {
 		} else {
 			d[i].newstaff 		= d[i].staff;
 			d[i].newnonstaff 	= d[i].nonstaff;
+		}
+
+		if (d[i].newstaff < 0 || d[i].nonstaff < 0) {
+			//console.log("Negative", d[i].name, d[i].address, d[i].newstaff, d[i].nonstaff);
 		}
 
 		//console.log(i, d[i]);
