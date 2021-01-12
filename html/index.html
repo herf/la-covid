@@ -325,8 +325,13 @@ function displaySetting(feed, filt) {
 
 		var n = d[i].name;
 
-		// some normalization for those reporting varied names
-		if (n.startsWith("Trader Joe")) n = "Trader Joe's";
+		// some normalization for people with clever naming:
+		// a truncated name + address does better.
+		var trunc = ["Trader Joe", "IKEA"];
+		for (var t in trunc) {
+			var ti = trunc[t];
+			if (n.startsWith(ti)) n = ti;
+		}
 
 		n += d[i].address;
 
