@@ -65,6 +65,7 @@ function DFS(o, parser) {
 		delete parser.inSetting;
 	}
 
+	// early versions of the webpage did not have separate tables, so we have to work from text matches of names:
 	if (o.type =='text') {
 
 		// very basic parser state:
@@ -87,12 +88,13 @@ function DFS(o, parser) {
 			return;
 		}
 
-		//  log ages too
 		/*
+		//  log ages too
  		if (o.content.indexOf("Age Group") != -1) {
  			if (!parser.table) parser.table = [];
  			parser.inTable = 1;
- 		}*/
+ 		}
+ 		*/
 
 		if (o.content.indexOf("CITY/COMMUNITY") != -1) {
 
