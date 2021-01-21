@@ -325,9 +325,9 @@ function displaySetting(feed, filt) {
 
 		var n = d[i].name;
 
-		// some normalization for people with clever naming:
+		// some normalization for people with variable naming:
 		// a truncated name + address does better.
-		var trunc = ["Trader Joe", "IKEA"];
+		var trunc = ["Trader Joe", "IKEA", "Costco", "Home Depot"];
 		for (var t in trunc) {
 			var ti = trunc[t];
 			if (n.startsWith(ti)) n = ti;
