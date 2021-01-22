@@ -122,6 +122,15 @@ td,th {
 
 <script>
 
+function preprocess(ci, win) {
+
+	for (var i = 2; i < ci.length; i++) {
+		ci[i] += ci[i - 1];
+	}
+
+	return process(ci, win);
+}
+
 function process(ci, win) {		
 	var lval = 0;
 	
@@ -169,65 +178,68 @@ var chart;
 const ICUdays = 12;
 const ICUdelay = 6;
 
-function displayData(data, chop) {
+function displayData(data, chop, agemode) {
 
 var m0 = getms();
 
 	var dlines = [];
 
-	for (var c = 1; c < data.columns.length; c++) {
-		var ci = data.columns[c];
+	if (!agemode) {
+		for (var c = 1; c < data.columns.length; c++) {
+			var ci = data.columns[c];
 
-		var icuduration = new Int32Array(data.columns[c]);
-		process(icuduration, ICUdays);
+			var icuduration = new Int32Array(data.columns[c]);
+			process(icuduration, ICUdays);
 
-		process(ci, 7);
+			process(ci, 7);
 
-		if (namemap[ci[0]])
-			ci[0] = namemap[ci[0]];
+			if (namemap[ci[0]])
+				ci[0] = namemap[ci[0]];
 
-		var doublewidth = 7;
+			var doublewidth = 7;
 
-		// write down doubling rate -> dlines
-		if (ci.length > doublewidth) {
-			var rnow = ci[ci.length - 1];
-			var rw = ci[ci.length - doublewidth - 1];
+			// write down doubling rate -> dlines
+			if (ci.length > doublewidth) {
+				var rnow = ci[ci.length - 1];
+				var rw = ci[ci.length - doublewidth - 1];
 
-			console.log(ci[0], rnow, rw, rnow / rw);
+				console.log(ci[0], rnow, rw, rnow / rw);
 
-			// alternate growth metric: estimate this week's ICU bed increase:
-			// assumptions: lag is around a week, discharge after 3 weeks
-			var ICUratio = 0;
-			
-			if (icuduration.length > ICUdelay) {
-				ICUratio = icuduration[icuduration.length - 1] / icuduration[icuduration.length - 1 - ICUdelay];
-			}
-
-			if (rw) {
-				// report doubling rate when going up:
-				var ratio = rnow / rw;
-				var pct = ci[0] + ": " + Math.round((ratio - 1) * 100) + "% growth";
-				if (ratio > 1) {
-					var doubling = doublewidth / (Math.log(ratio) / Math.log(2));
-					var dr = Math.round(doubling) + " days";
-					pct += " (doubling in " + dr + ")";
+				// alternate growth metric: estimate this week's ICU bed increase:
+				// assumptions: lag is around a week, discharge after 3 weeks
+				var ICUratio = 0;
+				
+				if (icuduration.length > ICUdelay) {
+					ICUratio = icuduration[icuduration.length - 1] / icuduration[icuduration.length - 1 - ICUdelay];
 				}
-				if (0 && ICUratio > 1) {
-					pct += "  <small>Predicted ICU increase this week: +" + Math.round(ICUratio * 100 - 100) + "%</small>";
+
+				if (rw) {
+					// report doubling rate when going up:
+					var ratio = rnow / rw;
+					var pct = ci[0] + ": " + Math.round((ratio - 1) * 100) + "% growth";
+					if (ratio > 1) {
+						var doubling = doublewidth / (Math.log(ratio) / Math.log(2));
+						var dr = Math.round(doubling) + " days";
+						pct += " (doubling in " + dr + ")";
+					}
+					if (0 && ICUratio > 1) {
+						pct += "  <small>Predicted ICU increase this week: +" + Math.round(ICUratio * 100 - 100) + "%</small>";
+					}
+					dlines.push("<div>" + pct + "</div>");
 				}
-				dlines.push("<div>" + pct + "</div>");
 			}
 		}
-	}
 
-	// header if we have any growth:
-	if (dlines.length) {
-		dlines.splice(0, 0, "<h5>Previous week's growth (doubling rate in days)</h5>");
+		// header if we have any growth:
+		if (dlines.length) {
+			dlines.splice(0, 0, "<h5>Previous week's growth (doubling rate in days)</h5>");
+		}
 	}
 
 	if (chop) {
 		for (var c = 0; c < data.columns.length; c++) {
 			// early data were noisy so chop it:
+			var dc = data.columns[c];
 			data.columns[c].splice(1, chop);
 
 			// eliminate all-zero columns:
@@ -455,20 +467,67 @@ function displayResult(feed, filt) {
 	// don't explode our chart, this many series, max:
 	var colmax = 15;
 
+	var agemode = 0;
+	if (filt.length && filt[0] == "age") {
+		agemode = 1;
+	}
+
+	if (agemode) {
+
+		var ldate;
+		var groupsum = 0;
+		var fixup = [];
+		for (var i = 0; i < d.length; i++) {
+			var li = d[i];
+			if (!li.location.startsWith("age")) continue;
+
+			if (i == d.length - 1) {
+				fixup.push(i);
+				groupsum += +li.casechange;
+			}
+
+			if (li.date != ldate || (i == d.length - 1)) {
+				if (fixup.length) {
+					// fixup old things
+					for (var f = 0; f < fixup.length; f++) {
+						var ff = fixup[f];
+						if (groupsum) {
+							d[ff].caserate = +d[ff].casechange / groupsum;
+						} else {
+							d[ff].caserate = 0;
+						}
+					}
+				}
+				fixup = [];
+				groupsum = 0;
+			}
+
+			groupsum += +li.casechange;
+			fixup.push(i);
+			ldate = li.date;
+		}
+	}
+
 	for (var i = 0; i < d.length; i++) {
 		var li = d[i];
 
 		var fmatch = filt.length ? 0 : 1;
-		for (var f = 0; f < filt.length; f++) {
-			var lilow = li.location.toLowerCase();
-			var flow = filt[f].toLowerCase();
-			if (flow.length < 3) continue;
+		if (agemode) {
+			if (li.location.startsWith("age")) fmatch = true;
+			else fmatch = false;
+		} else {
+			for (var f = 0; f < filt.length; f++) {
+				var lilow = li.location.toLowerCase();
+				var flow = filt[f].toLowerCase();
+				if (flow.length < 3) continue;
 
-			if (lilow.indexOf(flow) != -1) {
-				fmatch = 1;
-				break;
+				if (lilow.indexOf(flow) != -1) {
+					fmatch = 1;
+					break;
+				}
 			}
 		}
+
 		if (!fmatch) continue;
 
 		if (li.date != ldate) {
@@ -476,6 +535,8 @@ function displayResult(feed, filt) {
 			row = data.columns[0].length - 1;
 			ldate = li.date;
 		}
+
+		//if (agemode) console.log(li.location, li);
 
 		var ci;
 		
@@ -512,7 +573,43 @@ function displayResult(feed, filt) {
 
 	// there are some "old names" from march feed that are convenient to chop out:
 	if (data.columns[0].length > 70) chop = 45;
-	displayData(data, chop);
+
+	// stuff changed on july 24:
+	if (agemode) {
+		chop = 120;
+
+		// normalize once again, divide each group by its own average
+		for (var i = 1; i < data.columns.length; i++) {
+			var ci = data.columns[i];
+
+			// todo smooth
+			//preprocess(ci, 7);
+
+			//console.log(ci);
+
+			// prechop so we only do part
+			var colmean = 0;
+			for (var j = chop + 1; j < ci.length; j++) {
+				colmean += ci[j];
+			}
+			colmean /= (ci.length - 1 - chop);
+
+			var colmul = colmean ? 1.0 / colmean : 0;
+
+			for (var j = chop + 1; j < ci.length; j++) {
+				ci[j] *= colmul;
+			}
+		}
+		/*
+		for (var i = 0; i < data.columns.length; i++) {
+			var dc = data.columns[i];
+			console.log(data.columns[i].length, data.columns[i], dc[dc.length - 1]);
+		}*/
+	}
+	//if (agemode) console.log(data);
+	//console.log(data);
+
+	displayData(data, chop, agemode);
 }
 
 var nodupe;
