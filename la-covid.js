@@ -58,11 +58,23 @@ function DFS(o, parser) {
 		else parser.tablenum = 1;
 
 		delete parser.inSetting;
+		delete parser.agegroup;
 	}
+
+	// another way to see this is a new table
+	/*
+	if (o.type == 'tag' && o.name == 'tr') {
+		if (o.attrs && o.attrs.class) {
+			if (o.attrs.class.indexOf('text-white')) {
+				delete parser.inTable;
+			}
+		}
+	}*/
 
 	// $$$
 	if (o.name == "small") {
 		delete parser.inSetting;
+		delete parser.agegroup;
 	}
 
 	// early versions of the webpage did not have separate tables, so we have to work from text matches of names:
@@ -72,11 +84,24 @@ function DFS(o, parser) {
 		if (parser.inTable) {
 			if (o.content.indexOf("Under Investigation") != -1) {
 				delete parser.inTable;
+				delete parser.agegroup;
+			}
+			if (parser.agegroup) {
+				// this stops our age parser in old archives:
+				if (o.content.indexOf("Gender") != -1) {
+					delete parser.inTable;
+					delete parser.agegroup;
+				}
+				if (o.content == "&nbsp;") {
+					delete parser.inTable;
+					delete parser.agegroup;			
+				}
 			}
 		}
 
 		if (o.content.indexOf("Setting Name") != -1) {
 			parser.inSetting = 1;
+			parser.rownum = 0;
 			settingline = [];
 			return;
 		}
@@ -88,20 +113,25 @@ function DFS(o, parser) {
 			return;
 		}
 
-		/*
 		//  log ages too
  		if (o.content.indexOf("Age Group") != -1) {
  			if (!parser.table) parser.table = [];
  			parser.inTable = 1;
+ 			parser.agegroup = 1;
+ 			parser.rownum = 0;
  		}
- 		*/
 
 		if (o.content.indexOf("CITY/COMMUNITY") != -1) {
+
+			if (parser.agegroup) {
+				delete parser.agegroup;
+			}
 
 			// don't use the secondary tables for now?
 			if (!parser.tablenum || parser.tablenum < 2) {
 				if (!parser.table) parser.table = [];
 				parser.inTable = 1;
+				parser.rownum = 0;
 			} else {
 				console.log("Skipping table", parser.tablenum);
 			}
@@ -113,6 +143,7 @@ function DFS(o, parser) {
 			if (o.content == "Total") {
 				//console.log("END", o.content);
 				delete parser.inSetting;
+				delete parser.agegroup;
 			} else if (o.content) {
 
 				// bad filter for row numbers?
@@ -153,18 +184,31 @@ function DFS(o, parser) {
 
 	if (parser.inTable) {
 		if (o.name == "tr") {
+			//console.log("intable/agegroup/date", parser.inTable, parser.agegroup, parser.date, parser.table[parser.table.length - 1]);
 			parser.table.push(new Array());
+			parser.rownum ++;
 		}
 
 		// this pulls in th+td usually:
-		if (o.content && parser.table.length > 0) {
+		//if (o.content && parser.table.length > 0) {
+		if (o.content && parser.rownum > 0) {
 			var pt = parser.table[parser.table.length - 1];
 
-			if (o.content[0] == '-' && pt.length == 0) {
-				var token = "age" + o.content;
-				pt.push(token);
-			} else {
-				if (o.content != ' ') pt.push(o.content);
+			//if (o.content[0] == '-' && pt.length == 0) {
+			if (o.content != ' ') {
+
+				// cleaning for age IDs:
+				if (parser.agegroup && pt.length == 0) {
+					var token = "age " + o.content;
+					if (o.content[0] == '-') {
+						token = "age " + o.content.substr(2);
+					}
+					token = token.replace(/  +/g, ' ');
+					//console.log("[" + o.content + "]" + token);
+					pt.push(token);
+				} else {
+					pt.push(o.content);
+				}
 			}
 		}
 	}
