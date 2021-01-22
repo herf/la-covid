@@ -61,6 +61,7 @@ td,th {
 				<div class='col-sm-12 col-md-6 mt-5'>
 					<button class="btn btn-sm btn-primary" onclick="clearfilter();return 0;">Clear <small>(show all)</small></button>
 					<button class="btn btn-info btn-sm" onclick='smfilter();return 0;'>Example <small>(near Santa Monica)</small></button>
+					<button class="btn btn-secondary btn-sm" onclick='agefilter();return 0;'>Age groups <small>(changes)</small></button>
 				</div>
 			</div>
 
@@ -128,12 +129,12 @@ function preprocess(ci, win) {
 		ci[i] += ci[i - 1];
 	}
 
-	return process(ci, win);
+	return process(ci, win, true);
 }
 
-function process(ci, win) {		
+function process(ci, win, noround) {		
 	var lval = 0;
-	
+
 	if (!win) win = 1;
 	var na = [];
 	na.push(ci[0]);
@@ -144,7 +145,13 @@ function process(ci, win) {
 		if (ind0 < 1) ind0 = 1;
 		var dc = ci[i] - ci[ind0];
 		if (dc < 0) dc = 0;
-		dc = Math.round(dc / win);
+
+		if (noround) {
+			dc = dc / win;
+		} else {
+			dc = Math.round(dc / win);
+		}
+			
 		na.push(dc);
 	}
 
@@ -583,7 +590,7 @@ function displayResult(feed, filt) {
 			var ci = data.columns[i];
 
 			// todo smooth
-			//preprocess(ci, 7);
+			preprocess(ci, 7);
 
 			//console.log(ci);
 
@@ -697,6 +704,10 @@ function clearfilter() {
 
 function smfilter() {
 	setfiltervalue("City of Santa Monica,Brentwood,Pacific Palisades,Venice");
+}
+
+function agefilter() {
+	setfiltervalue("age");
 }
 
 // slow down because c3.js is too slow:
