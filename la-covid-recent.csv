@@ -33,7 +33,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-11-25,City of Hawthorne,SB,88788,2731,2731,3076,54,61
 2020-11-25,City of Hermosa Beach,SB,19668,330,330,1678,4,20
 2020-11-25,City of Hidden Hills,SFV,1890,24,24,1270,0,0
-2020-11-25,City of Huntington Park,E,59484,3782,3782,6358,66,111
+2020-11-25,City of Huntington Park,E,59483,3782,3782,6358,66,111
 2020-11-25,City of Industry,SGV,437,50,50,11442,2,458
 2020-11-25,City of Inglewood,SB,113581,3920,3920,3451,94,83
 2020-11-25,City of Irwindale,SGV,1459,92,92,6306,2,137
@@ -381,7 +381,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-11-26,City of Hawthorne,SB,88788,2766,35,3115,54,61
 2020-11-26,City of Hermosa Beach,SB,19668,334,4,1698,4,20
 2020-11-26,City of Hidden Hills,SFV,1890,24,0,1270,0,0
-2020-11-26,City of Huntington Park,E,59484,3838,56,6452,66,111
+2020-11-26,City of Huntington Park,E,59483,3838,56,6452,66,111
 2020-11-26,City of Industry,SGV,437,50,0,11442,2,458
 2020-11-26,City of Inglewood,SB,113581,3964,44,3490,94,83
 2020-11-26,City of Irwindale,SGV,1459,92,0,6306,2,137
@@ -729,7 +729,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-11-27,City of Hawthorne,SB,88788,2766,0,3115,54,61
 2020-11-27,City of Hermosa Beach,SB,19668,334,0,1698,4,20
 2020-11-27,City of Hidden Hills,SFV,1890,24,0,1270,0,0
-2020-11-27,City of Huntington Park,E,59484,3838,0,6452,66,111
+2020-11-27,City of Huntington Park,E,59483,3838,0,6452,66,111
 2020-11-27,City of Industry,SGV,437,50,0,11442,2,458
 2020-11-27,City of Inglewood,SB,113581,3964,0,3490,94,83
 2020-11-27,City of Irwindale,SGV,1459,92,0,6306,2,137
@@ -1077,7 +1077,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-11-28,City of Hawthorne,SB,88788,2844,78,3203,54,61
 2020-11-28,City of Hermosa Beach,SB,19668,341,7,1734,4,20
 2020-11-28,City of Hidden Hills,SFV,1890,24,0,1270,0,0
-2020-11-28,City of Huntington Park,E,59484,3912,74,6577,66,111
+2020-11-28,City of Huntington Park,E,59483,3912,74,6577,66,111
 2020-11-28,City of Industry,SGV,437,50,0,11442,2,458
 2020-11-28,City of Inglewood,SB,113581,4047,83,3563,94,83
 2020-11-28,City of Irwindale,SGV,1459,96,4,6580,2,137
@@ -1425,7 +1425,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-11-29,City of Hawthorne,SB,88788,2888,44,3253,54,61
 2020-11-29,City of Hermosa Beach,SB,19668,345,4,1754,4,20
 2020-11-29,City of Hidden Hills,SFV,1890,25,1,1323,0,0
-2020-11-29,City of Huntington Park,E,59484,3959,47,6656,66,111
+2020-11-29,City of Huntington Park,E,59483,3959,47,6656,66,111
 2020-11-29,City of Industry,SGV,437,51,1,11670,2,458
 2020-11-29,City of Inglewood,SB,113581,4111,64,3619,94,83
 2020-11-29,City of Irwindale,SGV,1459,97,1,6648,2,137
@@ -1773,7 +1773,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-11-30,City of Hawthorne,SB,88788,2939,51,3310,54,61
 2020-11-30,City of Hermosa Beach,SB,19668,346,1,1759,4,20
 2020-11-30,City of Hidden Hills,SFV,1890,28,3,1481,0,0
-2020-11-30,City of Huntington Park,E,59484,3989,30,6706,66,111
+2020-11-30,City of Huntington Park,E,59483,3989,30,6706,66,111
 2020-11-30,City of Industry,SGV,437,51,0,11670,2,458
 2020-11-30,City of Inglewood,SB,113581,4169,58,3670,95,84
 2020-11-30,City of Irwindale,SGV,1459,97,0,6648,2,137
@@ -2121,7 +2121,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-12-01,City of Hawthorne,SB,88788,2976,37,3352,54,61
 2020-12-01,City of Hermosa Beach,SB,19668,356,10,1810,4,20
 2020-12-01,City of Hidden Hills,SFV,1890,29,1,1534,0,0
-2020-12-01,City of Huntington Park,E,59484,4052,63,6812,67,113
+2020-12-01,City of Huntington Park,E,59483,4052,63,6812,67,113
 2020-12-01,City of Industry,SGV,437,53,2,12128,2,458
 2020-12-01,City of Inglewood,SB,113581,4229,60,3723,95,84
 2020-12-01,City of Irwindale,SGV,1459,97,0,6648,2,137
@@ -2469,7 +2469,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-12-02,City of Hawthorne,SB,88788,3029,53,3412,55,62
 2020-12-02,City of Hermosa Beach,SB,19668,359,3,1825,4,20
 2020-12-02,City of Hidden Hills,SFV,1890,29,0,1534,0,0
-2020-12-02,City of Huntington Park,E,59484,4096,44,6886,67,113
+2020-12-02,City of Huntington Park,E,59483,4096,44,6886,67,113
 2020-12-02,City of Industry,SGV,437,53,0,12128,2,458
 2020-12-02,City of Inglewood,SB,113581,4288,59,3775,95,84
 2020-12-02,City of Irwindale,SGV,1459,100,3,6854,2,137
@@ -2817,7 +2817,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-12-03,City of Hawthorne,SB,88788,3110,81,3503,57,64
 2020-12-03,City of Hermosa Beach,SB,19668,365,6,1856,4,20
 2020-12-03,City of Hidden Hills,SFV,1890,29,0,1534,0,0
-2020-12-03,City of Huntington Park,E,59484,4183,87,7032,66,111
+2020-12-03,City of Huntington Park,E,59483,4183,87,7032,66,111
 2020-12-03,City of Industry,SGV,437,53,0,12128,2,458
 2020-12-03,City of Inglewood,SB,113581,4372,84,3849,96,85
 2020-12-03,City of Irwindale,SGV,1459,100,0,6854,2,137
@@ -3165,7 +3165,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-12-04,City of Hawthorne,SB,88788,3177,67,3578,58,65
 2020-12-04,City of Hermosa Beach,SB,19668,373,8,1896,4,20
 2020-12-04,City of Hidden Hills,SFV,1890,29,0,1534,0,0
-2020-12-04,City of Huntington Park,E,59484,4268,85,7175,66,111
+2020-12-04,City of Huntington Park,E,59483,4268,85,7175,66,111
 2020-12-04,City of Industry,SGV,437,55,2,12586,2,458
 2020-12-04,City of Inglewood,SB,113581,4453,81,3921,98,86
 2020-12-04,City of Irwindale,SGV,1459,102,2,6991,2,137
@@ -3513,7 +3513,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-12-05,City of Hawthorne,SB,88788,3270,93,3683,59,66
 2020-12-05,City of Hermosa Beach,SB,19668,382,9,1942,4,20
 2020-12-05,City of Hidden Hills,SFV,1890,30,1,1587,0,0
-2020-12-05,City of Huntington Park,E,59484,4317,49,7257,66,111
+2020-12-05,City of Huntington Park,E,59483,4317,49,7257,66,111
 2020-12-05,City of Industry,SGV,437,55,0,12586,2,458
 2020-12-05,City of Inglewood,SB,113581,4532,79,3990,101,89
 2020-12-05,City of Irwindale,SGV,1459,102,0,6991,2,137
@@ -3861,7 +3861,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-12-06,City of Hawthorne,SB,88788,3345,75,3767,60,68
 2020-12-06,City of Hermosa Beach,SB,19668,394,12,2003,4,20
 2020-12-06,City of Hidden Hills,SFV,1890,31,1,1640,0,0
-2020-12-06,City of Huntington Park,E,59484,4421,104,7432,66,111
+2020-12-06,City of Huntington Park,E,59483,4421,104,7432,66,111
 2020-12-06,City of Industry,SGV,437,57,2,13043,2,458
 2020-12-06,City of Inglewood,SB,113581,4645,113,4090,102,90
 2020-12-06,City of Irwindale,SGV,1459,103,1,7060,2,137
@@ -4209,7 +4209,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-12-07,City of Hawthorne,SB,88788,3419,74,3851,60,68
 2020-12-07,City of Hermosa Beach,SB,19668,401,7,2039,4,20
 2020-12-07,City of Hidden Hills,SFV,1890,31,0,1640,0,0
-2020-12-07,City of Huntington Park,E,59484,4491,70,7550,66,111
+2020-12-07,City of Huntington Park,E,59483,4491,70,7550,66,111
 2020-12-07,City of Industry,SGV,437,60,3,13730,2,458
 2020-12-07,City of Inglewood,SB,113581,4734,89,4168,102,90
 2020-12-07,City of Irwindale,SGV,1459,104,1,7128,2,137
@@ -4557,7 +4557,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-12-08,City of Hawthorne,SB,88788,3474,55,3913,61,69
 2020-12-08,City of Hermosa Beach,SB,19668,403,2,2049,4,20
 2020-12-08,City of Hidden Hills,SFV,1890,31,0,1640,0,0
-2020-12-08,City of Huntington Park,E,59484,4556,65,7659,66,111
+2020-12-08,City of Huntington Park,E,59483,4556,65,7659,66,111
 2020-12-08,City of Industry,SGV,437,62,2,14188,2,458
 2020-12-08,City of Inglewood,SB,113581,4808,74,4233,103,91
 2020-12-08,City of Irwindale,SGV,1459,104,0,7128,2,137
@@ -4905,7 +4905,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-12-09,City of Hawthorne,SB,88788,3569,95,4020,62,70
 2020-12-09,City of Hermosa Beach,SB,19668,409,6,2079,4,20
 2020-12-09,City of Hidden Hills,SFV,1890,31,0,1640,0,0
-2020-12-09,City of Huntington Park,E,59484,4643,87,7805,66,111
+2020-12-09,City of Huntington Park,E,59483,4643,87,7805,66,111
 2020-12-09,City of Industry,SGV,437,64,2,14645,2,458
 2020-12-09,City of Inglewood,SB,113581,4894,86,4309,103,91
 2020-12-09,City of Irwindale,SGV,1459,106,2,7265,2,137
@@ -5253,7 +5253,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-12-10,City of Hawthorne,SB,88788,3655,86,4117,62,70
 2020-12-10,City of Hermosa Beach,SB,19668,413,4,2100,4,20
 2020-12-10,City of Hidden Hills,SFV,1890,31,0,1640,0,0
-2020-12-10,City of Huntington Park,E,59484,4736,93,7962,66,111
+2020-12-10,City of Huntington Park,E,59483,4736,93,7962,66,111
 2020-12-10,City of Industry,SGV,437,70,6,16018,2,458
 2020-12-10,City of Inglewood,SB,113581,5049,155,4445,106,93
 2020-12-10,City of Irwindale,SGV,1459,109,3,7471,2,137
@@ -5601,7 +5601,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-12-11,City of Hawthorne,SB,88788,3798,143,4278,62,70
 2020-12-11,City of Hermosa Beach,SB,19668,417,4,2120,4,20
 2020-12-11,City of Hidden Hills,SFV,1890,31,0,1640,0,0
-2020-12-11,City of Huntington Park,E,59484,4877,141,8199,67,113
+2020-12-11,City of Huntington Park,E,59483,4877,141,8199,67,113
 2020-12-11,City of Industry,SGV,437,73,3,16705,2,458
 2020-12-11,City of Inglewood,SB,113581,5215,166,4591,106,93
 2020-12-11,City of Irwindale,SGV,1459,111,2,7608,2,137
@@ -5949,7 +5949,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-12-12,City of Hawthorne,SB,88788,3871,73,4360,63,71
 2020-12-12,City of Hermosa Beach,SB,19668,424,7,2156,4,20
 2020-12-12,City of Hidden Hills,SFV,1890,31,0,1640,0,0
-2020-12-12,City of Huntington Park,E,59484,4952,75,8325,67,113
+2020-12-12,City of Huntington Park,E,59483,4952,75,8325,67,113
 2020-12-12,City of Industry,SGV,437,74,1,16934,2,458
 2020-12-12,City of Inglewood,SB,113581,5315,100,4679,106,93
 2020-12-12,City of Irwindale,SGV,1459,117,6,8019,2,137
@@ -6297,7 +6297,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-12-13,City of Hawthorne,SB,88788,3951,80,4450,63,71
 2020-12-13,City of Hermosa Beach,SB,19668,433,9,2201,4,20
 2020-12-13,City of Hidden Hills,SFV,1890,31,0,1640,0,0
-2020-12-13,City of Huntington Park,E,59484,5063,111,8512,67,113
+2020-12-13,City of Huntington Park,E,59483,5063,111,8512,67,113
 2020-12-13,City of Industry,SGV,437,76,2,17391,2,458
 2020-12-13,City of Inglewood,SB,113581,5425,110,4776,106,93
 2020-12-13,City of Irwindale,SGV,1459,122,5,8362,2,137
@@ -6645,7 +6645,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-12-14,City of Hawthorne,SB,88788,4015,64,4522,64,72
 2020-12-14,City of Hermosa Beach,SB,19668,446,13,2267,4,20
 2020-12-14,City of Hidden Hills,SFV,1890,31,0,1640,0,0
-2020-12-14,City of Huntington Park,E,59484,5119,56,8606,67,113
+2020-12-14,City of Huntington Park,E,59483,5119,56,8606,67,113
 2020-12-14,City of Industry,SGV,437,78,2,17849,2,458
 2020-12-14,City of Inglewood,SB,113581,5492,67,4835,108,95
 2020-12-14,City of Irwindale,SGV,1459,124,2,8499,2,137
@@ -6993,7 +6993,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-12-15,City of Hawthorne,SB,88788,4134,119,4656,66,74
 2020-12-15,City of Hermosa Beach,SB,19668,454,8,2308,4,20
 2020-12-15,City of Hidden Hills,SFV,1890,31,0,1640,0,0
-2020-12-15,City of Huntington Park,E,59484,5215,96,8767,68,114
+2020-12-15,City of Huntington Park,E,59483,5215,96,8767,68,114
 2020-12-15,City of Industry,SGV,437,78,0,17849,2,458
 2020-12-15,City of Inglewood,SB,113581,5631,139,4958,109,96
 2020-12-15,City of Irwindale,SGV,1459,128,4,8773,2,137
@@ -7341,7 +7341,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-12-16,City of Hawthorne,SB,88788,4317,183,4862,66,74
 2020-12-16,City of Hermosa Beach,SB,19668,469,15,2384,4,20
 2020-12-16,City of Hidden Hills,SFV,1890,31,0,1640,0,0
-2020-12-16,City of Huntington Park,E,59484,5432,217,9132,68,114
+2020-12-16,City of Huntington Park,E,59483,5432,217,9132,68,114
 2020-12-16,City of Industry,SGV,437,79,1,18078,2,458
 2020-12-16,City of Inglewood,SB,113581,5875,244,5172,112,99
 2020-12-16,City of Irwindale,SGV,1459,133,5,9116,2,137
@@ -7689,7 +7689,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-12-17,City of Hawthorne,SB,88788,4422,105,4980,66,74
 2020-12-17,City of Hermosa Beach,SB,19668,476,7,2420,4,20
 2020-12-17,City of Hidden Hills,SFV,1890,31,0,1640,0,0
-2020-12-17,City of Huntington Park,E,59484,5573,141,9369,70,118
+2020-12-17,City of Huntington Park,E,59483,5573,141,9369,70,118
 2020-12-17,City of Industry,SGV,437,82,3,18764,2,458
 2020-12-17,City of Inglewood,SB,113581,5987,112,5271,114,100
 2020-12-17,City of Irwindale,SGV,1459,142,9,9733,2,137
@@ -8037,7 +8037,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-12-18,City of Hawthorne,SB,88788,4563,141,5139,66,74
 2020-12-18,City of Hermosa Beach,SB,19668,488,12,2481,4,20
 2020-12-18,City of Hidden Hills,SFV,1890,31,0,1640,0,0
-2020-12-18,City of Huntington Park,E,59484,5745,172,9658,71,119
+2020-12-18,City of Huntington Park,E,59483,5745,172,9658,71,119
 2020-12-18,City of Industry,SGV,437,82,0,18764,2,458
 2020-12-18,City of Inglewood,SB,113581,6156,169,5420,115,101
 2020-12-18,City of Irwindale,SGV,1459,146,4,10007,2,137
@@ -8385,7 +8385,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-12-19,City of Hawthorne,SB,88788,4679,116,5270,67,75
 2020-12-19,City of Hermosa Beach,SB,19668,496,8,2522,4,20
 2020-12-19,City of Hidden Hills,SFV,1890,32,1,1693,0,0
-2020-12-19,City of Huntington Park,E,59484,5904,159,9925,71,119
+2020-12-19,City of Huntington Park,E,59483,5904,159,9925,71,119
 2020-12-19,City of Industry,SGV,437,85,3,19451,2,458
 2020-12-19,City of Inglewood,SB,113581,6305,149,5551,116,102
 2020-12-19,City of Irwindale,SGV,1459,153,7,10487,2,137
@@ -8733,7 +8733,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-12-20,City of Hawthorne,SB,88788,4806,127,5413,67,75
 2020-12-20,City of Hermosa Beach,SB,19668,506,10,2572,4,20
 2020-12-20,City of Hidden Hills,SFV,1890,32,0,1693,0,0
-2020-12-20,City of Huntington Park,E,59484,6057,153,10183,71,119
+2020-12-20,City of Huntington Park,E,59483,6057,153,10183,71,119
 2020-12-20,City of Industry,SGV,437,89,4,20366,2,458
 2020-12-20,City of Inglewood,SB,113581,6471,166,5697,119,105
 2020-12-20,City of Irwindale,SGV,1459,155,2,10624,2,137
@@ -9081,7 +9081,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-12-21,City of Hawthorne,SB,88788,4895,89,5513,69,78
 2020-12-21,City of Hermosa Beach,SB,19668,512,6,2603,4,20
 2020-12-21,City of Hidden Hills,SFV,1890,33,1,1746,0,0
-2020-12-21,City of Huntington Park,E,59484,6191,134,10408,71,119
+2020-12-21,City of Huntington Park,E,59483,6191,134,10408,71,119
 2020-12-21,City of Industry,SGV,437,92,3,21053,2,458
 2020-12-21,City of Inglewood,SB,113581,6602,131,5813,121,107
 2020-12-21,City of Irwindale,SGV,1459,156,1,10692,2,137
@@ -9429,7 +9429,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-12-22,City of Hawthorne,SB,88788,4981,86,5610,69,78
 2020-12-22,City of Hermosa Beach,SB,19668,515,3,2618,4,20
 2020-12-22,City of Hidden Hills,SFV,1890,33,0,1746,0,0
-2020-12-22,City of Huntington Park,E,59484,6290,99,10574,73,123
+2020-12-22,City of Huntington Park,E,59483,6290,99,10574,73,123
 2020-12-22,City of Industry,SGV,437,94,2,21510,3,686
 2020-12-22,City of Inglewood,SB,113581,6742,140,5936,122,107
 2020-12-22,City of Irwindale,SGV,1459,157,1,10761,2,137
@@ -9777,7 +9777,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-12-23,City of Hawthorne,SB,88788,5096,115,5740,69,78
 2020-12-23,City of Hermosa Beach,SB,19668,529,14,2689,4,20
 2020-12-23,City of Hidden Hills,SFV,1890,33,0,1746,0,0
-2020-12-23,City of Huntington Park,E,59484,6457,167,10855,73,123
+2020-12-23,City of Huntington Park,E,59483,6457,167,10855,73,123
 2020-12-23,City of Industry,SGV,437,98,4,22426,3,686
 2020-12-23,City of Inglewood,SB,113581,6941,199,6111,123,108
 2020-12-23,City of Irwindale,SGV,1459,161,4,11035,2,137
@@ -10125,7 +10125,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-12-24,City of Hawthorne,SB,88788,5218,122,5877,70,79
 2020-12-24,City of Hermosa Beach,SB,19668,534,5,2715,4,20
 2020-12-24,City of Hidden Hills,SFV,1890,33,0,1746,0,0
-2020-12-24,City of Huntington Park,E,59484,6576,119,11055,73,123
+2020-12-24,City of Huntington Park,E,59483,6576,119,11055,73,123
 2020-12-24,City of Industry,SGV,437,99,1,22654,3,686
 2020-12-24,City of Inglewood,SB,113581,7056,115,6212,125,110
 2020-12-24,City of Irwindale,SGV,1459,162,1,11103,2,137
@@ -10473,7 +10473,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-12-25,City of Hawthorne,SB,88788,5218,0,5877,70,79
 2020-12-25,City of Hermosa Beach,SB,19668,534,0,2715,4,20
 2020-12-25,City of Hidden Hills,SFV,1890,33,0,1746,0,0
-2020-12-25,City of Huntington Park,E,59484,6576,0,11055,73,123
+2020-12-25,City of Huntington Park,E,59483,6576,0,11055,73,123
 2020-12-25,City of Industry,SGV,437,99,0,22654,3,686
 2020-12-25,City of Inglewood,SB,113581,7056,0,6212,125,110
 2020-12-25,City of Irwindale,SGV,1459,162,0,11103,2,137
@@ -10821,7 +10821,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-12-26,City of Hawthorne,SB,88788,5454,236,6143,72,81
 2020-12-26,City of Hermosa Beach,SB,19668,548,14,2786,4,20
 2020-12-26,City of Hidden Hills,SFV,1890,35,2,1852,0,0
-2020-12-26,City of Huntington Park,E,59484,6882,306,11569,73,123
+2020-12-26,City of Huntington Park,E,59483,6882,306,11569,73,123
 2020-12-26,City of Industry,SGV,437,101,2,23112,3,686
 2020-12-26,City of Inglewood,SB,113581,7397,341,6512,128,113
 2020-12-26,City of Irwindale,SGV,1459,168,6,11515,2,137
@@ -11169,7 +11169,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-12-27,City of Hawthorne,SB,88788,5531,77,6230,72,81
 2020-12-27,City of Hermosa Beach,SB,19668,552,4,2806,4,20
 2020-12-27,City of Hidden Hills,SFV,1890,35,0,1852,0,0
-2020-12-27,City of Huntington Park,E,59484,6985,103,11743,73,123
+2020-12-27,City of Huntington Park,E,59483,6985,103,11743,73,123
 2020-12-27,City of Industry,SGV,437,99,-2,22654,3,686
 2020-12-27,City of Inglewood,SB,113581,7550,153,6647,128,113
 2020-12-27,City of Irwindale,SGV,1459,170,2,11652,2,137
@@ -11517,7 +11517,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-12-28,City of Hawthorne,SB,88788,5642,111,6355,72,81
 2020-12-28,City of Hermosa Beach,SB,19668,562,10,2857,4,20
 2020-12-28,City of Hidden Hills,SFV,1890,37,2,1958,0,0
-2020-12-28,City of Huntington Park,E,59484,7122,137,11973,73,123
+2020-12-28,City of Huntington Park,E,59483,7122,137,11973,73,123
 2020-12-28,City of Industry,SGV,437,102,3,23341,3,686
 2020-12-28,City of Inglewood,SB,113581,7706,156,6785,128,113
 2020-12-28,City of Irwindale,SGV,1459,170,0,11652,2,137
@@ -11865,7 +11865,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-12-29,City of Hawthorne,SB,88788,5736,94,6460,74,83
 2020-12-29,City of Hermosa Beach,SB,19668,568,6,2888,5,25
 2020-12-29,City of Hidden Hills,SFV,1890,38,1,2011,0,0
-2020-12-29,City of Huntington Park,E,59484,7228,106,12151,74,124
+2020-12-29,City of Huntington Park,E,59483,7228,106,12151,74,124
 2020-12-29,City of Industry,SGV,437,104,2,23799,3,686
 2020-12-29,City of Inglewood,SB,113581,7834,128,6897,130,114
 2020-12-29,City of Irwindale,SGV,1459,170,0,11652,2,137
@@ -12213,7 +12213,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-12-30,City of Hawthorne,SB,88788,5837,101,6574,75,84
 2020-12-30,City of Hermosa Beach,SB,19668,574,6,2918,5,25
 2020-12-30,City of Hidden Hills,SFV,1890,39,1,2063,0,0
-2020-12-30,City of Huntington Park,E,59484,7319,91,12304,77,129
+2020-12-30,City of Huntington Park,E,59483,7319,91,12304,77,129
 2020-12-30,City of Industry,SGV,437,104,0,23799,3,686
 2020-12-30,City of Inglewood,SB,113581,7919,85,6972,130,114
 2020-12-30,City of Irwindale,SGV,1459,170,0,11652,2,137
@@ -12561,7 +12561,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2020-12-31,City of Hawthorne,SB,88788,5981,144,6736,83,93
 2020-12-31,City of Hermosa Beach,SB,19668,580,6,2949,6,31
 2020-12-31,City of Hidden Hills,SFV,1890,39,0,2063,0,0
-2020-12-31,City of Huntington Park,E,59484,7442,123,12511,79,133
+2020-12-31,City of Huntington Park,E,59483,7442,123,12511,79,133
 2020-12-31,City of Industry,SGV,437,103,-1,23570,3,686
 2020-12-31,City of Inglewood,SB,113581,8081,162,7115,138,121
 2020-12-31,City of Irwindale,SGV,1459,175,5,11995,2,137
@@ -12909,7 +12909,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2021-01-01,City of Hawthorne,SB,88788,6127,146,6901,83,93
 2021-01-01,City of Hermosa Beach,SB,19668,592,12,3010,6,31
 2021-01-01,City of Hidden Hills,SFV,1890,43,4,2275,0,0
-2021-01-01,City of Huntington Park,E,59484,7589,147,12758,80,134
+2021-01-01,City of Huntington Park,E,59483,7589,147,12758,80,134
 2021-01-01,City of Industry,SGV,437,106,3,24256,3,686
 2021-01-01,City of Inglewood,SB,113581,8328,247,7332,138,121
 2021-01-01,City of Irwindale,SGV,1459,179,4,12269,2,137
@@ -13257,7 +13257,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2021-01-02,City of Hawthorne,SB,88788,6266,139,7057,84,95
 2021-01-02,City of Hermosa Beach,SB,19668,605,13,3076,6,31
 2021-01-02,City of Hidden Hills,SFV,1890,43,0,2275,0,0
-2021-01-02,City of Huntington Park,E,59484,7768,179,13059,81,136
+2021-01-02,City of Huntington Park,E,59483,7768,179,13059,81,136
 2021-01-02,City of Industry,SGV,437,111,5,25400,3,686
 2021-01-02,City of Inglewood,SB,113581,8518,190,7499,144,127
 2021-01-02,City of Irwindale,SGV,1459,183,4,12543,2,137
@@ -13605,7 +13605,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2021-01-03,City of Hawthorne,SB,88788,6390,124,7197,84,95
 2021-01-03,City of Hermosa Beach,SB,19668,614,9,3122,6,31
 2021-01-03,City of Hidden Hills,SFV,1890,43,0,2275,0,0
-2021-01-03,City of Huntington Park,E,59484,7889,121,13262,81,136
+2021-01-03,City of Huntington Park,E,59483,7889,121,13262,81,136
 2021-01-03,City of Industry,SGV,437,112,1,25629,3,686
 2021-01-03,City of Inglewood,SB,113581,8650,132,7616,145,128
 2021-01-03,City of Irwindale,SGV,1459,183,0,12543,2,137
@@ -13953,7 +13953,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2021-01-04,City of Hawthorne,SB,88788,6478,88,7296,84,95
 2021-01-04,City of Hermosa Beach,SB,19668,624,10,3172,6,31
 2021-01-04,City of Hidden Hills,SFV,1890,43,0,2275,0,0
-2021-01-04,City of Huntington Park,E,59484,7958,69,13378,81,136
+2021-01-04,City of Huntington Park,E,59483,7958,69,13378,81,136
 2021-01-04,City of Industry,SGV,437,114,2,26087,3,686
 2021-01-04,City of Inglewood,SB,113581,8759,109,7712,146,129
 2021-01-04,City of Irwindale,SGV,1459,185,2,12680,2,137
@@ -14301,7 +14301,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2021-01-05,City of Hawthorne,SB,88788,6594,116,7427,85,96
 2021-01-05,City of Hermosa Beach,SB,19668,627,3,3188,6,31
 2021-01-05,City of Hidden Hills,SFV,1890,44,1,2328,0,0
-2021-01-05,City of Huntington Park,E,59484,8054,96,13540,84,141
+2021-01-05,City of Huntington Park,E,59483,8054,96,13540,84,141
 2021-01-05,City of Industry,SGV,437,114,0,26087,3,686
 2021-01-05,City of Inglewood,SB,113581,8874,115,7813,148,130
 2021-01-05,City of Irwindale,SGV,1459,186,1,12748,2,137
@@ -14649,7 +14649,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2021-01-06,City of Hawthorne,SB,88788,6679,85,7522,87,98
 2021-01-06,City of Hermosa Beach,SB,19668,632,5,3213,6,31
 2021-01-06,City of Hidden Hills,SFV,1890,44,0,2328,0,0
-2021-01-06,City of Huntington Park,E,59484,8169,115,13733,88,148
+2021-01-06,City of Huntington Park,E,59483,8169,115,13733,88,148
 2021-01-06,City of Industry,SGV,437,114,0,26087,3,686
 2021-01-06,City of Inglewood,SB,113581,8983,109,7909,150,132
 2021-01-06,City of Irwindale,SGV,1459,188,2,12886,2,137
@@ -14997,7 +14997,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2021-01-07,City of Hawthorne,SB,88788,6830,151,7693,89,100
 2021-01-07,City of Hermosa Beach,SB,19668,649,17,3299,7,36
 2021-01-07,City of Hidden Hills,SFV,1890,45,1,2381,0,0
-2021-01-07,City of Huntington Park,E,59484,8342,173,14024,88,148
+2021-01-07,City of Huntington Park,E,59483,8342,173,14024,88,148
 2021-01-07,City of Industry,SGV,437,114,0,26087,3,686
 2021-01-07,City of Inglewood,SB,113581,9185,202,8087,153,135
 2021-01-07,City of Irwindale,SGV,1459,190,2,13023,2,137
@@ -15345,7 +15345,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2021-01-08,City of Hawthorne,SB,88788,6980,150,7862,91,102
 2021-01-08,City of Hermosa Beach,SB,19668,662,13,3366,7,36
 2021-01-08,City of Hidden Hills,SFV,1890,50,5,2646,0,0
-2021-01-08,City of Huntington Park,E,59484,8551,209,14375,91,153
+2021-01-08,City of Huntington Park,E,59483,8551,209,14375,91,153
 2021-01-08,City of Industry,SGV,437,116,2,26545,3,686
 2021-01-08,City of Inglewood,SB,113581,9398,213,8274,159,140
 2021-01-08,City of Irwindale,SGV,1459,191,1,13091,2,137
@@ -15693,7 +15693,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2021-01-09,City of Hawthorne,SB,88788,7148,168,8051,92,104
 2021-01-09,City of Hermosa Beach,SB,19668,676,14,3437,7,36
 2021-01-09,City of Hidden Hills,SFV,1890,50,0,2646,0,0
-2021-01-09,City of Huntington Park,E,59484,8716,165,14653,93,156
+2021-01-09,City of Huntington Park,E,59483,8716,165,14653,93,156
 2021-01-09,City of Industry,SGV,437,118,2,27002,3,686
 2021-01-09,City of Inglewood,SB,113581,9613,215,8463,161,142
 2021-01-09,City of Irwindale,SGV,1459,194,3,13297,2,137
@@ -16041,7 +16041,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2021-01-10,City of Hawthorne,SB,88788,7274,126,8193,96,108
 2021-01-10,City of Hermosa Beach,SB,19668,691,15,3513,7,36
 2021-01-10,City of Hidden Hills,SFV,1890,50,0,2646,0,0
-2021-01-10,City of Huntington Park,E,59484,8822,106,14831,93,156
+2021-01-10,City of Huntington Park,E,59483,8822,106,14831,93,156
 2021-01-10,City of Industry,SGV,437,119,1,27231,3,686
 2021-01-10,City of Inglewood,SB,113581,9770,157,8602,164,144
 2021-01-10,City of Irwindale,SGV,1459,198,4,13571,2,137
@@ -16389,7 +16389,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2021-01-11,City of Hawthorne,SB,88788,7398,124,8332,96,108
 2021-01-11,City of Hermosa Beach,SB,19668,698,7,3549,7,36
 2021-01-11,City of Hidden Hills,SFV,1890,53,3,2804,0,0
-2021-01-11,City of Huntington Park,E,59484,8932,110,15016,96,161
+2021-01-11,City of Huntington Park,E,59483,8932,110,15016,96,161
 2021-01-11,City of Industry,SGV,437,119,0,27231,3,686
 2021-01-11,City of Inglewood,SB,113581,9955,185,8765,164,144
 2021-01-11,City of Irwindale,SGV,1459,200,2,13708,2,137
@@ -16737,7 +16737,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2021-01-12,City of Hawthorne,SB,88788,7524,126,8474,98,110
 2021-01-12,City of Hermosa Beach,SB,19668,710,12,3610,7,36
 2021-01-12,City of Hidden Hills,SFV,1890,53,0,2804,0,0
-2021-01-12,City of Huntington Park,E,59484,9043,111,15202,96,161
+2021-01-12,City of Huntington Park,E,59483,9043,111,15202,96,161
 2021-01-12,City of Industry,SGV,437,117,-2,26773,3,686
 2021-01-12,City of Inglewood,SB,113581,10065,110,8861,165,145
 2021-01-12,City of Irwindale,SGV,1459,202,2,13845,2,137
@@ -17085,7 +17085,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2021-01-13,City of Hawthorne,SB,88788,7637,113,8601,99,112
 2021-01-13,City of Hermosa Beach,SB,19668,716,6,3640,7,36
 2021-01-13,City of Hidden Hills,SFV,1890,53,0,2804,0,0
-2021-01-13,City of Huntington Park,E,59484,9157,114,15394,98,165
+2021-01-13,City of Huntington Park,E,59483,9157,114,15394,98,165
 2021-01-13,City of Industry,SGV,437,118,1,27002,3,686
 2021-01-13,City of Inglewood,SB,113581,10190,125,8971,172,151
 2021-01-13,City of Irwindale,SGV,1459,205,3,14051,2,137
@@ -17433,7 +17433,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2021-01-14,City of Hawthorne,SB,88788,7792,155,8776,102,115
 2021-01-14,City of Hermosa Beach,SB,19668,728,12,3701,7,36
 2021-01-14,City of Hidden Hills,SFV,1890,58,5,3069,0,0
-2021-01-14,City of Huntington Park,E,59484,9288,131,15614,100,168
+2021-01-14,City of Huntington Park,E,59483,9288,131,15614,100,168
 2021-01-14,City of Industry,SGV,437,119,1,27231,3,686
 2021-01-14,City of Inglewood,SB,113581,10402,212,9158,178,157
 2021-01-14,City of Irwindale,SGV,1459,206,1,14119,2,137
@@ -17781,7 +17781,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2021-01-15,City of Hawthorne,SB,88788,7933,141,8935,103,116
 2021-01-15,City of Hermosa Beach,SB,19668,736,8,3742,7,36
 2021-01-15,City of Hidden Hills,SFV,1890,60,2,3175,0,0
-2021-01-15,City of Huntington Park,E,59484,9429,141,15851,101,170
+2021-01-15,City of Huntington Park,E,59483,9429,141,15851,101,170
 2021-01-15,City of Industry,SGV,437,121,2,27689,3,686
 2021-01-15,City of Inglewood,SB,113581,10557,155,9295,178,157
 2021-01-15,City of Irwindale,SGV,1459,211,5,14462,2,137
@@ -18129,7 +18129,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2021-01-16,City of Hawthorne,SB,88788,8075,142,9095,107,121
 2021-01-16,City of Hermosa Beach,SB,19668,745,9,3787,7,36
 2021-01-16,City of Hidden Hills,SFV,1890,60,0,3175,0,0
-2021-01-16,City of Huntington Park,E,59484,9576,147,16098,101,170
+2021-01-16,City of Huntington Park,E,59483,9576,147,16098,101,170
 2021-01-16,City of Industry,SGV,437,122,1,27918,3,686
 2021-01-16,City of Inglewood,SB,113581,10711,154,9430,179,158
 2021-01-16,City of Irwindale,SGV,1459,213,2,14599,2,137
@@ -18477,7 +18477,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2021-01-17,City of Hawthorne,SB,88788,8186,111,9220,107,121
 2021-01-17,City of Hermosa Beach,SB,19668,754,9,3833,7,36
 2021-01-17,City of Hidden Hills,SFV,1890,62,2,3280,0,0
-2021-01-17,City of Huntington Park,E,59484,9681,105,16275,102,171
+2021-01-17,City of Huntington Park,E,59483,9681,105,16275,102,171
 2021-01-17,City of Industry,SGV,437,125,3,28604,3,686
 2021-01-17,City of Inglewood,SB,113581,10831,120,9536,179,158
 2021-01-17,City of Irwindale,SGV,1459,213,0,14599,2,137
@@ -18825,7 +18825,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2021-01-18,City of Hawthorne,SB,88788,8266,80,9310,109,123
 2021-01-18,City of Hermosa Beach,SB,19668,761,7,3869,7,36
 2021-01-18,City of Hidden Hills,SFV,1890,63,1,3333,0,0
-2021-01-18,City of Huntington Park,E,59484,9748,67,16388,103,173
+2021-01-18,City of Huntington Park,E,59483,9748,67,16388,103,173
 2021-01-18,City of Industry,SGV,437,126,1,28833,3,686
 2021-01-18,City of Inglewood,SB,113581,10963,132,9652,185,163
 2021-01-18,City of Irwindale,SGV,1459,215,2,14736,3,206
@@ -19173,7 +19173,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2021-01-19,City of Hawthorne,SB,88788,8357,91,9412,111,125
 2021-01-19,City of Hermosa Beach,SB,19668,763,2,3879,7,36
 2021-01-19,City of Hidden Hills,SFV,1890,64,1,3386,0,0
-2021-01-19,City of Huntington Park,E,59484,9784,36,16448,104,175
+2021-01-19,City of Huntington Park,E,59483,9784,36,16448,104,175
 2021-01-19,City of Industry,SGV,437,126,0,28833,3,686
 2021-01-19,City of Inglewood,SB,113581,11083,120,9758,190,167
 2021-01-19,City of Irwindale,SGV,1459,216,1,14805,3,206
@@ -19521,7 +19521,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2021-01-20,City of Hawthorne,SB,88788,8418,61,9481,116,131
 2021-01-20,City of Hermosa Beach,SB,19668,769,6,3910,7,36
 2021-01-20,City of Hidden Hills,SFV,1890,65,1,3439,0,0
-2021-01-20,City of Huntington Park,E,59484,9836,52,16536,106,178
+2021-01-20,City of Huntington Park,E,59483,9836,52,16536,106,178
 2021-01-20,City of Industry,SGV,437,127,1,29062,3,686
 2021-01-20,City of Inglewood,SB,113581,11168,85,9833,200,176
 2021-01-20,City of Irwindale,SGV,1459,217,1,14873,3,206
@@ -19869,7 +19869,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2021-01-21,City of Hawthorne,SB,88788,8538,120,9616,118,133
 2021-01-21,City of Hermosa Beach,SB,19668,781,12,3971,7,36
 2021-01-21,City of Hidden Hills,SFV,1890,65,0,3439,0,0
-2021-01-21,City of Huntington Park,E,59484,9886,50,16620,108,182
+2021-01-21,City of Huntington Park,E,59483,9886,50,16620,108,182
 2021-01-21,City of Industry,SGV,437,127,0,29062,3,686
 2021-01-21,City of Inglewood,SB,113581,11282,114,9933,204,180
 2021-01-21,City of Irwindale,SGV,1459,220,3,15079,3,206
@@ -20217,7 +20217,7 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2021-01-22,City of Hawthorne,SB,88788,8617,79,9705,119,134
 2021-01-22,City of Hermosa Beach,SB,19668,787,6,4001,7,36
 2021-01-22,City of Hidden Hills,SFV,1890,66,1,3492,0,0
-2021-01-22,City of Huntington Park,E,59484,9938,52,16707,110,185
+2021-01-22,City of Huntington Park,E,59483,9938,52,16707,110,185
 2021-01-22,City of Industry,SGV,437,128,1,29291,3,686
 2021-01-22,City of Inglewood,SB,113581,11377,95,10017,206,181
 2021-01-22,City of Irwindale,SGV,1459,221,1,15147,3,206
@@ -20531,351 +20531,351 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2021-01-22,age 50 to 64,,0,190953,1687
 2021-01-22,age 65 to 79,,0,75157,729
 2021-01-22,age over 80,,0,27297,271
-2021-01-23,City of Agoura Hills,SFV,20881,810,0,3879,12,57
-2021-01-23,City of Alhambra,SGV,86718,5825,0,6717,110,127
-2021-01-23,City of Arcadia,SGV,57758,2237,0,3873,79,137
-2021-01-23,City of Artesia,E,16796,1714,0,10205,38,226
+2021-01-23,City of Agoura Hills,SFV,20881,820,10,3927,12,57
+2021-01-23,City of Alhambra,SGV,86718,5876,51,6776,113,130
+2021-01-23,City of Arcadia,SGV,57758,2252,15,3899,82,142
+2021-01-23,City of Artesia,E,16796,1735,21,10330,39,232
 2021-01-23,City of Avalon,SB,3863,9,0,233,0,0
-2021-01-23,City of Azusa,SGV,50041,5431,0,10853,74,148
-2021-01-23,City of Baldwin Park,SGV,76768,11492,0,14970,190,247
-2021-01-23,City of Bell Gardens,E,43071,7268,0,16874,61,142
-2021-01-23,City of Bell,E,36331,5805,0,15978,79,217
-2021-01-23,City of Bellflower,E,77732,9203,0,11839,113,145
-2021-01-23,City of Beverly Hills,W,34522,2127,0,6162,21,61
+2021-01-23,City of Azusa,SGV,50041,5488,57,10967,76,152
+2021-01-23,City of Baldwin Park,SGV,76768,11582,90,15087,196,255
+2021-01-23,City of Bell Gardens,E,43071,7335,67,17030,68,158
+2021-01-23,City of Bell,E,36331,5857,52,16121,82,226
+2021-01-23,City of Bellflower,E,77732,9296,93,11959,113,145
+2021-01-23,City of Beverly Hills,W,34522,2140,13,6199,20,58
 2021-01-23,City of Bradbury,SGV,1069,33,0,3087,0,0
-2021-01-23,City of Burbank,SFV,107184,7111,0,6635,164,153
-2021-01-23,City of Calabasas,SFV,24324,952,0,3914,16,66
-2021-01-23,City of Carson,SB,93850,7699,0,8204,137,146
-2021-01-23,City of Cerritos,E,50070,2473,0,4939,27,54
-2021-01-23,City of Claremont,SGV,36483,1917,0,5254,36,99
-2021-01-23,City of Commerce,E,13069,2174,0,16635,28,214
-2021-01-23,City of Compton,S,99905,14515,0,14529,147,147
-2021-01-23,City of Covina,SGV,49030,5537,0,11293,99,202
-2021-01-23,City of Cudahy,E,24346,4169,0,17123,33,136
-2021-01-23,City of Culver City,W,39868,1791,0,4493,64,161
-2021-01-23,City of Diamond Bar,SGV,57518,2656,0,4618,30,52
-2021-01-23,City of Downey,E,114259,15274,0,13367,173,151
-2021-01-23,City of Duarte,SGV,22017,1967,0,8934,58,263
-2021-01-23,City of El Monte,SGV,117271,14984,0,12777,282,240
-2021-01-23,City of El Segundo,SB,16788,550,0,3277,4,24
-2021-01-23,City of Gardena,E,61310,5243,0,8552,119,194
-2021-01-23,City of Glendale,SFV,206506,15635,0,7572,391,189
-2021-01-23,City of Glendora,SGV,52765,4024,0,7626,116,220
-2021-01-23,City of Hawaiian Gardens,E,14676,1939,0,13212,4,27
-2021-01-23,City of Hawthorne,SB,88788,8617,0,9705,119,134
-2021-01-23,City of Hermosa Beach,SB,19668,787,0,4001,7,36
-2021-01-23,City of Hidden Hills,SFV,1890,66,0,3492,0,0
-2021-01-23,City of Huntington Park,E,59484,10002,64,16815,111,187
-2021-01-23,City of Industry,SGV,437,128,0,29291,3,686
-2021-01-23,City of Inglewood,SB,113581,11377,0,10017,206,181
-2021-01-23,City of Irwindale,SGV,1459,221,0,15147,3,206
-2021-01-23,City of La Canada Flintridge,SGV,20691,631,0,3049,12,58
+2021-01-23,City of Burbank,SFV,107184,7176,65,6695,163,152
+2021-01-23,City of Calabasas,SFV,24324,962,10,3955,16,66
+2021-01-23,City of Carson,SB,93850,7783,84,8293,137,146
+2021-01-23,City of Cerritos,E,50070,2490,17,4973,27,54
+2021-01-23,City of Claremont,SGV,36483,1938,21,5312,36,99
+2021-01-23,City of Commerce,E,13069,2181,7,16688,28,214
+2021-01-23,City of Compton,S,99905,14646,131,14660,149,149
+2021-01-23,City of Covina,SGV,49030,5587,50,11395,103,210
+2021-01-23,City of Cudahy,E,24346,4209,40,17288,35,144
+2021-01-23,City of Culver City,W,39868,1818,27,4560,65,163
+2021-01-23,City of Diamond Bar,SGV,57518,2693,37,4682,30,52
+2021-01-23,City of Downey,E,114259,15433,159,13507,177,155
+2021-01-23,City of Duarte,SGV,22017,1987,20,9025,58,263
+2021-01-23,City of El Monte,SGV,117271,15094,110,12871,286,244
+2021-01-23,City of El Segundo,SB,16788,554,4,3300,4,24
+2021-01-23,City of Gardena,E,61310,5296,53,8638,119,194
+2021-01-23,City of Glendale,SFV,206506,15808,173,7655,392,190
+2021-01-23,City of Glendora,SGV,52765,4065,41,7704,124,235
+2021-01-23,City of Hawaiian Gardens,E,14676,1955,16,13321,4,27
+2021-01-23,City of Hawthorne,SB,88788,8743,126,9847,120,135
+2021-01-23,City of Hermosa Beach,SB,19668,793,6,4032,7,36
+2021-01-23,City of Hidden Hills,SFV,1890,67,1,3545,0,0
+2021-01-23,City of Huntington Park,E,59483,10002,64,16815,111,187
+2021-01-23,City of Industry,SGV,437,129,1,29519,3,686
+2021-01-23,City of Inglewood,SB,113581,11491,114,10117,207,182
+2021-01-23,City of Irwindale,SGV,1459,223,2,15284,3,206
+2021-01-23,City of La Canada Flintridge,SGV,20691,635,4,3069,12,58
 2021-01-23,City of La Habra Heights,E,5453,92,0,1687,1,18
-2021-01-23,City of La Mirada,E,49597,3598,0,7254,66,133
-2021-01-23,City of La Puente,SGV,40698,5862,0,14404,62,152
-2021-01-23,City of La Verne,SGV,33282,2366,0,7109,35,105
-2021-01-23,City of Lakewood,E,80362,6018,0,7489,42,52
-2021-01-23,City of Lancaster,AV,161572,18312,0,11334,166,103
-2021-01-23,City of Lawndale,SB,33613,2898,0,8621,29,86
-2021-01-23,City of Lomita,SB,20728,1116,0,5384,11,53
-2021-01-23,City of Lynwood,S,72047,11623,0,16133,169,235
-2021-01-23,City of Malibu,W,12960,289,0,2230,6,46
-2021-01-23,City of Manhattan Beach,SB,35993,1031,0,2864,9,25
-2021-01-23,City of Maywood,E,28050,4559,0,16254,59,210
-2021-01-23,City of Monrovia,SGV,38798,2695,0,6946,51,131
-2021-01-23,City of Montebello,E,64375,8905,0,13833,111,172
-2021-01-23,City of Monterey Park,SGV,62264,4063,0,6526,120,193
-2021-01-23,City of Norwalk,E,107621,13816,0,12838,192,178
-2021-01-23,City of Palmdale,AV,158964,20869,0,13128,163,103
-2021-01-23,City of Palos Verdes Estates,SB,13525,296,0,2189,3,22
-2021-01-23,City of Paramount,S,56023,8698,0,15526,90,161
-2021-01-23,City of Pico Rivera,E,64285,9726,0,15130,158,246
-2021-01-23,City of Pomona,SGV,155933,21475,0,13772,283,181
-2021-01-23,City of Rancho Palos Verdes,SB,42747,1046,0,2447,36,84
-2021-01-23,City of Redondo Beach,SB,68701,2182,0,3176,20,29
-2021-01-23,City of Rolling Hills Estates,SB,8114,201,0,2478,6,74
-2021-01-23,City of Rolling Hills,SB,1940,35,0,1804,0,0
-2021-01-23,City of Rosemead,SGV,55349,4071,0,7355,82,148
-2021-01-23,City of San Dimas,SGV,34514,2633,0,7628,53,154
-2021-01-23,City of San Fernando,SFV,24613,4435,0,18020,43,175
-2021-01-23,City of San Gabriel,SGV,40956,2698,0,6588,148,361
-2021-01-23,City of San Marino,SGV,13274,328,0,2470,11,83
-2021-01-23,City of Santa Clarita,SFV,220410,16359,0,7422,143,65
-2021-01-23,City of Santa Fe Springs,E,18363,2392,0,13025,27,147
-2021-01-23,City of Santa Monica,W,92444,3709,0,4012,106,115
-2021-01-23,City of Sierra Madre,SGV,10987,390,0,3549,8,73
-2021-01-23,City of Signal Hill,E,11797,965,0,8180,6,51
-2021-01-23,City of South El Monte,SGV,20885,2981,0,14273,30,144
-2021-01-23,City of South Gate,E,98155,16308,0,16615,145,148
-2021-01-23,City of South Pasadena,SGV,26054,1114,0,4276,35,134
-2021-01-23,City of Temple City,SGV,36458,1990,0,5459,79,217
-2021-01-23,City of Torrance,SB,149283,5677,0,3803,124,83
-2021-01-23,City of Vernon,E,209,113,0,54067,1,478
-2021-01-23,City of Walnut,SGV,30533,1459,0,4779,24,79
-2021-01-23,City of West Covina,SGV,108237,10999,0,10162,128,118
-2021-01-23,City of West Hollywood,W,36951,1822,0,4931,23,62
-2021-01-23,City of Westlake Village,SFV,8358,85,0,1017,0,0
-2021-01-23,City of Whittier,E,87433,9573,0,10949,162,185
+2021-01-23,City of La Mirada,E,49597,3630,32,7319,69,139
+2021-01-23,City of La Puente,SGV,40698,5913,51,14529,66,162
+2021-01-23,City of La Verne,SGV,33282,2396,30,7199,35,105
+2021-01-23,City of Lakewood,E,80362,6085,67,7572,42,52
+2021-01-23,City of Lancaster,AV,161572,18521,209,11463,166,103
+2021-01-23,City of Lawndale,SB,33613,2928,30,8711,31,92
+2021-01-23,City of Lomita,SB,20728,1128,12,5442,13,63
+2021-01-23,City of Lynwood,S,72047,11709,86,16252,170,236
+2021-01-23,City of Malibu,W,12960,292,3,2253,6,46
+2021-01-23,City of Manhattan Beach,SB,35993,1042,11,2895,11,31
+2021-01-23,City of Maywood,E,28050,4615,56,16453,61,217
+2021-01-23,City of Monrovia,SGV,38798,2712,17,6990,50,129
+2021-01-23,City of Montebello,E,64375,8950,45,13903,119,185
+2021-01-23,City of Monterey Park,SGV,62264,4092,29,6572,122,196
+2021-01-23,City of Norwalk,E,107621,13953,137,12965,193,179
+2021-01-23,City of Palmdale,AV,158964,21112,243,13281,164,103
+2021-01-23,City of Palos Verdes Estates,SB,13525,297,1,2196,3,22
+2021-01-23,City of Paramount,S,56023,8794,96,15697,90,161
+2021-01-23,City of Pico Rivera,E,64285,9781,55,15215,168,261
+2021-01-23,City of Pomona,SGV,155933,21684,209,13906,288,185
+2021-01-23,City of Rancho Palos Verdes,SB,42747,1055,9,2468,36,84
+2021-01-23,City of Redondo Beach,SB,68701,2195,13,3195,20,29
+2021-01-23,City of Rolling Hills Estates,SB,8114,203,2,2502,5,62
+2021-01-23,City of Rolling Hills,SB,1940,36,1,1856,0,0
+2021-01-23,City of Rosemead,SGV,55349,4113,42,7431,84,152
+2021-01-23,City of San Dimas,SGV,34514,2669,36,7733,54,156
+2021-01-23,City of San Fernando,SFV,24613,4495,60,18263,43,175
+2021-01-23,City of San Gabriel,SGV,40956,2715,17,6629,149,364
+2021-01-23,City of San Marino,SGV,13274,330,2,2486,11,83
+2021-01-23,City of Santa Clarita,SFV,220410,16566,207,7516,157,71
+2021-01-23,City of Santa Fe Springs,E,18363,2417,25,13162,27,147
+2021-01-23,City of Santa Monica,W,92444,3756,47,4063,107,116
+2021-01-23,City of Sierra Madre,SGV,10987,395,5,3595,8,73
+2021-01-23,City of Signal Hill,E,11797,976,11,8273,6,51
+2021-01-23,City of South El Monte,SGV,20885,3010,29,14412,33,158
+2021-01-23,City of South Gate,E,98155,16435,127,16744,147,150
+2021-01-23,City of South Pasadena,SGV,26054,1125,11,4318,35,134
+2021-01-23,City of Temple City,SGV,36458,2003,13,5494,81,222
+2021-01-23,City of Torrance,SB,149283,5728,51,3837,126,84
+2021-01-23,City of Vernon,E,209,115,2,55024,1,478
+2021-01-23,City of Walnut,SGV,30533,1472,13,4821,24,79
+2021-01-23,City of West Covina,SGV,108237,11091,92,10247,133,123
+2021-01-23,City of West Hollywood,W,36951,1835,13,4966,23,62
+2021-01-23,City of Westlake Village,SFV,8358,86,1,1029,0,0
+2021-01-23,City of Whittier,E,87433,9636,63,11021,161,184
 2021-01-23,Los Angeles - Adams-Normandie,S,8202,1017,23,12399,12,146
-2021-01-23,Los Angeles - Alsace,W,12445,1381,0,11097,11,88
+2021-01-23,Los Angeles - Alsace,W,12445,1392,11,11185,12,96
 2021-01-23,Los Angeles - Angeles National Forest,AV,40,5,0,12500,0,0
-2021-01-23,Los Angeles - Angelino Heights,MLA,2502,233,0,9313,2,80
-2021-01-23,Los Angeles - Arleta,SFV,34370,6031,0,17547,68,198
-2021-01-23,Los Angeles - Atwater Village,MLA,14667,1203,0,8203,14,95
-2021-01-23,Los Angeles - Baldwin Hills,S,31126,2311,0,7425,41,132
-2021-01-23,Los Angeles - Bel Air,W,8430,320,0,3796,2,24
-2021-01-23,Los Angeles - Beverly Crest,W,12525,508,0,4056,4,32
-2021-01-23,Los Angeles - Beverlywood,W,13174,709,0,5382,1,8
-2021-01-23,Los Angeles - Boyle Heights,MLA,86882,15573,0,17924,187,215
-2021-01-23,Los Angeles - Brentwood,W,30956,1200,0,3877,9,29
-2021-01-23,Los Angeles - Brookside,MLA,581,25,0,4303,2,344
-2021-01-23,Los Angeles - Cadillac-Corning,W,7121,594,0,8342,6,84
-2021-01-23,Los Angeles - Canoga Park,SFV,65288,7916,0,12125,110,168
-2021-01-23,Los Angeles - Carthay,MLA,14363,794,0,5528,36,251
-2021-01-23,Los Angeles - Central,MLA,38992,6663,0,17088,78,200
-2021-01-23,Los Angeles - Century City,W,12791,496,0,3877,8,63
-2021-01-23,Los Angeles - Century Palms/Cove,S,33766,5469,0,16197,54,160
-2021-01-23,Los Angeles - Chatsworth,SFV,37060,3070,0,8284,54,146
-2021-01-23,Los Angeles - Cheviot Hills,W,9170,365,0,3980,7,76
-2021-01-23,Los Angeles - Chinatown,MLA,8021,620,0,7730,7,87
-2021-01-23,Los Angeles - Cloverdale/Cochran,MLA,14554,1369,0,9407,16,110
-2021-01-23,Los Angeles - Country Club Park,MLA,15153,1281,0,8454,54,356
-2021-01-23,Los Angeles - Crenshaw District,S,13829,1231,0,8902,16,116
-2021-01-23,Los Angeles - Crestview,W,11368,820,0,7213,30,264
-2021-01-23,Los Angeles - Del Rey,W,29937,1686,0,5632,17,57
-2021-01-23,Los Angeles - Downtown,MLA,27508,3226,0,11728,26,95
-2021-01-23,Los Angeles - Eagle Rock,MLA,39589,3177,0,8025,69,174
-2021-01-23,Los Angeles - East Hollywood,MLA,29287,2737,0,9345,77,263
-2021-01-23,Los Angeles - Echo Park,MLA,14256,1151,0,8074,15,105
-2021-01-23,Los Angeles - El Sereno,MLA,41809,5462,0,13064,72,172
-2021-01-23,Los Angeles - Elysian Park,MLA,5712,437,0,7651,1,18
-2021-01-23,Los Angeles - Elysian Valley,MLA,10171,1136,0,11169,15,147
-2021-01-23,Los Angeles - Encino,SFV,45172,2760,0,6110,41,91
-2021-01-23,Los Angeles - Exposition Park,S,44916,5297,0,11793,53,118
-2021-01-23,Los Angeles - Exposition,S,3326,303,0,9110,5,150
+2021-01-23,Los Angeles - Angelino Heights,MLA,2502,239,6,9552,2,80
+2021-01-23,Los Angeles - Arleta,SFV,34370,6089,58,17716,69,201
+2021-01-23,Los Angeles - Atwater Village,MLA,14667,1210,7,8250,14,95
+2021-01-23,Los Angeles - Baldwin Hills,S,31126,2327,16,7476,41,132
+2021-01-23,Los Angeles - Bel Air,W,8430,321,1,3808,2,24
+2021-01-23,Los Angeles - Beverly Crest,W,12525,510,2,4072,4,32
+2021-01-23,Los Angeles - Beverlywood,W,13174,716,7,5435,1,8
+2021-01-23,Los Angeles - Boyle Heights,MLA,86882,15704,131,18075,189,218
+2021-01-23,Los Angeles - Brentwood,W,30956,1211,11,3912,9,29
+2021-01-23,Los Angeles - Brookside,MLA,581,26,1,4475,2,344
+2021-01-23,Los Angeles - Cadillac-Corning,W,7121,596,2,8370,6,84
+2021-01-23,Los Angeles - Canoga Park,SFV,65288,8037,121,12310,115,176
+2021-01-23,Los Angeles - Carthay,MLA,14363,801,7,5577,40,278
+2021-01-23,Los Angeles - Central,MLA,38992,6714,51,17219,79,203
+2021-01-23,Los Angeles - Century City,W,12791,500,4,3909,8,63
+2021-01-23,Los Angeles - Century Palms/Cove,S,33766,5512,43,16324,55,163
+2021-01-23,Los Angeles - Chatsworth,SFV,37060,3096,26,8354,54,146
+2021-01-23,Los Angeles - Cheviot Hills,W,9170,368,3,4013,7,76
+2021-01-23,Los Angeles - Chinatown,MLA,8021,628,8,7829,7,87
+2021-01-23,Los Angeles - Cloverdale/Cochran,MLA,14554,1389,20,9544,16,110
+2021-01-23,Los Angeles - Country Club Park,MLA,15153,1296,15,8553,55,363
+2021-01-23,Los Angeles - Crenshaw District,S,13829,1246,15,9010,16,116
+2021-01-23,Los Angeles - Crestview,W,11368,825,5,7257,33,290
+2021-01-23,Los Angeles - Del Rey,W,29937,1704,18,5692,17,57
+2021-01-23,Los Angeles - Downtown,MLA,27508,3255,29,11833,27,98
+2021-01-23,Los Angeles - Eagle Rock,MLA,39589,3198,21,8078,71,179
+2021-01-23,Los Angeles - East Hollywood,MLA,29287,2765,28,9441,78,266
+2021-01-23,Los Angeles - Echo Park,MLA,14256,1162,11,8151,15,105
+2021-01-23,Los Angeles - El Sereno,MLA,41809,5525,63,13215,72,172
+2021-01-23,Los Angeles - Elysian Park,MLA,5712,443,6,7756,1,18
+2021-01-23,Los Angeles - Elysian Valley,MLA,10171,1142,6,11228,15,147
+2021-01-23,Los Angeles - Encino,SFV,45172,2788,28,6172,42,93
+2021-01-23,Los Angeles - Exposition Park,S,44916,5371,74,11958,53,118
+2021-01-23,Los Angeles - Exposition,S,3326,308,5,9260,5,150
 2021-01-23,Los Angeles - Faircrest Heights,MLA,3600,198,0,5500,2,56
-2021-01-23,Los Angeles - Figueroa Park Square,S,8721,1202,0,13783,15,172
-2021-01-23,Los Angeles - Florence-Firestone,S,47445,8194,0,17271,75,158
-2021-01-23,Los Angeles - Glassell Park,MLA,31605,2947,0,9325,32,101
-2021-01-23,Los Angeles - Gramercy Place,S,10764,1112,0,10331,17,158
-2021-01-23,Los Angeles - Granada Hills,SFV,58190,5456,0,9376,127,218
-2021-01-23,Los Angeles - Green Meadows,S,21504,3412,0,15866,26,121
-2021-01-23,Los Angeles - Hancock Park,MLA,17040,863,0,5065,7,41
-2021-01-23,Los Angeles - Harbor City,SB,29070,1978,0,6804,22,76
-2021-01-23,Los Angeles - Harbor Gateway,SB,43602,4086,0,9372,41,94
-2021-01-23,Los Angeles - Harbor Pines,SB,2409,138,0,5729,0,0
-2021-01-23,Los Angeles - Harvard Heights,MLA,18035,2214,0,12276,48,266
-2021-01-23,Los Angeles - Harvard Park,S,37934,6218,0,16391,54,142
-2021-01-23,Los Angeles - Highland Park,MLA,48392,5056,0,10448,55,114
-2021-01-23,Los Angeles - Historic Filipinotown,MLA,13870,1766,0,12733,54,389
-2021-01-23,Los Angeles - Hollywood Hills,MLA,29433,1186,0,4029,14,48
-2021-01-23,Los Angeles - Hollywood,MLA,68255,4469,0,6548,43,63
-2021-01-23,Los Angeles - Hyde Park,S,28542,3124,0,10946,42,147
-2021-01-23,Los Angeles - Jefferson Park,S,8073,1004,0,12437,7,87
-2021-01-23,Los Angeles - Koreatown,MLA,51696,4650,0,8995,69,133
-2021-01-23,Los Angeles - Lafayette Square,MLA,4559,472,0,10353,5,110
-2021-01-23,Los Angeles - Lake Balboa,SFV,42204,4561,0,10807,43,102
-2021-01-23,Los Angeles - Lakeview Terrace,SFV,13133,2013,0,15328,31,236
-2021-01-23,Los Angeles - Leimert Park,S,15234,1315,0,8631,13,85
-2021-01-23,Los Angeles - Lincoln Heights,MLA,32598,4484,0,13756,121,371
+2021-01-23,Los Angeles - Figueroa Park Square,S,8721,1206,4,13829,15,172
+2021-01-23,Los Angeles - Florence-Firestone,S,47445,8273,79,17437,75,158
+2021-01-23,Los Angeles - Glassell Park,MLA,31605,2981,34,9432,34,108
+2021-01-23,Los Angeles - Gramercy Place,S,10764,1126,14,10461,17,158
+2021-01-23,Los Angeles - Granada Hills,SFV,58190,5496,40,9445,127,218
+2021-01-23,Los Angeles - Green Meadows,S,21504,3442,30,16006,27,126
+2021-01-23,Los Angeles - Hancock Park,MLA,17040,867,4,5088,7,41
+2021-01-23,Los Angeles - Harbor City,SB,29070,1989,11,6842,22,76
+2021-01-23,Los Angeles - Harbor Gateway,SB,43602,4133,47,9479,41,94
+2021-01-23,Los Angeles - Harbor Pines,SB,2409,140,2,5812,0,0
+2021-01-23,Los Angeles - Harvard Heights,MLA,18035,2230,16,12365,48,266
+2021-01-23,Los Angeles - Harvard Park,S,37934,6272,54,16534,54,142
+2021-01-23,Los Angeles - Highland Park,MLA,48392,5086,30,10510,57,118
+2021-01-23,Los Angeles - Historic Filipinotown,MLA,13870,1780,14,12833,56,404
+2021-01-23,Los Angeles - Hollywood Hills,MLA,29433,1200,14,4077,14,48
+2021-01-23,Los Angeles - Hollywood,MLA,68255,4513,44,6612,46,67
+2021-01-23,Los Angeles - Hyde Park,S,28542,3159,35,11068,43,151
+2021-01-23,Los Angeles - Jefferson Park,S,8073,1015,11,12573,7,87
+2021-01-23,Los Angeles - Koreatown,MLA,51696,4710,60,9111,71,137
+2021-01-23,Los Angeles - Lafayette Square,MLA,4559,475,3,10419,5,110
+2021-01-23,Los Angeles - Lake Balboa,SFV,42204,4599,38,10897,42,100
+2021-01-23,Los Angeles - Lakeview Terrace,SFV,13133,2034,21,15488,30,228
+2021-01-23,Los Angeles - Leimert Park,S,15234,1326,11,8704,14,92
+2021-01-23,Los Angeles - Lincoln Heights,MLA,32598,4534,50,13909,122,374
 2021-01-23,Los Angeles - Little Armenia,MLA,8025,1003,15,12498,68,847
-2021-01-23,Los Angeles - Little Bangladesh,MLA,28343,2311,0,8154,18,64
-2021-01-23,Los Angeles - Little Tokyo,MLA,3133,345,0,11012,7,223
-2021-01-23,Los Angeles - Longwood,MLA,4304,495,0,11501,5,116
-2021-01-23,Los Angeles - Los Feliz,MLA,21610,873,0,4040,13,60
-2021-01-23,Los Angeles - Manchester Square,SB,8536,780,0,9138,7,82
-2021-01-23,Los Angeles - Mandeville Canyon,W,3124,108,0,3457,0,0
-2021-01-23,Los Angeles - Mar Vista,W,42473,1631,0,3840,21,49
-2021-01-23,Los Angeles - Marina Peninsula,W,4360,117,0,2683,1,23
-2021-01-23,Los Angeles - Melrose,MLA,77699,6795,0,8746,150,193
-2021-01-23,Los Angeles - Mid-city,MLA,15029,1001,0,6660,29,193
-2021-01-23,Los Angeles - Miracle Mile,MLA,17984,752,0,4181,9,50
-2021-01-23,Los Angeles - Mission Hills,SFV,24124,3660,0,15172,90,373
-2021-01-23,Los Angeles - Mt. Washington,MLA,24145,2509,0,10391,46,191
-2021-01-23,Los Angeles - North Hills,SFV,61575,7913,0,12851,91,148
-2021-01-23,Los Angeles - North Hollywood,SFV,151423,17370,0,11471,212,140
-2021-01-23,Los Angeles - Northridge,SFV,69798,6233,0,8930,98,140
-2021-01-23,Los Angeles - Pacific Palisades,W,21291,613,0,2879,14,66
-2021-01-23,Los Angeles - Pacoima,SFV,76980,14928,0,19392,143,186
-2021-01-23,Los Angeles - Palisades Highlands,W,3846,118,0,3068,1,26
-2021-01-23,Los Angeles - Palms,W,43873,2165,0,4934,40,91
-2021-01-23,Los Angeles - Panorama City,SFV,75249,11569,0,15374,174,231
-2021-01-23,Los Angeles - Park La Brea,MLA,13579,478,0,3520,1,7
-2021-01-23,Los Angeles - Pico-Union,MLA,41843,6192,0,14799,146,349
-2021-01-23,Los Angeles - Playa Del Rey,W,3196,86,0,2691,0,0
-2021-01-23,Los Angeles - Playa Vista,W,10947,485,0,4430,3,27
-2021-01-23,Los Angeles - Porter Ranch,SFV,35588,2032,0,5710,21,59
-2021-01-23,Los Angeles - Rancho Park,W,6560,289,0,4405,2,30
-2021-01-23,Los Angeles - Regent Square,W,2780,208,0,7482,1,36
-2021-01-23,Los Angeles - Reseda Ranch,SFV,4636,557,0,12015,2,43
-2021-01-23,Los Angeles - Reseda,SFV,76617,9823,0,12821,203,265
-2021-01-23,Los Angeles - Reynier Village,W,4228,205,0,4849,0,0
-2021-01-23,Los Angeles - San Pedro,SB,78033,5856,0,7504,75,96
-2021-01-23,Los Angeles - Shadow Hills,SFV,4442,316,0,7114,2,45
-2021-01-23,Los Angeles - Sherman Oaks,SFV,87250,4700,0,5387,66,76
-2021-01-23,Los Angeles - Silverlake,MLA,44083,2666,0,6048,74,168
-2021-01-23,Los Angeles - South Carthay,MLA,10594,587,0,5540,5,47
-2021-01-23,Los Angeles - South Park,S,37961,6537,0,17220,63,166
-2021-01-23,Los Angeles - St Elmo Village,MLA,4584,530,0,11562,19,414
-2021-01-23,Los Angeles - Studio City,SFV,22440,1090,0,4857,33,147
-2021-01-23,Los Angeles - Sun Valley,SFV,52484,7983,0,15211,88,168
-2021-01-23,Los Angeles - Sunland,SFV,20408,1875,0,9188,42,206
-2021-01-23,Los Angeles - Sycamore Square,SFV,647,25,0,3864,2,309
-2021-01-23,Los Angeles - Sylmar,SFV,82400,13747,0,16684,169,205
-2021-01-23,Los Angeles - Tarzana,SFV,30876,2761,0,8942,57,185
-2021-01-23,Los Angeles - Temple-Beaudry,MLA,39483,4349,0,11015,73,185
-2021-01-23,Los Angeles - Thai Town,MLA,9809,723,0,7371,9,92
-2021-01-23,Los Angeles - Toluca Lake,SFV,8703,403,0,4630,6,69
+2021-01-23,Los Angeles - Little Bangladesh,MLA,28343,2342,31,8263,18,64
+2021-01-23,Los Angeles - Little Tokyo,MLA,3133,347,2,11076,7,223
+2021-01-23,Los Angeles - Longwood,MLA,4304,500,5,11617,5,116
+2021-01-23,Los Angeles - Los Feliz,MLA,21610,878,5,4063,14,65
+2021-01-23,Los Angeles - Manchester Square,SB,8536,789,9,9243,7,82
+2021-01-23,Los Angeles - Mandeville Canyon,W,3124,109,1,3489,0,0
+2021-01-23,Los Angeles - Mar Vista,W,42473,1659,28,3906,24,57
+2021-01-23,Los Angeles - Marina Peninsula,W,4360,120,3,2752,1,23
+2021-01-23,Los Angeles - Melrose,MLA,77699,6881,86,8856,152,196
+2021-01-23,Los Angeles - Mid-city,MLA,15029,1005,4,6687,30,200
+2021-01-23,Los Angeles - Miracle Mile,MLA,17984,760,8,4226,9,50
+2021-01-23,Los Angeles - Mission Hills,SFV,24124,3695,35,15317,93,386
+2021-01-23,Los Angeles - Mt. Washington,MLA,24145,2536,27,10503,46,191
+2021-01-23,Los Angeles - North Hills,SFV,61575,8006,93,13002,95,154
+2021-01-23,Los Angeles - North Hollywood,SFV,151423,17556,186,11594,213,141
+2021-01-23,Los Angeles - Northridge,SFV,69798,6309,76,9039,99,142
+2021-01-23,Los Angeles - Pacific Palisades,W,21291,617,4,2898,14,66
+2021-01-23,Los Angeles - Pacoima,SFV,76980,15098,170,19613,145,188
+2021-01-23,Los Angeles - Palisades Highlands,W,3846,119,1,3094,1,26
+2021-01-23,Los Angeles - Palms,W,43873,2184,19,4978,39,89
+2021-01-23,Los Angeles - Panorama City,SFV,75249,11717,148,15571,176,234
+2021-01-23,Los Angeles - Park La Brea,MLA,13579,483,5,3557,1,7
+2021-01-23,Los Angeles - Pico-Union,MLA,41843,6240,48,14913,148,354
+2021-01-23,Los Angeles - Playa Del Rey,W,3196,87,1,2722,0,0
+2021-01-23,Los Angeles - Playa Vista,W,10947,489,4,4467,3,27
+2021-01-23,Los Angeles - Porter Ranch,SFV,35588,2047,15,5752,20,56
+2021-01-23,Los Angeles - Rancho Park,W,6560,295,6,4497,1,15
+2021-01-23,Los Angeles - Regent Square,W,2780,210,2,7554,1,36
+2021-01-23,Los Angeles - Reseda Ranch,SFV,4636,564,7,12166,2,43
+2021-01-23,Los Angeles - Reseda,SFV,76617,9951,128,12988,207,270
+2021-01-23,Los Angeles - Reynier Village,W,4228,207,2,4896,0,0
+2021-01-23,Los Angeles - San Pedro,SB,78033,5911,55,7575,74,95
+2021-01-23,Los Angeles - Shadow Hills,SFV,4442,321,5,7226,2,45
+2021-01-23,Los Angeles - Sherman Oaks,SFV,87250,4749,49,5443,67,77
+2021-01-23,Los Angeles - Silverlake,MLA,44083,2693,27,6109,77,175
+2021-01-23,Los Angeles - South Carthay,MLA,10594,590,3,5569,5,47
+2021-01-23,Los Angeles - South Park,S,37961,6579,42,17331,65,171
+2021-01-23,Los Angeles - St Elmo Village,MLA,4584,531,1,11584,19,414
+2021-01-23,Los Angeles - Studio City,SFV,22440,1100,10,4902,34,152
+2021-01-23,Los Angeles - Sun Valley,SFV,52484,8062,79,15361,90,171
+2021-01-23,Los Angeles - Sunland,SFV,20408,1890,15,9261,43,211
+2021-01-23,Los Angeles - Sycamore Square,SFV,647,26,1,4019,2,309
+2021-01-23,Los Angeles - Sylmar,SFV,82400,13882,135,16847,173,210
+2021-01-23,Los Angeles - Tarzana,SFV,30876,2790,29,9036,57,185
+2021-01-23,Los Angeles - Temple-Beaudry,MLA,39483,4385,36,11106,74,187
+2021-01-23,Los Angeles - Thai Town,MLA,9809,728,5,7422,9,92
+2021-01-23,Los Angeles - Toluca Lake,SFV,8703,406,3,4665,6,69
 2021-01-23,Los Angeles - Toluca Terrace,SFV,1306,117,0,8959,1,77
-2021-01-23,Los Angeles - Toluca Woods,SFV,1858,88,0,4736,0,0
-2021-01-23,Los Angeles - Tujunga,SFV,27808,2300,0,8270,41,147
-2021-01-23,Los Angeles - University Hills,SGV,3429,238,0,6941,1,29
-2021-01-23,Los Angeles - University Park,S,27457,2799,0,10194,37,135
-2021-01-23,Los Angeles - Valley Glen,SFV,30017,3173,0,10571,42,140
-2021-01-23,Los Angeles - Valley Village,SFV,24721,1667,0,6744,49,198
-2021-01-23,Los Angeles - Van Nuys,SFV,93193,12531,0,13446,216,232
-2021-01-23,Los Angeles - Venice,W,33886,1282,0,3783,13,38
-2021-01-23,Los Angeles - Vermont Knolls,S,17200,2489,0,14471,34,198
-2021-01-23,Los Angeles - Vermont Square,S,7657,1290,0,16847,10,131
-2021-01-23,Los Angeles - Vermont Vista,S,41186,6541,0,15882,58,141
-2021-01-23,Los Angeles - Vernon Central,S,51999,9865,0,18972,103,198
-2021-01-23,Los Angeles - Victoria Park,MLA,8399,915,0,10894,9,107
+2021-01-23,Los Angeles - Toluca Woods,SFV,1858,89,1,4790,0,0
+2021-01-23,Los Angeles - Tujunga,SFV,27808,2317,17,8332,41,147
+2021-01-23,Los Angeles - University Hills,SGV,3429,242,4,7057,1,29
+2021-01-23,Los Angeles - University Park,S,27457,2813,14,10245,37,135
+2021-01-23,Los Angeles - Valley Glen,SFV,30017,3225,52,10744,44,147
+2021-01-23,Los Angeles - Valley Village,SFV,24721,1682,15,6804,49,198
+2021-01-23,Los Angeles - Van Nuys,SFV,93193,12692,161,13619,217,233
+2021-01-23,Los Angeles - Venice,W,33886,1288,6,3801,13,38
+2021-01-23,Los Angeles - Vermont Knolls,S,17200,2514,25,14616,36,209
+2021-01-23,Los Angeles - Vermont Square,S,7657,1308,18,17082,10,131
+2021-01-23,Los Angeles - Vermont Vista,S,41186,6610,69,16049,60,146
+2021-01-23,Los Angeles - Vernon Central,S,51999,9976,111,19185,103,198
+2021-01-23,Los Angeles - Victoria Park,MLA,8399,929,14,11061,9,107
 2021-01-23,Los Angeles - View Heights,S,3694,201,0,5441,4,108
-2021-01-23,Los Angeles - Watts,S,42673,6533,0,15309,67,157
-2021-01-23,Los Angeles - Wellington Square,MLA,4915,489,0,9949,7,142
-2021-01-23,Los Angeles - West Adams,MLA,27630,3415,0,12360,103,373
-2021-01-23,Los Angeles - West Hills,SFV,40548,2458,0,6062,74,183
-2021-01-23,Los Angeles - West Los Angeles,W,37639,1920,0,5101,31,82
-2021-01-23,Los Angeles - West Vernon,S,53643,8894,0,16580,116,216
-2021-01-23,Los Angeles - Westchester,W,51598,1911,0,3703,31,60
-2021-01-23,Los Angeles - Westlake,MLA,59357,6709,0,11303,202,340
-2021-01-23,Los Angeles - Westwood,W,54106,2073,0,3831,19,35
-2021-01-23,Los Angeles - Wholesale District,MLA,36130,5609,0,15525,71,197
-2021-01-23,Los Angeles - Wilmington,SB,56486,6937,0,12281,52,92
-2021-01-23,Los Angeles - Wilshire Center,MLA,50168,4540,0,9049,69,138
-2021-01-23,Los Angeles - Winnetka,SFV,51787,5729,0,11063,50,97
-2021-01-23,Los Angeles - Woodland Hills,SFV,68057,3960,0,5819,59,87
+2021-01-23,Los Angeles - Watts,S,42673,6584,51,15429,67,157
+2021-01-23,Los Angeles - Wellington Square,MLA,4915,493,4,10031,7,142
+2021-01-23,Los Angeles - West Adams,MLA,27630,3448,33,12479,103,373
+2021-01-23,Los Angeles - West Hills,SFV,40548,2488,30,6136,77,190
+2021-01-23,Los Angeles - West Los Angeles,W,37639,1935,15,5141,32,85
+2021-01-23,Los Angeles - West Vernon,S,53643,8967,73,16716,117,218
+2021-01-23,Los Angeles - Westchester,W,51598,1937,26,3754,31,60
+2021-01-23,Los Angeles - Westlake,MLA,59357,6756,47,11382,204,344
+2021-01-23,Los Angeles - Westwood,W,54106,2095,22,3872,18,33
+2021-01-23,Los Angeles - Wholesale District,MLA,36130,5663,54,15674,73,202
+2021-01-23,Los Angeles - Wilmington,SB,56486,7037,100,12458,52,92
+2021-01-23,Los Angeles - Wilshire Center,MLA,50168,4629,89,9227,69,138
+2021-01-23,Los Angeles - Winnetka,SFV,51787,5796,67,11192,51,98
+2021-01-23,Los Angeles - Woodland Hills,SFV,68057,4014,54,5898,59,87
 2021-01-23,Unincorporated - Acton,AV,7972,373,0,4679,6,75
-2021-01-23,Unincorporated - Agua Dulce,AV,4158,195,0,4690,2,48
-2021-01-23,Unincorporated - Altadena,SGV,43620,2755,0,6316,45,103
-2021-01-23,Unincorporated - Anaverde,AV,1508,124,0,8223,0,0
-2021-01-23,Unincorporated - Angeles National Forest,AV,1245,24,0,1928,0,0
-2021-01-23,Unincorporated - Arcadia,SGV,7981,511,0,6403,10,125
-2021-01-23,Unincorporated - Athens Village,S,4897,962,0,19645,22,449
-2021-01-23,Unincorporated - Athens-Westmont,S,42443,5441,0,12820,58,137
-2021-01-23,Unincorporated - Avocado Heights,SGV,6775,952,0,14052,9,133
-2021-01-23,Unincorporated - Azusa,SGV,15922,2035,0,12780,21,132
-2021-01-23,Unincorporated - Bassett,SGV,14817,2263,0,15273,25,169
-2021-01-23,Unincorporated - Bouquet Canyon,SFV,1073,38,0,3541,1,93
+2021-01-23,Unincorporated - Agua Dulce,AV,4158,197,2,4738,2,48
+2021-01-23,Unincorporated - Altadena,SGV,43620,2779,24,6371,46,105
+2021-01-23,Unincorporated - Anaverde,AV,1508,126,2,8355,0,0
+2021-01-23,Unincorporated - Angeles National Forest,AV,1245,26,2,2088,0,0
+2021-01-23,Unincorporated - Arcadia,SGV,7981,516,5,6465,11,138
+2021-01-23,Unincorporated - Athens Village,S,4897,966,4,19726,22,449
+2021-01-23,Unincorporated - Athens-Westmont,S,42443,5507,66,12975,59,139
+2021-01-23,Unincorporated - Avocado Heights,SGV,6775,962,10,14199,10,148
+2021-01-23,Unincorporated - Azusa,SGV,15922,2054,19,12900,23,144
+2021-01-23,Unincorporated - Bassett,SGV,14817,2286,23,15428,26,175
+2021-01-23,Unincorporated - Bouquet Canyon,SFV,1073,39,1,3635,1,93
 2021-01-23,Unincorporated - Bradbury,SGV,108,48,0,44444,12,11111
-2021-01-23,Unincorporated - Canyon Country,SFV,7728,660,0,8540,3,39
-2021-01-23,Unincorporated - Castaic,SFV,27191,3321,0,12214,10,37
+2021-01-23,Unincorporated - Canyon Country,SFV,7728,661,1,8553,3,39
+2021-01-23,Unincorporated - Castaic,SFV,27191,3338,17,12276,11,40
 2021-01-23,Unincorporated - Cerritos,E,587,64,0,10903,0,0
 2021-01-23,Unincorporated - Charter Oak,SGV,0,0,0,0,0,0
-2021-01-23,Unincorporated - Claremont,SGV,702,38,0,5413,4,570
-2021-01-23,Unincorporated - Covina (Charter Oak),SGV,13144,1295,0,9852,7,53
-2021-01-23,Unincorporated - Covina,SGV,16819,1972,0,11725,20,119
-2021-01-23,Unincorporated - Del Aire,SB,4393,242,0,5509,3,68
+2021-01-23,Unincorporated - Claremont,SGV,702,39,1,5556,4,570
+2021-01-23,Unincorporated - Covina (Charter Oak),SGV,13144,1312,17,9982,7,53
+2021-01-23,Unincorporated - Covina,SGV,16819,1992,20,11844,21,125
+2021-01-23,Unincorporated - Del Aire,SB,4393,244,2,5554,3,68
 2021-01-23,Unincorporated - Del Rey,W,318,20,0,6289,0,0
-2021-01-23,Unincorporated - Del Sur,AV,2415,141,0,5839,1,41
-2021-01-23,Unincorporated - Desert View Highlands,AV,2493,299,0,11994,2,80
-2021-01-23,Unincorporated - Duarte,SGV,4428,747,0,16870,8,181
+2021-01-23,Unincorporated - Del Sur,AV,2415,142,1,5880,1,41
+2021-01-23,Unincorporated - Desert View Highlands,AV,2493,302,3,12114,2,80
+2021-01-23,Unincorporated - Duarte,SGV,4428,749,2,16915,8,181
 2021-01-23,Unincorporated - East Covina,SGV,329,30,0,9119,1,304
-2021-01-23,Unincorporated - East La Mirada,E,5292,434,0,8201,4,76
+2021-01-23,Unincorporated - East La Mirada,E,5292,436,2,8239,4,76
 2021-01-23,Unincorporated - East Lancaster,AV,114,15,0,13158,0,0
-2021-01-23,Unincorporated - East Los Angeles,E,125267,22281,0,17787,267,213
+2021-01-23,Unincorporated - East Los Angeles,E,125267,22424,143,17901,279,223
 2021-01-23,Unincorporated - East Pasadena,SGV,6404,174,0,2717,6,94
-2021-01-23,Unincorporated - East Rancho Dominguez,S,15308,2399,0,15672,36,235
+2021-01-23,Unincorporated - East Rancho Dominguez,S,15308,2431,32,15881,36,235
 2021-01-23,Unincorporated - East Whittier,E,5306,401,0,7557,3,57
-2021-01-23,Unincorporated - El Camino Village,SB,8791,664,0,7553,9,102
+2021-01-23,Unincorporated - El Camino Village,SB,8791,679,15,7724,9,102
 2021-01-23,Unincorporated - El Monte,SGV,145,23,0,15862,0,0
 2021-01-23,Unincorporated - Elizabeth Lake,AV,1661,67,0,4034,0,0
-2021-01-23,Unincorporated - Florence-Firestone,S,64703,11927,0,18433,125,193
+2021-01-23,Unincorporated - Florence-Firestone,S,64703,12051,124,18625,127,196
 2021-01-23,Unincorporated - Franklin Canyon,MLA,12,1,0,8333,0,0
 2021-01-23,Unincorporated - Glendora,SGV,660,59,0,8939,2,303
-2021-01-23,Unincorporated - Hacienda Heights,SGV,55927,4429,0,7919,66,118
+2021-01-23,Unincorporated - Hacienda Heights,SGV,55927,4463,34,7980,67,120
 2021-01-23,Unincorporated - Harbor Gateway,S,1,0,0,0,0,0
 2021-01-23,Unincorporated - Hawthorne,SB,2514,275,0,10939,1,40
-2021-01-23,Unincorporated - Hi Vista,AV,1098,36,0,3279,0,0
-2021-01-23,Unincorporated - Kagel/Lopez Canyons,SFV,1412,167,0,11827,2,142
-2021-01-23,Unincorporated - La Crescenta-Montrose,SFV,19800,879,0,4439,7,35
+2021-01-23,Unincorporated - Hi Vista,AV,1098,37,1,3370,0,0
+2021-01-23,Unincorporated - Kagel/Lopez Canyons,SFV,1412,172,5,12181,2,142
+2021-01-23,Unincorporated - La Crescenta-Montrose,SFV,19800,889,10,4490,7,35
 2021-01-23,Unincorporated - La Habra Heights,E,676,12,0,1775,1,148
-2021-01-23,Unincorporated - La Rambla,SGV,2075,185,0,8916,15,723
+2021-01-23,Unincorporated - La Rambla,SGV,2075,186,1,8964,15,723
 2021-01-23,Unincorporated - La Verne,SGV,2040,136,0,6667,0,0
-2021-01-23,Unincorporated - Ladera Heights,W,7071,315,0,4455,6,85
+2021-01-23,Unincorporated - Ladera Heights,W,7071,316,1,4469,6,85
 2021-01-23,Unincorporated - Lake Hughes,AV,668,35,0,5240,0,0
-2021-01-23,Unincorporated - Lake Los Angeles,AV,12995,1321,0,10166,5,38
+2021-01-23,Unincorporated - Lake Los Angeles,AV,12995,1340,19,10312,5,38
 2021-01-23,Unincorporated - Lake Manor,SFV,1643,114,0,6939,1,61
 2021-01-23,Unincorporated - Lakewood,E,0,0,0,0,0,0
-2021-01-23,Unincorporated - Lennox,SB,22542,2998,0,13300,27,120
-2021-01-23,Unincorporated - Leona Valley,AV,1751,91,0,5197,0,0
-2021-01-23,Unincorporated - Littlerock,AV,4021,441,0,10967,4,99
-2021-01-23,Unincorporated - Littlerock/Juniper Hills,AV,1297,94,0,7247,1,77
-2021-01-23,Unincorporated - Littlerock/Pearblossom,AV,3569,443,0,12412,3,84
+2021-01-23,Unincorporated - Lennox,SB,22542,3031,33,13446,29,129
+2021-01-23,Unincorporated - Leona Valley,AV,1751,92,1,5254,0,0
+2021-01-23,Unincorporated - Littlerock,AV,4021,446,5,11092,4,99
+2021-01-23,Unincorporated - Littlerock/Juniper Hills,AV,1297,95,1,7325,1,77
+2021-01-23,Unincorporated - Littlerock/Pearblossom,AV,3569,450,7,12609,3,84
 2021-01-23,Unincorporated - Llano,AV,877,32,0,3649,0,0
-2021-01-23,Unincorporated - Marina del Rey,W,9410,276,0,2933,0,0
+2021-01-23,Unincorporated - Marina del Rey,W,9410,279,3,2965,0,0
 2021-01-23,Unincorporated - Miracle Mile,MLA,0,0,0,0,0,0
-2021-01-23,Unincorporated - Monrovia,SGV,3881,313,0,8065,1,26
+2021-01-23,Unincorporated - Monrovia,SGV,3881,317,4,8168,1,26
 2021-01-23,Unincorporated - Newhall,SFV,220,59,0,26818,0,0
 2021-01-23,Unincorporated - North Lancaster,AV,1198,120,0,10017,1,83
-2021-01-23,Unincorporated - North Whittier,W,8360,973,0,11639,16,191
-2021-01-23,Unincorporated - Northeast San Gabriel,SGV,24037,1384,0,5758,28,116
+2021-01-23,Unincorporated - North Whittier,W,8360,986,13,11794,17,203
+2021-01-23,Unincorporated - Northeast San Gabriel,SGV,24037,1398,14,5816,28,116
 2021-01-23,Unincorporated - Padua Hills,SGV,215,7,0,3256,0,0
 2021-01-23,Unincorporated - Palmdale,AV,842,98,0,11639,1,119
 2021-01-23,Unincorporated - Palos Verdes Peninsula,SB,621,18,0,2899,0,0
-2021-01-23,Unincorporated - Pearblossom/Llano,AV,1956,103,0,5266,1,51
+2021-01-23,Unincorporated - Pearblossom/Llano,AV,1956,107,4,5470,1,51
 2021-01-23,Unincorporated - Pellissier Village,SGV,619,146,0,23586,1,162
 2021-01-23,Unincorporated - Placerita Canyon,SGV,0,0,0,0,0,0
 2021-01-23,Unincorporated - Pomona,SGV,1938,53,0,2735,1,52
-2021-01-23,Unincorporated - Quartz Hill,AV,12906,982,0,7609,17,132
-2021-01-23,Unincorporated - Rancho Dominguez,S,2661,321,0,12063,4,150
-2021-01-23,Unincorporated - Roosevelt,S,931,72,0,7734,0,0
+2021-01-23,Unincorporated - Quartz Hill,AV,12906,993,11,7694,17,132
+2021-01-23,Unincorporated - Rancho Dominguez,S,2661,324,3,12176,4,150
+2021-01-23,Unincorporated - Roosevelt,S,931,73,1,7841,0,0
 2021-01-23,Unincorporated - Rosewood,S,1286,133,0,10342,2,156
 2021-01-23,Unincorporated - Rosewood/East Gardena,S,1193,144,0,12070,4,335
-2021-01-23,Unincorporated - Rosewood/West Rancho Dominguez,S,3361,419,0,12467,6,179
-2021-01-23,Unincorporated - Rowland Heights,SGV,51020,3069,0,6015,34,67
+2021-01-23,Unincorporated - Rosewood/West Rancho Dominguez,S,3361,425,6,12645,6,179
+2021-01-23,Unincorporated - Rowland Heights,SGV,51020,3100,31,6076,35,69
 2021-01-23,Unincorporated - San Clemente Island,SB,0,0,0,0,0,0
 2021-01-23,Unincorporated - San Francisquito Canyon/Bouquet Canyon,SFV,858,13,0,1515,0,0
-2021-01-23,Unincorporated - San Jose Hills,SGV,20220,3123,0,15444,36,178
+2021-01-23,Unincorporated - San Jose Hills,SGV,20220,3138,15,15519,37,183
 2021-01-23,Unincorporated - San Pasqual,SGV,2035,27,0,1327,0,0
 2021-01-23,Unincorporated - Sand Canyon,AV,308,13,0,4221,0,0
-2021-01-23,Unincorporated - Santa Catalina Island,SB,267,127,0,47566,1,375
-2021-01-23,Unincorporated - Santa Monica Mountains,W,18625,432,0,2320,2,11
-2021-01-23,Unincorporated - Saugus,SFV,155,111,0,71613,0,0
+2021-01-23,Unincorporated - Santa Catalina Island,SB,267,132,5,49438,1,375
+2021-01-23,Unincorporated - Santa Monica Mountains,W,18625,436,4,2341,2,11
+2021-01-23,Unincorporated - Saugus,SFV,155,112,1,72258,0,0
 2021-01-23,Unincorporated - Saugus/Canyon Country,SFV,356,26,0,7303,0,0
 2021-01-23,Unincorporated - South Antelope Valley,AV,455,24,0,5275,0,0
-2021-01-23,Unincorporated - South El Monte,SGV,1795,300,0,16713,1,56
-2021-01-23,Unincorporated - South San Gabriel,SGV,8848,800,0,9042,33,373
-2021-01-23,Unincorporated - South Whittier,SGV,59220,7163,0,12095,101,171
-2021-01-23,Unincorporated - Southeast Antelope Valley,AV,781,68,0,8707,0,0
-2021-01-23,Unincorporated - Stevenson Ranch,SFV,20968,887,0,4231,4,19
-2021-01-23,Unincorporated - Sun Village,AV,6036,778,0,12889,5,83
+2021-01-23,Unincorporated - South El Monte,SGV,1795,303,3,16880,1,56
+2021-01-23,Unincorporated - South San Gabriel,SGV,8848,808,8,9132,33,373
+2021-01-23,Unincorporated - South Whittier,SGV,59220,7210,47,12175,101,171
+2021-01-23,Unincorporated - Southeast Antelope Valley,AV,781,69,1,8835,0,0
+2021-01-23,Unincorporated - Stevenson Ranch,SFV,20968,897,10,4278,4,19
+2021-01-23,Unincorporated - Sun Village,AV,6036,790,12,13088,5,83
 2021-01-23,Unincorporated - Sunrise Village,SGV,1296,166,0,12809,1,77
 2021-01-23,Unincorporated - Twin Lakes/Oat Mountain,SFV,1658,73,0,4403,2,121
-2021-01-23,Unincorporated - Val Verde,AV,3309,252,0,7616,1,30
-2021-01-23,Unincorporated - Valencia,SFV,3072,148,0,4818,0,0
-2021-01-23,Unincorporated - Valinda,SGV,23371,3226,0,13803,37,158
-2021-01-23,Unincorporated - View Park/Windsor Hills,S,11634,575,0,4942,10,86
-2021-01-23,Unincorporated - Walnut Park,S,16143,2660,0,16478,28,173
-2021-01-23,Unincorporated - West Antelope Valley,AV,1511,40,0,2647,0,0
-2021-01-23,Unincorporated - West Carson,SB,22086,1755,0,7946,81,367
+2021-01-23,Unincorporated - Val Verde,AV,3309,255,3,7706,1,30
+2021-01-23,Unincorporated - Valencia,SFV,3072,150,2,4883,0,0
+2021-01-23,Unincorporated - Valinda,SGV,23371,3250,24,13906,39,167
+2021-01-23,Unincorporated - View Park/Windsor Hills,S,11634,581,6,4994,10,86
+2021-01-23,Unincorporated - Walnut Park,S,16143,2685,25,16633,28,173
+2021-01-23,Unincorporated - West Antelope Valley,AV,1511,42,2,2780,0,0
+2021-01-23,Unincorporated - West Carson,SB,22086,1781,26,8064,82,371
 2021-01-23,Unincorporated - West Chatsworth,SFV,12,1,0,8333,0,0
-2021-01-23,Unincorporated - West LA,W,952,184,0,19328,9,945
-2021-01-23,Unincorporated - West Puente Valley,SGV,9835,1512,0,15374,18,183
-2021-01-23,Unincorporated - West Rancho Dominguez,S,1359,160,0,11773,5,368
-2021-01-23,Unincorporated - West Whittier/Los Nietos,E,26925,3738,0,13883,65,241
-2021-01-23,Unincorporated - Westfield/Academy Hills,TBD,1300,24,0,1846,0,0
-2021-01-23,Unincorporated - Westhills,SFV,839,39,0,4648,0,0
-2021-01-23,Unincorporated - White Fence Farms,AV,3683,216,0,5865,0,0
+2021-01-23,Unincorporated - West LA,W,952,185,1,19433,9,945
+2021-01-23,Unincorporated - West Puente Valley,SGV,9835,1519,7,15445,18,183
+2021-01-23,Unincorporated - West Rancho Dominguez,S,1359,162,2,11921,5,368
+2021-01-23,Unincorporated - West Whittier/Los Nietos,E,26925,3763,25,13976,66,245
+2021-01-23,Unincorporated - Westfield/Academy Hills,TBD,1300,25,1,1923,0,0
+2021-01-23,Unincorporated - Westhills,SFV,839,40,1,4768,0,0
+2021-01-23,Unincorporated - White Fence Farms,AV,3683,221,5,6001,0,0
 2021-01-23,Unincorporated - Whittier Narrows,E,12,8,0,66667,1,8333
-2021-01-23,Unincorporated - Whittier,SGV,3784,265,0,7003,7,185
-2021-01-23,Unincorporated - Willowbrook,S,34913,5254,0,15049,49,140
-2021-01-23,Unincorporated - Wiseburn,SB,6027,411,0,6819,7,116
-2021-01-23,age 0 to 4,,0,19584,0
-2021-01-23,age 12 to 17,,0,59272,0
-2021-01-23,age 18 to 29,,0,239147,0
-2021-01-23,age 30 to 49,,0,334486,0
-2021-01-23,age 5 to 11,,0,47585,0
-2021-01-23,age 50 to 64,,0,190953,0
-2021-01-23,age 65 to 79,,0,75157,0
-2021-01-23,age over 80,,0,27297,0
+2021-01-23,Unincorporated - Whittier,SGV,3784,268,3,7082,7,185
+2021-01-23,Unincorporated - Willowbrook,S,34913,5291,37,15155,50,143
+2021-01-23,Unincorporated - Wiseburn,SB,6027,416,5,6902,7,116
+2021-01-23,age 0 to 4,,0,19799,215
+2021-01-23,age 12 to 17,,0,59923,651
+2021-01-23,age 18 to 29,,0,241309,2162
+2021-01-23,age 30 to 49,,0,337564,3078
+2021-01-23,age 5 to 11,,0,48109,524
+2021-01-23,age 50 to 64,,0,192889,1936
+2021-01-23,age 65 to 79,,0,75978,821
+2021-01-23,age over 80,,0,27553,256
