@@ -13,6 +13,7 @@
 body{font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif; background-color:#fbfbfb;}
 
 .c3-tooltip  { font-size: 0.7em;}
+.c3-region.elem { fill:purple; }
 .c3-region.widespread { fill:purple; }
 .c3-region.substantial { fill:red; }
 .c3-region.moderate { fill:orange; }
@@ -104,8 +105,9 @@ td,th {
 		</small>
 		</div>
 		<div class='card-body'>
+			Tier 1a (Dark Purple): School Closed<br/>
 			Tier 1 (Purple): Widespread<br/>
-			Tier 2 (Red): Substantial<br/>
+v			Tier 2 (Red): Substantial<br/>
 			Tier 3 (Orange): Moderate<br/>
 			Tier 4 (Yellow): Minimal<br/>
 		</div>
@@ -312,7 +314,8 @@ var m0 = getms();
 	        	{axis: 'y', end: 1, class: 'minimal', opacity: 0.15},//, label: "Minimal"},
 	        	{axis: 'y', start: 1, end: 4, class: 'moderate', opacity: 0.15},//, label: "Moderate"},
 	        	{axis: 'y', start: 4, end: 7, class: 'substantial', opacity: 0.15},//, label: "Substantial"},
-	        	{axis: 'y', start: 7, class: 'widespread', opacity: 0.15}//, label: "Widespread"}
+	        	{axis: 'y', start: 7, end: 25, class: 'widespread', opacity: 0.15}, //, label: "Widespread"}
+	        	{axis: 'y', start: 25, class: 'elem', opacity: 0.25}//, label: "School open"}
 	        	]
 	    });
 	}
