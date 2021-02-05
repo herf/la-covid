@@ -125,10 +125,29 @@ v			Tier 2 (Red): Substantial<br/>
 
 <script>
 
+function fillgaps(ci) {
+	for (var i = 3; i < ci.length; i++) {
+		// fill in backlogs, up to one day:
+		if (ci[i - 1] <= ci[i - 2]) {
+			var midpt = 0.5 * (ci[i - 2] + ci[i]);
+			if (midpt) console.log("Updating zero at", i, ci[i-1], midpt);
+			ci[i - 1] = midpt;
+		}
+	}
+	console.log(ci);
+}
+
 function preprocess(ci, win) {
 
 	for (var i = 2; i < ci.length; i++) {
 		ci[i] += ci[i - 1];
+
+		// fill in backlogs, up to one day:
+		if (i > 2 && (ci[i - 1] <= ci[i - 2])) {
+			var midpt = 0.5 * (ci[i - 2] + ci[i]);
+			if (midpt) console.log("Updating zero at", i, ci[i-1], midpt);
+			ci[i - 1] = midpt;
+		}
 	}
 
 	return process(ci, win, true);
@@ -140,6 +159,9 @@ function process(ci, win, noround) {
 	if (!win) win = 1;
 	var na = [];
 	na.push(ci[0]);
+
+	// fill in single-day missing data by pushing back
+	fillgaps(ci);
 
 	// first item is label
 	for (var i = 1; i < ci.length; i++) {
@@ -592,7 +614,6 @@ function displayResult(feed, filt) {
 		for (var i = 1; i < data.columns.length; i++) {
 			var ci = data.columns[i];
 
-			// todo smooth
 			preprocess(ci, 7);
 
 			//console.log(ci);
