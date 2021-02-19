@@ -443,7 +443,14 @@ Wed Jul 08 2020 09:00:01 GMT-0700 (PDT),"UPS - Cerritos","13233 Moore St, Cerrit
 Wed Jul 08 2020 09:00:01 GMT-0700 (PDT),"UPS - Main St","1800 N Main St, Los Angeles, CA, 90031",9,0
 Wed Jul 08 2020 09:00:01 GMT-0700 (PDT),"UPS - San Fernando","12745 Arroyo St, Sylmar, CA, 91342",7,0
 Thu Jul 09 2020 09:00:01 GMT-0700 (PDT),"Satsuma Landscape","214 N 1st St, La Puente, CA, 91744",3,0
+Thu Jul 09 2020 09:00:01 GMT-0700 (PDT),"B & R Commerce","4261 S Alameda St, Vernon, CA, 90058",5,25
+Thu Jul 09 2020 09:00:01 GMT-0700 (PDT),"SoFi Stadium","1000 S Prairie Ave, Inglewood, CA, 90301",37,0
+Thu Jul 09 2020 09:00:01 GMT-0700 (PDT),"Spyder Auto","19315 E Walnut Dr N, City Of Industry, CA, 91748",8,8
+Thu Jul 09 2020 09:00:01 GMT-0700 (PDT),"Stars Center","11515 Colima Rd, Whittier, CA, 90604",63,9
+Thu Jul 09 2020 09:00:01 GMT-0700 (PDT),"Turbo Wholesale Tires","5793 Martin Rd, Irwindale, CA, 91706",42,6
+Thu Jul 09 2020 09:00:01 GMT-0700 (PDT),"UPS - Bell","4700 Eastern Ave, Bell Gardens, CA, 90201",4,0
 Thu Jul 09 2020 09:00:01 GMT-0700 (PDT),"Urban Plates","12746 W Jefferson Blvd, Playa Vista, CA, 90094",8,0
+Thu Jul 09 2020 09:00:01 GMT-0700 (PDT),"Santa Anita Race Track","285 W Huntington Dr, Arcadia, CA, 91007",17,10
 Thu Jul 09 2020 09:00:01 GMT-0700 (PDT),"Pankow Construction","898 S Prairie Ave, Inglewood, CA, 90301",6,2
 Thu Jul 09 2020 09:00:01 GMT-0700 (PDT),"Pacific Spice Company","6430 E Slauson Ave, Commerce, CA, 90040",7,3
 Thu Jul 09 2020 09:00:01 GMT-0700 (PDT),"Novipax","1941 N White Ave, La Verne, CA, 91750",24,0
@@ -461,14 +468,7 @@ Thu Jul 09 2020 09:00:01 GMT-0700 (PDT),"East Los Angeles Sherriff's Station *",
 Thu Jul 09 2020 09:00:01 GMT-0700 (PDT),"Day-Lee Foods, Inc.","13055 Molette St, Santa Fe Springs, CA, 90670",7,0
 Thu Jul 09 2020 09:00:01 GMT-0700 (PDT),"Dacor","14425 Clark Ave, City Of Industry, CA, 91745",4,2
 Thu Jul 09 2020 09:00:01 GMT-0700 (PDT),"BYD Coach & Bus","46147 BYD Blvd, Lancaster, CA, 93534",7,0
-Thu Jul 09 2020 09:00:01 GMT-0700 (PDT),"B & R Commerce","4261 S Alameda St, Vernon, CA, 90058",5,25
-Thu Jul 09 2020 09:00:01 GMT-0700 (PDT),"Santa Anita Race Track","285 W Huntington Dr, Arcadia, CA, 91007",17,10
-Thu Jul 09 2020 09:00:01 GMT-0700 (PDT),"Spyder Auto","19315 E Walnut Dr N, City Of Industry, CA, 91748",8,8
 Thu Jul 09 2020 09:00:01 GMT-0700 (PDT),"Saputo Cheese USA, Inc.","5611 Imperial Hwy, South Gate, CA, 90280",99,0
-Thu Jul 09 2020 09:00:01 GMT-0700 (PDT),"Stars Center","11515 Colima Rd, Whittier, CA, 90604",63,9
-Thu Jul 09 2020 09:00:01 GMT-0700 (PDT),"Turbo Wholesale Tires","5793 Martin Rd, Irwindale, CA, 91706",42,6
-Thu Jul 09 2020 09:00:01 GMT-0700 (PDT),"UPS - Bell","4700 Eastern Ave, Bell Gardens, CA, 90201",4,0
-Thu Jul 09 2020 09:00:01 GMT-0700 (PDT),"SoFi Stadium","1000 S Prairie Ave, Inglewood, CA, 90301",37,0
 Thu Jul 09 2020 09:00:01 GMT-0700 (PDT),"Sprouts","4253 Woodruff Ave, Lakewood, CA, 90713",3,0
 Fri Jul 10 2020 09:00:01 GMT-0700 (PDT),"LA City Division of Building and Safety","221 N Figueroa St, 1100, Los Angeles, CA, 90012",8,4
 Fri Jul 10 2020 09:00:01 GMT-0700 (PDT),"Allfast Fastening Systems","15200 Don Julian Rd, City Of Industry, CA, 91745",4,0
@@ -3630,9 +3630,8 @@ Fri Nov 20 2020 05:00:01 GMT-0800 (PST),"Jack in The Box","1799 E Avenue J, Lanc
 Fri Nov 20 2020 05:00:01 GMT-0800 (PST),"LA City Parks - The Kleimer Building","3900 Chevy Chase Dr, Los Angeles, CA, 90039",6,0
 Fri Nov 20 2020 05:00:01 GMT-0800 (PST),"LAPD Central Community Police Station","251 E 6th St, Los Angeles, CA, 90014",5,0
 Fri Nov 20 2020 05:00:01 GMT-0800 (PST),"LAPD Southwest Community Police Station","1546 W Martin Luther King Jr Blvd, Los Angeles, CA, 90062",7,0
-Sat Nov 21 2020 05:00:01 GMT-0800 (PST),"FedEx Ground Arcadia","12369 Lower Azusa Rd, Arcadia, CA, 91006",5,0
+Sat Nov 21 2020 05:00:01 GMT-0800 (PST),"Power Property Management","8885 Venice Blvd, Suite 205, Los Angeles, CA, 90034",6,0
 Sat Nov 21 2020 05:00:01 GMT-0800 (PST),"Command Packing","3840 E 26th St, Vernon, CA, 90058",8,0
-Sat Nov 21 2020 05:00:01 GMT-0800 (PST),"FN Logistics, Inc.","12588 Lakeland Rd, Santa Fe Springs, CA, 90670",17,0
 Sat Nov 21 2020 05:00:01 GMT-0800 (PST),"Howmet Aerospace #2","3000 Lomita Blvd, Torrance, CA, 90505",8,0
 Sat Nov 21 2020 05:00:01 GMT-0800 (PST),"Integrated Food Service","310 W Alondra Blvd, Gardena, CA, 90248",13,0
 Sat Nov 21 2020 05:00:01 GMT-0800 (PST),"Jiffy Lube","9901 State St, Lynwood, CA, 90262",3,0
@@ -3644,7 +3643,7 @@ Sat Nov 21 2020 05:00:01 GMT-0800 (PST),"Moss & Company Property Management - Ze
 Sat Nov 21 2020 05:00:01 GMT-0800 (PST),"Motor Car Parts of America","2929 California St, Torrance, CA, 90503",26,0
 Sat Nov 21 2020 05:00:01 GMT-0800 (PST),"Northrop Grumman (Carpentry Department)","1 Space Park Blvd, Redondo Beach, CA, 90278",4,0
 Sat Nov 21 2020 05:00:01 GMT-0800 (PST),"Northrop Grumman - Palmdale","3520 E Avenue M, Palmdale, CA, 93550",110,0
-Sat Nov 21 2020 05:00:01 GMT-0800 (PST),"Power Property Management","8885 Venice Blvd, Suite 205, Los Angeles, CA, 90034",6,0
+Sat Nov 21 2020 05:00:01 GMT-0800 (PST),"FedEx Ground Arcadia","12369 Lower Azusa Rd, Arcadia, CA, 91006",5,0
 Sat Nov 21 2020 05:00:01 GMT-0800 (PST),"See’s Candy, Inc. (Manufacturing)","3423 S La Cienega Blvd, Los Angeles, CA, 90016",10,0
 Sat Nov 21 2020 05:00:01 GMT-0800 (PST),"Snyder Langston - SP7 Apartments","519 E 7th St, Los Angeles, CA, 90014",21,0
 Sat Nov 21 2020 05:00:01 GMT-0800 (PST),"Soderberg Manufacturing","20821 Currier Rd, Walnut, CA, 91789",6,0
@@ -3655,9 +3654,10 @@ Sat Nov 21 2020 05:00:01 GMT-0800 (PST),"Bright Elementary School, LAUSD","1771 
 Sat Nov 21 2020 05:00:01 GMT-0800 (PST),"Green Meadows Recreation Cente","431 E 89th St, Los Angeles, CA, 90003",4,2
 Sat Nov 21 2020 05:00:01 GMT-0800 (PST),"Hill Point Montessori Preparatory School","6601 Valley Circle Blvd, West Hills, CA, 91307",2,3
 Sat Nov 21 2020 05:00:01 GMT-0800 (PST),"Lancaster SD Information Technology Services","44711 Cedar Ave, Lancaster, CA, 93534",3,0
+Sat Nov 21 2020 05:00:01 GMT-0800 (PST),"FN Logistics, Inc.","12588 Lakeland Rd, Santa Fe Springs, CA, 90670",17,0
 Sat Nov 21 2020 05:00:01 GMT-0800 (PST),"Day-Lee Foods, Inc.","13055 Molette St, Santa Fe Springs, CA, 90670",12,0
 Sun Nov 22 2020 04:00:02 GMT-0800 (PST),"Armorcast Products Company","9140 Lurline Ave, Chatsworth, CA, 91311",8,0
-Sun Nov 22 2020 04:00:02 GMT-0800 (PST),"Signal Products, Inc.","4270 S Maywood Ave, Vernon, CA, 90058",3,0
+Sun Nov 22 2020 04:00:02 GMT-0800 (PST),"Bay Center Foods, Sanitation Crew","29125 Avenue Valleyview, Valencia, CA, 91355",14,0
 Sun Nov 22 2020 04:00:02 GMT-0800 (PST),"Concorde Battery Corp","2009 W San Bernardino Rd, West Covina, CA, 91790",22,0
 Sun Nov 22 2020 04:00:02 GMT-0800 (PST),"Fashion NOVA Logistics, Inc.","12588 Lakeland Rd, Santa Fe Springs, CA, 90670",17,0
 Sun Nov 22 2020 04:00:02 GMT-0800 (PST),"LA Airforce Base","482 N Aviation Blvd, El Segundo, CA, 90245",3,0
@@ -3666,14 +3666,14 @@ Sun Nov 22 2020 04:00:02 GMT-0800 (PST),"PRC Restoration, Inc.","23839 Banning B
 Sun Nov 22 2020 04:00:02 GMT-0800 (PST),"Rancho Foods, Inc.","2528 E 37th St, Vernon, CA, 90058",12,0
 Sun Nov 22 2020 04:00:02 GMT-0800 (PST),"Red Rock Secured","898 N Pacific Coast Hwy, Suite 440, El Segundo, CA, 90245",6,0
 Sun Nov 22 2020 04:00:02 GMT-0800 (PST),"Ritz Flooring, Inc.","14909 Calvert St, Van Nuys, CA, 91411",3,0
-Sun Nov 22 2020 04:00:02 GMT-0800 (PST),"Alta Dena Dairy","17637 E Valley Blvd, City of Industry, CA, 91744",18,0
+Sun Nov 22 2020 04:00:02 GMT-0800 (PST),"Signal Products, Inc.","4270 S Maywood Ave, Vernon, CA, 90058",3,0
 Sun Nov 22 2020 04:00:02 GMT-0800 (PST),"Subway","4954 Van Nuys Blvd, 107, Sherman Oaks, CA, 91403",3,0
 Sun Nov 22 2020 04:00:02 GMT-0800 (PST),"Sutter Street Manufacturing","21700 Baker Pkwy, City of Industry, CA, 91789",130,0
 Sun Nov 22 2020 04:00:02 GMT-0800 (PST),"Victory Outreach Church","4160 Eagle Rock Blvd, Los Angeles, CA, 90065",4,0
 Sun Nov 22 2020 04:00:02 GMT-0800 (PST),"West Adams Radiator","4928 W Adams Blvd, Los Angeles, CA, 90016",6,0
 Sun Nov 22 2020 04:00:02 GMT-0800 (PST),"Eastside High School","3200 W Avenue J 8, Lancaster, CA, 93535",5,0
 Sun Nov 22 2020 04:00:02 GMT-0800 (PST),"Off Campus Neighborhood, UCLA","Los Angeles, CA",0,52
-Sun Nov 22 2020 04:00:02 GMT-0800 (PST),"Bay Center Foods, Sanitation Crew","29125 Avenue Valleyview, Valencia, CA, 91355",14,0
+Sun Nov 22 2020 04:00:02 GMT-0800 (PST),"Alta Dena Dairy","17637 E Valley Blvd, City of Industry, CA, 91744",18,0
 Mon Nov 23 2020 06:00:01 GMT-0800 (PST),"Rti Services","2836 Vail Ave, Commerce, CA, 90040",7,0
 Mon Nov 23 2020 06:00:01 GMT-0800 (PST),"City of South Gate Police Department","8620 California Ave, South Gate, CA, 90280",5,0
 Mon Nov 23 2020 06:00:01 GMT-0800 (PST),"Time Tec Watch Service Center","635 S Hill St, #209, Los Angeles, CA, 90014",5,0
@@ -3745,8 +3745,9 @@ Wed Nov 25 2020 05:00:01 GMT-0800 (PST),"Montessori School of Hacienda Heights",
 Wed Nov 25 2020 05:00:01 GMT-0800 (PST),"Off Campus Neighborhood, UCLA Gayley Ave","Los Angeles, CA",0,52
 Wed Nov 25 2020 05:00:01 GMT-0800 (PST),"Off Campus Neighborhood, USC S. Figueroa St","Los Angeles, CA",2,23
 Wed Nov 25 2020 05:00:01 GMT-0800 (PST),"The Master’s University and Seminary","21726 Placerita Canyon Rd, Santa Clarita, CA, 91321",6,10
-Thu Nov 26 2020 02:00:01 GMT-0800 (PST),"Integrated Food Service","310 W Alondra Blvd, Gardena, CA, 90248",14,0
+Thu Nov 26 2020 02:00:01 GMT-0800 (PST),"West Hollywood Children's Academy","1030 N Vista St, West Hollywood, CA, 90046",1,2
 Thu Nov 26 2020 02:00:01 GMT-0800 (PST),"Accurate Manufacturing Company","6641 San Fernando Rd, Glendale, CA, 91201",5,0
+Thu Nov 26 2020 02:00:01 GMT-0800 (PST),"Alta Dena Dairy","17637 E Valley Blvd, City of Industry, CA, 91744",20,0
 Thu Nov 26 2020 02:00:01 GMT-0800 (PST),"Arcadia, Inc. Steel Windows Department","2301 E Vernon Ave, Vernon, CA, 90058",5,0
 Thu Nov 26 2020 02:00:01 GMT-0800 (PST),"Big 5","2401 E El Segundo Blvd, El Segundo, CA, 90245",4,0
 Thu Nov 26 2020 02:00:01 GMT-0800 (PST),"Brentwood Originals","20639 S Fordyce Ave, Carson, CA, 90810",4,0
@@ -3767,7 +3768,7 @@ Thu Nov 26 2020 02:00:01 GMT-0800 (PST),"Hollander Sleep Products","8500 Rex Rd,
 Thu Nov 26 2020 02:00:01 GMT-0800 (PST),"Hollywood Family Source Center (Volunteers of America of Los Angeles)","1075 N Western Ave, Suite 110, Los Angeles, CA, 90029",4,0
 Thu Nov 26 2020 02:00:01 GMT-0800 (PST),"Housing Authority of Los Angeles (HACLA) - Nickerson Gardens","1590 E 114th St, Los Angeles, CA, 90059",5,0
 Thu Nov 26 2020 02:00:01 GMT-0800 (PST),"IOG Products","9737 Lurline Ave, Chatsworth, CA, 91311",3,0
-Thu Nov 26 2020 02:00:01 GMT-0800 (PST),"Alta Dena Dairy","17637 E Valley Blvd, City of Industry, CA, 91744",20,0
+Thu Nov 26 2020 02:00:01 GMT-0800 (PST),"Integrated Food Service","310 W Alondra Blvd, Gardena, CA, 90248",14,0
 Thu Nov 26 2020 02:00:01 GMT-0800 (PST),"International Paper Co. - Santa Fe Springs #1","9211 Norwalk Blvd, Santa Fe Springs, CA, 90670",10,0
 Thu Nov 26 2020 02:00:01 GMT-0800 (PST),"International Paper Co. - Santa Fe Springs #2","11211 Greenstone Ave, Santa Fe Springs, CA, 90670",3,0
 Thu Nov 26 2020 02:00:01 GMT-0800 (PST),"LA County DCFS - Glendora","725 S Grand Ave, Glendora, CA, 91740",9,0
@@ -3789,8 +3790,7 @@ Thu Nov 26 2020 02:00:01 GMT-0800 (PST),"Wenzlau Engineering","2950 E Harcourt S
 Thu Nov 26 2020 02:00:01 GMT-0800 (PST),"Wilshire La Jolla Apartments-Gilbane Building Construction","6401 Wilshire Blvd, Los Angeles, CA, 90048",13,0
 Thu Nov 26 2020 02:00:01 GMT-0800 (PST),"Child’s World School","6100 Lindley Ave, Encino, CA, 91316",3,4
 Thu Nov 26 2020 02:00:01 GMT-0800 (PST),"UCLA Athletics","325 Westwood Plz, Los Angeles, CA, 90095",0,3
-Thu Nov 26 2020 02:00:01 GMT-0800 (PST),"West Hollywood Children's Academy","1030 N Vista St, West Hollywood, CA, 90046",1,2
-Fri Nov 27 2020 04:00:01 GMT-0800 (PST),"Senior Aerospace SSP","2980 N San Fernando Blvd, Burbank, CA, 91504",28,0
+Fri Nov 27 2020 04:00:01 GMT-0800 (PST),"Law Office of Todd L Melnik","20920 Warner Center Ln, Woodland Hills, CA, 91367",3,0
 Fri Nov 27 2020 04:00:01 GMT-0800 (PST),"Southwest Airlines, Hollywood Burbank Airport","2627 N Hollywood Way, Burbank, CA, 91505",9,0
 Fri Nov 27 2020 04:00:01 GMT-0800 (PST),"The Orsini/DHP Property Management Corp","550 N Figueroa St, Los Angeles, CA, 90012",3,0
 Fri Nov 27 2020 04:00:01 GMT-0800 (PST),"Truman House Tavern","911 San Fernando Rd, San Fernando, CA, 91340",7,0
@@ -3804,6 +3804,7 @@ Fri Nov 27 2020 04:00:01 GMT-0800 (PST),"Morley Construction Company-Conrac","55
 Fri Nov 27 2020 04:00:01 GMT-0800 (PST),"Northeast Valley Health Center - Call Center","531 5th St, Suite A, San Fernando, CA, 91340",5,0
 Fri Nov 27 2020 04:00:01 GMT-0800 (PST),"RH Peterson Co.","14724 Proctor Ave, City of Industry, CA, 91746",49,0
 Fri Nov 27 2020 04:00:01 GMT-0800 (PST),"RTI Services","2836 Vail Ave, Commerce, CA, 90040",7,0
+Fri Nov 27 2020 04:00:01 GMT-0800 (PST),"Senior Aerospace SSP","2980 N San Fernando Blvd, Burbank, CA, 91504",28,0
 Fri Nov 27 2020 04:00:01 GMT-0800 (PST),"California Bear Credit Union","300 S Spring St, #1215, Los Angeles, CA, 90013",3,0
 Fri Nov 27 2020 04:00:01 GMT-0800 (PST),"Good American","3125 S La Cienega Blvd, Los Angeles, CA, 90016",4,0
 Fri Nov 27 2020 04:00:01 GMT-0800 (PST),"Home Depot Panorama City","7870 Van Nuys Blvd, Panorama City, CA, 91402",4,0
@@ -3812,7 +3813,6 @@ Fri Nov 27 2020 04:00:01 GMT-0800 (PST),"LA County Department of Medical Examine
 Fri Nov 27 2020 04:00:01 GMT-0800 (PST),"LAPD Central Community Police Station","251 E 6th St, Los Angeles, CA, 90014",14,0
 Fri Nov 27 2020 04:00:01 GMT-0800 (PST),"LAPD Pacific Community Police Station","12312 Culver Blvd, Los Angeles, CA, 90066",3,0
 Fri Nov 27 2020 04:00:01 GMT-0800 (PST),"LAX Terminal 5 - Total Airport Services (TAS)","500 World Way, Los Angeles, CA, 90045",3,0
-Fri Nov 27 2020 04:00:01 GMT-0800 (PST),"Law Office of Todd L Melnik","20920 Warner Center Ln, Woodland Hills, CA, 91367",3,0
 Fri Nov 27 2020 04:00:01 GMT-0800 (PST),"Metropolitan Courthouse","1945 S Hill St, Los Angeles, CA, 90007",3,0
 Sat Nov 28 2020 03:00:01 GMT-0800 (PST),"Chevrolet, George","17000 Lakewood Blvd, Bellflower, CA, 90706",6,0
 Sat Nov 28 2020 03:00:01 GMT-0800 (PST),"Corn Maiden Foods","24201 Frampton Ave, Harbor City, CA, 90710",11,0
@@ -3982,7 +3982,6 @@ Thu Dec 03 2020 04:00:01 GMT-0800 (PST),"Concorde Battery Corp.","2009 W San Ber
 Thu Dec 03 2020 04:00:01 GMT-0800 (PST),"Compu-Aire","8167 Byron Rd, Whittier, CA, 90606",9,0
 Thu Dec 03 2020 04:00:01 GMT-0800 (PST),"Coaster of America","20300 Business Pkwy, City of Industry, CA, 91789",3,0
 Thu Dec 03 2020 04:00:01 GMT-0800 (PST),"Citibank","13003 Victory Blvd, North Hollywood, CA, 91606",6,0
-Thu Dec 03 2020 04:00:01 GMT-0800 (PST),"LAPD Topanga Community Police Station","21501 Schoenborn St, Canoga Park, CA, 91304",4,0
 Thu Dec 03 2020 04:00:01 GMT-0800 (PST),"California Bear Credit Union","300 S Spring St, #1215, Los Angeles, CA, 90013",4,0
 Thu Dec 03 2020 04:00:01 GMT-0800 (PST),"Brentwood Originals","20639 S Fordyce Ave, Carson, CA, 90810",8,0
 Thu Dec 03 2020 04:00:01 GMT-0800 (PST),"Best Interiors (Subcontractor)","2900 Wilshire Blvd, Los Angeles, CA, 90010",9,0
@@ -3997,6 +3996,7 @@ Thu Dec 03 2020 04:00:01 GMT-0800 (PST),"Mission Foods Corp.","5505 E Olympic Bl
 Thu Dec 03 2020 04:00:01 GMT-0800 (PST),"Morley Construction Company","5500 W 98th St, Los Angeles, CA, 90045",10,0
 Thu Dec 03 2020 04:00:01 GMT-0800 (PST),"Moss, Levy and Hartzheim","5800 Hannum Ave, Ste E, Culver City, CA, 90230",4,0
 Thu Dec 03 2020 04:00:01 GMT-0800 (PST),"National Rent A Car (Enterprise)","9020 Aviation Blvd, Inglewood, CA, 90301",7,0
+Thu Dec 03 2020 04:00:01 GMT-0800 (PST),"LAPD Topanga Community Police Station","21501 Schoenborn St, Canoga Park, CA, 91304",4,0
 Thu Dec 03 2020 04:00:01 GMT-0800 (PST),"Northrop Grumman - Palmdale","3520 E Avenue M, Palmdale, CA, 93550",134,0
 Thu Dec 03 2020 04:00:01 GMT-0800 (PST),"Promotional Design Concepts","9872 Rush St, South El Monte, CA, 91733",14,0
 Thu Dec 03 2020 04:00:01 GMT-0800 (PST),"Rancho Foods, Inc.","2528 E 37th St, Vernon, CA, 90058",23,0
@@ -5468,7 +5468,6 @@ Sun Jan 03 2021 02:00:01 GMT-0800 (PST),"Cintas Corporation","20100 S Susana Rd,
 Sun Jan 03 2021 02:00:01 GMT-0800 (PST),"Costco Business Center Warehouse, Burbank #653","11428 Sherman Way, North Hollywood, CA, 91605",16,0
 Sun Jan 03 2021 02:00:01 GMT-0800 (PST),"FedEx Ground Sun Valley","9210 San Fernando Rd, Sun Valley, CA, 91352",28,0
 Sun Jan 03 2021 02:00:01 GMT-0800 (PST),"Fenix Marine Services","614 Terminal Way, San Pedro, CA, 90731",10,0
-Sun Jan 03 2021 02:00:01 GMT-0800 (PST),"Foster Farms Compton","1805 N Santa Fe Ave, Compton, CA, 90221",21,0
 Sun Jan 03 2021 02:00:01 GMT-0800 (PST),"Griley Airfreight","5341 W 104th St, Los Angeles, CA, 90045",11,0
 Sun Jan 03 2021 02:00:01 GMT-0800 (PST),"Hannibal Industries","3851 S Santa Fe Ave, Vernon, CA, 90058",31,0
 Sun Jan 03 2021 02:00:01 GMT-0800 (PST),"Honda, Downtown LA","780 W Martin Luther King Jr Blvd, Los Angeles, CA, 90037",11,0
@@ -5477,11 +5476,12 @@ Sun Jan 03 2021 02:00:01 GMT-0800 (PST),"JCPenney, Northridge Fashion Center","9
 Sun Jan 03 2021 02:00:01 GMT-0800 (PST),"LA County DCFS - Metro North","1933 S Broadway, Los Angeles, CA, 90007",62,0
 Sun Jan 03 2021 02:00:01 GMT-0800 (PST),"LA County Sheriff's Department - East Los Angeles Station","5019 E 3rd St, Los Angeles, CA, 90022",24,0
 Sun Jan 03 2021 02:00:01 GMT-0800 (PST),"LAFD Fire Station 25","2927 Whittier Blvd, Los Angeles, CA, 90023",9,0
-Sun Jan 03 2021 02:00:01 GMT-0800 (PST),"Pals Eindelijk El Monte (Pals Inc)","11645 Mcbean Dr, El Monte, CA, 91732",4,0
-Sun Jan 03 2021 02:00:01 GMT-0800 (PST),"McDonald's #14283","4480 E Olympic Blvd, Los Angeles, CA, 90023",17,0
+Sun Jan 03 2021 02:00:01 GMT-0800 (PST),"Lockheed Martin Palmdale","1011 Lockheed Way, Palmdale, CA, 93599",14,0
+Sun Jan 03 2021 02:00:01 GMT-0800 (PST),"Foster Farms Compton","1805 N Santa Fe Ave, Compton, CA, 90221",21,0
 Sun Jan 03 2021 02:00:01 GMT-0800 (PST),"Morley Construction Company","5500 W 98th St, Los Angeles, CA, 90045",37,0
 Sun Jan 03 2021 02:00:01 GMT-0800 (PST),"New Century Plaza - South Tower","2025 Avenue of The Stars, Los Angeles, CA, 90067",13,0
 Sun Jan 03 2021 02:00:01 GMT-0800 (PST),"Pactiv","12500 Slauson Ave, Santa Fe Springs, CA, 90670",18,0
+Sun Jan 03 2021 02:00:01 GMT-0800 (PST),"Pals Eindelijk El Monte (Pals Inc)","11645 Mcbean Dr, El Monte, CA, 91732",4,0
 Sun Jan 03 2021 02:00:01 GMT-0800 (PST),"Rancho Foods, Inc.","2528 E 37th St, Vernon, CA, 90058",38,0
 Sun Jan 03 2021 02:00:01 GMT-0800 (PST),"Smurfit Kappa North America","440 Baldwin Park Blvd, City of Industry, CA, 91746",22,0
 Sun Jan 03 2021 02:00:01 GMT-0800 (PST),"Southland Box Company","4201 Fruitland Ave, Vernon, CA, 90058",12,0
@@ -5492,7 +5492,7 @@ Sun Jan 03 2021 02:00:01 GMT-0800 (PST),"TFC Manufacturing, Inc.","4001 Watson P
 Sun Jan 03 2021 02:00:01 GMT-0800 (PST),"The Habit Burger Grill - Chatsworth","9243 Winnetka Ave, Chatsworth, CA, 91311",5,0
 Sun Jan 03 2021 02:00:01 GMT-0800 (PST),"Toyota, Longo","3534 Peck Rd, El Monte, CA, 91731",64,0
 Sun Jan 03 2021 02:00:01 GMT-0800 (PST),"Vons West Hollywood","8969 Santa Monica Blvd, West Hollywood, CA, 90069",15,0
-Sun Jan 03 2021 02:00:01 GMT-0800 (PST),"Lockheed Martin Palmdale","1011 Lockheed Way, Palmdale, CA, 93599",14,0
+Sun Jan 03 2021 02:00:01 GMT-0800 (PST),"McDonald's #14283","4480 E Olympic Blvd, Los Angeles, CA, 90023",17,0
 Mon Jan 04 2021 04:00:01 GMT-0800 (PST),"Andrew Lauren Surfaces (2)","13220 Cambridge St, Santa Fe Springs, CA, 90670",24,0
 Mon Jan 04 2021 04:00:01 GMT-0800 (PST),"Costco Warehouse, Monterey Park #1318","2000 Market Place Dr, Monterey Park, CA, 91755",35,0
 Mon Jan 04 2021 04:00:01 GMT-0800 (PST),"FedEx Ground Sun Valley","9210 San Fernando Rd, Sun Valley, CA, 91352",35,0
@@ -6471,19 +6471,19 @@ Fri Jan 22 2021 03:00:01 GMT-0800 (PST),"Whole Foods Market, West Hollywood","78
 Fri Jan 22 2021 03:00:01 GMT-0800 (PST),"Campus Residential 4, UCLA","351 Charles E Young Dr W, Los Angeles, CA, 90024",0,14
 Fri Jan 22 2021 03:00:01 GMT-0800 (PST),"Holy Martyrs Armenian Preschool","16617 Parthenia St, North Hills, CA, 91343",8,6
 Fri Jan 22 2021 03:00:01 GMT-0800 (PST),"USC Facilities Management Services 2","1441 Eastlake Ave, Los Angeles, CA, 90089",4,0
-Fri Jan 22 2021 03:00:01 GMT-0800 (PST),"Golden Bolt LLC","9371 Canoga Ave, Chatsworth, CA, 91311",12,0
+Fri Jan 22 2021 03:00:01 GMT-0800 (PST),"Fashion Nova Logistics, Inc.","12588 Lakeland Rd, Santa Fe Springs, CA, 90670",264,0
 Fri Jan 22 2021 03:00:01 GMT-0800 (PST),"Chevrolet of Cerritos, Penske","18605 Studebaker Rd, Cerritos, CA, 90703",24,0
 Fri Jan 22 2021 03:00:01 GMT-0800 (PST),"Classic Distributing & Beverage Group","120 Puente Ave, City of Industry, CA, 91746",42,0
 Fri Jan 22 2021 03:00:01 GMT-0800 (PST),"Contessa Premium Food","5970 Alcoa Ave, Vernon, CA, 90058",66,0
 Fri Jan 22 2021 03:00:01 GMT-0800 (PST),"Costco Business Center Warehouse, Burbank #653","11428 Sherman Way, North Hollywood, CA, 91605",31,0
 Fri Jan 22 2021 03:00:01 GMT-0800 (PST),"Dodge of Cerritos","18803 Studebaker Rd, Cerritos, CA, 90703",23,0
-Fri Jan 22 2021 03:00:01 GMT-0800 (PST),"Fashion Nova Logistics, Inc.","12588 Lakeland Rd, Santa Fe Springs, CA, 90670",264,0
+Fri Jan 22 2021 03:00:01 GMT-0800 (PST),"Camino Real Kitchens","2638 E Vernon Ave, Vernon, CA, 90058",37,0
 Fri Jan 22 2021 03:00:01 GMT-0800 (PST),"FedEx Ground Carson","1725 Charles Willard St, Carson, CA, 90746",66,0
 Fri Jan 22 2021 03:00:01 GMT-0800 (PST),"FedEx Ground City of Industry","200 Old Ranch Rd, City of Industry, CA, 91789",107,0
 Fri Jan 22 2021 03:00:01 GMT-0800 (PST),"Ford, Performance","2000 E Garvey Ave S, West Covina, CA, 91791",13,0
 Fri Jan 22 2021 03:00:01 GMT-0800 (PST),"Frito-Lay (Distribution Warehouse)","14600 Proctor Ave, City of Industry, CA, 91746",13,0
 Fri Jan 22 2021 03:00:01 GMT-0800 (PST),"Gelson's Market - Silver Lake","2725 Hyperion Ave, Los Angeles, CA, 90027",14,0
-Fri Jan 22 2021 03:00:01 GMT-0800 (PST),"Camino Real Kitchens","2638 E Vernon Ave, Vernon, CA, 90058",37,0
+Fri Jan 22 2021 03:00:01 GMT-0800 (PST),"Golden Bolt LLC","9371 Canoga Ave, Chatsworth, CA, 91311",12,0
 Fri Jan 22 2021 03:00:01 GMT-0800 (PST),"Great Western Packaging, LLC","8230 Haskell Ave, Van Nuys, CA, 91406",11,0
 Fri Jan 22 2021 03:00:01 GMT-0800 (PST),"Aero Chrome Plating","14660 Arminta St, Panorama City, CA, 91402",8,0
 Fri Jan 22 2021 03:00:01 GMT-0800 (PST),"Amazon DLA8","2815 W El Segundo Blvd, Hawthorne, CA, 90250",106,0
@@ -6675,21 +6675,20 @@ Wed Jan 27 2021 06:00:02 GMT-0800 (PST),"Image First Health Care Laundry Special
 Wed Jan 27 2021 06:00:02 GMT-0800 (PST),"IKEA Burbank","600 Ikea Way, Burbank, CA, 91502",52,0
 Wed Jan 27 2021 06:00:02 GMT-0800 (PST),"Home Depot - Panorama City #6644","7870 Van Nuys Blvd, Panorama City, CA, 91402",49,0
 Wed Jan 27 2021 06:00:02 GMT-0800 (PST),"Home Depot - North Hollywood #6613","11600 Sherman Way, North Hollywood, CA, 91605",58,0
-Wed Jan 27 2021 06:00:02 GMT-0800 (PST),"Nordstrom, Topanga Plaza","21725 Victory Blvd, Canoga Park, CA, 91303",15,0
 Wed Jan 27 2021 06:00:02 GMT-0800 (PST),"Home Depot - Downey #6627","7121 Firestone Blvd, Downey, CA, 90241",30,0
 Wed Jan 27 2021 06:00:02 GMT-0800 (PST),"Home Depot - Cypress Park #6689","2055 N Figueroa St, Los Angeles, CA, 90065",50,0
 Wed Jan 27 2021 06:00:02 GMT-0800 (PST),"FedEx Ship Center","11340 Sherman Way, Sun Valley, CA, 91352",19,0
-Wed Jan 27 2021 06:00:02 GMT-0800 (PST),"Nature's Produce","3305 Bandini Blvd, Vernon, CA, 90058",28,0
 Wed Jan 27 2021 06:00:02 GMT-0800 (PST),"FedEx Ground Pacoima","12500 Branford St, Pacoima, CA, 91331",181,0
+Wed Jan 27 2021 06:00:02 GMT-0800 (PST),"Nature's Produce","3305 Bandini Blvd, Vernon, CA, 90058",28,0
 Wed Jan 27 2021 06:00:02 GMT-0800 (PST),"FedEx Ground City of Industry","200 Old Ranch Rd, City of Industry, CA, 91789",115,0
 Wed Jan 27 2021 06:00:02 GMT-0800 (PST),"FedEx Ground Arcadia","12369 Lower Azusa Rd, Arcadia, CA, 91006",139,0
 Wed Jan 27 2021 06:00:02 GMT-0800 (PST),"Crissair","28909 Ave Williams, Valencia, CA, 91355",10,0
 Wed Jan 27 2021 06:00:02 GMT-0800 (PST),"Costco Warehouse, Santa Clarita #447","18649 Via Princessa, Santa Clarita, CA, 91387",45,0
+Wed Jan 27 2021 06:00:02 GMT-0800 (PST),"Nordstrom, Topanga Plaza","21725 Victory Blvd, Canoga Park, CA, 91303",15,0
 Wed Jan 27 2021 06:00:02 GMT-0800 (PST),"Costco Business Center Warehouse, Burbank #653","11428 Sherman Way, North Hollywood, CA, 91605",33,0
 Wed Jan 27 2021 06:00:02 GMT-0800 (PST),"Los Altos Food Products, LLC","450 Baldwin Park Blvd, City of Industry, CA, 91746",24,0
-Thu Jan 28 2021 05:00:01 GMT-0800 (PST),"Whole Foods Market, Glendale","331 N Glendale Ave, Glendale, CA, 91206",52,0
-Thu Jan 28 2021 05:00:01 GMT-0800 (PST),"Amazon DAX7","9350 Rayo Ave, South Gate, CA, 90280",86,0
-Thu Jan 28 2021 05:00:01 GMT-0800 (PST),"Amazon DLA3","5829 Smithway St, Commerce, CA, 90040",54,0
+Thu Jan 28 2021 05:00:01 GMT-0800 (PST),"The Austin Company-Aerojet Rocketdyne","8900 De Soto Ave, Canoga Park, CA, 91304",12,0
+Thu Jan 28 2021 05:00:01 GMT-0800 (PST),"In-N-Out Burger Warehouse","13502 Hamburger Ln, Baldwin Park, CA, 91706",53,0
 Thu Jan 28 2021 05:00:01 GMT-0800 (PST),"Bakkavor Foods","18201 Central Ave, Carson, CA, 90746",66,0
 Thu Jan 28 2021 05:00:01 GMT-0800 (PST),"Broadleaf, Inc.","5600 S Alameda St, Vernon, CA, 90058",28,0
 Thu Jan 28 2021 05:00:01 GMT-0800 (PST),"Cenveo Worldwide Limited","705 Baldwin Park Blvd, City of Industry, CA, 91746",48,0
@@ -6705,92 +6704,110 @@ Thu Jan 28 2021 05:00:01 GMT-0800 (PST),"Gelson's Market - Century City","10250 
 Thu Jan 28 2021 05:00:01 GMT-0800 (PST),"Home Depot - Alhambra #6610","500 S Marengo Ave, Alhambra, CA, 91803",47,0
 Thu Jan 28 2021 05:00:01 GMT-0800 (PST),"Howmet Aerospace #2","3000 Lomita Blvd, Torrance, CA, 90505",56,0
 Thu Jan 28 2021 05:00:01 GMT-0800 (PST),"Imperfect Foods, Walnut","351 Cheryl Ln, Walnut, CA, 91789",59,0
-Thu Jan 28 2021 05:00:01 GMT-0800 (PST),"In-N-Out Burger Warehouse","13502 Hamburger Ln, Baldwin Park, CA, 91706",53,0
-Thu Jan 28 2021 05:00:01 GMT-0800 (PST),"JC Sales Vernon","2600 S Soto St, Vernon, CA, 90058",17,0
-Thu Jan 28 2021 05:00:01 GMT-0800 (PST),"Kia of Cerritos","18201 Studebaker Rd, Cerritos, CA, 90703",17,0
-Thu Jan 28 2021 05:00:01 GMT-0800 (PST),"King's Hawaiian Manufacturing Plant","19161 Harborgate Way, Torrance, CA, 90501",43,0
-Thu Jan 28 2021 05:00:01 GMT-0800 (PST),"LA Apparel #3","1020 E 59th St, Los Angeles, CA, 90001",62,0
-Thu Jan 28 2021 05:00:01 GMT-0800 (PST),"LA County DCFS - South LA Administration","8300 S Vermont Ave, Los Angeles, CA, 90044",24,0
-Thu Jan 28 2021 05:00:01 GMT-0800 (PST),"LA County DPSS - East Valley","7555 Van Nuys Blvd, Van Nuys, CA, 91405",10,0
-Thu Jan 28 2021 05:00:01 GMT-0800 (PST),"Lisi Aerospace","2600 Skypark Dr, Torrance, CA, 90505",36,0
-Thu Jan 28 2021 05:00:01 GMT-0800 (PST),"Mark Ridley-Thomas Behavioral Health Center","12021 Wilmington Ave, Bldg 18, Los Angeles, CA, 90059",11,0
-Thu Jan 28 2021 05:00:01 GMT-0800 (PST),"MedReach Ambulance","1303 Kona Dr, Compton, CA, 90220",7,0
-Thu Jan 28 2021 05:00:01 GMT-0800 (PST),"Miracle Works","730 Los Angeles Ave, Monrovia, CA, 91016",14,0
-Thu Jan 28 2021 05:00:01 GMT-0800 (PST),"Mission Foods, Commerce","5505 E Olympic Blvd, Commerce, CA, 90022",111,0
-Thu Jan 28 2021 05:00:01 GMT-0800 (PST),"Morley Construction Company","5500 W 98th St, Los Angeles, CA, 90045",76,0
-Thu Jan 28 2021 05:00:01 GMT-0800 (PST),"NBC Universal Stage 1","3900 Lankershim Blvd, Bldg 2230, Studio City, CA, 91604",7,0
-Thu Jan 28 2021 05:00:01 GMT-0800 (PST),"New Century Plaza - South Tower","2025 Ave of The Stars, Los Angeles, CA, 90067",127,0
-Thu Jan 28 2021 05:00:01 GMT-0800 (PST),"Northrop Grumman - Azusa","1111 W 3rd St, Azusa, CA, 91702",44,0
-Thu Jan 28 2021 05:00:01 GMT-0800 (PST),"Northrop Grumman - Palmdale","3520 E Ave M, Palmdale, CA, 93550",541,0
-Thu Jan 28 2021 05:00:01 GMT-0800 (PST),"Nowhere Calabasas, LLC DBA Erewhon Market","26767 Agoura Rd, Calabasas, CA, 91302",27,0
-Thu Jan 28 2021 05:00:01 GMT-0800 (PST),"Pactiv","12500 Slauson Ave, Santa Fe Springs, CA, 90670",39,0
-Thu Jan 28 2021 05:00:01 GMT-0800 (PST),"R Planet Earth","5300 S Boyle Ave, Vernon, CA, 90058",26,0
-Thu Jan 28 2021 05:00:01 GMT-0800 (PST),"Relton Corporation","317 Rolyn Pl, Arcadia, CA, 91007",19,0
-Thu Jan 28 2021 05:00:01 GMT-0800 (PST),"Remo, Inc.","28101 Industry Dr, Valencia, CA, 91355",23,0
-Thu Jan 28 2021 05:00:01 GMT-0800 (PST),"Reyes Coca-Cola Bottling","1334 S Central Ave, Los Angeles, CA, 90021",86,0
-Thu Jan 28 2021 05:00:01 GMT-0800 (PST),"Rose & Shore, Inc.","5151 Alcoa Ave, Vernon, CA, 90058",22,0
-Thu Jan 28 2021 05:00:01 GMT-0800 (PST),"See's Candies (La Cienega Manufacturing)","3243 S La Cienega Blvd, Los Angeles, CA, 90016",17,0
-Thu Jan 28 2021 05:00:01 GMT-0800 (PST),"Smithfield","3049 E Vernon Ave, Vernon, CA, 90058",754,0
-Thu Jan 28 2021 05:00:01 GMT-0800 (PST),"Target #184","2120 W Main St, Alhambra, CA, 91801",60,0
-Thu Jan 28 2021 05:00:01 GMT-0800 (PST),"Target #1884","7100 Santa Monica Blvd, West Hollywood, CA, 90046",51,0
-Thu Jan 28 2021 05:00:01 GMT-0800 (PST),"Target #2350","38019 47th St E, Palmdale, CA, 93552",21,0
+Thu Jan 28 2021 05:00:01 GMT-0800 (PST),"Amazon DAX7","9350 Rayo Ave, South Gate, CA, 90280",86,0
 Thu Jan 28 2021 05:00:01 GMT-0800 (PST),"LAUSD Procurement Services Support Center","8525 Rex Rd, Pico Rivera, CA, 90660",54,0
 Thu Jan 28 2021 05:00:01 GMT-0800 (PST),"Baldwin Park Adult and Community Education Center","3900 Puente Ave, Baldwin Park, CA, 91706",2,3
 Thu Jan 28 2021 05:00:01 GMT-0800 (PST),"Woodward HRT, Inc.","25200 Rye Canyon Rd, Santa Clarita, CA, 91355",69,0
 Thu Jan 28 2021 05:00:01 GMT-0800 (PST),"Whole Foods Market, Woodland Hills","21347 Ventura Blvd, Woodland Hills, CA, 91364",20,0
 Thu Jan 28 2021 05:00:01 GMT-0800 (PST),"Whole Foods Market, Porter Ranch","20209 Rinaldi St, Porter Ranch, CA, 91326",17,0
-Thu Jan 28 2021 05:00:01 GMT-0800 (PST),"The Austin Company-Aerojet Rocketdyne","8900 De Soto Ave, Canoga Park, CA, 91304",12,0
+Thu Jan 28 2021 05:00:01 GMT-0800 (PST),"Whole Foods Market, Glendale","331 N Glendale Ave, Glendale, CA, 91206",52,0
 Thu Jan 28 2021 05:00:01 GMT-0800 (PST),"Whole Foods Market, Downtown LA","788 S Grand Ave, Los Angeles, CA, 90017",23,0
 Thu Jan 28 2021 05:00:01 GMT-0800 (PST),"VACCO Industries","10350 Vacco St, South El Monte, CA, 91733",53,0
 Thu Jan 28 2021 05:00:01 GMT-0800 (PST),"UPS - La Mirada","16301 Trojan Way, La Mirada, CA, 90638",29,0
 Thu Jan 28 2021 05:00:01 GMT-0800 (PST),"UPS - Bell","4700 Eastern Ave, Bell, CA, 90201",24,0
-Fri Jan 29 2021 05:00:01 GMT-0800 (PST),"LA County DPSS - South Special","17600 B Santa Fe Ave, East Rancho Dominguez, CA, 90221",65,0
-Fri Jan 29 2021 05:00:01 GMT-0800 (PST),"West Hollywood Preschool","7377 Santa Monica Blvd, West Hollywood, CA, 90046",4,2
-Fri Jan 29 2021 05:00:01 GMT-0800 (PST),"Alhambra Fire Department - Fire Station 1","301 N 1st St, Alhambra, CA, 91801",6,0
-Fri Jan 29 2021 05:00:01 GMT-0800 (PST),"Amazon DPS1","4187 Temple City Blvd, El Monte, CA, 91731",127,0
-Fri Jan 29 2021 05:00:01 GMT-0800 (PST),"Arcadia Fire Department","710 S Santa Anita Ave, Arcadia, CA, 91006",12,0
-Fri Jan 29 2021 05:00:01 GMT-0800 (PST),"AT&T","12911 183rd St, Cerritos, CA, 90703",31,0
-Fri Jan 29 2021 05:00:01 GMT-0800 (PST),"California Rain Co., Inc.","1213 E 14th St, Los Angeles, CA, 90021",12,0
+Thu Jan 28 2021 05:00:01 GMT-0800 (PST),"Amazon DLA3","5829 Smithway St, Commerce, CA, 90040",54,0
+Thu Jan 28 2021 05:00:01 GMT-0800 (PST),"Target #2350","38019 47th St E, Palmdale, CA, 93552",21,0
+Thu Jan 28 2021 05:00:01 GMT-0800 (PST),"Target #1884","7100 Santa Monica Blvd, West Hollywood, CA, 90046",51,0
+Thu Jan 28 2021 05:00:01 GMT-0800 (PST),"Target #184","2120 W Main St, Alhambra, CA, 91801",60,0
+Thu Jan 28 2021 05:00:01 GMT-0800 (PST),"Smithfield","3049 E Vernon Ave, Vernon, CA, 90058",754,0
+Thu Jan 28 2021 05:00:01 GMT-0800 (PST),"See's Candies (La Cienega Manufacturing)","3243 S La Cienega Blvd, Los Angeles, CA, 90016",17,0
+Thu Jan 28 2021 05:00:01 GMT-0800 (PST),"Rose & Shore, Inc.","5151 Alcoa Ave, Vernon, CA, 90058",22,0
+Thu Jan 28 2021 05:00:01 GMT-0800 (PST),"Reyes Coca-Cola Bottling","1334 S Central Ave, Los Angeles, CA, 90021",86,0
+Thu Jan 28 2021 05:00:01 GMT-0800 (PST),"Remo, Inc.","28101 Industry Dr, Valencia, CA, 91355",23,0
+Thu Jan 28 2021 05:00:01 GMT-0800 (PST),"Relton Corporation","317 Rolyn Pl, Arcadia, CA, 91007",19,0
+Thu Jan 28 2021 05:00:01 GMT-0800 (PST),"R Planet Earth","5300 S Boyle Ave, Vernon, CA, 90058",26,0
+Thu Jan 28 2021 05:00:01 GMT-0800 (PST),"Pactiv","12500 Slauson Ave, Santa Fe Springs, CA, 90670",39,0
+Thu Jan 28 2021 05:00:01 GMT-0800 (PST),"Nowhere Calabasas, LLC DBA Erewhon Market","26767 Agoura Rd, Calabasas, CA, 91302",27,0
+Thu Jan 28 2021 05:00:01 GMT-0800 (PST),"Northrop Grumman - Palmdale","3520 E Ave M, Palmdale, CA, 93550",541,0
+Thu Jan 28 2021 05:00:01 GMT-0800 (PST),"Northrop Grumman - Azusa","1111 W 3rd St, Azusa, CA, 91702",44,0
+Thu Jan 28 2021 05:00:01 GMT-0800 (PST),"New Century Plaza - South Tower","2025 Ave of The Stars, Los Angeles, CA, 90067",127,0
+Thu Jan 28 2021 05:00:01 GMT-0800 (PST),"NBC Universal Stage 1","3900 Lankershim Blvd, Bldg 2230, Studio City, CA, 91604",7,0
+Thu Jan 28 2021 05:00:01 GMT-0800 (PST),"Morley Construction Company","5500 W 98th St, Los Angeles, CA, 90045",76,0
+Thu Jan 28 2021 05:00:01 GMT-0800 (PST),"Mission Foods, Commerce","5505 E Olympic Blvd, Commerce, CA, 90022",111,0
+Thu Jan 28 2021 05:00:01 GMT-0800 (PST),"Miracle Works","730 Los Angeles Ave, Monrovia, CA, 91016",14,0
+Thu Jan 28 2021 05:00:01 GMT-0800 (PST),"MedReach Ambulance","1303 Kona Dr, Compton, CA, 90220",7,0
+Thu Jan 28 2021 05:00:01 GMT-0800 (PST),"Mark Ridley-Thomas Behavioral Health Center","12021 Wilmington Ave, Bldg 18, Los Angeles, CA, 90059",11,0
+Thu Jan 28 2021 05:00:01 GMT-0800 (PST),"Lisi Aerospace","2600 Skypark Dr, Torrance, CA, 90505",36,0
+Thu Jan 28 2021 05:00:01 GMT-0800 (PST),"LA County DPSS - East Valley","7555 Van Nuys Blvd, Van Nuys, CA, 91405",10,0
+Thu Jan 28 2021 05:00:01 GMT-0800 (PST),"LA County DCFS - South LA Administration","8300 S Vermont Ave, Los Angeles, CA, 90044",24,0
+Thu Jan 28 2021 05:00:01 GMT-0800 (PST),"LA Apparel #3","1020 E 59th St, Los Angeles, CA, 90001",62,0
+Thu Jan 28 2021 05:00:01 GMT-0800 (PST),"King's Hawaiian Manufacturing Plant","19161 Harborgate Way, Torrance, CA, 90501",43,0
+Thu Jan 28 2021 05:00:01 GMT-0800 (PST),"Kia of Cerritos","18201 Studebaker Rd, Cerritos, CA, 90703",17,0
+Thu Jan 28 2021 05:00:01 GMT-0800 (PST),"JC Sales Vernon","2600 S Soto St, Vernon, CA, 90058",17,0
 Fri Jan 29 2021 05:00:01 GMT-0800 (PST),"Chick-Fil-A Downey","8613 Firestone Blvd, Downey, CA, 90241",32,0
-Fri Jan 29 2021 05:00:01 GMT-0800 (PST),"Costco Warehouse, Los Feliz #130","2901 Los Feliz Blvd, Los Angeles, CA, 90039",47,0
-Fri Jan 29 2021 05:00:01 GMT-0800 (PST),"Costco Warehouse, Monterey Park #1318","2000 Market Place Dr, Monterey Park, CA, 91755",66,0
-Fri Jan 29 2021 05:00:01 GMT-0800 (PST),"Costco Warehouse, Van Nuys #48","6100 Sepulveda Blvd, Van Nuys, CA, 91411",65,0
-Fri Jan 29 2021 05:00:01 GMT-0800 (PST),"Electronic Source Company","16032 Arminta St, Van Nuys, CA, 91406",33,0
-Fri Jan 29 2021 05:00:01 GMT-0800 (PST),"Equus","20480 Business Pkwy, City of Industry, CA, 91789",19,0
-Fri Jan 29 2021 05:00:01 GMT-0800 (PST),"FedEx Ground Carson","1725 Charles Willard St, Carson, CA, 90746",69,0
-Fri Jan 29 2021 05:00:01 GMT-0800 (PST),"FedEx Ground City of Industry","200 Old Ranch Rd, City of Industry, CA, 91789",123,0
-Fri Jan 29 2021 05:00:01 GMT-0800 (PST),"FedEx Ground Pacoima","12500 Branford St, Pacoima, CA, 91331",183,0
-Fri Jan 29 2021 05:00:01 GMT-0800 (PST),"Food 4 Less #778","13525 Lakewood Blvd, Downey, CA, 90242",18,0
-Fri Jan 29 2021 05:00:01 GMT-0800 (PST),"Gibson Overseas","2410 Yates Ave, Commerce, CA, 90040",55,0
-Fri Jan 29 2021 05:00:01 GMT-0800 (PST),"Home Depot - Cypress Park #6689","2055 N Figueroa St, Los Angeles, CA, 90065",52,0
-Fri Jan 29 2021 05:00:01 GMT-0800 (PST),"Home Depot - Downey #6627","7121 Firestone Blvd, Downey, CA, 90241",33,0
-Fri Jan 29 2021 05:00:01 GMT-0800 (PST),"Home Depot - North Hollywood #6613","11600 Sherman Way, North Hollywood, CA, 91605",60,0
-Fri Jan 29 2021 05:00:01 GMT-0800 (PST),"Kaiser Permanente Central Refill Pharmacy Center","9521 Dalen St, Downey, CA, 90242",54,0
-Fri Jan 29 2021 05:00:01 GMT-0800 (PST),"Kellwood Apparel","13071 Temple Ave, City of Industry, CA, 91746",25,0
+Fri Jan 29 2021 05:00:01 GMT-0800 (PST),"California Rain Co., Inc.","1213 E 14th St, Los Angeles, CA, 90021",12,0
+Fri Jan 29 2021 05:00:01 GMT-0800 (PST),"AT&T","12911 183rd St, Cerritos, CA, 90703",31,0
+Fri Jan 29 2021 05:00:01 GMT-0800 (PST),"Arcadia Fire Department","710 S Santa Anita Ave, Arcadia, CA, 91006",12,0
+Fri Jan 29 2021 05:00:01 GMT-0800 (PST),"Amazon DPS1","4187 Temple City Blvd, El Monte, CA, 91731",127,0
+Fri Jan 29 2021 05:00:01 GMT-0800 (PST),"Alhambra Fire Department - Fire Station 1","301 N 1st St, Alhambra, CA, 91801",6,0
 Fri Jan 29 2021 05:00:01 GMT-0800 (PST),"Acromil, LLC","18421 Railroad St, City of Industry, CA, 91748",17,0
-Fri Jan 29 2021 05:00:01 GMT-0800 (PST),"LA County Registrar-Recorder/County Clerk Norwalk","12400 Imperial Hwy, Ste 2204, Norwalk, CA, 90650",55,0
-Fri Jan 29 2021 05:00:01 GMT-0800 (PST),"McDonald's #1779","15628 Gale Ave, Hacienda Heights, CA, 91745",12,0
-Fri Jan 29 2021 05:00:01 GMT-0800 (PST),"NBC Universal Stage 1","3900 Lankershim Boulevard, Bldg 2230, Studio City, CA, 91604",7,0
-Fri Jan 29 2021 05:00:01 GMT-0800 (PST),"Neiman Marcus-Beverly Hills","9700 Wilshire Blvd, Beverly Hills, CA, 90212",22,0
-Fri Jan 29 2021 05:00:01 GMT-0800 (PST),"Nowhere Calabasas, LLC Dba. Erewhon Market","26767 Agoura Rd, Calabasas, CA, 91302",28,0
-Fri Jan 29 2021 05:00:01 GMT-0800 (PST),"Relton Corporation","317 Rolyn Pl, Arcadia, CA, 91007",18,0
-Fri Jan 29 2021 05:00:01 GMT-0800 (PST),"Reyes Coca-Cola Bottling","1334 S Central Ave, Los Angeles, CA, 90021",87,0
-Fri Jan 29 2021 05:00:01 GMT-0800 (PST),"See's Candies (La Cienega Manufacturing)","3243 S La Cienega Blvd, Los Angeles, CA, 90016",19,0
-Fri Jan 29 2021 05:00:01 GMT-0800 (PST),"Target #190","5700 Firestone Blvd, South Gate, CA, 90280",25,0
-Fri Jan 29 2021 05:00:01 GMT-0800 (PST),"Target #299","8840 Corbin Ave, Northridge, CA, 91324",32,0
-Fri Jan 29 2021 05:00:01 GMT-0800 (PST),"Target #1033","3100 Baldwin Park Blvd, Baldwin Park, CA, 91706",22,0
-Fri Jan 29 2021 05:00:01 GMT-0800 (PST),"Target #1424","12051 Imperial Hwy, Norwalk, CA, 90650",44,0
-Fri Jan 29 2021 05:00:01 GMT-0800 (PST),"UPS - Olympic Hub","1201 W Olympic Blvd, Los Angeles, CA, 90015",41,0
-Fri Jan 29 2021 05:00:01 GMT-0800 (PST),"Vallarta Supermarkets #11","21208 Sherman Way, Canoga Park, CA, 91303",15,0
-Fri Jan 29 2021 05:00:01 GMT-0800 (PST),"Vans Distribution Center","15700 Shoemaker Ave, Santa Fe Springs, CA, 90670",145,0
-Fri Jan 29 2021 05:00:01 GMT-0800 (PST),"Vernon Sales, Inc.","2788 E Vernon Ave, Vernon, CA, 90058",10,0
-Fri Jan 29 2021 05:00:01 GMT-0800 (PST),"West Covina Fire Department - Station 4","1815 S Azusa Ave, West Covina, CA, 91792",8,0
-Fri Jan 29 2021 05:00:01 GMT-0800 (PST),"Baldwin Park Adult and Community Education Center","3900 Puente Ave, Baldwin Park, CA, 91706",2,1
-Fri Jan 29 2021 05:00:01 GMT-0800 (PST),"Bruin Plate, UCLA","350 Charles E Young Dr W, Los Angeles, CA, 90024",11,0
-Fri Jan 29 2021 05:00:01 GMT-0800 (PST),"Campus Residential 4, UCLA","351 Charles E Young Dr W, Los Angeles, CA, 90024",0,34
-Fri Jan 29 2021 05:00:01 GMT-0800 (PST),"Greenwood KinderCare","1520 Greenwood Ave, Torrance, CA, 90503",3,2
+Fri Jan 29 2021 05:00:01 GMT-0800 (PST),"West Hollywood Preschool","7377 Santa Monica Blvd, West Hollywood, CA, 90046",4,2
 Fri Jan 29 2021 05:00:01 GMT-0800 (PST),"Midvalley YMCA Preschool","6901 Lennox Ave, Van Nuys, CA, 91405",3,2
+Fri Jan 29 2021 05:00:01 GMT-0800 (PST),"Greenwood KinderCare","1520 Greenwood Ave, Torrance, CA, 90503",3,2
+Fri Jan 29 2021 05:00:01 GMT-0800 (PST),"Campus Residential 4, UCLA","351 Charles E Young Dr W, Los Angeles, CA, 90024",0,34
+Fri Jan 29 2021 05:00:01 GMT-0800 (PST),"Bruin Plate, UCLA","350 Charles E Young Dr W, Los Angeles, CA, 90024",11,0
+Fri Jan 29 2021 05:00:01 GMT-0800 (PST),"Baldwin Park Adult and Community Education Center","3900 Puente Ave, Baldwin Park, CA, 91706",2,1
+Fri Jan 29 2021 05:00:01 GMT-0800 (PST),"West Covina Fire Department - Station 4","1815 S Azusa Ave, West Covina, CA, 91792",8,0
+Fri Jan 29 2021 05:00:01 GMT-0800 (PST),"Vernon Sales, Inc.","2788 E Vernon Ave, Vernon, CA, 90058",10,0
+Fri Jan 29 2021 05:00:01 GMT-0800 (PST),"Vans Distribution Center","15700 Shoemaker Ave, Santa Fe Springs, CA, 90670",145,0
+Fri Jan 29 2021 05:00:01 GMT-0800 (PST),"UPS - Olympic Hub","1201 W Olympic Blvd, Los Angeles, CA, 90015",41,0
+Fri Jan 29 2021 05:00:01 GMT-0800 (PST),"Target #1424","12051 Imperial Hwy, Norwalk, CA, 90650",44,0
+Fri Jan 29 2021 05:00:01 GMT-0800 (PST),"Target #1033","3100 Baldwin Park Blvd, Baldwin Park, CA, 91706",22,0
+Fri Jan 29 2021 05:00:01 GMT-0800 (PST),"Target #299","8840 Corbin Ave, Northridge, CA, 91324",32,0
+Fri Jan 29 2021 05:00:01 GMT-0800 (PST),"Target #190","5700 Firestone Blvd, South Gate, CA, 90280",25,0
+Fri Jan 29 2021 05:00:01 GMT-0800 (PST),"See's Candies (La Cienega Manufacturing)","3243 S La Cienega Blvd, Los Angeles, CA, 90016",19,0
+Fri Jan 29 2021 05:00:01 GMT-0800 (PST),"Reyes Coca-Cola Bottling","1334 S Central Ave, Los Angeles, CA, 90021",87,0
+Fri Jan 29 2021 05:00:01 GMT-0800 (PST),"Relton Corporation","317 Rolyn Pl, Arcadia, CA, 91007",18,0
 Fri Jan 29 2021 05:00:01 GMT-0800 (PST),"Performance Team LLC","12816 Shoemaker Ave, Santa Fe Springs, CA, 90670",40,0
+Fri Jan 29 2021 05:00:01 GMT-0800 (PST),"Nowhere Calabasas, LLC Dba. Erewhon Market","26767 Agoura Rd, Calabasas, CA, 91302",28,0
+Fri Jan 29 2021 05:00:01 GMT-0800 (PST),"Neiman Marcus-Beverly Hills","9700 Wilshire Blvd, Beverly Hills, CA, 90212",22,0
+Fri Jan 29 2021 05:00:01 GMT-0800 (PST),"NBC Universal Stage 1","3900 Lankershim Boulevard, Bldg 2230, Studio City, CA, 91604",7,0
+Fri Jan 29 2021 05:00:01 GMT-0800 (PST),"McDonald's #1779","15628 Gale Ave, Hacienda Heights, CA, 91745",12,0
+Fri Jan 29 2021 05:00:01 GMT-0800 (PST),"LA County Registrar-Recorder/County Clerk Norwalk","12400 Imperial Hwy, Ste 2204, Norwalk, CA, 90650",55,0
+Fri Jan 29 2021 05:00:01 GMT-0800 (PST),"LA County DPSS - South Special","17600 B Santa Fe Ave, East Rancho Dominguez, CA, 90221",65,0
+Fri Jan 29 2021 05:00:01 GMT-0800 (PST),"Kellwood Apparel","13071 Temple Ave, City of Industry, CA, 91746",25,0
+Fri Jan 29 2021 05:00:01 GMT-0800 (PST),"Kaiser Permanente Central Refill Pharmacy Center","9521 Dalen St, Downey, CA, 90242",54,0
+Fri Jan 29 2021 05:00:01 GMT-0800 (PST),"Home Depot - North Hollywood #6613","11600 Sherman Way, North Hollywood, CA, 91605",60,0
+Fri Jan 29 2021 05:00:01 GMT-0800 (PST),"Home Depot - Downey #6627","7121 Firestone Blvd, Downey, CA, 90241",33,0
+Fri Jan 29 2021 05:00:01 GMT-0800 (PST),"Home Depot - Cypress Park #6689","2055 N Figueroa St, Los Angeles, CA, 90065",52,0
+Fri Jan 29 2021 05:00:01 GMT-0800 (PST),"Gibson Overseas","2410 Yates Ave, Commerce, CA, 90040",55,0
+Fri Jan 29 2021 05:00:01 GMT-0800 (PST),"Food 4 Less #778","13525 Lakewood Blvd, Downey, CA, 90242",18,0
+Fri Jan 29 2021 05:00:01 GMT-0800 (PST),"FedEx Ground Pacoima","12500 Branford St, Pacoima, CA, 91331",183,0
+Fri Jan 29 2021 05:00:01 GMT-0800 (PST),"FedEx Ground City of Industry","200 Old Ranch Rd, City of Industry, CA, 91789",123,0
+Fri Jan 29 2021 05:00:01 GMT-0800 (PST),"FedEx Ground Carson","1725 Charles Willard St, Carson, CA, 90746",69,0
+Fri Jan 29 2021 05:00:01 GMT-0800 (PST),"Vallarta Supermarkets #11","21208 Sherman Way, Canoga Park, CA, 91303",15,0
+Fri Jan 29 2021 05:00:01 GMT-0800 (PST),"Electronic Source Company","16032 Arminta St, Van Nuys, CA, 91406",33,0
+Fri Jan 29 2021 05:00:01 GMT-0800 (PST),"Costco Warehouse, Van Nuys #48","6100 Sepulveda Blvd, Van Nuys, CA, 91411",65,0
+Fri Jan 29 2021 05:00:01 GMT-0800 (PST),"Costco Warehouse, Monterey Park #1318","2000 Market Place Dr, Monterey Park, CA, 91755",66,0
+Fri Jan 29 2021 05:00:01 GMT-0800 (PST),"Costco Warehouse, Los Feliz #130","2901 Los Feliz Blvd, Los Angeles, CA, 90039",47,0
+Fri Jan 29 2021 05:00:01 GMT-0800 (PST),"Equus","20480 Business Pkwy, City of Industry, CA, 91789",19,0
+Sat Jan 30 2021 04:00:01 GMT-0800 (PST),"Morton Manufacturing","201 E Ave K15, Lancaster, CA, 93535",29,0
+Sat Jan 30 2021 04:00:01 GMT-0800 (PST),"Morley Construction Company","5500 W 98th St, Los Angeles, CA, 90045",83,0
+Sat Jan 30 2021 04:00:01 GMT-0800 (PST),"Mission Foods, Los Angeles","5505 E Olympic Blvd, Commerce, CA, 90022",111,0
+Sat Jan 30 2021 04:00:01 GMT-0800 (PST),"Mercury Plastics, Inc.","14825 Salt Lake Ave, City of Industry, CA, 91746",37,0
+Sat Jan 30 2021 04:00:01 GMT-0800 (PST),"Mercury Air Cargo Building 216","6041 W Imperial Hwy, Los Angeles, CA, 90045",47,0
+Sat Jan 30 2021 04:00:01 GMT-0800 (PST),"Mercury Air Cargo Building 213","6040 Avion Dr, Los Angeles, CA, 90045",53,0
+Sat Jan 30 2021 04:00:01 GMT-0800 (PST),"McDonald's #19964","10721 Atlantic Ave, Lynwood, CA, 90262",12,0
+Sat Jan 30 2021 04:00:01 GMT-0800 (PST),"Marshalls #864","8880 Washington Blvd, Pico Rivera, CA, 90660",17,0
+Sat Jan 30 2021 04:00:01 GMT-0800 (PST),"Louis Vuitton US Manufacturing - San Dimas","321 W Covina Blvd, San Dimas, CA, 91773",80,0
+Sat Jan 30 2021 04:00:01 GMT-0800 (PST),"Louis Vuitton US Manufacturing - Irwindale","4775 Irwindale Ave, Irwindale, CA, 91706",48,0
+Sat Jan 30 2021 04:00:01 GMT-0800 (PST),"LAX Terminal 4 - American Airlines","400 World Way, Los Angeles, CA, 90045",263,0
+Sat Jan 30 2021 04:00:01 GMT-0800 (PST),"Langer's Juice Company","16195 Stephens St, City of Industry, CA, 91745",54,0
+Sat Jan 30 2021 04:00:01 GMT-0800 (PST),"LA Metro Division 18","450 W Griffith St, Gardena, CA, 90248",30,0
+Sat Jan 30 2021 04:00:01 GMT-0800 (PST),"LA Metro Division 13","920 N Vignes St, Los Angeles, CA, 90012",53,0
+Sat Jan 30 2021 04:00:01 GMT-0800 (PST),"LA County DPSS - South Special","17600 B Santa Fe Ave, East Rancho Dominguez, CA, 90221",71,0
+Sat Jan 30 2021 04:00:01 GMT-0800 (PST),"LA County DPSS - Inglewood, Customer Service Center II Floor 11","9800 S La Cienega Blvd, 11th Floor, Inglewood, CA, 90301",26,0
+Sat Jan 30 2021 04:00:01 GMT-0800 (PST),"LA County DPSS - East Valley","7555 Van Nuys Blvd, Van Nuys, CA, 91405",14,0
 Sat Jan 30 2021 04:00:01 GMT-0800 (PST),"LA County DCFS - Covina Annex","1373 Center Court Dr, Covina, CA, 91724",4,0
 Sat Jan 30 2021 04:00:01 GMT-0800 (PST),"Kaiser Permanente Central Refill Pharmacy Center","9521 Dalen St, Downey, CA, 90242",55,0
 Sat Jan 30 2021 04:00:01 GMT-0800 (PST),"IKEA Burbank","600 Ikea Way, Burbank, CA, 91502",56,0
@@ -6825,69 +6842,52 @@ Sat Jan 30 2021 04:00:01 GMT-0800 (PST),"AT&T Cerritos Corporate Center","12911 
 Sat Jan 30 2021 04:00:01 GMT-0800 (PST),"Anheuser-Busch Inland Empire","2800 S Reservoir St, Pomona, CA, 91766",24,0
 Sat Jan 30 2021 04:00:01 GMT-0800 (PST),"American Honda Motor Co., Inc.","700 Van Ness Ave, Torrance, CA, 90501",20,0
 Sat Jan 30 2021 04:00:01 GMT-0800 (PST),"Amazon Bookstore, Los Cerritos Mall - JFN3","239 Los Cerritos Mall, Ste C03, Cerritos, CA, 90703",5,0
+Sat Jan 30 2021 04:00:01 GMT-0800 (PST),"LAUSD Procurement Services Support Center","8525 Rex Rd, Pico Rivera, CA, 90660",55,0
 Sat Jan 30 2021 04:00:01 GMT-0800 (PST),"Whole Foods Market, 23rd & Wilshire Blvd","2201 Wilshire Blvd, Santa Monica, CA, 90403",30,0
 Sat Jan 30 2021 04:00:01 GMT-0800 (PST),"Biola University Athletics","13800 Biola Ave, La Mirada, CA, 90639",0,9
-Sat Jan 30 2021 04:00:01 GMT-0800 (PST),"LAUSD Procurement Services Support Center","8525 Rex Rd, Pico Rivera, CA, 90660",55,0
 Sat Jan 30 2021 04:00:01 GMT-0800 (PST),"West Covina Fire Department - Fire Station 4","1815 S Azusa Ave, West Covina, CA, 91792",8,0
 Sat Jan 30 2021 04:00:01 GMT-0800 (PST),"Vans Distribution Center","15700 Shoemaker Ave, Santa Fe Springs, CA, 90670",155,0
-Sat Jan 30 2021 04:00:01 GMT-0800 (PST),"VACCO Industries","10350 Vacco St, South El Monte, CA, 91733",54,0
 Sat Jan 30 2021 04:00:01 GMT-0800 (PST),"U-Haul Moving & Storage at Valley Blvd","17959 E Valley Blvd, City of Industry, CA, 91744",10,0
 Sat Jan 30 2021 04:00:01 GMT-0800 (PST),"TFC Manufacturing - Watson Plaza","4001 Watson Plaza Dr, Lakewood, CA, 90712",22,0
 Sat Jan 30 2021 04:00:01 GMT-0800 (PST),"Spears Manufacturing Company","15853 Olden St, Sylmar, CA, 91342",62,0
 Sat Jan 30 2021 04:00:01 GMT-0800 (PST),"Smithfield","3049 E Vernon Ave, Vernon, CA, 90058",767,0
+Sat Jan 30 2021 04:00:01 GMT-0800 (PST),"Whole Foods Market, West Hollywood","7871 Santa Monica Blvd, West Hollywood, CA, 90046",17,0
 Sat Jan 30 2021 04:00:01 GMT-0800 (PST),"See's Candies (La Cienega Manufacturing)","3423 S La Cienega Blvd, Los Angeles, CA, 90016",19,0
 Sat Jan 30 2021 04:00:01 GMT-0800 (PST),"Russell Westbrook Car Dealership","6110 Van Nuys Blvd, Van Nuys, CA, 91401",21,0
 Sat Jan 30 2021 04:00:01 GMT-0800 (PST),"Rose & Shore, Inc.","5151 Alcoa Ave, Vernon, CA, 90058",23,0
 Sat Jan 30 2021 04:00:01 GMT-0800 (PST),"Reyes Coca-Cola Bottling, Los Angeles","1334 S Central Ave, Los Angeles, CA, 90021",87,0
+Sat Jan 30 2021 04:00:01 GMT-0800 (PST),"Pactiv","12500 Slauson Ave, Santa Fe Springs, CA, 90670",40,0
 Sat Jan 30 2021 04:00:01 GMT-0800 (PST),"Ontrac Delivery Services - Sun Valley","11051 Pendleton St, Sun Valley, CA, 91352",22,0
 Sat Jan 30 2021 04:00:01 GMT-0800 (PST),"Ontrac Delivery Services - Commerce","5959 Randolph St, Commerce, CA, 90040",77,0
 Sat Jan 30 2021 04:00:01 GMT-0800 (PST),"Northrop Grumman - Redondo Beach","1 Space Park Blvd, Redondo Beach, CA, 90278",36,0
-Sat Jan 30 2021 04:00:01 GMT-0800 (PST),"Morton Manufacturing","201 E Ave K15, Lancaster, CA, 93535",29,0
-Sat Jan 30 2021 04:00:01 GMT-0800 (PST),"Whole Foods Market, West Hollywood","7871 Santa Monica Blvd, West Hollywood, CA, 90046",17,0
-Sat Jan 30 2021 04:00:01 GMT-0800 (PST),"Morley Construction Company","5500 W 98th St, Los Angeles, CA, 90045",83,0
-Sat Jan 30 2021 04:00:01 GMT-0800 (PST),"Mission Foods, Los Angeles","5505 E Olympic Blvd, Commerce, CA, 90022",111,0
-Sat Jan 30 2021 04:00:01 GMT-0800 (PST),"Mercury Plastics, Inc.","14825 Salt Lake Ave, City of Industry, CA, 91746",37,0
-Sat Jan 30 2021 04:00:01 GMT-0800 (PST),"Mercury Air Cargo Building 216","6041 W Imperial Hwy, Los Angeles, CA, 90045",47,0
-Sat Jan 30 2021 04:00:01 GMT-0800 (PST),"Mercury Air Cargo Building 213","6040 Avion Dr, Los Angeles, CA, 90045",53,0
-Sat Jan 30 2021 04:00:01 GMT-0800 (PST),"McDonald's #19964","10721 Atlantic Ave, Lynwood, CA, 90262",12,0
-Sat Jan 30 2021 04:00:01 GMT-0800 (PST),"Marshalls #864","8880 Washington Blvd, Pico Rivera, CA, 90660",17,0
-Sat Jan 30 2021 04:00:01 GMT-0800 (PST),"Louis Vuitton US Manufacturing - San Dimas","321 W Covina Blvd, San Dimas, CA, 91773",80,0
-Sat Jan 30 2021 04:00:01 GMT-0800 (PST),"Louis Vuitton US Manufacturing - Irwindale","4775 Irwindale Ave, Irwindale, CA, 91706",48,0
-Sat Jan 30 2021 04:00:01 GMT-0800 (PST),"LAX Terminal 4 - American Airlines","400 World Way, Los Angeles, CA, 90045",263,0
-Sat Jan 30 2021 04:00:01 GMT-0800 (PST),"Langer's Juice Company","16195 Stephens St, City of Industry, CA, 91745",54,0
-Sat Jan 30 2021 04:00:01 GMT-0800 (PST),"LA Metro Division 18","450 W Griffith St, Gardena, CA, 90248",30,0
-Sat Jan 30 2021 04:00:01 GMT-0800 (PST),"LA Metro Division 13","920 N Vignes St, Los Angeles, CA, 90012",53,0
-Sat Jan 30 2021 04:00:01 GMT-0800 (PST),"LA County DPSS - South Special","17600 B Santa Fe Ave, East Rancho Dominguez, CA, 90221",71,0
-Sat Jan 30 2021 04:00:01 GMT-0800 (PST),"LA County DPSS - Inglewood, Customer Service Center II Floor 11","9800 S La Cienega Blvd, 11th Floor, Inglewood, CA, 90301",26,0
-Sat Jan 30 2021 04:00:01 GMT-0800 (PST),"LA County DPSS - East Valley","7555 Van Nuys Blvd, Van Nuys, CA, 91405",14,0
-Sat Jan 30 2021 04:00:01 GMT-0800 (PST),"Pactiv","12500 Slauson Ave, Santa Fe Springs, CA, 90670",40,0
+Sat Jan 30 2021 04:00:01 GMT-0800 (PST),"VACCO Industries","10350 Vacco St, South El Monte, CA, 91733",54,0
 Sun Jan 31 2021 01:00:01 GMT-0800 (PST),"Wishing Well Academic Preschool","20543 Saticoy St, Winnetka, CA, 91306",2,8
-Sun Jan 31 2021 01:00:01 GMT-0800 (PST),"CR Laurence","2503 E Vernon Ave, Vernon, CA, 90058",32,0
-Sun Jan 31 2021 01:00:01 GMT-0800 (PST),"FedEx Ground - Pacoima","12500 Branford St, Pacoima, CA, 91331",180,0
-Sun Jan 31 2021 01:00:01 GMT-0800 (PST),"Goodwill Industries - Downtown Los Angeles 6th and Union Retail Store","1500 W 6th St, Los Angeles, CA, 90017",7,0
-Sun Jan 31 2021 01:00:01 GMT-0800 (PST),"Kellwood Apparel","13071 Temple Ave, City of Industry, CA, 91746",26,0
-Sun Jan 31 2021 01:00:01 GMT-0800 (PST),"La Colonial Tortilla Products, Inc.","543 Monterey Pass Rd, Monterey Park, CA, 91754",16,0
-Sun Jan 31 2021 01:00:01 GMT-0800 (PST),"LA County DCFS - Santa Fe Springs","10355 Slusher Dr, Santa Fe Springs, CA, 90670",29,0
-Sun Jan 31 2021 01:00:01 GMT-0800 (PST),"LA Metro Division 13","920 N Vignes St, Los Angeles, CA, 90012",54,0
-Sun Jan 31 2021 01:00:01 GMT-0800 (PST),"Ontrac Shipping - Commerce","5959 Randolph St, Commerce, CA, 90040",77,0
-Sun Jan 31 2021 01:00:01 GMT-0800 (PST),"Ontrac Shipping - Sun Valley","11051 Pendleton St, Sun Valley, CA, 91352",22,0
-Sun Jan 31 2021 01:00:01 GMT-0800 (PST),"Quality Custom Distribution","14317 Lomitas Ave, La Puente, CA, 91746",59,0
-Sun Jan 31 2021 01:00:01 GMT-0800 (PST),"Snak King","16150 Stephens St, City of Industry, CA, 91745",30,0
-Sun Jan 31 2021 01:00:01 GMT-0800 (PST),"Tempur-Sealy Mattress Company","825 Ajax Ave, City of Industry, CA, 91748",36,0
-Sun Jan 31 2021 01:00:01 GMT-0800 (PST),"Trader Joe's #44","11114 Balboa Blvd, Granada Hills, CA, 91344",5,0
-Sun Jan 31 2021 01:00:01 GMT-0800 (PST),"Trader Joe's #215","11755 W Olympic Blvd, Los Angeles, CA, 90064",23,0
 Sun Jan 31 2021 01:00:01 GMT-0800 (PST),"Trader Joe's #252","6130 Laurel Canyon Blvd, North Hollywood, CA, 91606",23,0
+Sun Jan 31 2021 01:00:01 GMT-0800 (PST),"Trader Joe's #215","11755 W Olympic Blvd, Los Angeles, CA, 90064",23,0
+Sun Jan 31 2021 01:00:01 GMT-0800 (PST),"Trader Joe's #44","11114 Balboa Blvd, Granada Hills, CA, 91344",5,0
+Sun Jan 31 2021 01:00:01 GMT-0800 (PST),"Tempur-Sealy Mattress Company","825 Ajax Ave, City of Industry, CA, 91748",36,0
+Sun Jan 31 2021 01:00:01 GMT-0800 (PST),"Snak King","16150 Stephens St, City of Industry, CA, 91745",30,0
+Sun Jan 31 2021 01:00:01 GMT-0800 (PST),"Quality Custom Distribution","14317 Lomitas Ave, La Puente, CA, 91746",59,0
+Sun Jan 31 2021 01:00:01 GMT-0800 (PST),"Ontrac Shipping - Sun Valley","11051 Pendleton St, Sun Valley, CA, 91352",22,0
 Sun Jan 31 2021 01:00:01 GMT-0800 (PST),"Campus Residential, USC CI","3131 S Hoover St, Los Angeles, CA, 90089",0,7
-Mon Feb 01 2021 05:00:02 GMT-0800 (PST),"Amazon DAX7","9350 Rayo Ave, South Gate, CA, 90280",88,0
+Sun Jan 31 2021 01:00:01 GMT-0800 (PST),"LA Metro Division 13","920 N Vignes St, Los Angeles, CA, 90012",54,0
+Sun Jan 31 2021 01:00:01 GMT-0800 (PST),"LA County DCFS - Santa Fe Springs","10355 Slusher Dr, Santa Fe Springs, CA, 90670",29,0
+Sun Jan 31 2021 01:00:01 GMT-0800 (PST),"La Colonial Tortilla Products, Inc.","543 Monterey Pass Rd, Monterey Park, CA, 91754",16,0
+Sun Jan 31 2021 01:00:01 GMT-0800 (PST),"Kellwood Apparel","13071 Temple Ave, City of Industry, CA, 91746",26,0
+Sun Jan 31 2021 01:00:01 GMT-0800 (PST),"Goodwill Industries - Downtown Los Angeles 6th and Union Retail Store","1500 W 6th St, Los Angeles, CA, 90017",7,0
+Sun Jan 31 2021 01:00:01 GMT-0800 (PST),"FedEx Ground - Pacoima","12500 Branford St, Pacoima, CA, 91331",180,0
+Sun Jan 31 2021 01:00:01 GMT-0800 (PST),"CR Laurence","2503 E Vernon Ave, Vernon, CA, 90058",32,0
+Sun Jan 31 2021 01:00:01 GMT-0800 (PST),"Ontrac Shipping - Commerce","5959 Randolph St, Commerce, CA, 90040",77,0
+Mon Feb 01 2021 05:00:02 GMT-0800 (PST),"Camino Real Kitchens","2638 E Vernon Ave, Vernon, CA, 90058",39,0
+Mon Feb 01 2021 05:00:02 GMT-0800 (PST),"Fashion Nova Logistics, Inc.","12588 Lakeland Rd, Santa Fe Springs, CA, 90670",292,0
 Mon Feb 01 2021 05:00:02 GMT-0800 (PST),"Home Depot - Hyde Park #1039","1830 W Slauson Ave, Los Angeles, CA, 90047",50,0
 Mon Feb 01 2021 05:00:02 GMT-0800 (PST),"Reyes Coca-Cola Bottling, Los Angeles","1334 S Central Ave, Los Angeles, CA, 90021",88,0
 Mon Feb 01 2021 05:00:02 GMT-0800 (PST),"See's Candies (La Cienega Manufacturing)","3423 S La Cienega Blvd, Los Angeles, CA, 90016",20,0
 Mon Feb 01 2021 05:00:02 GMT-0800 (PST),"Toyota, Hammer","11041 Sepulveda Blvd, Mission Hills, CA, 91345",15,0
 Mon Feb 01 2021 05:00:02 GMT-0800 (PST),"UPS - La Mirada","16301 Trojan Way, La Mirada, CA, 90638",36,0
-Mon Feb 01 2021 05:00:02 GMT-0800 (PST),"Fashion Nova Logistics, Inc.","12588 Lakeland Rd, Santa Fe Springs, CA, 90670",292,0
-Mon Feb 01 2021 05:00:02 GMT-0800 (PST),"Camino Real Kitchens","2638 E Vernon Ave, Vernon, CA, 90058",39,0
-Wed Feb 03 2021 04:00:01 GMT-0800 (PST),"Amazon DLX9","5750 Mesmer Ave, Culver City, CA, 90230",43,0
-Wed Feb 03 2021 04:00:01 GMT-0800 (PST),"American Honda Motor Co., Inc.","700 Van Ness Ave, Torrance, CA, 90501",21,0
+Mon Feb 01 2021 05:00:02 GMT-0800 (PST),"Amazon DAX7","9350 Rayo Ave, South Gate, CA, 90280",88,0
+Wed Feb 03 2021 04:00:01 GMT-0800 (PST),"Northrop Grumman - Redondo Beach","1 Space Park Blvd, Redondo Beach, CA, 90278",5,0
+Wed Feb 03 2021 04:00:01 GMT-0800 (PST),"Amazon DAX7","9350 Rayo Ave, South Gate, CA, 90280",91,0
 Wed Feb 03 2021 04:00:01 GMT-0800 (PST),"Armorcast Products Company","9140 Lurline Ave, Chatsworth, CA, 91311",15,0
 Wed Feb 03 2021 04:00:01 GMT-0800 (PST),"AutoNation Toyota Cerritos","18700 Studebaker Rd, Cerritos, CA, 90703",43,0
 Wed Feb 03 2021 04:00:01 GMT-0800 (PST),"Costco Business Center Warehouse, Burbank #653","11428 Sherman Way, North Hollywood, CA, 91605",35,0
@@ -6907,17 +6907,17 @@ Wed Feb 03 2021 04:00:01 GMT-0800 (PST),"Kia of Cerritos","18201 Studebaker Rd, 
 Wed Feb 03 2021 04:00:01 GMT-0800 (PST),"LA County DCFS - South LA Administration","8300 S Vermont Ave, Los Angeles, CA, 90044",25,0
 Wed Feb 03 2021 04:00:01 GMT-0800 (PST),"LA County DPSS - South Special","17600 B Santa Fe Ave, East Rancho Dominguez, CA, 90221",72,0
 Wed Feb 03 2021 04:00:01 GMT-0800 (PST),"LA County Registrar-Recorder/County Clerk Norwalk","12400 Imperial Hwy, Ste 2204, Norwalk, CA, 90650",58,0
-Wed Feb 03 2021 04:00:01 GMT-0800 (PST),"Target #184","2120 W Main St, Alhambra, CA, 91801",65,0
+Wed Feb 03 2021 04:00:01 GMT-0800 (PST),"Langer's Juice Company","16195 Stephens St, City of Industry, CA, 91745",53,0
 Wed Feb 03 2021 04:00:01 GMT-0800 (PST),"Los Altos Food Products, LLC","450 Baldwin Park Blvd, City of Industry, CA, 91746",25,0
 Wed Feb 03 2021 04:00:01 GMT-0800 (PST),"Northrop Grumman - Azusa","1111 W 3rd St, Azusa, CA, 91702",46,0
 Wed Feb 03 2021 04:00:01 GMT-0800 (PST),"Northrop Grumman - Palmdale","3520 E Ave M, Palmdale, CA, 93550",562,0
-Wed Feb 03 2021 04:00:01 GMT-0800 (PST),"Northrop Grumman - Redondo Beach","1 Space Park Blvd, Redondo Beach, CA, 90278",5,0
+Wed Feb 03 2021 04:00:01 GMT-0800 (PST),"American Honda Motor Co., Inc.","700 Van Ness Ave, Torrance, CA, 90501",21,0
 Wed Feb 03 2021 04:00:01 GMT-0800 (PST),"Ontic Engineering and Manufacturing, Inc.","20400 Plummer St, Chatsworth, CA, 91311",34,0
 Wed Feb 03 2021 04:00:01 GMT-0800 (PST),"Ontrac Shipping - Commerce","5959 Randolph St, Commerce, CA, 90040",82,0
 Wed Feb 03 2021 04:00:01 GMT-0800 (PST),"Ontrac Shipping - Sun Valley","11051 Pendleton St, Sun Valley, CA, 91352",23,0
 Wed Feb 03 2021 04:00:01 GMT-0800 (PST),"Spears Manufacturing Company","15853 Olden St, Sylmar, CA, 91342",73,0
 Wed Feb 03 2021 04:00:01 GMT-0800 (PST),"Sunrider","1461 Francisco St, Torrance, CA, 90501",27,0
-Wed Feb 03 2021 04:00:01 GMT-0800 (PST),"Amazon DAX7","9350 Rayo Ave, South Gate, CA, 90280",91,0
+Wed Feb 03 2021 04:00:01 GMT-0800 (PST),"Target #184","2120 W Main St, Alhambra, CA, 91801",65,0
 Wed Feb 03 2021 04:00:01 GMT-0800 (PST),"Target #1306","3535 S La Cienega Blvd, Los Angeles, CA, 90016",68,0
 Wed Feb 03 2021 04:00:01 GMT-0800 (PST),"Target #1307","5711 Sepulveda Blvd, Van Nuys, CA, 91411",43,0
 Wed Feb 03 2021 04:00:01 GMT-0800 (PST),"Target #2350","38019 47th St E, Palmdale, CA, 93552",23,0
@@ -6935,7 +6935,7 @@ Wed Feb 03 2021 04:00:01 GMT-0800 (PST),"Bruin Plate, UCLA","350 Charles E Young
 Wed Feb 03 2021 04:00:01 GMT-0800 (PST),"Campus Residential 4, UCLA","351 Charles E Young Dr W, Los Angeles, CA, 90024",0,35
 Wed Feb 03 2021 04:00:01 GMT-0800 (PST),"Off Campus Neighborhood, UCLA Hilgard Ave #2","Los Angeles, CA",0,7
 Wed Feb 03 2021 04:00:01 GMT-0800 (PST),"Wishing Well Academic Preschool","20543 Saticoy St, Winnetka, CA, 91306",2,9
-Wed Feb 03 2021 04:00:01 GMT-0800 (PST),"Langer's Juice Company","16195 Stephens St, City of Industry, CA, 91745",53,0
+Wed Feb 03 2021 04:00:01 GMT-0800 (PST),"Amazon DLX9","5750 Mesmer Ave, Culver City, CA, 90230",43,0
 Thu Feb 04 2021 03:00:01 GMT-0800 (PST),"Access Animal Specialty and Emergency Hospital","20051 Ventura Blvd, Woodland Hills, CA, 91364",22,0
 Thu Feb 04 2021 03:00:01 GMT-0800 (PST),"AT&T Cerritos Corporate Center","12911 183rd St, Cerritos, CA, 90703",33,0
 Thu Feb 04 2021 03:00:01 GMT-0800 (PST),"Costco Warehouse, Signal Hill #424","2200 E Willow St, Signal Hill, CA, 90755",57,0
@@ -6958,9 +6958,8 @@ Thu Feb 04 2021 03:00:01 GMT-0800 (PST),"Toyota, Hammer","11041 Sepulveda Blvd, 
 Thu Feb 04 2021 03:00:01 GMT-0800 (PST),"Transdev-Foothill Transit","5640 Peck Rd, Arcadia, CA, 91006",56,0
 Thu Feb 04 2021 03:00:01 GMT-0800 (PST),"Whole Foods Market, Glendale","331 N Glendale Ave, Glendale, CA, 91206",56,0
 Thu Feb 04 2021 03:00:01 GMT-0800 (PST),"Biola University Athletics","13800 Biola Ave, La Mirada, CA, 90639",0,12
-Fri Feb 05 2021 05:00:01 GMT-0800 (PST),"Trinity Classical Academy","28310 Kelly Johnson Pkwy, Valencia, CA, 91355",6,5
+Fri Feb 05 2021 05:00:01 GMT-0800 (PST),"Lance Camper","43120 Venture St, Lancaster, CA, 93535",63,0
 Fri Feb 05 2021 05:00:01 GMT-0800 (PST),"88 International Warehouse","347 S Stimson Ave Unit B, City of Industry, CA, 91744",25,0
-Fri Feb 05 2021 05:00:01 GMT-0800 (PST),"Amazon DLA3","5829 Smithway St, Commerce, CA, 90040",56,0
 Fri Feb 05 2021 05:00:01 GMT-0800 (PST),"Arcadia, Inc. Steel Windows Department","2301 E Vernon Ave, Vernon, CA, 90058",15,0
 Fri Feb 05 2021 05:00:01 GMT-0800 (PST),"Compton Fire Department - Fire Station 1","201 Acacia Avenue, Compton, CA, 90220",16,0
 Fri Feb 05 2021 05:00:01 GMT-0800 (PST),"Dodge Chrysler Jeep Ram, Rydell","700 San Fernando Rd, San Fernando, CA, 91340",24,0
@@ -6973,7 +6972,7 @@ Fri Feb 05 2021 05:00:01 GMT-0800 (PST),"Home Depot - North Hollywood #6613","11
 Fri Feb 05 2021 05:00:01 GMT-0800 (PST),"LA City Bureau of Street Lighting","4550 Santa Monica Blvd, Los Angeles, CA, 90029",33,0
 Fri Feb 05 2021 05:00:01 GMT-0800 (PST),"La Colonial Tortilla Products, Inc.","543 Monterey Pass Rd, Monterey Park, CA, 91754",17,0
 Fri Feb 05 2021 05:00:01 GMT-0800 (PST),"LA County Registrar-Recorder/County Clerk Norwalk","12400 Imperial Hwy, Ste 2204, Norwalk, CA, 90650",59,0
-Fri Feb 05 2021 05:00:01 GMT-0800 (PST),"Lance Camper","43120 Venture St, Lancaster, CA, 93535",63,0
+Fri Feb 05 2021 05:00:01 GMT-0800 (PST),"Amazon DLA3","5829 Smithway St, Commerce, CA, 90040",56,0
 Fri Feb 05 2021 05:00:01 GMT-0800 (PST),"Liberty Ambulance LLC","9441 Washburn Rd, Downey, CA, 90242",10,0
 Fri Feb 05 2021 05:00:01 GMT-0800 (PST),"Mission Foods, Los Angeles","5505 E Olympic Blvd, Commerce, CA, 90022",151,0
 Fri Feb 05 2021 05:00:01 GMT-0800 (PST),"New Hampshire Ball Bearings","9700 Independence Ave, Chatsworth, CA, 91311",66,0
@@ -6985,60 +6984,60 @@ Fri Feb 05 2021 05:00:01 GMT-0800 (PST),"Spears Manufacturing Company","15853 Ol
 Fri Feb 05 2021 05:00:01 GMT-0800 (PST),"Target #2350","38019 47th St E, Palmdale, CA, 93552",25,0
 Fri Feb 05 2021 05:00:01 GMT-0800 (PST),"Vege-Kurl","412 W Cypress St, Glendale, CA, 91204",19,0
 Fri Feb 05 2021 05:00:01 GMT-0800 (PST),"Off Campus Neighborhood, USC W. Adams Blvd","Los Angeles, CA",0,37
+Fri Feb 05 2021 05:00:01 GMT-0800 (PST),"Trinity Classical Academy","28310 Kelly Johnson Pkwy, Valencia, CA, 91355",6,5
 Fri Feb 05 2021 05:00:01 GMT-0800 (PST),"USC Athletics 2","1031 W 34th St, Los Angeles, CA, 90089",0,8
-Sat Feb 06 2021 05:00:02 GMT-0800 (PST),"LAX Terminal 5 - JetBlue Airways","500 World Way, Los Angeles, CA, 90045",60,0
+Sat Feb 06 2021 05:00:02 GMT-0800 (PST),"FedEx Freight - Vernon","4500 Bandini Blvd, Vernon, CA, 90058",28,0
 Sat Feb 06 2021 05:00:02 GMT-0800 (PST),"88 International Warehouse","347 S Stimson Ave Unit B, City of Industry, CA, 91744",26,0
+Sat Feb 06 2021 05:00:02 GMT-0800 (PST),"Amazon DAX7","9350 Rayo Ave, South Gate, CA, 90280",92,0
 Sat Feb 06 2021 05:00:02 GMT-0800 (PST),"Arcadia, Inc. Steel Windows Department","2301 E Vernon Ave, Vernon, CA, 90058",17,0
 Sat Feb 06 2021 05:00:02 GMT-0800 (PST),"Beverly Hills Hotel","9641 Sunset Blvd, Beverly Hills, CA, 90210",22,0
 Sat Feb 06 2021 05:00:02 GMT-0800 (PST),"Cintas Corporation Los Angeles","7735 Paramount Blvd, Pico Rivera, CA, 90660",26,0
-Sat Feb 06 2021 05:00:02 GMT-0800 (PST),"FedEx Freight - Vernon","4500 Bandini Blvd, Vernon, CA, 90058",28,0
 Sat Feb 06 2021 05:00:02 GMT-0800 (PST),"FedEx Ground - City of Industry","200 Old Ranch Rd, City of Industry, CA, 91789",132,0
 Sat Feb 06 2021 05:00:02 GMT-0800 (PST),"Home Depot - Van Nuys #6661","16800 Roscoe Blvd, Van Nuys, CA, 91406",54,0
 Sat Feb 06 2021 05:00:02 GMT-0800 (PST),"Kellwood Apparel","13071 Temple Ave, City of Industry, CA, 91746",28,0
 Sat Feb 06 2021 05:00:02 GMT-0800 (PST),"La Colonial Tortilla Products, Inc.","543 Monterey Pass Rd, Monterey Park, CA, 91754",19,0
-Sat Feb 06 2021 05:00:02 GMT-0800 (PST),"Amazon DAX7","9350 Rayo Ave, South Gate, CA, 90280",92,0
+Sat Feb 06 2021 05:00:02 GMT-0800 (PST),"LAX Terminal 5 - JetBlue Airways","500 World Way, Los Angeles, CA, 90045",60,0
 Sat Feb 06 2021 05:00:02 GMT-0800 (PST),"Northrop Grumman - Azusa","1111 W 3rd St, Azusa, CA, 91702",47,0
 Sat Feb 06 2021 05:00:02 GMT-0800 (PST),"Ontrac Shipping - Commerce","5959 Randolph St, Commerce, CA, 90040",88,0
 Sat Feb 06 2021 05:00:02 GMT-0800 (PST),"Russell Westbrook Car Dealership","6110 Van Nuys Blvd, Van Nuys, CA, 91401",23,0
 Sat Feb 06 2021 05:00:02 GMT-0800 (PST),"Tutor Perini/ O&G, A Joint Venture","1801 Century Park E, Ste 500, Los Angeles, CA, 90067",11,0
 Sat Feb 06 2021 05:00:02 GMT-0800 (PST),"UPS - Cerritos","13233 Moore St, Cerritos, CA, 90703",75,0
 Sat Feb 06 2021 05:00:02 GMT-0800 (PST),"UPS - La Mirada","16301 Trojan Way, La Mirada, CA, 90638",41,0
-Sat Feb 06 2021 05:00:02 GMT-0800 (PST),"South Gate High School, LAUSD","3351 Firestone Blvd, South Gate, CA, 90280",23,0
-Sat Feb 06 2021 05:00:02 GMT-0800 (PST),"Jim Gilliam Childcare","4000 S La Brea Ave, Los Angeles, CA, 90008",5,0
-Sat Feb 06 2021 05:00:02 GMT-0800 (PST),"Whole Foods Market, Westwood","1050 Gayley Ave, Los Angeles, CA, 90024",24,0
 Sat Feb 06 2021 05:00:02 GMT-0800 (PST),"UPS - Olympic Hub","1201 W Olympic Blvd, Los Angeles, CA, 90015",44,0
+Sat Feb 06 2021 05:00:02 GMT-0800 (PST),"Jim Gilliam Childcare","4000 S La Brea Ave, Los Angeles, CA, 90008",5,0
+Sat Feb 06 2021 05:00:02 GMT-0800 (PST),"South Gate High School, LAUSD","3351 Firestone Blvd, South Gate, CA, 90280",23,0
+Sat Feb 06 2021 05:00:02 GMT-0800 (PST),"Whole Foods Market, Westwood","1050 Gayley Ave, Los Angeles, CA, 90024",24,0
+Sun Feb 07 2021 05:00:02 GMT-0800 (PST),"Tutor Perini/O&G, A Joint Venture","1801 Century Park E, Ste 500, Los Angeles, CA, 90067",11,0
+Sun Feb 07 2021 05:00:02 GMT-0800 (PST),"Trader Joe's #122","11976 Ventura Blvd, Studio City, CA, 91604",12,0
+Sun Feb 07 2021 05:00:02 GMT-0800 (PST),"Morley Construction Company","5500 W 98th St, Los Angeles, CA, 90045",85,0
 Sun Feb 07 2021 05:00:02 GMT-0800 (PST),"Llamas Plastics, Inc.","12970 Bradley Ave, Sylmar, CA, 91342",22,0
 Sun Feb 07 2021 05:00:02 GMT-0800 (PST),"LA County Registrar-Recorder/County Clerk Norwalk","12400 Imperial Hwy, Ste 2204, Norwalk, CA, 90650",60,0
 Sun Feb 07 2021 05:00:02 GMT-0800 (PST),"Imperfect Foods, Walnut","351 Cheryl Ln, Walnut, CA, 91789",60,0
 Sun Feb 07 2021 05:00:02 GMT-0800 (PST),"Campus Residential Dining, UCLA","351 Charles E Young Dr W, Los Angeles, CA, 90024",23,0
 Sun Feb 07 2021 05:00:02 GMT-0800 (PST),"Woodward HRT, Inc.","25200 Rye Canyon Rd, Santa Clarita, CA, 91355",73,0
-Sun Feb 07 2021 05:00:02 GMT-0800 (PST),"Tutor Perini/O&G, A Joint Venture","1801 Century Park E, Ste 500, Los Angeles, CA, 90067",11,0
-Sun Feb 07 2021 05:00:02 GMT-0800 (PST),"Trader Joe's #122","11976 Ventura Blvd, Studio City, CA, 91604",12,0
-Sun Feb 07 2021 05:00:02 GMT-0800 (PST),"Morley Construction Company","5500 W 98th St, Los Angeles, CA, 90045",85,0
 Mon Feb 08 2021 06:00:02 GMT-0800 (PST),"Universal Warehouse Company","2850 E Del Amo Blvd, Carson, CA, 90745",28,0
-Tue Feb 09 2021 03:00:01 GMT-0800 (PST),"LA County DCFS - South LA Administration","8300 S Vermont Ave, Los Angeles, CA, 90044",26,0
-Tue Feb 09 2021 03:00:01 GMT-0800 (PST),"99 Cents Only Stores Warehouse and Corporate Office","4000 Union Pacific Ave, Commerce, CA, 90023",147,0
-Tue Feb 09 2021 03:00:01 GMT-0800 (PST),"Amazon Fresh","19340 Rinaldi St, Northridge, CA, 91326",41,0
-Tue Feb 09 2021 03:00:01 GMT-0800 (PST),"Camino Real Kitchens","2638 E Vernon Ave, Vernon, CA, 90058",41,0
-Tue Feb 09 2021 03:00:01 GMT-0800 (PST),"Costco Warehouse, Van Nuys #48","6100 Sepulveda Blvd, Van Nuys, CA, 91411",67,0
-Tue Feb 09 2021 03:00:01 GMT-0800 (PST),"Crissair","28909 Ave Williams, Valencia, CA, 91355",25,0
-Tue Feb 09 2021 03:00:01 GMT-0800 (PST),"Fashion Nova Logistics, Inc.","12588 Lakeland Rd, Santa Fe Springs, CA, 90670",304,0
 Tue Feb 09 2021 03:00:01 GMT-0800 (PST),"FedEx Freight - Vernon","4500 Bandini Blvd, Vernon, CA, 90058",29,0
-Tue Feb 09 2021 03:00:01 GMT-0800 (PST),"Home Depot - Alhambra #6610","500 S Marengo Ave, Alhambra, CA, 91803",49,0
-Tue Feb 09 2021 03:00:01 GMT-0800 (PST),"Hydraulics International, Inc.","9201 Independence Ave, Chatsworth, CA, 91311",20,0
+Tue Feb 09 2021 03:00:01 GMT-0800 (PST),"Fashion Nova Logistics, Inc.","12588 Lakeland Rd, Santa Fe Springs, CA, 90670",304,0
+Tue Feb 09 2021 03:00:01 GMT-0800 (PST),"Crissair","28909 Ave Williams, Valencia, CA, 91355",25,0
+Tue Feb 09 2021 03:00:01 GMT-0800 (PST),"Costco Warehouse, Van Nuys #48","6100 Sepulveda Blvd, Van Nuys, CA, 91411",67,0
+Tue Feb 09 2021 03:00:01 GMT-0800 (PST),"Camino Real Kitchens","2638 E Vernon Ave, Vernon, CA, 90058",41,0
+Tue Feb 09 2021 03:00:01 GMT-0800 (PST),"Amazon Fresh","19340 Rinaldi St, Northridge, CA, 91326",41,0
+Tue Feb 09 2021 03:00:01 GMT-0800 (PST),"99 Cents Only Stores Warehouse and Corporate Office","4000 Union Pacific Ave, Commerce, CA, 90023",147,0
 Tue Feb 09 2021 03:00:01 GMT-0800 (PST),"88 International Warehouse","347 S Stimson Ave, Unit B, City of Industry, CA, 91744",26,0
-Tue Feb 09 2021 03:00:01 GMT-0800 (PST),"LAFD Fire Station 102","13200 Burbank Blvd, Sherman Oaks, CA, 91401",3,0
-Tue Feb 09 2021 03:00:01 GMT-0800 (PST),"Lisi Aerospace","2600 Skypark Dr, Torrance, CA, 90505",43,0
-Tue Feb 09 2021 03:00:01 GMT-0800 (PST),"Northrop Grumman - Palmdale","3520 E Ave M, Palmdale, CA, 93550",589,0
-Tue Feb 09 2021 03:00:01 GMT-0800 (PST),"Nowhere Calabasas, LLC DBA Erewhon Market","26767 Agoura Rd, Calabasas, CA, 91302",28,0
-Tue Feb 09 2021 03:00:01 GMT-0800 (PST),"Smithfield","3049 E Vernon Ave, Vernon, CA, 90058",775,0
-Tue Feb 09 2021 03:00:01 GMT-0800 (PST),"Spears Manufacturing Company","15853 Olden St, Sylmar, CA, 91342",86,0
-Tue Feb 09 2021 03:00:01 GMT-0800 (PST),"Target #184","2120 W Main St, Alhambra, CA, 91801",66,0
-Tue Feb 09 2021 03:00:01 GMT-0800 (PST),"Whole Foods Market, Sherman Oaks","14311 Ventura Blvd, Sherman Oaks, CA, 91423",34,0
 Tue Feb 09 2021 03:00:01 GMT-0800 (PST),"Johnnie L Cochran Jr Middle School, LAUSD","4066 W Johnnie Cochran Vis, Los Angeles, CA, 90019",9,0
-Wed Feb 10 2021 05:00:01 GMT-0800 (PST),"Smithfield","3049 E Vernon Ave, Vernon, CA, 90058",779,0
-Wed Feb 10 2021 05:00:01 GMT-0800 (PST),"Carmax #6003","405 W Technology Dr, Palmdale, CA, 93551",32,0
-Wed Feb 10 2021 05:00:01 GMT-0800 (PST),"Costco Business Center Warehouse, Burbank #653","11428 Sherman Way, North Hollywood, CA, 91605",39,0
+Tue Feb 09 2021 03:00:01 GMT-0800 (PST),"Whole Foods Market, Sherman Oaks","14311 Ventura Blvd, Sherman Oaks, CA, 91423",34,0
+Tue Feb 09 2021 03:00:01 GMT-0800 (PST),"Target #184","2120 W Main St, Alhambra, CA, 91801",66,0
+Tue Feb 09 2021 03:00:01 GMT-0800 (PST),"Spears Manufacturing Company","15853 Olden St, Sylmar, CA, 91342",86,0
+Tue Feb 09 2021 03:00:01 GMT-0800 (PST),"Smithfield","3049 E Vernon Ave, Vernon, CA, 90058",775,0
+Tue Feb 09 2021 03:00:01 GMT-0800 (PST),"Nowhere Calabasas, LLC DBA Erewhon Market","26767 Agoura Rd, Calabasas, CA, 91302",28,0
+Tue Feb 09 2021 03:00:01 GMT-0800 (PST),"Northrop Grumman - Palmdale","3520 E Ave M, Palmdale, CA, 93550",589,0
+Tue Feb 09 2021 03:00:01 GMT-0800 (PST),"Lisi Aerospace","2600 Skypark Dr, Torrance, CA, 90505",43,0
+Tue Feb 09 2021 03:00:01 GMT-0800 (PST),"LAFD Fire Station 102","13200 Burbank Blvd, Sherman Oaks, CA, 91401",3,0
+Tue Feb 09 2021 03:00:01 GMT-0800 (PST),"LA County DCFS - South LA Administration","8300 S Vermont Ave, Los Angeles, CA, 90044",26,0
+Tue Feb 09 2021 03:00:01 GMT-0800 (PST),"Hydraulics International, Inc.","9201 Independence Ave, Chatsworth, CA, 91311",20,0
+Tue Feb 09 2021 03:00:01 GMT-0800 (PST),"Home Depot - Alhambra #6610","500 S Marengo Ave, Alhambra, CA, 91803",49,0
+Wed Feb 10 2021 05:00:01 GMT-0800 (PST),"Ross Bindery","15310 Spring Ave, Santa Fe Springs, CA, 90670",23,0
+Wed Feb 10 2021 05:00:01 GMT-0800 (PST),"Wishing Well Academic Preschool","20543 Saticoy St, Winnetka, CA, 91306",2,10
 Wed Feb 10 2021 05:00:01 GMT-0800 (PST),"FedEx Ground - City of Industry","200 Old Ranch Rd, City of Industry, CA, 91789",137,0
 Wed Feb 10 2021 05:00:01 GMT-0800 (PST),"KDC One/Cosmetic Laboratories of America, Inc.","20245 Sunburst St, Chatsworth, CA, 91311",22,0
 Wed Feb 10 2021 05:00:01 GMT-0800 (PST),"Kellwood Apparel","13071 Temple Ave, City of Industry, CA, 91746",24,0
@@ -7047,17 +7046,17 @@ Wed Feb 10 2021 05:00:01 GMT-0800 (PST),"Mission Foods, Panorama","14200 Arminta
 Wed Feb 10 2021 05:00:01 GMT-0800 (PST),"New Hampshire Ball Bearings","9700 Independence Ave, Chatsworth, CA, 91311",69,0
 Wed Feb 10 2021 05:00:01 GMT-0800 (PST),"OnTrac Shipping - Commerce","5959 Randolph St, Commerce, CA, 90040",88,0
 Wed Feb 10 2021 05:00:01 GMT-0800 (PST),"Reyes Coca-Cola Bottling, Los Angeles","1334 S Central Ave, Los Angeles, CA, 90021",91,0
-Wed Feb 10 2021 05:00:01 GMT-0800 (PST),"Ross Bindery","15310 Spring Ave, Santa Fe Springs, CA, 90670",23,0
+Wed Feb 10 2021 05:00:01 GMT-0800 (PST),"Costco Business Center Warehouse, Burbank #653","11428 Sherman Way, North Hollywood, CA, 91605",39,0
+Wed Feb 10 2021 05:00:01 GMT-0800 (PST),"Shaw Industries","15305 Valley View Ave, Santa Fe Springs, CA, 90670",15,0
+Wed Feb 10 2021 05:00:01 GMT-0800 (PST),"Smithfield","3049 E Vernon Ave, Vernon, CA, 90058",779,0
 Wed Feb 10 2021 05:00:01 GMT-0800 (PST),"Spears Manufacturing Company","15853 Olden St, Sylmar, CA, 91342",88,0
 Wed Feb 10 2021 05:00:01 GMT-0800 (PST),"Transdev-Foothill Transit","5640 Peck Rd, Arcadia, CA, 91006",57,0
 Wed Feb 10 2021 05:00:01 GMT-0800 (PST),"Westlake Financial Services","29851 Agoura Rd, Agoura Hills, CA, 91301",16,0
 Wed Feb 10 2021 05:00:01 GMT-0800 (PST),"Woodward HRT, Inc.","25200 Rye Canyon Rd, Santa Clarita, CA, 91355",74,0
 Wed Feb 10 2021 05:00:01 GMT-0800 (PST),"Bell Senior High, LAUSD Grab & Go Distribution Center","4328 Bell Ave, Bell, CA, 90201",10,0
 Wed Feb 10 2021 05:00:01 GMT-0800 (PST),"Maryvale, Rosemead Early Education Center","7600 Graves Ave, Rosemead, CA, 91770",3,2
-Wed Feb 10 2021 05:00:01 GMT-0800 (PST),"Wishing Well Academic Preschool","20543 Saticoy St, Winnetka, CA, 91306",2,10
-Wed Feb 10 2021 05:00:01 GMT-0800 (PST),"Shaw Industries","15305 Valley View Ave, Santa Fe Springs, CA, 90670",15,0
-Thu Feb 11 2021 04:00:01 GMT-0800 (PST),"Toyota, Hammer","11041 Sepulveda Blvd, Mission Hills, CA, 91345",17,0
-Thu Feb 11 2021 04:00:01 GMT-0800 (PST),"UPS - La Mirada","16301 Trojan Way, La Mirada, CA, 90638",42,0
+Wed Feb 10 2021 05:00:01 GMT-0800 (PST),"Carmax #6003","405 W Technology Dr, Palmdale, CA, 93551",32,0
+Thu Feb 11 2021 04:00:01 GMT-0800 (PST),"Costco Warehouse, Lancaster #762","1141 W Ave L, Lancaster, CA, 93534",43,0
 Thu Feb 11 2021 04:00:01 GMT-0800 (PST),"CR Laurence","2503 E Vernon Ave, Vernon, CA, 90058",34,0
 Thu Feb 11 2021 04:00:01 GMT-0800 (PST),"Estrella Media, Inc. - Hollywood Way","2820 N Hollywood Way, Burbank, CA, 91505",12,0
 Thu Feb 11 2021 04:00:01 GMT-0800 (PST),"FedEx Freight - Vernon","4500 Bandini Blvd, Vernon, CA, 90058",31,0
@@ -7070,8 +7069,9 @@ Thu Feb 11 2021 04:00:01 GMT-0800 (PST),"LAX Terminal 4 - American Airlines","40
 Thu Feb 11 2021 04:00:01 GMT-0800 (PST),"Llamas Plastics, Inc.","12970 Bradley Ave, Sylmar, CA, 91342",31,0
 Thu Feb 11 2021 04:00:01 GMT-0800 (PST),"Marathon Petroleum","2350 E 223rd St, Carson, CA, 90810",114,0
 Thu Feb 11 2021 04:00:01 GMT-0800 (PST),"Northrop Grumman - Palmdale","3520 E Ave M, Palmdale, CA, 93550",601,0
-Thu Feb 11 2021 04:00:01 GMT-0800 (PST),"Costco Business Center Warehouse, Burbank #653","11428 Sherman Way, North Hollywood, CA, 91605",40,0
-Thu Feb 11 2021 04:00:01 GMT-0800 (PST),"Costco Warehouse, Lancaster #762","1141 W Ave L, Lancaster, CA, 93534",43,0
+Thu Feb 11 2021 04:00:01 GMT-0800 (PST),"Toyota, Hammer","11041 Sepulveda Blvd, Mission Hills, CA, 91345",17,0
+Thu Feb 11 2021 04:00:01 GMT-0800 (PST),"UPS - La Mirada","16301 Trojan Way, La Mirada, CA, 90638",42,0
+Thu Feb 11 2021 04:00:01 GMT-0800 (PST),"Whole Foods Market, Glendale","331 N Glendale Ave, Glendale, CA, 91206",58,0
 Thu Feb 11 2021 04:00:01 GMT-0800 (PST),"Campus Residential, USC CI","3131 S Hoover St, Los Angeles, CA, 90089",0,10
 Thu Feb 11 2021 04:00:01 GMT-0800 (PST),"Off Campus Neighborhood, USC S. Figueroa St.","Los Angeles, CA",2,26
 Thu Feb 11 2021 04:00:01 GMT-0800 (PST),"Off Campus Neighborhood, USC S. Figueroa St. 3","Los Angeles, CA",0,115
@@ -7079,23 +7079,23 @@ Thu Feb 11 2021 04:00:01 GMT-0800 (PST),"Off Campus Neighborhood, USC W. Adams B
 Thu Feb 11 2021 04:00:01 GMT-0800 (PST),"Old Orchard Elementary","25141 Avenida Rondel, Valencia, CA, 91355",5,0
 Thu Feb 11 2021 04:00:01 GMT-0800 (PST),"Rancho Los Amigos Children's Center","7755 Golondrinas St, Downey, CA, 90242",4,0
 Thu Feb 11 2021 04:00:01 GMT-0800 (PST),"Wishing Well Academic Preschool","20543 Saticoy St, Winnetka, CA, 91306",2,12
-Thu Feb 11 2021 04:00:01 GMT-0800 (PST),"Whole Foods Market, Glendale","331 N Glendale Ave, Glendale, CA, 91206",58,0
-Fri Feb 12 2021 04:00:01 GMT-0800 (PST),"AT&T; Cerritos Corporate Center","12911 183rd St, Cerritos, CA, 90703",33,0
+Thu Feb 11 2021 04:00:01 GMT-0800 (PST),"Costco Business Center Warehouse, Burbank #653","11428 Sherman Way, North Hollywood, CA, 91605",40,0
 Fri Feb 12 2021 04:00:01 GMT-0800 (PST),"National Wire &amp; Cable Corp.","136 N San Fernando Rd, Los Angeles, CA, 90031",10,0
 Fri Feb 12 2021 04:00:01 GMT-0800 (PST),"Rose &amp; Shore, Inc.","5151 Alcoa Ave, Vernon, CA, 90058",23,0
 Fri Feb 12 2021 04:00:01 GMT-0800 (PST),"Tutor Perini/O&G;, A Joint Venture","1801 Century Park E, Ste 500, Los Angeles, CA, 90067",11,0
 Fri Feb 12 2021 04:00:01 GMT-0800 (PST),"U-Haul Moving &amp; Storage at Valley Blvd","17959 E Valley Blvd, City of Industry, CA, 91744",10,0
 Fri Feb 12 2021 04:00:01 GMT-0800 (PST),"Whole Foods Market, 23rd &amp; Wilshire Blvd","2201 Wilshire Blvd, Santa Monica, CA, 90403",30,0
 Fri Feb 12 2021 04:00:01 GMT-0800 (PST),"Bell Senior High, LAUSD Grab &amp; Go Distribution Center","4328 Bell Ave, Bell, CA, 90201",10,0
-Sat Feb 13 2021 08:25:14 GMT-0800 (PST),"International Medication System-Building 14","1886 Santa Anita Ave, Bldg 14, South El Monte, CA, 91733",8,0
-Sat Feb 13 2021 08:25:14 GMT-0800 (PST),"FedEx LAX","5927 W Imperial Hwy, Los Angeles, CA, 90045",117,0
-Sat Feb 13 2021 08:25:14 GMT-0800 (PST),"Fashion Nova Logistics, Inc.","12588 Lakeland Rd, Santa Fe Springs, CA, 90670",306,0
-Sat Feb 13 2021 08:25:14 GMT-0800 (PST),"Chick-Fil-A Hollywood Drive-Thru Only","6750 W Sunset Blvd, Los Angeles, CA, 90028",11,0
-Sat Feb 13 2021 08:25:14 GMT-0800 (PST),"UCLA Athletics 3","325 Westwood Plz, Los Angeles, CA, 90095",0,22
-Sat Feb 13 2021 08:25:14 GMT-0800 (PST),"Amazon Fresh","19340 Rinaldi St, Northridge, CA, 91326",43,0
-Sat Feb 13 2021 08:25:14 GMT-0800 (PST),"2724 Peck Rd, Monrovia, CA, 91016","65",0,NaN
-Sat Feb 13 2021 08:25:14 GMT-0800 (PST),"Trinity Classical Academy","28310 Kelly Johnson Pkwy, Valencia, CA, 91355",6,3
+Fri Feb 12 2021 04:00:01 GMT-0800 (PST),"AT&T; Cerritos Corporate Center","12911 183rd St, Cerritos, CA, 90703",33,0
 Sat Feb 13 2021 08:25:14 GMT-0800 (PST),"Off Campus Neighborhood, USC W. Adams Blvd","Los Angeles, Ca",0,53
+Sat Feb 13 2021 08:25:14 GMT-0800 (PST),"2724 Peck Rd, Monrovia, CA, 91016","65",0,NaN
+Sat Feb 13 2021 08:25:14 GMT-0800 (PST),"Amazon Fresh","19340 Rinaldi St, Northridge, CA, 91326",43,0
+Sat Feb 13 2021 08:25:14 GMT-0800 (PST),"Camino Real Kitchens","2638 E Vernon Ave, Vernon, CA, 90058",42,0
+Sat Feb 13 2021 08:25:14 GMT-0800 (PST),"Chick-Fil-A Hollywood Drive-Thru Only","6750 W Sunset Blvd, Los Angeles, CA, 90028",11,0
+Sat Feb 13 2021 08:25:14 GMT-0800 (PST),"Fashion Nova Logistics, Inc.","12588 Lakeland Rd, Santa Fe Springs, CA, 90670",306,0
+Sat Feb 13 2021 08:25:14 GMT-0800 (PST),"UCLA Athletics 3","325 Westwood Plz, Los Angeles, CA, 90095",0,22
+Sat Feb 13 2021 08:25:14 GMT-0800 (PST),"Trinity Classical Academy","28310 Kelly Johnson Pkwy, Valencia, CA, 91355",6,3
+Sat Feb 13 2021 08:25:14 GMT-0800 (PST),"FedEx LAX","5927 W Imperial Hwy, Los Angeles, CA, 90045",117,0
 Sat Feb 13 2021 08:25:14 GMT-0800 (PST),"Maryvale, Rosemead Early Education Center","7600 Graves Ave, Rosemead, CA, 91770",4,2
 Sat Feb 13 2021 08:25:14 GMT-0800 (PST),"UPS - Cerritos","13233 Moore St, Cerritos, CA, 90703",76,0
 Sat Feb 13 2021 08:25:14 GMT-0800 (PST),"Target #190","5700 Firestone Blvd, South Gate, CA, 90280",26,0
@@ -7105,38 +7105,52 @@ Sat Feb 13 2021 08:25:14 GMT-0800 (PST),"Smithfield","3049 E Vernon Ave, Vernon,
 Sat Feb 13 2021 08:25:14 GMT-0800 (PST),"Mercury Air Cargo Building 213","6040 Avion Dr, Los Angeles, CA, 90045",62,0
 Sat Feb 13 2021 08:25:14 GMT-0800 (PST),"LAX Terminal 4 - American Airlines","400 World Way, Los Angeles, CA, 90045",282,0
 Sat Feb 13 2021 08:25:14 GMT-0800 (PST),"LA County Library - Administrative Office","7400 Imperial Hwy, Downey, CA, 90242",16,0
-Sat Feb 13 2021 08:25:14 GMT-0800 (PST),"Camino Real Kitchens","2638 E Vernon Ave, Vernon, CA, 90058",42,0
+Sat Feb 13 2021 08:25:14 GMT-0800 (PST),"LA County DPSS - Inglewood, Customer Service Center II Floor 11","9800 S La Cienega Blvd, 11th Floor, Inglewood, CA, 90301",15,0
 Sat Feb 13 2021 08:25:14 GMT-0800 (PST),"LA County DCFS - San Dimas","955 Overland Ct, Ste 100, San Dimas, CA, 91773",14,0
 Sat Feb 13 2021 08:25:14 GMT-0800 (PST),"KDC One/Cosmetic Laboratories of America, Inc.","20245 Sunburst St, Chatsworth, CA, 91311",23,0
 Sat Feb 13 2021 08:25:14 GMT-0800 (PST),"International Paper Co. - Santa Fe Springs #2","11211 Greenstone Ave, Santa Fe Springs, CA, 90670",29,0
-Sat Feb 13 2021 08:25:14 GMT-0800 (PST),"LA County DPSS - Inglewood, Customer Service Center II Floor 11","9800 S La Cienega Blvd, 11th Floor, Inglewood, CA, 90301",15,0
+Sat Feb 13 2021 08:25:14 GMT-0800 (PST),"International Medication System-Building 14","1886 Santa Anita Ave, Bldg 14, South El Monte, CA, 91733",8,0
+Sun Feb 14 2021 01:00:01 GMT-0800 (PST),"Dodge Chrysler Jeep Ram, Hunter (1)","1130 Auto Mall Dr, Lancaster, CA, 93534",11,0
 Sun Feb 14 2021 01:00:01 GMT-0800 (PST),"CR Laurence of Southern California","2503 E Vernon Ave, Vernon, CA, 90058",34,0
 Sun Feb 14 2021 01:00:01 GMT-0800 (PST),"CR Laurence Manufacturing","2100 E 38th St, Vernon, CA, 90058",5,0
 Sun Feb 14 2021 01:00:01 GMT-0800 (PST),"Athens Services - Irwindale","5355 Vincent Ave, Irwindale, CA, 91706",13,0
 Sun Feb 14 2021 01:00:01 GMT-0800 (PST),"UPS - La Mirada","16301 Trojan Way, La Mirada, CA, 90638",43,0
 Sun Feb 14 2021 01:00:01 GMT-0800 (PST),"Shultz Steel Co.","5321 Firestone Blvd, South Gate, CA, 90280",23,0
 Sun Feb 14 2021 01:00:01 GMT-0800 (PST),"Dodge Chrysler Jeep Ram, Hunter (2)","1130 Auto Mall Dr, Lancaster, CA, 93534",12,0
-Sun Feb 14 2021 01:00:01 GMT-0800 (PST),"Dodge Chrysler Jeep Ram, Hunter (1)","1130 Auto Mall Dr, Lancaster, CA, 93534",11,0
 Mon Feb 15 2021 03:00:01 GMT-0800 (PST),"Dodge Chrysler Jeep Ram, Hunter (2)","1130 Auto Mall Dr, Lancaster, CA, 93534",14,0
 Mon Feb 15 2021 03:00:01 GMT-0800 (PST),"Target #290","2169 W Redondo Beach Blvd, Gardena, CA, 90247",23,0
 Tue Feb 16 2021 05:00:01 GMT-0800 (PST),"Reyes Coca-Cola Bottling, Los Angeles","1334 S Central Ave, Los Angeles, CA, 90021",92,0
-Wed Feb 17 2021 05:00:02 GMT-0800 (PST),"Home Depot - Cypress Park #6689","2055 N Figueroa St, Los Angeles, CA, 90065",57,0
-Wed Feb 17 2021 05:00:02 GMT-0800 (PST),"Northrop Grumman - Palmdale","3520 E Ave M, Palmdale, CA, 93550",611,0
+Wed Feb 17 2021 05:00:02 GMT-0800 (PST),"Whole Foods Market, Sherman Oaks","14311 Ventura Blvd, Sherman Oaks, CA, 91423",35,0
+Wed Feb 17 2021 05:00:02 GMT-0800 (PST),"Lisi Aerospace","2600 Skypark Dr, Torrance, CA, 90505",45,0
 Wed Feb 17 2021 05:00:02 GMT-0800 (PST),"88 International Warehouse","347 S Stimson Ave, Unit B, City of Industry, CA, 91744",27,0
 Wed Feb 17 2021 05:00:02 GMT-0800 (PST),"Amazon DAX7","9350 Rayo Ave, South Gate, CA, 90280",94,0
 Wed Feb 17 2021 05:00:02 GMT-0800 (PST),"Crissair","28909 Ave Williams, Valencia, CA, 91355",26,0
 Wed Feb 17 2021 05:00:02 GMT-0800 (PST),"Curacao - Los Angeles","1605 W Olympic Blvd, Ste 588, Los Angeles, CA, 90015",20,0
 Wed Feb 17 2021 05:00:02 GMT-0800 (PST),"Dodge Chrysler Jeep Ram, Hunter","1130 Auto Mall Dr, Lancaster, CA, 93534",14,0
 Wed Feb 17 2021 05:00:02 GMT-0800 (PST),"FedEx Ground - City of Industry","200 Old Ranch Rd, City of Industry, CA, 91789",138,0
-Wed Feb 17 2021 05:00:02 GMT-0800 (PST),"Sunrider","1461 Francisco St, Torrance, CA, 90501",46,0
+Wed Feb 17 2021 05:00:02 GMT-0800 (PST),"Home Depot - Cypress Park #6689","2055 N Figueroa St, Los Angeles, CA, 90065",57,0
 Wed Feb 17 2021 05:00:02 GMT-0800 (PST),"LA Apparel #3","1020 E 59th St, Los Angeles, CA, 90001",68,0
-Wed Feb 17 2021 05:00:02 GMT-0800 (PST),"Lisi Aerospace","2600 Skypark Dr, Torrance, CA, 90505",45,0
-Wed Feb 17 2021 05:00:02 GMT-0800 (PST),"MedReach Ambulance","1303 Kona Dr, Compton, CA, 90220",8,0
+Wed Feb 17 2021 05:00:02 GMT-0800 (PST),"OnTrac Shipping - Commerce","5959 Randolph St, Commerce, CA, 90040",96,0
+Wed Feb 17 2021 05:00:02 GMT-0800 (PST),"Sunrider","1461 Francisco St, Torrance, CA, 90501",46,0
 Wed Feb 17 2021 05:00:02 GMT-0800 (PST),"Target #1306","3535 S La Cienega Blvd, Los Angeles, CA, 90016",69,0
 Wed Feb 17 2021 05:00:02 GMT-0800 (PST),"Target #1411","3600 Rosemead Blvd, Rosemead, CA, 91770",64,0
 Wed Feb 17 2021 05:00:02 GMT-0800 (PST),"West Covina Fire Department - Fire Station 4","1815 S Azusa Ave, West Covina, CA, 91792",10,0
-Wed Feb 17 2021 05:00:02 GMT-0800 (PST),"Whole Foods Market, Sherman Oaks","14311 Ventura Blvd, Sherman Oaks, CA, 91423",35,0
+Wed Feb 17 2021 05:00:02 GMT-0800 (PST),"Northrop Grumman - Palmdale","3520 E Ave M, Palmdale, CA, 93550",611,0
 Wed Feb 17 2021 05:00:02 GMT-0800 (PST),"Woodward HRT, Inc.","25200 Rye Canyon Rd, Santa Clarita, CA, 91355",76,0
 Wed Feb 17 2021 05:00:02 GMT-0800 (PST),"County Kids Place KinderCare","2916 S Hope St, Los Angeles, CA, 90007",2,3
 Wed Feb 17 2021 05:00:02 GMT-0800 (PST),"Off Campus Neighborhood, USC W. Adams Blvd","Los Angeles, CA",0,53
-Wed Feb 17 2021 05:00:02 GMT-0800 (PST),"OnTrac Shipping - Commerce","5959 Randolph St, Commerce, CA, 90040",96,0
+Wed Feb 17 2021 05:00:02 GMT-0800 (PST),"MedReach Ambulance","1303 Kona Dr, Compton, CA, 90220",8,0
+Thu Feb 18 2021 04:00:01 GMT-0800 (PST),"Amazon Bookstore, Los Cerritos - JFN3","239 Los Cerritos Mall, Ste C03, Cerritos, CA, 90703",6,0
+Thu Feb 18 2021 04:00:01 GMT-0800 (PST),"Fashion Nova Logistics, Inc.","12588 Lakeland Rd, Santa Fe Springs, CA, 90670",307,0
+Thu Feb 18 2021 04:00:01 GMT-0800 (PST),"FedEx Ground - Pacoima","12500 Branford St, Pacoima, CA, 91331",183,0
+Thu Feb 18 2021 04:00:01 GMT-0800 (PST),"Harbor Freight Tools","26850 Agoura Rd, Agoura, CA, 91301",4,0
+Thu Feb 18 2021 04:00:01 GMT-0800 (PST),"Home Depot - Hyde Park #1039","1830 W Slauson Ave, Los Angeles, CA, 90047",52,0
+Thu Feb 18 2021 04:00:01 GMT-0800 (PST),"Michaels Distribution Center","3501 W Ave H, Lancaster, CA, 93536",95,0
+Thu Feb 18 2021 04:00:01 GMT-0800 (PST),"CR Laurence of Southern California","2503 E Vernon Ave, Vernon, CA, 90058",35,0
+Thu Feb 18 2021 04:00:01 GMT-0800 (PST),"Northrop Grumman - Palmdale","3520 E Ave M, Palmdale, CA, 93550",618,0
+Thu Feb 18 2021 04:00:01 GMT-0800 (PST),"Project Site, NFL Media Center","900 District Dr, Inglewood, CA, 90301",63,0
+Thu Feb 18 2021 04:00:01 GMT-0800 (PST),"Smithfield","3049 E Vernon Ave, Vernon, CA, 90058",782,0
+Thu Feb 18 2021 04:00:01 GMT-0800 (PST),"Campus Residential 4, UCLA","351 Charles E Young Dr W, Los Angeles, CA, 90024",0,36
+Thu Feb 18 2021 04:00:01 GMT-0800 (PST),"Off Campus Neighborhood, USC S. Figueroa St. 3","Los Angeles, CA",0,135
+Thu Feb 18 2021 04:00:01 GMT-0800 (PST),"Off Campus Neighborhood, USC W. Adams Blvd","Los Angeles, Ca",0,53
+Thu Feb 18 2021 04:00:01 GMT-0800 (PST),"New Hampshire Ball Bearings","9700 Independence Ave, Chatsworth, CA, 91311",71,0
