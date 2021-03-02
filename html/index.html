@@ -253,6 +253,12 @@ var m0 = getms();
 						var dr = Math.round(doubling) + " days";
 						pct += " (doubling in " + dr + ")";
 					}
+					if (ratio < 1) {
+						var doubling = doublewidth / (Math.log(ratio) / Math.log(0.5));
+						var dr = Math.round(doubling) + " days";
+						pct += " (halving in " + dr + ")";
+					}
+					//}
 					if (0 && ICUratio > 1) {
 						pct += "  <small>Predicted ICU increase this week: +" + Math.round(ICUratio * 100 - 100) + "%</small>";
 					}
