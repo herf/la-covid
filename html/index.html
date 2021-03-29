@@ -519,8 +519,13 @@ function displayResult(feed, filt) {
 			var li = d[i];
 			if (!li.location.startsWith("age")) continue;
 
+			// crazy LA 0-4 year explosion/adjustment in data
+			// I made up the 10 but it looks OK
+			if (+li.casechange > 5000) li.casechange = 10;
+
 			if (i == d.length - 1) {
 				fixup.push(i);
+
 				groupsum += +li.casechange;
 			}
 
