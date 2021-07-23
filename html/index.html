@@ -42,7 +42,7 @@ td,th {
 		<div class="col-md-8 col-sm-12 offset-md-2">
 			<h1>COVID-19 Los Angeles</h1>
 			<a href='#newcases'>See new outbreaks reported in schools, workplaces, and public spaces</a>
-			<h4>Case rates by region (7-day average daily cases per 100,000)</h4>
+			<h4>Case rates by region: Daily new cases per 100,000 <small>(7-day moving average)</small></h4>
 			<div id="chart" style='width:100%' class='mt-4'></div>
 			<small class='text-muted'>Pinch or mousewheel to zoom</small>
 			<div class='row mt-4'>
@@ -126,6 +126,8 @@ v			Tier 2 (Red): Substantial<br/>
 <script>
 
 function fillgaps(ci) {
+	return 0;
+
 	for (var i = 3; i < ci.length; i++) {
 		// fill in backlogs, up to one day:
 		if (ci[i - 1] <= ci[i - 2]) {
@@ -220,9 +222,9 @@ var m0 = getms();
 			var ci = data.columns[c];
 
 			var icuduration = new Int32Array(data.columns[c]);
-			process(icuduration, ICUdays);
 
-			process(ci, 7);
+			process(icuduration, ICUdays);
+			process(ci, 7, true);
 
 			if (namemap[ci[0]])
 				ci[0] = namemap[ci[0]];
@@ -331,7 +333,7 @@ var m0 = getms();
 	            		format: '%Y-%m-%d'
 	        		}
 	        	}, y: {
-	        		label: "Cases per 100,000 (7-day average)",
+	        		label: "Cases per 100,000 (new daily cases)",
 	        		//type: "log",
 	        		//min: 1
 	        	}
