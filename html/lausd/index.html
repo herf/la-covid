@@ -63,6 +63,14 @@ td,th {
     if (actdata) drawActiveChart();
   }
 
+  // correct for PST:
+  function parseDate(dt) {
+    var d = new Date(dt);
+
+    // offset by PST so it works for PST/PDT:
+    return new Date(d.valueOf() + 3600 * 1000 * 8);
+  }
+
   function drawChart() {
 
     // csv format:
@@ -79,7 +87,7 @@ td,th {
         if (i == ratedata.length || ratedata[i].date != lastdate) {
             var row = [];
             if (ratect) {
-                row.push(new Date(lastdate));
+                row.push(parseDate(lastdate));
                 row.push(ratesum / ratect);
                 datatable.push(row);
             }
@@ -157,13 +165,17 @@ td,th {
         document.getElementById('outbreak').innerHTML = td.join('');
   }
 
+  // sets everything:
   function setfilterUI(f) {
+    console.log("Setting filter to " + f);
     document.getElementById('schoolfilt').value = f;
     setfilter(f);
+    return false;
   }
 
   function filteronly(f) {
     setfilterUI(f);  // fornow
+    return false;
   }
 
   function setfilter(f) {
@@ -183,6 +195,7 @@ td,th {
 
   function clearfilter() {
     setfilterUI("");
+    return false;
   }
 
   function drawActiveChart() {
@@ -211,7 +224,7 @@ td,th {
         if (i == actdata.length || actdata[i].date != lastdate) {
             var row = [];
             if (ratesum) {
-                row.push(new Date(lastdate));
+                row.push(parseDate(lastdate));
                 row.push(ratesum);
                 if (userfilter && 0) {
                     row.push("gray");
@@ -262,7 +275,7 @@ td,th {
         // make links:
         var htmllink = [];
         for (var i = 0; i < slist.length; i++) {
-            htmllink.push("<a href='javascript:filteronly(\"" + slist[i] + "\")' class='badge badge-primary mr-1'>" + slist[i] + "</a>");
+            htmllink.push("<a href='javascript:void(0)' onclick=\"javascript:filteronly('" + slist[i] + "');\" class='badge badge-primary mr-1'>" + slist[i] + "</a>");
         }
         document.getElementById('filtermatch').innerHTML = htmllink.join("");//slist.join(", ");
     }
@@ -321,7 +334,7 @@ window.onload = function () {
                     <input class="form-control" id="schoolfilt" type="text" placeholder="Type a school name..." onchange="setfilter(this.value)" onkeyup="setfilter(this.value)">
                 </div>
                 <div class='col-sm-12 col-md-6'>
-                    <button class="btn btn-warning" onclick="clearfilter();return 0;">Clear Filter</button>
+                    <button class="btn btn-warning" onclick="clearfilter();">Clear Filter</button>
                 </div>
             </div>
             <small>
