@@ -48,7 +48,7 @@ td,th {
 
     d3.csv(feed2).then(function(d) {
         actdata = d;
-        console.log(actdata);
+        //console.log(actdata);
         if (havechart) drawActiveChart();
     });
 </script>
@@ -113,14 +113,43 @@ td,th {
     chart.draw(dt, options);
   }
 
+  // sort in-school transmission first, then community cases:
+  function sortcomp(a, b) {
+    var av = a.inschool * 100 + a.community;
+    var bv = b.inschool * 100 + b.community;
+
+    return av - bv;
+  }
+
   function drawOutbreakTable(actdata) {
         var td = [];
         td.push("<table class='p-3 table table-striped table-hover'><thead><tr><th>Date</th><th>School name</th><th>Cases</th></tr></thead><tbody>");
-        for (var i = actdata.length - 1; i >= 0; i--) {
-            var ai = actdata[i];
-            if (ai.inschool > 0) {
-                td.push("<tr><td>" + ai.date + "</td><td>" + ai.school + "</td><td>" + ai.inschool + "</td></tr>");
+
+        var latest = [];
+        for (var i = 0; i < actdata.length; i++) {
+            // json foo
+            actdata[i].community = parseInt(actdata[i].community);
+            actdata[i].inschool = parseInt(actdata[i].inschool);
+
+            // sorted "last case rate" filtered by user input:
+            if (actdata[i].date == actdata[actdata.length - 1].date) {
+            //if (actdata[i].date == "2021-08-28") {  // TESTONLY
+                if (!userfilter || 
+                    actdata[i].school.toLowerCase().indexOf(userfilter) != -1) {
+                    latest.push(actdata[i]);
+                }
             }
+        }
+
+        latest.sort(sortcomp);
+
+        for (var i = latest.length - 1; i >= 0; i--) {
+            var ai = latest[i];
+            var insch = "";
+            if (ai.inschool > 0) {
+                insch = '<span class="ml-3 badge badge-pill badge-danger">' + ai.inschool + ' in school</span>'
+            }
+            td.push("<tr><td>" + ai.date + "</td><td>" + ai.school + "</td><td>" + (ai.community + ai.inschool) + insch + "</td></tr>");
         }
 
         td.push("</tbody></table>");
@@ -128,15 +157,32 @@ td,th {
         document.getElementById('outbreak').innerHTML = td.join('');
   }
 
+  function setfilterUI(f) {
+    document.getElementById('schoolfilt').value = f;
+    setfilter(f);
+  }
+
+  function filteronly(f) {
+    setfilterUI(f);  // fornow
+  }
+
   function setfilter(f) {
+    if (f.length > 2) {
+        window.location.hash = "loc=" + f;
+    } else {
+        window.location.hash = "";
+    }
+
+    setfilter_(f);
+  }
+
+  function setfilter_(f) {
     userfilter = f.toLowerCase();
-    console.log(userfilter);
     drawActiveChart();
   }
 
   function clearfilter() {
-    document.getElementById('schoolfilt').value = v;
-    setfilter(nil);
+    setfilterUI("");
   }
 
   function drawActiveChart() {
@@ -152,7 +198,7 @@ td,th {
         datatable[0].push("{role: 'annotation'}");
     }
 
-    console.log(datatable[0]);
+    //console.log(datatable[0]);
 
     var lastdate;
     var ratesum = 0;
@@ -171,7 +217,7 @@ td,th {
                     row.push("gray");
                     row.push(ratesum.toString());
                 }
-                console.log(row);
+                //console.log(row);
                 datatable.push(row);
             }
 
@@ -213,7 +259,12 @@ td,th {
 
         document.getElementById('filtermatch').textContent = stext + " and " + d25 + " more.";
     } else {
-        document.getElementById('filtermatch').textContent = slist.join(", ");
+        // make links:
+        var htmllink = [];
+        for (var i = 0; i < slist.length; i++) {
+            htmllink.push("<a href='javascript:filteronly(\"" + slist[i] + "\")' class='badge badge-primary mr-1'>" + slist[i] + "</a>");
+        }
+        document.getElementById('filtermatch').innerHTML = htmllink.join("");//slist.join(", ");
     }
 
     var options = {
@@ -240,6 +291,17 @@ window.onresize = function() {
     drawActiveChart();
 }
 
+window.onload = function () {
+    if (location.hash) {
+        if (location.hash.startsWith("#loc=")) {
+            var unesc = decodeURIComponent(location.hash.substr(5));
+            setfilterUI(unesc);
+        }
+    }
+};
+
+
+
 </script>
 
 
@@ -247,8 +309,9 @@ window.onresize = function() {
 	<div class="row">
 
 		<div class="col-xl-6 col-lg-8 col-md-12 off-xl-4 offset-lg-2">
-            <h1>LAUSD COVID-19 test results <small>(2021-2022)</small></h1>
-            <h5 class='text-muted'>As reported by LAUSD COVID Report Card</h5>
+
+            <h1><a href='https://www.parentssupportingteachers.org/'><img src='pst.jpg' height="128px"></a>LAUSD COVID-19 test results <small>(2021-2022)</small></h1>
+            <h5 class='text-muted'>As reported by <a href='https://achieve.lausd.net/covidreportcard'>LAUSD COVID Report Card</a> and <a href='https://twitter.com/DataDrivenMD'>Jorge Caballero</a></h5>
 
             <div class='row'>
                 <div class='col-sm-12 mt-4'>
@@ -258,7 +321,7 @@ window.onresize = function() {
                     <input class="form-control" id="schoolfilt" type="text" placeholder="Type a school name..." onchange="setfilter(this.value)" onkeyup="setfilter(this.value)">
                 </div>
                 <div class='col-sm-12 col-md-6'>
-                    <button class="btn btn-primary" onclick="clearfilter();return 0;">Clear Filter</button>
+                    <button class="btn btn-warning" onclick="clearfilter();return 0;">Clear Filter</button>
                 </div>
             </div>
             <small>
@@ -275,9 +338,9 @@ window.onresize = function() {
 
             <div class="card mt-4">
                   <div class="card-body">
-                    <h5 class='card-title'>Cases from school-based transmission</h5>
+                    <h5 class='card-title'>Schools with most active cases, or in-school transmission</h5>
                     <div id='outbreak' style='height: 240px; overflow: auto'></div>
-                    <p class="text-muted mt-1">Positive test cases were determined to be epidemiologically (epi)-linked through contact tracing. Two cases may be epi-linked when they were both present in the same setting during the time period while either or both were infectious.
+                    <p class="text-muted mt-1">In-school transmission <span style='opacity:0.6' class="badge badge-pill badge-danger">highlighted in red</span> means: Positive test cases were determined to be epidemiologically (epi)-linked through contact tracing. Two cases may be epi-linked when they were both present in the same setting during the time period while either or both were infectious.
                     </p>
                 </div>
             </div>

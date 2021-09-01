@@ -1,0 +1,45 @@
+2021-08-19 Community-based cases.csv true false
+2021-08-20 Community-based cases.csv true false
+2021-08-21 Community-based cases.csv true false
+2021-08-21 School-linked cases.csv false true
+2021-08-22T1536 Community-based cases.csv true false
+2021-08-22T1536 School-linked cases.csv false true
+2021-08-22T2152 Community-based cases.csv true false
+2021-08-22T2152 School-linked cases.csv false true
+2021-08-23T0817 Community-based cases.csv true false
+2021-08-23T1031 Staff and Student Case rate.csv false false
+2021-08-23T1816 Community-based cases.csv true false
+2021-08-23T1816 School-linked cases.csv false true
+2021-08-23T1816 Staff and Student Case rate.csv false false
+2021-08-24T0655 Community-based cases.csv true false
+2021-08-24T0655 School-linked cases.csv false true
+2021-08-24T0655 Staff and Student Case rate.csv false false
+2021-08-25T0830 Community-based cases.csv true false
+2021-08-25T0830 School-linked cases.csv false true
+2021-08-25T0830 Staff and Student Case rate.csv false false
+2021-08-26T0943 Community-based cases.csv true false
+2021-08-26T0943 School-linked cases.csv false true
+2021-08-26T0943 Staff and Student Case rate.csv false false
+2021-08-27T0810 Community-based cases.csv true false
+2021-08-27T0810 School-linked cases.csv false true
+2021-08-27T0810 Staff and Student Case rate.csv false false
+2021-08-28T0905 Community-based cases.csv true false
+2021-08-28T0905 School-linked cases.csv false true
+2021-08-28T0905 Staff and Student Case rate.csv false false
+2021-08-29T1038 Community-based cases.csv true false
+2021-08-29T1038 School-linked cases.csv false true
+2021-08-29T1038 Staff and Student Case rate.csv false false
+2021-08-30T0807 Community-based cases.csv true false
+2021-08-30T0807 School-linked cases.csv false true
+2021-08-30T0807 Staff and Student Case rate.csv false false
+2021-08-31T0900 Community-based cases.csv true false
+2021-08-31T0900 School-linked cases.csv false true
+2021-08-31T0900 Staff and Student Case rate.csv false false
+2021-09-01T1005 Community-based cases.csv true false
+2021-09-01T1005 School-linked cases.csv false true
+2021-09-01T1005 Staff and Student Case rate.csv false false
+LAUSD-active.csv false false
+LAUSD-rates.csv false false
+index.js false false
+lausd-rate.csv false false
+ratebuild.sh false false

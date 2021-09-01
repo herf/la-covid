@@ -178,6 +178,9 @@ function AllActive() {
 		// merge these -> rowmerge
 		if (fx.indexOf("Community") != -1) comm = true;
 		if (fx.indexOf("School-linked") != -1) link = true;
+		if (fx.indexOf("labels") != -1) continue;
+
+		console.log(fx, comm, link);
 
 		if (!comm && !link) continue;
 
