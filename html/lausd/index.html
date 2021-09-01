@@ -181,8 +181,10 @@ td,th {
   function setfilter(f) {
     if (f.length > 2) {
         window.location.hash = "loc=" + f;
+        document.title = "LAUSD case rates - " + f;
     } else {
         window.location.hash = "";
+        document.title = "LAUSD case rates";
     }
 
     setfilter_(f);
