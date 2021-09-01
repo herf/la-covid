@@ -37,8 +37,9 @@ td,th {
     var havechart = 0;
 
     var ratedata, actdata, metadata;
-
     var userfilter;
+    // which areas the user might want to know about:
+    var regionfilter = {};
 
     var loadct = 0;
     const loadneeded = 3;
@@ -87,11 +88,35 @@ td,th {
 
     // csv format:
     var datatable = [];
-    datatable.push(["Date", "Average Case Rate"]);
+    datatable.push(["Date", "LAUSD Average Case Rate"]);
 
     var lastdate;
     var ratesum = 0;
     var ratect = 0;
+
+    var regions = {};
+    var useregionfilter = Object.keys(regionfilter).length > 0;
+
+    console.log("regionfilter", regionfilter);
+
+    for (var i = 0; i < ratedata.length; i++) {
+
+        // trim " Community of Schools" everywhere
+        ratedata[i].region = ratedata[i].region.replace(" Community of Schools", "");
+        if (!useregionfilter || regionfilter[ratedata[i].region]) {
+            if (!regions[ratedata[i].region]) {
+                regions[ratedata[i].region] = 1;
+                datatable[0].push(ratedata[i].region);
+            }
+        } else {
+            // say what we filtered
+            //console.log("filtered", ratedata[i]);
+        }
+    }
+
+    //console.log(datatable[0].length, datatable[0]);
+
+    var cols = [];
 
     // go "out of bounds" by one to summarize the last:
     for (var i = 0; i <= ratedata.length; i++) {
@@ -101,6 +126,11 @@ td,th {
             if (ratect) {
                 row.push(parseDate(lastdate));
                 row.push(ratesum / ratect);
+                for (var c = 0; c < cols.length; c++) {
+                    row.push(cols[c]);
+                }
+
+                //console.log(row.length, row);
                 datatable.push(row);
             }
 
@@ -109,17 +139,29 @@ td,th {
 
             ratesum = 0;
             ratect = 0;
+            cols = [];
             lastdate = ratedata[i].date;
         }
+
+        if (!useregionfilter || regionfilter[ratedata[i].region]) {
+            //assume sorted and just push in order
+            cols.push(parseFloat(ratedata[i].caserate));
+        }
+
         // ignore "region" as we are averaging:
         ratesum += parseFloat(ratedata[i].caserate);
         ratect ++;
     }
 
+    console.log(datatable);
+
     var options = {
       //title: 'Average Case Rate (daily increase in cases/100,000)',
       legend: { position: 'bottom' },
       //chartArea: {width: '80%', left: '0%', height: '80%'},
+      seriesType: 'bars',
+      series: {0: {type: 'line'}},
+
       hAxis: {
         format: 'MMM d'
       },
@@ -128,7 +170,9 @@ td,th {
       }
     };
 
-    var chart = new google.visualization.ColumnChart(document.getElementById('rate_chart'));
+    //var chart = new google.visualization.ColumnChart(document.getElementById('rate_chart'));
+    //var chart = new google.visualization.LineChart(document.getElementById('rate_chart'));
+    var chart = new google.visualization.ComboChart(document.getElementById('rate_chart'));
     var dt = google.visualization.arrayToDataTable(datatable);
     chart.draw(dt, options);
   }
@@ -149,6 +193,7 @@ td,th {
   function textMatch(a, b) {
 
     // empty filter matches all:
+    if (!a) return false;  
     if (!b || b.length < 2) return true;
 
     // middle-of-string searching:
@@ -166,6 +211,8 @@ td,th {
         td.push("<table class='p-3 table table-striped table-hover'><thead><tr><th>Date</th><th>School name</th><th>Cases</th></tr></thead><tbody>");
 
         var latest = [];
+        regionfilter = {};
+
         for (var i = 0; i < actdata.length; i++) {
             // json foo
             actdata[i].community = parseInt(actdata[i].community);
@@ -174,13 +221,20 @@ td,th {
             var md = metadata[actdata[i].school];
             if (md) {
                 actdata[i].pop = parseInt(md.enrolled);
+                actdata[i].region = md.community;    // oops collision otherwise
             }
 
             // sorted "last case rate" filtered by user input:
             if (actdata[i].date == actdata[actdata.length - 1].date) {
             //if (actdata[i].date == "2021-08-28") {  // TESTONLY
-                if (textMatch(actdata[i].school, userfilter)) {
+                if (textMatch(actdata[i].school, userfilter) ||
+                    textMatch(actdata[i].region, userfilter)) {
                     //actdata[i].school.toLowerCase().indexOf(userfilter) != -1) {
+
+                    // store a list of regions as a side effect for our case-rate graph:
+                    if (actdata[i].region) {
+                        regionfilter[actdata[i].region] = 1;
+                    }
 
                     // only sort things with a known enrollment
                     if (actdata[i].pop > 0) {
@@ -241,7 +295,7 @@ td,th {
     if (f && f.length > 0) $('#clearfilter').show();
     else $('#clearfilter').hide();
 
-    drawActiveChart();
+    redrawAll();
   }
 
   function clearfilter() {
@@ -356,8 +410,9 @@ function redrawAll() {
     if (!havechart) return 0;
     if (loadct < loadneeded) return 0;
 
+    drawActiveChart();  // side effect: regionfilter
+    console.log("before case:", Object.keys(regionfilter).length);
     drawCaseChart();
-    drawActiveChart();
 }
 
 window.onresize = function() {
@@ -373,20 +428,16 @@ window.onload = function () {
     }
 };
 
-
-
 </script>
-
-
-<main class="container-fluid mt-5">
+<main class="container-fluid mt-3">
 	<div class="row">
 
 		<div class="col-xl-6 col-lg-8 col-md-12 off-xl-4 offset-lg-2">
 
-            <h1>
+            <h2>
                 <a href='https://www.parentssupportingteachers.org/'><img src='pst.jpg' height="128px"></a>
                 LAUSD COVID-19 test results <small>(2021)</small>
-            </h1>
+            </h2>
                 <p class='text-muted'>As reported by <a href='https://achieve.lausd.net/covidreportcard'>LAUSD COVID Report Card</a> and <a href='https://twitter.com/DataDrivenMD'>Jorge Caballero</a></p>
           
 
@@ -413,23 +464,25 @@ window.onload = function () {
               </div>
             </div>
 
+
             <div class="card mt-4">
+              <div class="card-body">
+                <h5 class="card-title">Regional and LAUSD Average Case Rate (daily increase in cases/100,000)</h5>
+                <div id="rate_chart" style='height: 400px' ></div>
+                <p class="card-text text-muted mt-3">Staff and Student Case Rate – 7-day rolling average of daily cases per 100,000 students and school-based staff across the entire district.</p>
+              </div>
+            </div>
+
+            <div class="card mt-4 mb-5">
                   <div class="card-body">
                     <h5 class='card-title'>Schools with most active cases, or in-school transmission</h5>
-                    <div id='outbreak' style='height: 24em; overflow: auto'></div>
+                    <div id='outbreak'></div>
                     <p class="text-muted mt-1">In-school transmission <span style='opacity:0.6' class="badge badge-pill badge-danger">highlighted in red</span> means: Positive test cases were determined to be epidemiologically (epi)-linked through contact tracing. Two cases may be epi-linked when they were both present in the same setting during the time period while either or both were infectious.
                     </p>
                 </div>
             </div>
 
 
-            <div class="card mt-4">
-              <div class="card-body">
-                <h5 class="card-title">Average Case Rate (daily increase in cases/100,000</h5>
-                <div id="rate_chart" style='height: 400px' ></div>
-                <p class="card-text text-muted mt-3">Staff and Student Case Rate – 7-day rolling average of daily cases per 100,000 students and school-based staff across the entire district.</p>
-              </div>
-            </div>
         </div>
     </div>
 </main>
