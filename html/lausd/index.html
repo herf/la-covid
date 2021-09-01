@@ -33,24 +33,37 @@ td,th {
 
 <script>
 
-    var feed = "./LAUSD-rates.csv";
-    var ratedata, actdata;
+    // google charts loaded?
     var havechart = 0;
+
+    var ratedata, actdata, metadata;
 
     var userfilter;
 
-    d3.csv(feed).then(function(d) {
+    var loadct = 0;
+    const loadneeded = 3;
+
+    d3.csv("./LAUSD-rates.csv").then(function(d) {
         ratedata = d;
-        if (havechart) drawChart();
+        loadct ++;
+        redrawAll();
     });
 
-    var feed2 = "./LAUSD-active.csv";
-
-    d3.csv(feed2).then(function(d) {
+    d3.csv("./LAUSD-active.csv").then(function(d) {
         actdata = d;
-        //console.log(actdata);
-        if (havechart) drawActiveChart();
+        loadct ++;
+        redrawAll();
     });
+
+    d3.csv("./LAUSD-meta.csv").then(function(d) {
+        metadata = {};
+        for (var i = 0; i < d.length; i++) {
+            metadata[d[i].name] = d[i];
+        }
+        loadct ++;
+        redrawAll();
+    });
+
 </script>
 
 <script>
@@ -59,8 +72,7 @@ td,th {
 
   function haveChart() {
     havechart = 1;
-    if (ratedata) drawChart();
-    if (actdata) drawActiveChart();
+    redrawAll();
   }
 
   // correct for PST:
@@ -71,7 +83,7 @@ td,th {
     return new Date(d.valueOf() + 3600 * 1000 * 8);
   }
 
-  function drawChart() {
+  function drawCaseChart() {
 
     // csv format:
     var datatable = [];
@@ -123,10 +135,30 @@ td,th {
 
   // sort in-school transmission first, then community cases:
   function sortcomp(a, b) {
+    var av = a.inschool + a.actrate;
+    var bv = b.inschool + b.actrate;
+    /*
     var av = a.inschool * 100 + a.community;
     var bv = b.inschool * 100 + b.community;
+    */
 
     return av - bv;
+  }
+
+  // as a convention b is lowercase:
+  function textMatch(a, b) {
+
+    // empty filter matches all:
+    if (!b || b.length < 2) return true;
+
+    // middle-of-string searching:
+    if (b.charAt(0) == '$') {
+        return a.toLowerCase().indexOf(b.substr(1)) != -1;
+    }
+
+    // startsWith by default:
+    return a.toLowerCase().startsWith(b);
+    //return a.toLowerCase().indexOf(b) != -1;
   }
 
   function drawOutbreakTable(actdata) {
@@ -139,12 +171,23 @@ td,th {
             actdata[i].community = parseInt(actdata[i].community);
             actdata[i].inschool = parseInt(actdata[i].inschool);
 
+            var md = metadata[actdata[i].school];
+            if (md) {
+                actdata[i].pop = parseInt(md.enrolled);
+            }
+
             // sorted "last case rate" filtered by user input:
             if (actdata[i].date == actdata[actdata.length - 1].date) {
             //if (actdata[i].date == "2021-08-28") {  // TESTONLY
-                if (!userfilter || 
-                    actdata[i].school.toLowerCase().indexOf(userfilter) != -1) {
-                    latest.push(actdata[i]);
+                if (textMatch(actdata[i].school, userfilter)) {
+                    //actdata[i].school.toLowerCase().indexOf(userfilter) != -1) {
+
+                    // only sort things with a known enrollment
+                    if (actdata[i].pop > 0) {
+                        var actrate = (actdata[i].community + actdata[i].inschool) / actdata[i].pop;
+                        actdata[i].actrate = actrate;
+                        latest.push(actdata[i]);
+                    }
                 }
             }
         }
@@ -157,7 +200,9 @@ td,th {
             if (ai.inschool > 0) {
                 insch = '<span class="ml-3 badge badge-pill badge-danger">' + ai.inschool + ' in school</span>'
             }
-            td.push("<tr><td>" + ai.date + "</td><td>" + ai.school + "</td><td>" + (ai.community + ai.inschool) + insch + "</td></tr>");
+            var poprate = Math.round(100000 * ai.actrate);
+            //td.push("<tr><td>" + ai.date + "</td><td>" + ai.school + "</td><td>" + (ai.community + ai.inschool) + insch + "</td></tr>");
+            td.push("<tr><td>" + ai.date + "</td><td>" + ai.school + "</td><td title='" + poprate + "/100,000'>" + (ai.community + ai.inschool) + " <small class='text-muted'>(" + (100.0 * ai.actrate).toPrecision(2) + "%)</small></td></tr>");
         }
 
         td.push("</tbody></table>");
@@ -192,6 +237,10 @@ td,th {
 
   function setfilter_(f) {
     userfilter = f.toLowerCase();
+    
+    if (f && f.length > 0) $('#clearfilter').show();
+    else $('#clearfilter').hide();
+
     drawActiveChart();
   }
 
@@ -248,7 +297,8 @@ td,th {
             passfilter = true;
             schoollist[actdata[i].school] = 1;  // kind of
         }
-        if (userfilter && actdata[i].school.toLowerCase().indexOf(userfilter) != -1) {
+        //if (userfilter && actdata[i].school.toLowerCase().indexOf(userfilter) != -1) {
+        if (textMatch(actdata[i].school, userfilter)) {
             passfilter = true;
             schoollist[actdata[i].school] = 1;
         }
@@ -301,9 +351,17 @@ td,th {
     drawOutbreakTable(actdata);
   }
 
-window.onresize = function() {
-    drawChart();
+// only redraws when all feeds are present
+function redrawAll() {
+    if (!havechart) return 0;
+    if (loadct < loadneeded) return 0;
+
+    drawCaseChart();
     drawActiveChart();
+}
+
+window.onresize = function() {
+    redrawAll();
 }
 
 window.onload = function () {
@@ -340,7 +398,7 @@ window.onload = function () {
                     <input class="form-control" id="schoolfilt" type="text" placeholder="Type a school name..." onchange="setfilter(this.value)" onkeyup="setfilter(this.value)">
                 </div>
                 <div class='col-sm-12 col-md-6'>
-                    <button class="btn btn-warning" onclick="clearfilter();">Clear Filter</button>
+                    <button id='clearfilter' style='display:none' class="btn btn-warning" onclick="clearfilter();">Clear Filter<small></small></button>
                 </div>
             </div>
             <small>
@@ -358,7 +416,7 @@ window.onload = function () {
             <div class="card mt-4">
                   <div class="card-body">
                     <h5 class='card-title'>Schools with most active cases, or in-school transmission</h5>
-                    <div id='outbreak' style='height: 240px; overflow: auto'></div>
+                    <div id='outbreak' style='height: 24em; overflow: auto'></div>
                     <p class="text-muted mt-1">In-school transmission <span style='opacity:0.6' class="badge badge-pill badge-danger">highlighted in red</span> means: Positive test cases were determined to be epidemiologically (epi)-linked through contact tracing. Two cases may be epi-linked when they were both present in the same setting during the time period while either or both were infectious.
                     </p>
                 </div>
@@ -375,5 +433,11 @@ window.onload = function () {
         </div>
     </div>
 </main>
+
+</script>
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous">
+</script>
+
 </body>
 </html>
