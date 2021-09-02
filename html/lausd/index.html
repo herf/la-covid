@@ -264,7 +264,7 @@ td,th {
             }
             var poprate = Math.round(100000 * ai.actrate);
             //td.push("<tr><td>" + ai.date + "</td><td>" + ai.school + "</td><td>" + (ai.community + ai.inschool) + insch + "</td></tr>");
-            td.push("<tr><td>" + ai.date + "</td><td>" + ai.school + "</td><td title='" + poprate + "/100,000'>" + (ai.community + ai.inschool) + " <small class='text-muted'>(" + (100.0 * ai.actrate).toPrecision(2) + "%)</small></td></tr>");
+            td.push("<tr><td>" + ai.date + "</td><td>" + ai.school + "</td><td title='" + poprate + "/100,000'>" + (ai.community + ai.inschool) + " <small class='text-muted'>(" + (100.0 * ai.actrate).toPrecision(2) + "%)</small>" + insch + "</td></tr>");
         }
 
         td.push("</tbody></table>");
