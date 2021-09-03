@@ -39,6 +39,9 @@
 2021-09-02T0805 Community-based cases.csv true false
 2021-09-02T0805 School-linked cases.csv false true
 2021-09-02T0805 Staff and Student Case rate.csv false false
+2021-09-03T0810 Community-based cases.csv true false
+2021-09-03T0810 School-linked cases.csv false true
+2021-09-03T0810 Staff and Student Case rate.csv false false
 LAUSD-active.csv false false
 LAUSD-rates.csv false false
 index.js false false
