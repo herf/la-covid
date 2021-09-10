@@ -361,7 +361,8 @@ td,th {
             schoollist[actdata[i].school] = 1;  // kind of
         }
         //if (userfilter && actdata[i].school.toLowerCase().indexOf(userfilter) != -1) {
-        if (textMatch(actdata[i].school, userfilter)) {
+        if (textMatch(actdata[i].school, userfilter) ||
+            textMatch(actdata[i].region, userfilter)) {
             passfilter = true;
             schoollist[actdata[i].school] = 1;
         }
