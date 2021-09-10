@@ -147,7 +147,7 @@ function AllRates() {
 
 		//var d = new Date(fx.substr(0, 10));
 		//console.log(d.toString());
-		var dt = fx.substr(0, 10);
+		var dt = DayBefore(fx.substr(0, 10));
 		for (var i = 0; i < rows.length; i++) {
 			if (i == 0) continue;
 
@@ -161,6 +161,13 @@ function AllRates() {
 
 	var rstr = res.join("\n");
 	fs.writeFileSync("LAUSD-rates.csv", rstr);
+}
+
+function DayBefore(dt) {
+	// push back a day
+	var d = new Date(dt).valueOf() - 86400 * 1000;
+	var e = new Date(d);
+	return e.toISOString().split('T')[0];	
 }
 
 function AllActive() {
@@ -187,7 +194,10 @@ function AllActive() {
 		var d = fs.readFileSync(fx).toString();
 		var rows = d.split('\n');
 
+
 		var dt = fx.substr(0, 10);
+		dt = DayBefore(dt);
+
 		for (var i = 0; i < rows.length; i++) {
 			if (i == 0) continue;
 			if (rows[i].length < 10) continue;
