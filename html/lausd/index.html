@@ -44,13 +44,14 @@ td,th {
     // google charts loaded?
     var havechart = 0;
 
-    var ratedata, actdata, metadata;
+    var ratedata, actdata, metadata, latimes;
     var userfilter;
     // which areas the user might want to know about:
     var regionfilter = {};
 
     var loadct = 0;
-    const loadneeded = 3;
+    var mergedone = 0;
+    const loadneeded = 4;
 
     d3.csv("./LAUSD-rates.csv").then(function(d) {
         ratedata = d;
@@ -69,6 +70,12 @@ td,th {
         for (var i = 0; i < d.length; i++) {
             metadata[d[i].name] = d[i];
         }
+        loadct ++;
+        redrawAll();
+    });
+
+    d3.csv("https://herf.org/la-covid/lausd.csv").then(function(d) {
+        latimes = d;
         loadct ++;
         redrawAll();
     });
@@ -135,7 +142,7 @@ td,th {
                 row.push(parseDate(lastdate));
                 row.push(ratesum / ratect);
                 for (var c = 0; c < cols.length; c++) {
-                    row.push(cols[c]);
+                    if (cols[c]) row[c] = parseFloat(cols[c]);//row.push(cols[c]);
                 }
 
                 //console.log(row.length, row);
@@ -153,7 +160,15 @@ td,th {
 
         if (!useregionfilter || regionfilter[ratedata[i].region]) {
             //assume sorted and just push in order
-            cols.push(parseFloat(ratedata[i].caserate));
+            //$$$ cols.push(parseFloat(ratedata[i].caserate));
+
+            // no let's try:
+            var ind = datatable[0].indexOf(ratedata[i].region);
+            if (ind == -1) {
+                console.log("Missing ", ratedata[i].region);
+            } else {
+                cols[ind] = ratedata[i].caserate;
+            }
         }
 
         // ignore "region" as we are averaging:
@@ -161,7 +176,7 @@ td,th {
         ratect ++;
     }
 
-    //console.log(datatable);
+    console.log("caserate", datatable);
 
     var options = {
       //title: 'Average Case Rate (daily increase in cases/100,000)',
@@ -413,10 +428,83 @@ td,th {
     chart.draw(dt, options);
   }
 
+function sortrate(a, b) {
+    if (a.date != b.date) return a.date.localeCompare(b.date);
+    if (a.region != b.region) return a.region.localeCompare(b.region);
+
+    return 0;
+}
+
+function mergeFeeds() {
+
+    // merge LAT data into older feeds
+    // dedupe the region table:
+    var lastpre;
+    if (ratedata.length) lastpre = ratedata[ratedata.length - 1].date;
+    {
+        var latmerge = {}
+
+        // date, region, caserate
+        for (var i = 0; i < latimes.length; i++) {
+            var lat = latimes[i];
+            latmerge[lat.date + "," + lat.community_schools] = lat.community_rate;
+        }
+
+        for (var k in latmerge) {
+            var r = {};
+            var sp = k.split(',');
+            r.date = sp[0];
+            //r.region = sp[1].replace(" Community of Schools", "");
+            // handle all kinds of ellipses!
+            r.region = sp[1].replace(/ Communit.*/, "");
+            r.caserate = parseFloat(latmerge[k]);
+
+            if (r.region.length > 0 && r.date > lastpre) {
+                ratedata.push(r);
+            }
+        }
+    }
+
+    ratedata.sort(sortrate);
+    if (0) {
+        var ldate = ratedata[ratedata.length - 1].date;
+        for (var i = 0; i < ratedata.length; i++) {
+            if (ldate == ratedata[i].date) {
+                //console.log(i, ratedata[i]);
+            }
+        }
+
+        console.log(ratedata);
+    }
+
+    // === part 2 merge newer date into our active cases:
+    // date, school, community, inschool
+    // <= date, school, staff_student, transmission
+    var lastdate;
+    if (actdata.length) lastdate = actdata[actdata.length - 1].date;
+    for (var i = 0; i < latimes.length; i++) {
+        var lat = latimes[i];
+        if (lat.date <= lastdate) continue;
+        console.log("Merging", lat);
+        var row = {};
+        row.date = lat.date;
+        row.school = lat.school;
+        row.community = lat.staff_student;
+        row.inschool = lat.transmission;
+        actdata.push(row);
+    }
+
+    //console.log(latrate);
+}
+
 // only redraws when all feeds are present
 function redrawAll() {
     if (!havechart) return 0;
     if (loadct < loadneeded) return 0;
+    if (!mergedone) {
+        mergeFeeds();
+        mergedone = 1;
+    }
 
     drawActiveChart();  // side effect: regionfilter
     drawCaseChart();
