@@ -176,7 +176,7 @@ td,th {
         ratect ++;
     }
 
-    console.log("caserate", datatable);
+    //console.log("caserate", datatable);
 
     var options = {
       //title: 'Average Case Rate (daily increase in cases/100,000)',
@@ -474,7 +474,7 @@ function mergeFeeds() {
             }
         }
 
-        console.log(ratedata);
+        //console.log(ratedata);
     }
 
     // === part 2 merge newer date into our active cases:
@@ -485,7 +485,7 @@ function mergeFeeds() {
     for (var i = 0; i < latimes.length; i++) {
         var lat = latimes[i];
         if (lat.date <= lastdate) continue;
-        console.log("Merging", lat);
+        //console.log("Merging", lat);
         var row = {};
         row.date = lat.date;
         row.school = lat.school;
