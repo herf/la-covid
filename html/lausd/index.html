@@ -447,7 +447,7 @@ function mergeFeeds() {
         // date, region, caserate
         for (var i = 0; i < latimes.length; i++) {
             var lat = latimes[i];
-            latmerge[lat.date + "," + lat.community_schools] = lat.community_rate;
+            latmerge[lat.date + "," + lat.community_schools] = lat.staff_student_rate;
         }
 
         for (var k in latmerge) {
