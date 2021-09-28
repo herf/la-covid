@@ -444,12 +444,13 @@ Wed Jul 08 2020 09:00:01 GMT-0700 (Pacific Daylight Time),"UPS - Main St","1800 
 Wed Jul 08 2020 09:00:01 GMT-0700 (Pacific Daylight Time),"UPS - San Fernando","12745 Arroyo St, Sylmar, CA, 91342",7,0
 Thu Jul 09 2020 09:00:01 GMT-0700 (Pacific Daylight Time),"Satsuma Landscape","214 N 1st St, La Puente, CA, 91744",3,0
 Thu Jul 09 2020 09:00:01 GMT-0700 (Pacific Daylight Time),"B & R Commerce","4261 S Alameda St, Vernon, CA, 90058",5,25
-Thu Jul 09 2020 09:00:01 GMT-0700 (Pacific Daylight Time),"Santa Anita Race Track","285 W Huntington Dr, Arcadia, CA, 91007",17,10
+Thu Jul 09 2020 09:00:01 GMT-0700 (Pacific Daylight Time),"SoFi Stadium","1000 S Prairie Ave, Inglewood, CA, 90301",37,0
 Thu Jul 09 2020 09:00:01 GMT-0700 (Pacific Daylight Time),"Spyder Auto","19315 E Walnut Dr N, City Of Industry, CA, 91748",8,8
 Thu Jul 09 2020 09:00:01 GMT-0700 (Pacific Daylight Time),"Stars Center","11515 Colima Rd, Whittier, CA, 90604",63,9
 Thu Jul 09 2020 09:00:01 GMT-0700 (Pacific Daylight Time),"Turbo Wholesale Tires","5793 Martin Rd, Irwindale, CA, 91706",42,6
 Thu Jul 09 2020 09:00:01 GMT-0700 (Pacific Daylight Time),"UPS - Bell","4700 Eastern Ave, Bell Gardens, CA, 90201",4,0
 Thu Jul 09 2020 09:00:01 GMT-0700 (Pacific Daylight Time),"Urban Plates","12746 W Jefferson Blvd, Playa Vista, CA, 90094",8,0
+Thu Jul 09 2020 09:00:01 GMT-0700 (Pacific Daylight Time),"Santa Anita Race Track","285 W Huntington Dr, Arcadia, CA, 91007",17,10
 Thu Jul 09 2020 09:00:01 GMT-0700 (Pacific Daylight Time),"Pankow Construction","898 S Prairie Ave, Inglewood, CA, 90301",6,2
 Thu Jul 09 2020 09:00:01 GMT-0700 (Pacific Daylight Time),"Pacific Spice Company","6430 E Slauson Ave, Commerce, CA, 90040",7,3
 Thu Jul 09 2020 09:00:01 GMT-0700 (Pacific Daylight Time),"Novipax","1941 N White Ave, La Verne, CA, 91750",24,0
@@ -457,7 +458,6 @@ Thu Jul 09 2020 09:00:01 GMT-0700 (Pacific Daylight Time),"Luskin Conference Cen
 Thu Jul 09 2020 09:00:01 GMT-0700 (Pacific Daylight Time),"Los Angeles County Sanitation Districts, San Gabriel Valley Field Office","1927 W San Bernardino Rd, West Covina, CA, 91790",3,2
 Thu Jul 09 2020 09:00:01 GMT-0700 (Pacific Daylight Time),"Law Office of Jacob Emrani","714 W Olympic Blvd, 300, Los Angeles, CA, 90015",5,3
 Thu Jul 09 2020 09:00:01 GMT-0700 (Pacific Daylight Time),"La City Division of Building and Safety","221 N Figueroa St, 1100, Los Angeles, CA, 90012",8,4
-Thu Jul 09 2020 09:00:01 GMT-0700 (Pacific Daylight Time),"SoFi Stadium","1000 S Prairie Ave, Inglewood, CA, 90301",37,0
 Thu Jul 09 2020 09:00:01 GMT-0700 (Pacific Daylight Time),"LAPD Valley Traffic Station","7870 Nollan Pl, Van Nuys, CA, 91402",8,0
 Thu Jul 09 2020 09:00:01 GMT-0700 (Pacific Daylight Time),"LA County Dept. of Parks and Recreation","265 Cloverleaf Dr, Baldwin Park, CA, 91706",3,14
 Thu Jul 09 2020 09:00:01 GMT-0700 (Pacific Daylight Time),"KWDZ","337 S Anderson St, Los Angeles, CA, 90033",10,0
@@ -4092,10 +4092,10 @@ Sat Dec 05 2020 03:00:01 GMT-0800 (Pacific Standard Time),"Kohl's Redondo Beach"
 Sat Dec 05 2020 03:00:01 GMT-0800 (Pacific Standard Time),"LA County DCFS - Covina Annex Regional Office","1373 Center Court Dr, Covina, CA, 91724",5,0
 Sat Dec 05 2020 03:00:01 GMT-0800 (Pacific Standard Time),"LA County Library","7400 Imperial Hwy, Downey, CA, 90242",5,0
 Sat Dec 05 2020 03:00:01 GMT-0800 (Pacific Standard Time),"LA County Registrar-Recorder/County Clerk","12680 Corral Pl, Santa Fe Springs, CA, 90670",3,0
-Sat Dec 05 2020 03:00:01 GMT-0800 (Pacific Standard Time),"Lance Camper","43120 Venture St, Lancaster, CA, 93535",13,0
-Sat Dec 05 2020 03:00:01 GMT-0800 (Pacific Standard Time),"LAPD Van Nuys Community Police Station","6240 Sylmar Ave, Van Nuys, CA, 91401",12,0
-Sat Dec 05 2020 03:00:01 GMT-0800 (Pacific Standard Time),"Able Services","351 S Fuller Ave, Tower 35, Los Angeles, CA, 90036",3,0
 Sat Dec 05 2020 03:00:01 GMT-0800 (Pacific Standard Time),"Los Angeles Dodgers LLC","1000 Vin Scully Ave, Los Angeles, CA, 90012",12,1
+Sat Dec 05 2020 03:00:01 GMT-0800 (Pacific Standard Time),"LAPD Van Nuys Community Police Station","6240 Sylmar Ave, Van Nuys, CA, 91401",12,0
+Sat Dec 05 2020 03:00:01 GMT-0800 (Pacific Standard Time),"Lance Camper","43120 Venture St, Lancaster, CA, 93535",13,0
+Sat Dec 05 2020 03:00:01 GMT-0800 (Pacific Standard Time),"Able Services","351 S Fuller Ave, Tower 35, Los Angeles, CA, 90036",3,0
 Sat Dec 05 2020 03:00:01 GMT-0800 (Pacific Standard Time),"Los Angeles Motor Cars, Inc.","2025 S Figueroa St, Los Angeles, CA, 90007",17,0
 Sat Dec 05 2020 03:00:01 GMT-0800 (Pacific Standard Time),"McDonald's","1133 N La Brea Ave, West Hollywood, CA, 90038",4,0
 Sat Dec 05 2020 03:00:01 GMT-0800 (Pacific Standard Time),"McDonald’s #11826","101 W Manchester Ave, Los Angeles, CA, 90003",5,0
@@ -4171,14 +4171,14 @@ Sun Dec 06 2020 02:00:02 GMT-0800 (Pacific Standard Time),"Woodward HRT, Inc.","
 Sun Dec 06 2020 02:00:02 GMT-0800 (Pacific Standard Time),"Bright Horizons at Ocean Park","3350 Ocean Park Blvd, Santa Monica, CA, 90405",4,2
 Sun Dec 06 2020 02:00:02 GMT-0800 (Pacific Standard Time),"Leona Cox Community School","18643 Oakmoor St, Santa Clarita, CA, 91351",4,0
 Sun Dec 06 2020 02:00:02 GMT-0800 (Pacific Standard Time),"Sinai Akiba Academy","10400 Wilshire Blvd, Los Angeles, CA, 90024",5,1
-Mon Dec 07 2020 05:00:01 GMT-0800 (Pacific Standard Time),"LA County Fire Department - Battalion 08 (Fire Stations 25, 40) and Battalion 12 (Fire Station 87","4864 Durfee Ave, Pico Rivera, CA, 90660",10,0
+Mon Dec 07 2020 05:00:01 GMT-0800 (Pacific Standard Time),"USC Hotel","1031 W 34th St, Los Angeles, CA, 90089",6,0
 Mon Dec 07 2020 05:00:01 GMT-0800 (Pacific Standard Time),"CVS - Workmann St","2419 Workman St, Los Angeles, CA, 90031",8,0
 Mon Dec 07 2020 05:00:01 GMT-0800 (Pacific Standard Time),"Golden Bolt LLC","9371 Canoga Ave, Chatsworth, CA, 91311",8,0
+Mon Dec 07 2020 05:00:01 GMT-0800 (Pacific Standard Time),"LA County Fire Department - Battalion 08 (Fire Stations 25, 40) and Battalion 12 (Fire Station 87","4864 Durfee Ave, Pico Rivera, CA, 90660",10,0
 Mon Dec 07 2020 05:00:01 GMT-0800 (Pacific Standard Time),"LAFD Fire Station 37","1090 Veteran Ave, Los Angeles, CA, 90024",10,0
 Mon Dec 07 2020 05:00:01 GMT-0800 (Pacific Standard Time),"LAPD Newton Community Police Station","3400 S Central Ave, Los Angeles, CA, 90011",28,0
 Mon Dec 07 2020 05:00:01 GMT-0800 (Pacific Standard Time),"Seafood City Supermarket","134 S Vermont Ave # 140, Los Angeles, CA, 90004",5,0
-Mon Dec 07 2020 05:00:01 GMT-0800 (Pacific Standard Time),"USC Hotel","1031 W 34th St, Los Angeles, CA, 90089",6,0
-Tue Dec 08 2020 04:00:01 GMT-0800 (Pacific Standard Time),"Neftlix Productions","18421 S Main St, Gardena, CA, 90248",9,0
+Tue Dec 08 2020 04:00:01 GMT-0800 (Pacific Standard Time),"Georg Fischer Signet LLC","3401 Aero Jet Ave, El Monte, CA, 91731",19,0
 Tue Dec 08 2020 04:00:01 GMT-0800 (Pacific Standard Time),"New Vac","9330 De Soto Ave, Chatsworth, CA, 91311",6,0
 Tue Dec 08 2020 04:00:01 GMT-0800 (Pacific Standard Time),"Northrop Grumman (Carpentry Department)","1 Space Park Blvd, Redondo Beach, CA, 90278",6,0
 Tue Dec 08 2020 04:00:01 GMT-0800 (Pacific Standard Time),"Northrop Grumman - Palmdale","3520 E Avenue M, Palmdale, CA, 93550",155,0
@@ -4190,7 +4190,7 @@ Tue Dec 08 2020 04:00:01 GMT-0800 (Pacific Standard Time),"Warner Bros Televisio
 Tue Dec 08 2020 04:00:01 GMT-0800 (Pacific Standard Time),"Off Campus Neighborhood, UCLA Gayley Ave #1","Los Angeles, CA",0,4
 Tue Dec 08 2020 04:00:01 GMT-0800 (Pacific Standard Time),"Trinity Classical Academy","28310 Kelly Johnson Pkwy, Valencia, CA, 91355",5,4
 Tue Dec 08 2020 04:00:01 GMT-0800 (Pacific Standard Time),"USC Athletics","1031 W 34th St, Los Angeles, CA, 90089",1,4
-Tue Dec 08 2020 04:00:01 GMT-0800 (Pacific Standard Time),"Georg Fischer Signet LLC","3401 Aero Jet Ave, El Monte, CA, 91731",19,0
+Tue Dec 08 2020 04:00:01 GMT-0800 (Pacific Standard Time),"Mistras","8427 Atlantic Ave, Cudahy, CA, 90201",7,0
 Tue Dec 08 2020 04:00:01 GMT-0800 (Pacific Standard Time),"Griley Airfreight","5341 W 104th St, Los Angeles, CA, 90045",11,0
 Tue Dec 08 2020 04:00:01 GMT-0800 (Pacific Standard Time),"LA City DWP","111 N Hope St, Los Angeles, CA, 90012",4,0
 Tue Dec 08 2020 04:00:01 GMT-0800 (Pacific Standard Time),"LA County DCFS - Broadway","1993 S Broadway, Los Angeles, CA, 90007",13,0
@@ -4198,12 +4198,12 @@ Tue Dec 08 2020 04:00:01 GMT-0800 (Pacific Standard Time),"LAPD Security Service
 Tue Dec 08 2020 04:00:01 GMT-0800 (Pacific Standard Time),"LAPD Southwest Community Police Station","1546 W Martin Luther King Jr Blvd, Los Angeles, CA, 90062",12,0
 Tue Dec 08 2020 04:00:01 GMT-0800 (Pacific Standard Time),"Level Furnishing","888 S Olive St, Los Angeles, CA, 90014",5,0
 Tue Dec 08 2020 04:00:01 GMT-0800 (Pacific Standard Time),"Mercury Air Cargo Building 216","6041 W Imperial Hwy, Los Angeles, CA, 90045",6,0
-Tue Dec 08 2020 04:00:01 GMT-0800 (Pacific Standard Time),"Mistras","8427 Atlantic Ave, Cudahy, CA, 90201",7,0
+Tue Dec 08 2020 04:00:01 GMT-0800 (Pacific Standard Time),"FedEx Ground Arcadia","12369 Lower Azusa Rd, Arcadia, CA, 91006",21,0
 Tue Dec 08 2020 04:00:01 GMT-0800 (Pacific Standard Time),"Netflix Epic Building","5901 W Sunset Blvd, Los Angeles, CA, 90028",4,0
+Tue Dec 08 2020 04:00:01 GMT-0800 (Pacific Standard Time),"Neftlix Productions","18421 S Main St, Gardena, CA, 90248",9,0
 Tue Dec 08 2020 04:00:01 GMT-0800 (Pacific Standard Time),"Brentwood Originals","20639 S Fordyce Ave, Carson, CA, 90810",21,0
 Tue Dec 08 2020 04:00:01 GMT-0800 (Pacific Standard Time),"Burbank Unified School District, Facilities Department","1900 W Olive Ave, Burbank, CA, 91506",6,0
 Tue Dec 08 2020 04:00:01 GMT-0800 (Pacific Standard Time),"Fashion Nova Logistics, Inc.","12588 Lakeland Rd, Santa Fe Springs, CA, 90670",53,0
-Tue Dec 08 2020 04:00:01 GMT-0800 (Pacific Standard Time),"FedEx Ground Arcadia","12369 Lower Azusa Rd, Arcadia, CA, 91006",21,0
 Tue Dec 08 2020 04:00:01 GMT-0800 (Pacific Standard Time),"Greenlane Holdings (Vape/Smoking Supplies/Accessories)","1111 W Artesia Blvd, Compton, CA, 90220",5,0
 Wed Dec 09 2020 04:00:01 GMT-0800 (Pacific Standard Time),"LAPD Newton Community Police Station","3400 S Central Ave, Los Angeles, CA, 90011",32,0
 Wed Dec 09 2020 04:00:01 GMT-0800 (Pacific Standard Time),"99 Cents Only Stores #63","5270 W Sunset Blvd, Los Angeles, CA, 90027",3,0
@@ -4345,6 +4345,7 @@ Thu Dec 10 2020 05:00:01 GMT-0800 (Pacific Standard Time),"Starbucks Mission Hil
 Thu Dec 10 2020 05:00:01 GMT-0800 (Pacific Standard Time),"Smurfit Kappa North America","440 Baldwin Park Blvd, City of Industry, CA, 91746",7,0
 Thu Dec 10 2020 05:00:01 GMT-0800 (Pacific Standard Time),"Smithfield","3049 E Vernon Ave, Vernon, CA, 90058",333,0
 Thu Dec 10 2020 05:00:01 GMT-0800 (Pacific Standard Time),"Senior Aerospace SSP","2980 N San Fernando Blvd, Burbank, CA, 91504",26,0
+Thu Dec 10 2020 05:00:01 GMT-0800 (Pacific Standard Time),"Research Support Unit, UCLA","221 Westwood Plaza, Los Angeles, CA, 90095",6,0
 Thu Dec 10 2020 05:00:01 GMT-0800 (Pacific Standard Time),"See's Candy, Inc. (Manufacturing)","3423 S La Cienega Blvd, Los Angeles, CA, 90016",12,0
 Thu Dec 10 2020 05:00:01 GMT-0800 (Pacific Standard Time),"Rudolph & Sletten","3525 W 8th St, Los Angeles, CA, 90005",9,0
 Thu Dec 10 2020 05:00:01 GMT-0800 (Pacific Standard Time),"Riverpark Apartments","27303 Sara St, Canyon Country, CA, 91387",6,0
@@ -4354,7 +4355,6 @@ Thu Dec 10 2020 05:00:01 GMT-0800 (Pacific Standard Time),"PB Fasteners","1700 W
 Thu Dec 10 2020 05:00:01 GMT-0800 (Pacific Standard Time),"Pankow Construction","8899 Beverly Blvd, West Hollywood, CA, 90048",19,0
 Thu Dec 10 2020 05:00:01 GMT-0800 (Pacific Standard Time),"O' Tasty Foods","160 S Hacienda Blvd, City of Industry, CA, 91745",7,0
 Thu Dec 10 2020 05:00:01 GMT-0800 (Pacific Standard Time),"New Vac","9330 De Soto Ave, Chatsworth, CA, 91311",9,0
-Thu Dec 10 2020 05:00:01 GMT-0800 (Pacific Standard Time),"Research Support Unit, UCLA","221 Westwood Plaza, Los Angeles, CA, 90095",6,0
 Thu Dec 10 2020 05:00:01 GMT-0800 (Pacific Standard Time),"NBC Universal - Mr. Mayer Production","100 Universal City Plz, Bldg 5225, Universal City, CA, 91608",6,0
 Thu Dec 10 2020 05:00:01 GMT-0800 (Pacific Standard Time),"Morley Construction Company","5500 W 98th St, Los Angeles, CA, 90045",16,0
 Thu Dec 10 2020 05:00:01 GMT-0800 (Pacific Standard Time),"Mistras","8427 Atlantic Ave, Cudahy, CA, 90201",25,0
@@ -6161,7 +6161,7 @@ Fri Jan 15 2021 05:00:01 GMT-0800 (Pacific Standard Time),"Woodward HRT, Inc.","
 Fri Jan 15 2021 05:00:01 GMT-0800 (Pacific Standard Time),"James A Garfield Senior High","5101 E 6th St, Los Angeles, CA, 90022",10,0
 Fri Jan 15 2021 05:00:01 GMT-0800 (Pacific Standard Time),"Mail Distribution - UCLA","555 Westwood Plz, Level B, Los Angeles, CA, 90095",5,0
 Fri Jan 15 2021 05:00:01 GMT-0800 (Pacific Standard Time),"UEI College, Huntington Park","6055 Pacific Blvd, Huntington Park, CA, 90255",4,0
-Sat Jan 16 2021 06:00:02 GMT-0800 (Pacific Standard Time),"Northrop Grumman - Palmdale","3520 E Avenue M, Palmdale, CA, 93550",410,0
+Sat Jan 16 2021 06:00:02 GMT-0800 (Pacific Standard Time),"Target #1884","7100 Santa Monica Blvd, West Hollywood, CA, 90046",46,0
 Sat Jan 16 2021 06:00:02 GMT-0800 (Pacific Standard Time),"Able Services","351 S Fuller Ave, Tower 35, Los Angeles, CA, 90036",16,0
 Sat Jan 16 2021 06:00:02 GMT-0800 (Pacific Standard Time),"American Fruits and Flavors","10725 Sutter Ave, Pacoima, CA, 91331",17,0
 Sat Jan 16 2021 06:00:02 GMT-0800 (Pacific Standard Time),"Anheuser-Busch Beach Cities Wholly Owned Distributor","20499 S Reeves Ave, Carson, CA, 90810",14,0
@@ -6203,6 +6203,7 @@ Sat Jan 16 2021 06:00:02 GMT-0800 (Pacific Standard Time),"Michael Kors Distribu
 Sat Jan 16 2021 06:00:02 GMT-0800 (Pacific Standard Time),"Morley Construction Company","5500 W 98th St, Los Angeles, CA, 90045",64,0
 Sat Jan 16 2021 06:00:02 GMT-0800 (Pacific Standard Time),"Nordstrom, Los Cerritos Center","300 Los Cerritos Mall, Cerritos, CA, 90703",29,0
 Sat Jan 16 2021 06:00:02 GMT-0800 (Pacific Standard Time),"Nordstrom, Topanga Plaza","21725 Victory Blvd, Canoga Park, CA, 91303",13,0
+Sat Jan 16 2021 06:00:02 GMT-0800 (Pacific Standard Time),"Northrop Grumman - Palmdale","3520 E Avenue M, Palmdale, CA, 93550",410,0
 Sat Jan 16 2021 06:00:02 GMT-0800 (Pacific Standard Time),"Pactiv","12500 Slauson Ave, Santa Fe Springs, CA, 90670",35,0
 Sat Jan 16 2021 06:00:02 GMT-0800 (Pacific Standard Time),"R Planet Earth","5300 S Boyle Ave, Vernon, CA, 90058",22,0
 Sat Jan 16 2021 06:00:02 GMT-0800 (Pacific Standard Time),"Reynaldo's Mexican Food Co.","3301 E Vernon Ave, Vernon, CA, 90058",11,0
@@ -6211,7 +6212,6 @@ Sat Jan 16 2021 06:00:02 GMT-0800 (Pacific Standard Time),"Snak King","16150 Ste
 Sat Jan 16 2021 06:00:02 GMT-0800 (Pacific Standard Time),"Superior Lithographics, Inc.","3055 Bandini Blvd, Vernon, CA, 90058",19,0
 Sat Jan 16 2021 06:00:02 GMT-0800 (Pacific Standard Time),"Target #1307","5711 Sepulveda Blvd, Van Nuys, CA, 91411",38,0
 Sat Jan 16 2021 06:00:02 GMT-0800 (Pacific Standard Time),"Target #1411","3600 Rosemead Blvd, Rosemead, CA, 91770",50,0
-Sat Jan 16 2021 06:00:02 GMT-0800 (Pacific Standard Time),"Target #1884","7100 Santa Monica Blvd, West Hollywood, CA, 90046",46,0
 Sat Jan 16 2021 06:00:02 GMT-0800 (Pacific Standard Time),"Transdev-Foothill Transit","5640 Peck Rd, Arcadia, CA, 91006",46,0
 Sat Jan 16 2021 06:00:02 GMT-0800 (Pacific Standard Time),"UPS - La Mirada","16301 Trojan Way, La Mirada, CA, 90638",17,0
 Sat Jan 16 2021 06:00:02 GMT-0800 (Pacific Standard Time),"Velvet LLC","3961 Landmark St, Culver City, CA, 90232",16,0
@@ -6445,12 +6445,12 @@ Fri Jan 22 2021 03:00:01 GMT-0800 (Pacific Standard Time),"Home Depot - Panorama
 Fri Jan 22 2021 03:00:01 GMT-0800 (Pacific Standard Time),"Home Depot - Van Nuys #6661","16800 Roscoe Blvd, Van Nuys, CA, 91406",50,0
 Fri Jan 22 2021 03:00:01 GMT-0800 (Pacific Standard Time),"Hydraulics International, Inc.","9201 Independence Ave, Chatsworth, CA, 91311",16,0
 Fri Jan 22 2021 03:00:01 GMT-0800 (Pacific Standard Time),"KDC One/Cosmetic Laboratories of America, Inc.","20245 Sunburst St, Chatsworth, CA, 91311",16,0
+Fri Jan 22 2021 03:00:01 GMT-0800 (Pacific Standard Time),"Camino Real Kitchens","2638 E Vernon Ave, Vernon, CA, 90058",37,0
 Fri Jan 22 2021 03:00:01 GMT-0800 (Pacific Standard Time),"Kia of Cerritos","18201 Studebaker Rd, Cerritos, CA, 90703",15,0
 Fri Jan 22 2021 03:00:01 GMT-0800 (Pacific Standard Time),"LA Apparel #3","1020 E 59th St, Los Angeles, CA, 90001",54,0
 Fri Jan 22 2021 03:00:01 GMT-0800 (Pacific Standard Time),"LA County DCFS - South LA Administration","8300 S Vermont Ave, Los Angeles, CA, 90044",56,0
 Fri Jan 22 2021 03:00:01 GMT-0800 (Pacific Standard Time),"LA County DCFS - Van Nuys","7555 Van Nuys Blvd, Van Nuys, CA, 91405",21,0
 Fri Jan 22 2021 03:00:01 GMT-0800 (Pacific Standard Time),"LA County Sheriff's Department - East Los Angeles Station","5019 E 3rd St, Los Angeles, CA, 90022",36,0
-Fri Jan 22 2021 03:00:01 GMT-0800 (Pacific Standard Time),"Camino Real Kitchens","2638 E Vernon Ave, Vernon, CA, 90058",37,0
 Fri Jan 22 2021 03:00:01 GMT-0800 (Pacific Standard Time),"LA County Sheriff's Department - Inmate Services Bureau Operations","4700 W Ramona Blvd, Monterey Park, CA, 91754",6,0
 Fri Jan 22 2021 03:00:01 GMT-0800 (Pacific Standard Time),"LAPD Olympic Community Police Station","1130 S Vermont Ave, Los Angeles, CA, 90006",48,0
 Fri Jan 22 2021 03:00:01 GMT-0800 (Pacific Standard Time),"Los Altos Food Products, LLC","450 Baldwin Park Blvd, City of Industry, CA, 91746",23,0
@@ -7259,30 +7259,30 @@ Sun Feb 28 2021 05:00:01 GMT-0800 (Pacific Standard Time),"Off Campus Neighborho
 Sun Feb 28 2021 05:00:01 GMT-0800 (Pacific Standard Time),"Off Campus Neighborhood, USC W 28th St #2","Los Angeles, Ca",0,8
 Mon Mar 01 2021 05:00:01 GMT-0800 (Pacific Standard Time),"Off Campus Neighborhood, USC W Adams Blvd","Los Angeles, CA",0,53
 Mon Mar 01 2021 05:00:01 GMT-0800 (Pacific Standard Time),"Off Campus Neighborhood, USC W 28th St #2","Los Angeles, CA",0,8
-Tue Mar 02 2021 03:00:02 GMT-0800 (Pacific Standard Time),"Honest Tax","19710 Ventura Blvd, Woodland Hills, CA, 91364",11,0
 Tue Mar 02 2021 03:00:02 GMT-0800 (Pacific Standard Time),"LAFD Fire Station 50","3036 Fletcher Dr, Los Angeles, CA, 90065",7,0
 Tue Mar 02 2021 03:00:02 GMT-0800 (Pacific Standard Time),"LAFD Fire Station 85","1331 253rd St, # 1331, Harbor City, CA, 90710",10,0
 Tue Mar 02 2021 03:00:02 GMT-0800 (Pacific Standard Time),"Montebello Dog and Cat Hospital","2437 W Whittier Blvd, Montebello, CA, 90640",8,0
 Tue Mar 02 2021 03:00:02 GMT-0800 (Pacific Standard Time),"Tomarco Contractor Specialists, Inc.","14848 Northam St, La Mirada, CA, 90638",14,0
 Tue Mar 02 2021 03:00:02 GMT-0800 (Pacific Standard Time),"FedEx LAX","5927 W Imperial Hwy, Los Angeles, CA, 90045",128,0
+Tue Mar 02 2021 03:00:02 GMT-0800 (Pacific Standard Time),"Honest Tax","19710 Ventura Blvd, Woodland Hills, CA, 91364",11,0
 Wed Mar 03 2021 06:00:01 GMT-0800 (Pacific Standard Time),"LAFD Fire Station 85","1331 253rd St # 1331, Harbor City, CA, 90710",10,0
-Wed Mar 03 2021 06:00:01 GMT-0800 (Pacific Standard Time),"Lisi Aerospace","2600 Skypark Dr, Torrance, CA, 90505",48,0
 Wed Mar 03 2021 06:00:01 GMT-0800 (Pacific Standard Time),"Llamas Plastics, Inc.","12970 Bradley Ave, Sylmar, CA, 91342",32,0
 Wed Mar 03 2021 06:00:01 GMT-0800 (Pacific Standard Time),"UPS - La Mirada","16301 Trojan Way, La Mirada, CA, 90638",48,0
 Wed Mar 03 2021 06:00:01 GMT-0800 (Pacific Standard Time),"Biola University, Biology Cohort","13800 Biola Ave, La Mirada, CA, 90639",0,4
 Wed Mar 03 2021 06:00:01 GMT-0800 (Pacific Standard Time),"Off Campus Neighborhood, USC S Figueroa St #3","Los Angeles, CA",0,141
-Wed Mar 03 2021 06:00:01 GMT-0800 (Pacific Standard Time),"Irwin Naturals","5310 Beethoven St, Los Angeles, CA, 90066",16,0
 Wed Mar 03 2021 06:00:01 GMT-0800 (Pacific Standard Time),"Off Campus Neighborhood, USC W Adams Blvd","Los Angeles, CA",0,93
+Wed Mar 03 2021 06:00:01 GMT-0800 (Pacific Standard Time),"Irwin Naturals","5310 Beethoven St, Los Angeles, CA, 90066",16,0
+Wed Mar 03 2021 06:00:01 GMT-0800 (Pacific Standard Time),"Lisi Aerospace","2600 Skypark Dr, Torrance, CA, 90505",48,0
+Thu Mar 04 2021 05:00:01 GMT-0800 (Pacific Standard Time),"Fashion Nova Logistics, Inc.","12588 Lakeland Rd, Santa Fe Springs, CA, 90670",312,0
 Thu Mar 04 2021 05:00:01 GMT-0800 (Pacific Standard Time),"Amazon DLA3","5829 Smithway St, Commerce, CA, 90040",60,0
-Thu Mar 04 2021 05:00:01 GMT-0800 (Pacific Standard Time),"Honest Tax","19710 Ventura Blvd, Woodland Hills, CA, 91364",12,0
 Thu Mar 04 2021 05:00:01 GMT-0800 (Pacific Standard Time),"Northrop Grumman - Palmdale","3520 E Ave M, Palmdale, CA, 93550",655,0
 Thu Mar 04 2021 05:00:01 GMT-0800 (Pacific Standard Time),"UPS - Cerritos","13233 Moore St, Cerritos, CA, 90703",82,0
 Thu Mar 04 2021 05:00:01 GMT-0800 (Pacific Standard Time),"Vans Distribution Center","15700 Shoemaker Ave, Santa Fe Springs, CA, 90670",99,0
 Thu Mar 04 2021 05:00:01 GMT-0800 (Pacific Standard Time),"Biola University, Biology Cohort","13800 Biola Ave, La Mirada, CA, 90639",0,9
-Thu Mar 04 2021 05:00:01 GMT-0800 (Pacific Standard Time),"Fashion Nova Logistics, Inc.","12588 Lakeland Rd, Santa Fe Springs, CA, 90670",312,0
+Thu Mar 04 2021 05:00:01 GMT-0800 (Pacific Standard Time),"Off Campus Neighborhood, USC S Figueroa St #3","Los Angeles, CA",0,143
 Thu Mar 04 2021 05:00:01 GMT-0800 (Pacific Standard Time),"Off Campus Neighborhood, USC W 28th St #1","Los Angeles, CA",0,5
 Thu Mar 04 2021 05:00:01 GMT-0800 (Pacific Standard Time),"Off Campus Neighborhood, USC W 28th St #3","Los Angeles, CA",0,9
-Thu Mar 04 2021 05:00:01 GMT-0800 (Pacific Standard Time),"Off Campus Neighborhood, USC S Figueroa St #3","Los Angeles, CA",0,143
+Thu Mar 04 2021 05:00:01 GMT-0800 (Pacific Standard Time),"Honest Tax","19710 Ventura Blvd, Woodland Hills, CA, 91364",12,0
 Fri Mar 05 2021 05:00:01 GMT-0800 (Pacific Standard Time),"Eastland Forrester Corp-All Access Staging & Production, Inc.","1320 Storm Pkwy, Torrance, CA, 90501",7,0
 Fri Mar 05 2021 05:00:01 GMT-0800 (Pacific Standard Time),"Ed Iskenderian Racing Cams","16020 S Broadway, Gardena, CA, 90248",7,0
 Fri Mar 05 2021 05:00:01 GMT-0800 (Pacific Standard Time),"Smithfield","3049 E Vernon Ave, Vernon, CA, 90058",784,0
@@ -7290,19 +7290,19 @@ Sat Mar 06 2021 04:00:01 GMT-0800 (Pacific Standard Time),"Camino Real Kitchens"
 Sat Mar 06 2021 04:00:01 GMT-0800 (Pacific Standard Time),"Costco Warehouse, Monterey Park #1318","2000 Market Place Dr, Monterey Park, CA, 91755",72,0
 Sat Mar 06 2021 04:00:01 GMT-0800 (Pacific Standard Time),"FedEx Express - LAX","5927 W Imperial Hwy, Los Angeles, CA, 90045",128,0
 Sat Mar 06 2021 04:00:01 GMT-0800 (Pacific Standard Time),"International Medication System-Building 14","1886 Santa Anita Ave, Bldg 14, South El Monte, CA, 91733",10,0
-Sat Mar 06 2021 04:00:01 GMT-0800 (Pacific Standard Time),"Palisades Ranch","5925 Alcoa Ave, Vernon, CA, 90058",28,0
 Sat Mar 06 2021 04:00:01 GMT-0800 (Pacific Standard Time),"LAX Terminal 4 - American Airlines","400 World Way, Los Angeles, CA, 90045",296,0
+Sat Mar 06 2021 04:00:01 GMT-0800 (Pacific Standard Time),"Palisades Ranch","5925 Alcoa Ave, Vernon, CA, 90058",28,0
+Sun Mar 07 2021 01:00:01 GMT-0800 (Pacific Standard Time),"Costco Warehouse, Monterey Park #1318","2000 Market Place Dr, Monterey Park, CA, 91755",74,0
 Sun Mar 07 2021 01:00:01 GMT-0800 (Pacific Standard Time),"CR Laurence Manufacturing","2100 E 38th St, Vernon, CA, 90058",37,0
 Sun Mar 07 2021 01:00:01 GMT-0800 (Pacific Standard Time),"Fleetwood-Fibre Packaging and Graphics","15250 Don Julian Rd, City of Industry, CA, 91745",29,0
-Sun Mar 07 2021 01:00:01 GMT-0800 (Pacific Standard Time),"Costco Warehouse, Monterey Park #1318","2000 Market Place Dr, Monterey Park, CA, 91755",74,0
 Sun Mar 07 2021 01:00:01 GMT-0800 (Pacific Standard Time),"Northrop Grumman - Palmdale","3520 E Ave M, Palmdale, CA, 93550",669,0
 Sun Mar 07 2021 01:00:01 GMT-0800 (Pacific Standard Time),"FedEx Freight - Vernon","4500 Bandini Blvd, Vernon, CA, 90058",32,0
 Mon Mar 08 2021 04:00:01 GMT-0800 (Pacific Standard Time),"LAFD Fire Station 85","1331 253rd St, # 1331, Harbor City, CA, 90710",10,0
-Tue Mar 09 2021 03:00:01 GMT-0800 (Pacific Standard Time),"Fashion Nova Logistics, Inc.","12588 Lakeland Rd, Santa Fe Springs, CA, 90670",313,0
-Tue Mar 09 2021 03:00:01 GMT-0800 (Pacific Standard Time),"Smithfield","3049 E Vernon Ave, Vernon, CA, 90058",785,0
-Tue Mar 09 2021 03:00:01 GMT-0800 (Pacific Standard Time),"Off Campus Neighborhood, USC W 28th St #3","Los Angeles, CA",0,13
 Tue Mar 09 2021 03:00:01 GMT-0800 (Pacific Standard Time),"LAFD Fire Station 85","1331 253rd St # 1331, Harbor City, CA, 90710",10,0
 Tue Mar 09 2021 03:00:01 GMT-0800 (Pacific Standard Time),"Novolex Zenith Bag","17625 Railroad St, City of Industry, CA, 91748",26,0
+Tue Mar 09 2021 03:00:01 GMT-0800 (Pacific Standard Time),"Off Campus Neighborhood, USC W 28th St #3","Los Angeles, CA",0,13
+Tue Mar 09 2021 03:00:01 GMT-0800 (Pacific Standard Time),"Fashion Nova Logistics, Inc.","12588 Lakeland Rd, Santa Fe Springs, CA, 90670",313,0
+Tue Mar 09 2021 03:00:01 GMT-0800 (Pacific Standard Time),"Smithfield","3049 E Vernon Ave, Vernon, CA, 90058",785,0
 Wed Mar 10 2021 06:00:01 GMT-0800 (Pacific Standard Time),"Westlake Financial Services","29851 Agoura Rd, Agoura Hills, CA, 91301",11,0
 Wed Mar 10 2021 06:00:01 GMT-0800 (Pacific Standard Time),"Smithfield","3049 E Vernon Ave, Vernon, CA, 90058",789,0
 Wed Mar 10 2021 06:00:01 GMT-0800 (Pacific Standard Time),"Gibson Overseas","2410 Yates Ave, Commerce, CA, 90040",56,0
@@ -7596,8 +7596,8 @@ Fri Jul 30 2021 04:00:02 GMT-0700 (Pacific Daylight Time),"Los Angeles Union Sta
 Fri Jul 30 2021 04:00:02 GMT-0700 (Pacific Daylight Time),"LA Kings Valley Ice Center","8750 Van Nuys Blvd, Panorama City, CA, 91402",3,0
 Fri Jul 30 2021 04:00:02 GMT-0700 (Pacific Daylight Time),"Church of The Open Door","700 E Sierra Madre Ave, Glendora, CA, 91741",8,20
 Fri Jul 30 2021 04:00:02 GMT-0700 (Pacific Daylight Time),"Chick-Fil-A 7th &amp; Fig In-Line","660 S Figueroa St Ste 100, Los Angeles, CA, 90017",5,0
-Fri Jul 30 2021 04:00:02 GMT-0700 (Pacific Daylight Time),"California Science Center/California Science Center Foundation","700 Exposition Park Dr, Los Angeles, CA, 90037",7,0
 Fri Jul 30 2021 04:00:02 GMT-0700 (Pacific Daylight Time),"ZARA, Westfield Topanga","6600 Topanga Canyon Blvd, #2052a, Canoga Park, CA, 91303",4,0
+Fri Jul 30 2021 04:00:02 GMT-0700 (Pacific Daylight Time),"California Science Center/California Science Center Foundation","700 Exposition Park Dr, Los Angeles, CA, 90037",7,0
 Fri Jul 30 2021 04:00:02 GMT-0700 (Pacific Daylight Time),"Smart &amp; Final Commerce Distribution Center","5300 Sheila St, Commerce, CA, 90040",5,0
 Fri Jul 30 2021 04:00:02 GMT-0700 (Pacific Daylight Time),"AMDA College of The Performing Arts","6305 Yucca St, Los Angeles, CA, 90028",2,10
 Sat Jul 31 2021 05:00:02 GMT-0700 (Pacific Daylight Time),"Topanga Productions - S.W.A.T.","25135 Anza Dr, Stage 3, Santa Clarita, CA, 91355",5,0
@@ -7960,9 +7960,9 @@ Fri Aug 27 2021 07:00:02 GMT-0700 (Pacific Daylight Time),"Saugus High School","
 Fri Aug 27 2021 07:00:02 GMT-0700 (Pacific Daylight Time),"South Pasadena High School","1401 Fremont Ave, South Pasadena, CA, 91030",1,14
 Fri Aug 27 2021 07:00:02 GMT-0700 (Pacific Daylight Time),"Torrance High School","2200 W Carson St, Torrance, CA, 90501",1,9
 Fri Aug 27 2021 07:00:02 GMT-0700 (Pacific Daylight Time),"West Ranch High School","26255 Valencia Blvd, Valencia, CA, 91381",0,20
-Sat Aug 28 2021 10:00:01 GMT-0700 (Pacific Daylight Time),"BT Special Effects","3221 N San Fernando Rd, Unit B, Los Angeles, CA, 90065",7,0
-Sat Aug 28 2021 10:00:01 GMT-0700 (Pacific Daylight Time),"ACCESS Specialty Animal Hospitals - Los Angeles","9599 Jefferson Blvd, Culver City, CA, 90232",9,0
 Sat Aug 28 2021 10:00:01 GMT-0700 (Pacific Daylight Time),"California Market Center","110 E 9th St, Los Angeles, CA, 90079",18,0
+Sat Aug 28 2021 10:00:01 GMT-0700 (Pacific Daylight Time),"ACCESS Specialty Animal Hospitals - Los Angeles","9599 Jefferson Blvd, Culver City, CA, 90232",9,0
+Sat Aug 28 2021 10:00:01 GMT-0700 (Pacific Daylight Time),"BT Special Effects","3221 N San Fernando Rd, Unit B, Los Angeles, CA, 90065",7,0
 Sat Aug 28 2021 10:00:01 GMT-0700 (Pacific Daylight Time),"City of Santa Fe Springs - Municipal Services Yard","12636 Emmens Way, Santa Fe Springs, CA, 90670",3,0
 Sat Aug 28 2021 10:00:01 GMT-0700 (Pacific Daylight Time),"Dodge Chrysler Jeep Ram, Monrovia","1305 S Mountain Ave, Monrovia, CA, 91016",4,0
 Sat Aug 28 2021 10:00:01 GMT-0700 (Pacific Daylight Time),"FedEx - LAX","5927 W Imperial Hwy, Los Angeles, CA, 90045",53,0
@@ -8023,8 +8023,8 @@ Sat Sep 04 2021 05:00:01 GMT-0700 (Pacific Daylight Time),"LF Illumination","920
 Sat Sep 04 2021 05:00:01 GMT-0700 (Pacific Daylight Time),"Lockheed Martin Aeronautics Palmdale, Bldg 602","1011 Lockheed Way, Palmdale, CA, 93599",8,0
 Sat Sep 04 2021 05:00:01 GMT-0700 (Pacific Daylight Time),"Meat on Ocean","1501 Ocean Ave, Santa Monica, CA, 90401",13,0
 Sat Sep 04 2021 05:00:01 GMT-0700 (Pacific Daylight Time),"The Austin Company-Aerojet Rocketdyne","8900 De Soto Ave, Canoga Park, CA, 91304",3,0
-Sat Sep 04 2021 05:00:01 GMT-0700 (Pacific Daylight Time),"Royal Oak Middle School","303 S Glendora Ave, Covina, CA, 91724",1,8
 Sat Sep 04 2021 05:00:01 GMT-0700 (Pacific Daylight Time),"Alcazar Child Development Center at USC","2215 Alcazar St, Los Angeles, CA, 90033",1,5
+Sat Sep 04 2021 05:00:01 GMT-0700 (Pacific Daylight Time),"Royal Oak Middle School","303 S Glendora Ave, Covina, CA, 91724",1,8
 Sat Sep 04 2021 05:00:01 GMT-0700 (Pacific Daylight Time),"Halldale Elementary School","21514 Halldale Ave, Torrance, CA, 90501",1,8
 Sun Sep 05 2021 02:00:01 GMT-0700 (Pacific Daylight Time),"Saugus High School","21900 Centurion Way, Saugus, CA, 91350",0,6
 Sun Sep 05 2021 02:00:01 GMT-0700 (Pacific Daylight Time),"AutoNation Collision Center South Bay","4302 W 190th St, Torrance, CA, 90504",4,0
@@ -8072,15 +8072,15 @@ Tue Sep 14 2021 06:00:02 GMT-0700 (Pacific Daylight Time),"Largo Concrete, Inc. 
 Wed Sep 15 2021 05:00:01 GMT-0700 (Pacific Daylight Time),"LA County Fire Department - Fire Station 33","44947 Date Ave, Lancaster, CA, 93534",7,0
 Wed Sep 15 2021 05:00:01 GMT-0700 (Pacific Daylight Time),"LAX Terminal 4 - American Airlines","400 World Way, Los Angeles, CA, 90045",76,0
 Wed Sep 15 2021 05:00:01 GMT-0700 (Pacific Daylight Time),"Lhoist North America - City of Industry","14931 Salt Lake Ave, City of Industry, CA, 91746",7,0
-Wed Sep 15 2021 05:00:01 GMT-0700 (Pacific Daylight Time),"William S. Hart High School","24825 Newhall Ave, Newhall, CA, 91321",0,11
+Wed Sep 15 2021 05:00:01 GMT-0700 (Pacific Daylight Time),"Community Magnet Charter Elementary School","11301 Bellagio Rd, Los Angeles, CA, 90049",1,7
 Wed Sep 15 2021 05:00:01 GMT-0700 (Pacific Daylight Time),"Smart & Final Commerce Distribution Center","5300 Sheila St, Commerce, CA, 90040",22,0
 Wed Sep 15 2021 05:00:01 GMT-0700 (Pacific Daylight Time),"Castaic High School","31575 Valley Creek Road, Castaic, CA, 91384",0,13
-Wed Sep 15 2021 05:00:01 GMT-0700 (Pacific Daylight Time),"Community Magnet Charter Elementary School","11301 Bellagio Rd, Los Angeles, CA, 90049",1,7
+Wed Sep 15 2021 05:00:01 GMT-0700 (Pacific Daylight Time),"CarMax #6003","405 W Technology Dr, Palmdale, CA, 93551",5,0
 Wed Sep 15 2021 05:00:01 GMT-0700 (Pacific Daylight Time),"La Ballona Elementary School","10915 Washington Blvd, Culver City, CA, 90232",0,5
 Wed Sep 15 2021 05:00:01 GMT-0700 (Pacific Daylight Time),"Main Street Elementary School","129 E 53rd St, Los Angeles, CA, 90011",0,6
 Wed Sep 15 2021 05:00:01 GMT-0700 (Pacific Daylight Time),"Mt. San Antonio College","1100 N Grand Ave, Walnut, CA, 91789",0,12
 Wed Sep 15 2021 05:00:01 GMT-0700 (Pacific Daylight Time),"Saugus High School","21900 Centurion Way, Saugus, CA, 91350",0,14
-Wed Sep 15 2021 05:00:01 GMT-0700 (Pacific Daylight Time),"CarMax #6003","405 W Technology Dr, Palmdale, CA, 93551",5,0
+Wed Sep 15 2021 05:00:01 GMT-0700 (Pacific Daylight Time),"William S. Hart High School","24825 Newhall Ave, Newhall, CA, 91321",0,11
 Wed Sep 15 2021 05:00:01 GMT-0700 (Pacific Daylight Time),"Paramount Studios - Stages 5,6,7","5555 Melrose Ave, Los Angeles, CA, 90038",3,0
 Thu Sep 16 2021 05:00:02 GMT-0700 (Pacific Daylight Time),"City of Lancaster","44933 Fern Ave, Lancaster, CA, 93534",16,0
 Thu Sep 16 2021 05:00:02 GMT-0700 (Pacific Daylight Time),"LAX Terminal 2 - Delta Airlines","100 World Way, Los Angeles, CA, 90045",55,0
@@ -8089,8 +8089,8 @@ Thu Sep 16 2021 05:00:02 GMT-0700 (Pacific Daylight Time),"SpaceX","1 Rocket Rd,
 Thu Sep 16 2021 05:00:02 GMT-0700 (Pacific Daylight Time),"The Barbara J Riley Community and Senior Center","7810 Quill Dr, Downey, CA, 90242",3,0
 Thu Sep 16 2021 05:00:02 GMT-0700 (Pacific Daylight Time),"Biola University","13800 Biola Ave, La Mirada, CA, 90639",0,8
 Thu Sep 16 2021 05:00:02 GMT-0700 (Pacific Daylight Time),"KIPP Pueblo Unido, Los Angeles","2660 E 57th St, Huntington Park, CA, 90255",0,6
-Thu Sep 16 2021 05:00:02 GMT-0700 (Pacific Daylight Time),"Valley Beth Shalom Day School","15739 Ventura Blvd, Encino, CA, 91436",1,9
 Thu Sep 16 2021 05:00:02 GMT-0700 (Pacific Daylight Time),"Palmdale High School","2137 E Ave R, Palmdale, CA, 93550",0,9
+Thu Sep 16 2021 05:00:02 GMT-0700 (Pacific Daylight Time),"Valley Beth Shalom Day School","15739 Ventura Blvd, Encino, CA, 91436",1,9
 Fri Sep 17 2021 06:00:01 GMT-0700 (Pacific Daylight Time),"Apple Store, Manhattan Village","3200 N Sepulveda Blvd, Manhattan Beach, CA, 90266",6,0
 Fri Sep 17 2021 06:00:01 GMT-0700 (Pacific Daylight Time),"Smart & Final Commerce Distribution Center","5300 Sheila St, Commerce, CA, 90040",26,0
 Fri Sep 17 2021 06:00:01 GMT-0700 (Pacific Daylight Time),"U.S. Pole Lighting Company, Inc.","660 W Ave O, Palmdale, CA, 93551",23,0
@@ -8099,25 +8099,26 @@ Fri Sep 17 2021 06:00:01 GMT-0700 (Pacific Daylight Time),"Condit Elementary Sch
 Fri Sep 17 2021 06:00:01 GMT-0700 (Pacific Daylight Time),"Mt. San Antonio College","1100 N Grand Ave, Walnut, CA, 91789",0,14
 Fri Sep 17 2021 06:00:01 GMT-0700 (Pacific Daylight Time),"Olive Vista Middle School","14600 Tyler St, Sylmar, CA, 91342",0,3
 Fri Sep 17 2021 06:00:01 GMT-0700 (Pacific Daylight Time),"Olympic Primary Center","950 Albany St, Los Angeles, CA, 90015",0,4
-Fri Sep 17 2021 06:00:01 GMT-0700 (Pacific Daylight Time),"Amazon DAX5","15930 E Valley Blvd, City of Industry, CA, 91744",24,0
 Fri Sep 17 2021 06:00:01 GMT-0700 (Pacific Daylight Time),"South Gate High School, LAUSD","3351 Firestone Blvd, South Gate, CA, 90280",0,4
-Sat Sep 18 2021 05:00:02 GMT-0700 (Pacific Daylight Time),"Glendale Community College","1500 N Verdugo Rd, Glendale, CA, 91208",0,20
+Fri Sep 17 2021 06:00:01 GMT-0700 (Pacific Daylight Time),"Amazon DAX5","15930 E Valley Blvd, City of Industry, CA, 91744",24,0
+Sat Sep 18 2021 05:00:02 GMT-0700 (Pacific Daylight Time),"Summerwind Elementary School, Palmdale","39360 Summerwind Dr, Palmdale, CA, 93551",0,8
 Sat Sep 18 2021 05:00:02 GMT-0700 (Pacific Daylight Time),"US Pole Lighting Company, Inc.","660 W Ave O, Palmdale, CA, 93551",23,0
 Sat Sep 18 2021 05:00:02 GMT-0700 (Pacific Daylight Time),"Smart & Final Commerce Distribution Center","5300 Sheila St, Commerce, CA, 90040",27,0
 Sat Sep 18 2021 05:00:02 GMT-0700 (Pacific Daylight Time),"LA County DPSS - Exposition Park","3833 S Vermont Ave, Fl 2, Los Angeles, CA, 90037",3,0
 Sat Sep 18 2021 05:00:02 GMT-0700 (Pacific Daylight Time),"ILB Electric - HPACT Job Site","4708 Fountain Ave, Los Angeles, CA, 90029",3,0
 Sat Sep 18 2021 05:00:02 GMT-0700 (Pacific Daylight Time),"FedEx - LAX","5927 W Imperial Hwy, Los Angeles, CA, 90045",59,0
-Sat Sep 18 2021 05:00:02 GMT-0700 (Pacific Daylight Time),"Summerwind Elementary School, Palmdale","39360 Summerwind Dr, Palmdale, CA, 93551",0,8
-Sun Sep 19 2021 05:00:01 GMT-0700 (Pacific Daylight Time),"Mt. San Antonio College","1100 N Grand Ave, Walnut, CA, 91789",1,17
+Sat Sep 18 2021 05:00:02 GMT-0700 (Pacific Daylight Time),"Glendale Community College","1500 N Verdugo Rd, Glendale, CA, 91208",0,20
 Sun Sep 19 2021 05:00:01 GMT-0700 (Pacific Daylight Time),"Santa Clarita Elementary School","27177 Seco Canyon Rd, Saugus, CA, 91350",0,3
-Sun Sep 19 2021 05:00:01 GMT-0700 (Pacific Daylight Time),"Sherman Oaks Center For Enriched Studies Magnet","18605 Erwin St, Tarzana, CA, 91335",0,5
+Sun Sep 19 2021 05:00:01 GMT-0700 (Pacific Daylight Time),"Mt. San Antonio College","1100 N Grand Ave, Walnut, CA, 91789",1,17
 Sun Sep 19 2021 05:00:01 GMT-0700 (Pacific Daylight Time),"Summerwind Elementary School, Palmdale","39360 Summerwind Dr, Palmdale, CA, 93551",1,8
+Sun Sep 19 2021 05:00:01 GMT-0700 (Pacific Daylight Time),"Sherman Oaks Center For Enriched Studies Magnet","18605 Erwin St, Tarzana, CA, 91335",0,5
 Mon Sep 20 2021 03:00:02 GMT-0700 (Pacific Daylight Time),"Leal Elementary School","12920 Droxford St, Cerritos, CA, 90703",1,7
 Tue Sep 21 2021 05:00:01 GMT-0700 (Pacific Daylight Time),"AutoNation Collision Center South Bay","4302 W 190th St, Torrance, CA, 90504",7,0
 Tue Sep 21 2021 05:00:01 GMT-0700 (Pacific Daylight Time),"Hotel June","8639 Lincoln Blvd, Los Angeles, CA, 90045",3,0
 Tue Sep 21 2021 05:00:01 GMT-0700 (Pacific Daylight Time),"Michaels Distribution Center","3501 W Ave H, Lancaster, CA, 93536",5,0
 Tue Sep 21 2021 05:00:01 GMT-0700 (Pacific Daylight Time),"Saugus High School","21900 Centurion Way, Saugus, CA, 91350",0,15
 Tue Sep 21 2021 05:00:01 GMT-0700 (Pacific Daylight Time),"Sherman Oaks Center For Enriched Studies Magnet","18605 Erwin St, Tarzana, CA, 91335",0,6
+Wed Sep 22 2021 03:00:01 GMT-0700 (Pacific Daylight Time),"Smart & Final Commerce Distribution Center","5300 Sheila St, Commerce, CA, 90040",28,0
 Wed Sep 22 2021 03:00:01 GMT-0700 (Pacific Daylight Time),"LAX Terminal 4 - American Airlines","400 World Way, Los Angeles, CA, 90045",77,0
 Wed Sep 22 2021 03:00:01 GMT-0700 (Pacific Daylight Time),"LAX Terminal 2 - Delta Airlines","100 World Way, Los Angeles, CA, 90045",56,0
 Wed Sep 22 2021 03:00:01 GMT-0700 (Pacific Daylight Time),"LA County DPSS - West Valley","21415 Plummer St, Chatsworth, CA, 91311",8,0
@@ -8128,7 +8129,6 @@ Wed Sep 22 2021 03:00:01 GMT-0700 (Pacific Daylight Time),"Paramount High School
 Wed Sep 22 2021 03:00:01 GMT-0700 (Pacific Daylight Time),"Griffith STEAM Magnet Middle School","4765 E 4th St, Los Angeles, CA, 90022",1,2
 Wed Sep 22 2021 03:00:01 GMT-0700 (Pacific Daylight Time),"Valencia Technologies","28464 Westinghouse Pl, Valencia, CA, 91355",3,0
 Wed Sep 22 2021 03:00:01 GMT-0700 (Pacific Daylight Time),"SpaceX","1 Rocket Rd, Hawthorne, CA, 90250",8,0
-Wed Sep 22 2021 03:00:01 GMT-0700 (Pacific Daylight Time),"Smart & Final Commerce Distribution Center","5300 Sheila St, Commerce, CA, 90040",28,0
 Thu Sep 23 2021 06:00:01 GMT-0700 (Pacific Daylight Time),"Bellflower Middle/High School","15301 Mcnab Ave, Bellflower, CA, 90706",0,7
 Thu Sep 23 2021 06:00:01 GMT-0700 (Pacific Daylight Time),"Condit Elementary School","1750 N Mountain Ave, Claremont, CA, 91711",1,13
 Thu Sep 23 2021 06:00:01 GMT-0700 (Pacific Daylight Time),"Mt. San Antonio College","1100 N Grand Ave, Walnut, CA, 91789",1,18
@@ -8142,8 +8142,8 @@ Fri Sep 24 2021 05:00:02 GMT-0700 (Pacific Daylight Time),"Alfred B. Nobel Chart
 Fri Sep 24 2021 05:00:02 GMT-0700 (Pacific Daylight Time),"Foothill Christian School","242 W Baseline Rd, Glendora, CA, 91740",2,11
 Fri Sep 24 2021 05:00:02 GMT-0700 (Pacific Daylight Time),"Summerwind Elementary School","39360 Summerwind Dr, Palmdale, CA, 93551",3,10
 Fri Sep 24 2021 05:00:02 GMT-0700 (Pacific Daylight Time),"Warren High School","8141 De Palma St, Downey, CA, 90241",0,3
-Sat Sep 25 2021 04:00:01 GMT-0700 (Pacific Daylight Time),"LA County Fire Department - Fire Station 73","24875 Railroad Ave, Newhall, CA, 91321",3,0
 Sat Sep 25 2021 04:00:01 GMT-0700 (Pacific Daylight Time),"Mulholland Brand Manufacturing","21260 Deering Ct, Canoga Park, CA, 91304",6,0
+Sat Sep 25 2021 04:00:01 GMT-0700 (Pacific Daylight Time),"LA County Fire Department - Fire Station 73","24875 Railroad Ave, Newhall, CA, 91321",3,0
 Sat Sep 25 2021 04:00:01 GMT-0700 (Pacific Daylight Time),"New Pop Culture Productions","20434 S Santa Fe Ave Stage 20, Compton, CA, 90221",4,0
 Sat Sep 25 2021 04:00:01 GMT-0700 (Pacific Daylight Time),"SpaceX Corporate Headquarters","1 Rocket Rd, Hawthorne, CA, 90250",8,0
 Sat Sep 25 2021 04:00:01 GMT-0700 (Pacific Daylight Time),"US Pole Lighting Company, Inc.","660 W Ave O, Palmdale, CA, 93551",25,0
@@ -8154,9 +8154,10 @@ Sat Sep 25 2021 04:00:01 GMT-0700 (Pacific Daylight Time),"Quartz Hill High Scho
 Sat Sep 25 2021 04:00:01 GMT-0700 (Pacific Daylight Time),"Sherman Oaks Center For Enriched Studies Magnet","18605 Erwin St, Tarzana, CA, 91335",0,7
 Sat Sep 25 2021 04:00:01 GMT-0700 (Pacific Daylight Time),"Sylvan Park Elementary School","6238 Noble Ave, Van Nuys, CA, 91411",0,4
 Sat Sep 25 2021 04:00:01 GMT-0700 (Pacific Daylight Time),"Venice High School","13000 Venice Blvd, Los Angeles, CA, 90066",0,9
-Sun Sep 26 2021 05:00:01 GMT-0700 (Pacific Daylight Time),"Leal Elementary School","12920 Droxford St, Cerritos, CA, 90703",1,9
-Sun Sep 26 2021 05:00:01 GMT-0700 (Pacific Daylight Time),"Eastside High School","3200 E Ave J-8, Lancaster, CA, 93535",1,5
-Sun Sep 26 2021 05:00:01 GMT-0700 (Pacific Daylight Time),"La Hydro-Jet & Rooter Service, Inc.","10639 Wixom St, Sun Valley, CA, 91352",7,0
-Sun Sep 26 2021 05:00:01 GMT-0700 (Pacific Daylight Time),"Pennekamp Elementary School","110 S Rowell Ave, Manhattan Beach, CA, 90266",1,7
-Sun Sep 26 2021 05:00:01 GMT-0700 (Pacific Daylight Time),"Warren High School, Downey","8141 De Palma St, Downey, CA, 90241",0,3
 Sun Sep 26 2021 05:00:01 GMT-0700 (Pacific Daylight Time),"Foothill Christian School, Glendora","242 W Baseline Rd, Glendora, CA, 91740",2,11
+Sun Sep 26 2021 05:00:01 GMT-0700 (Pacific Daylight Time),"Pennekamp Elementary School","110 S Rowell Ave, Manhattan Beach, CA, 90266",1,7
+Sun Sep 26 2021 05:00:01 GMT-0700 (Pacific Daylight Time),"La Hydro-Jet & Rooter Service, Inc.","10639 Wixom St, Sun Valley, CA, 91352",7,0
+Sun Sep 26 2021 05:00:01 GMT-0700 (Pacific Daylight Time),"Eastside High School","3200 E Ave J-8, Lancaster, CA, 93535",1,5
+Sun Sep 26 2021 05:00:01 GMT-0700 (Pacific Daylight Time),"Warren High School, Downey","8141 De Palma St, Downey, CA, 90241",0,3
+Sun Sep 26 2021 05:00:01 GMT-0700 (Pacific Daylight Time),"Leal Elementary School","12920 Droxford St, Cerritos, CA, 90703",1,9
+Mon Sep 27 2021 05:00:01 GMT-0700 (Pacific Daylight Time),"New Pop Culture Productions","20434 S Santa Fe Ave, Stage 20, Compton, CA, 90221",4,0
