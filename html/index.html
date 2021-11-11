@@ -52,6 +52,9 @@ td,th {
 			<h4>Case rates by region: Daily new cases per 100,000 <small>(7-day moving average)</small></h4>
 			<div id="chart" style='width:100%' class='mt-4'></div>
 			<small class='text-muted'>Pinch or mousewheel to zoom</small>
+
+			<div id='gchart' style='height:400px'></div>
+			
 			<div class='row mt-4'>
 				<div class='col-sm-12 col-md-6'>
 					<form>
@@ -132,6 +135,14 @@ td,th {
 </footer>
 
 <script>
+
+google.charts.load('current', {'packages':['corechart']});
+google.charts.setOnLoadCallback(haveChart);
+
+function haveChart() {
+  havechart = 1;
+  redrawAll();
+}
 
 function fillgaps(ci) {
 	return 0;
