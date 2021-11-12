@@ -203,7 +203,7 @@ function process(ci, win, noround) {
 			//dc = Math.round(dc / win);
 			//dc = (dc / win).toFixed(1);
 			dc = dc / win;
-			dc = dc.toFixed(1);
+			dc = parseFloat(dc.toFixed(1));
 		}
 			
 		na.push(dc);
@@ -395,7 +395,7 @@ var m0 = getms();
    	    },
    	    chartArea: { left: '7%', top: '10%', width: "72%", height: "70%"},
 				
-				lineWidth: 2,
+				lineWidth: 1.5,
 				//curveType: 'function',
 
     	  vAxis: {
@@ -416,7 +416,7 @@ var m0 = getms();
     	if (trim == i) xi = 0;
     	var r = [];
     	for (var j = 0; j < data.columns.length; j++) {
-	    		r.push(data.columns[j][xi])
+	    		r.push(data.columns[j][xi]);
     	}
     	datatable.push(r);
     }
