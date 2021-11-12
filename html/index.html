@@ -51,9 +51,15 @@ td,th {
 		-->
 			<h4>Case rates by region: Daily new cases per 100,000 <small>(7-day moving average)</small></h4>
 			<div id="chart" style='width:100%' class='mt-4'></div>
-			<small class='text-muted'>Pinch or mousewheel to zoom</small>
+			<!--<small class='text-muted'>Pinch or mousewheel to zoom</small>-->
+	
+			<div class='btn-group' role='group'>
+				<button class='btn btn-xsm btn-secondary' onclick="setwindow(0)">All time</button>
+				<button class='btn btn-xsm btn-secondary' onclick="setwindow(180)">Last 180 days</button>
+				<button class='btn btn-xsm btn-secondary' onclick="setwindow(60)">Last 60 days</button>
+			</div>
 
-			<div id='gchart' style='height:400px'></div>
+			<div id='gchart' style='height:500px'></div>
 			
 			<div class='row mt-4'>
 				<div class='col-sm-12 col-md-6'>
@@ -141,7 +147,7 @@ google.charts.setOnLoadCallback(haveChart);
 
 function haveChart() {
   havechart = 1;
-  redrawAll();
+  //redrawAll();
 }
 
 function fillgaps(ci) {
@@ -229,6 +235,12 @@ var chart;
 
 const ICUdays = 12;
 const ICUdelay = 6;
+
+var lastwindow = 0;
+function setwindow(t) {
+	lastwindow = t;
+	applyfilter();
+}
 
 function displayData(data, chop, agemode) {
 
@@ -325,7 +337,7 @@ var m0 = getms();
 
 		//chart.load({unload: true, columns: data.columns});
 		return;
-	} else {
+	} else if (0) {
 
 		chart = c3.generate({
 			bindto: '#chart',
@@ -367,6 +379,49 @@ var m0 = getms();
 	        	{axis: 'y', start: 25, class: 'elem', opacity: 0.25}//, label: "School open"}
 	        	]
 	    });
+	}
+
+	// draw Google chart
+	{
+			var options = {
+      	
+      	//title: "Los Angeles Case Rates (daily new cases per 100,000)",
+	      //legend: { position: 'bottom' },
+	      hAxis: {
+  	      format: 'MMM d'
+   	    },
+   	    chartArea: { left: '10%', top: '5%', width: "80%", height: "70%"},
+				
+				lineWidth: 0.7,
+				//curveType: 'function',
+
+    	  vAxis: {
+      	  //baseline: 0,
+      	  scaleType: 'mirrorLog'
+      	}
+    };
+
+    var datatable = [];
+
+    // make a row-oriented datatable
+    var rows = data.columns[0].length;
+    var trim = 0;
+    if (lastwindow) trim = rows - lastwindow;
+
+    for (var i = trim; i < rows; i++) {
+    	var xi = i;
+    	if (trim == i) xi = 0;
+    	var r = [];
+    	for (var j = 0; j < data.columns.length; j++) {
+	    		r.push(data.columns[j][xi])
+    	}
+    	datatable.push(r);
+    }
+
+    var chart = new google.visualization.LineChart(document.getElementById('gchart'));
+    var dt = google.visualization.arrayToDataTable(datatable);
+
+    chart.draw(dt, options);
 	}
 
 	console.log(getms() - m0, "postgen");
@@ -708,7 +763,7 @@ function fetchSetting(feed, filter) {
 
 function fetchData(feed, filter, skipdupe) {
 
-	var dupe = feed + ":" + filter;
+	var dupe = feed + ":" + filter + lastwindow;
 	if (!skipdupe && nodupe == dupe) return;
 	nodupe = dupe;
 
@@ -769,7 +824,8 @@ function agefilter() {
 // slow down because c3.js is too slow:
 function setfilter(v) {
 	$('#search').show()
-	setTimeout(applyfilter, 1500);
+	//setTimeout(applyfilter, 1500);
+	setTimeout(applyfilter, 100);
 }
 
 function setsettingfilter(v) {
