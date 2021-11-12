@@ -59,6 +59,11 @@ td,th {
 				<button class='btn btn-xsm btn-secondary' onclick="setwindow(60)">Last 60 days</button>
 			</div>
 
+			<div class='btn-group' role='group2'>
+				<button class='btn btn-xsm btn-info' onclick="setlog(1)">Log</button>
+				<button class='btn btn-xsm btn-info' onclick="setlog(0)">Linear</button>
+			</div>
+
 			<div id='gchart' style='height:500px'></div>
 			
 			<div class='row mt-4'>
@@ -144,6 +149,8 @@ td,th {
 
 google.charts.load('current', {'packages':['corechart']});
 google.charts.setOnLoadCallback(haveChart);
+
+var chartformat = "mirrorLog";
 
 function haveChart() {
   havechart = 1;
@@ -242,6 +249,12 @@ const ICUdelay = 6;
 var lastwindow = 0;
 function setwindow(t) {
 	lastwindow = t;
+	applyfilter();
+}
+
+function setlog(x) {
+	if (x) chartformat = "mirrorLog";
+	else chartformat = "linear";
 	applyfilter();
 }
 
@@ -400,7 +413,7 @@ var m0 = getms();
 
     	  vAxis: {
       	  //baseline: 0,
-      	  scaleType: 'mirrorLog'
+      	  scaleType: chartformat
       	}
     };
 
@@ -766,7 +779,7 @@ function fetchSetting(feed, filter) {
 
 function fetchData(feed, filter, skipdupe) {
 
-	var dupe = feed + ":" + filter + lastwindow;
+	var dupe = feed + ":" + filter + lastwindow + chartformat;
 	if (!skipdupe && nodupe == dupe) return;
 	nodupe = dupe;
 
