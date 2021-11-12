@@ -200,7 +200,10 @@ function process(ci, win, noround) {
 		if (noround) {
 			dc = dc / win;
 		} else {
-			dc = Math.round(dc / win);
+			//dc = Math.round(dc / win);
+			//dc = (dc / win).toFixed(1);
+			dc = dc / win;
+			dc = dc.toFixed(1);
 		}
 			
 		na.push(dc);
@@ -417,6 +420,8 @@ var m0 = getms();
     	}
     	datatable.push(r);
     }
+
+    console.log(datatable);
 
     var chart = new google.visualization.LineChart(document.getElementById('gchart'));
     var dt = google.visualization.arrayToDataTable(datatable);
