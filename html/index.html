@@ -265,6 +265,18 @@ var m0 = getms();
 	var dlines = [];
 
 	if (!agemode) {
+
+		/*
+		// sort by recent caserate
+		data.columns.sort(function(a, b) {
+			if (a.length && b.length) {
+				var reA = a[a.length - 1];
+				var reB = b[b.length - 1];
+
+				return reA - reB;
+			}
+		});*/
+
 		for (var c = 1; c < data.columns.length; c++) {
 			var ci = data.columns[c];
 
