@@ -150,7 +150,7 @@ td,th {
 google.charts.load('current', {'packages':['corechart']});
 google.charts.setOnLoadCallback(haveChart);
 
-var chartformat = "mirrorLog";
+var chartformat = "linear";
 
 function haveChart() {
   havechart = 1;
@@ -246,7 +246,8 @@ var chart;
 const ICUdays = 12;
 const ICUdelay = 6;
 
-var lastwindow = 0;
+// default:
+var lastwindow = 180;
 function setwindow(t) {
 	lastwindow = t;
 	applyfilter();
