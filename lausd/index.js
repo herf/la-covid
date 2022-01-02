@@ -5,6 +5,18 @@ const levenary = require("levenary").default;
 var fn = fs.readdirSync('.');
 fn.sort();
 
+var crdir = 'etldata/';
+
+var fn2 = fs.readdirSync(crdir);
+fn2.sort();
+
+console.log(fn2);
+
+// prepend for path
+for (var i = 0; i < fn2.length; i++) {
+	fn.push(crdir + fn2[i]);
+}
+
 var com = {};
 var sch = {};
 var ss  = {};
@@ -140,14 +152,21 @@ function AllRates() {
 
 	for (var f in fn) {
 		var fx = fn[f];
-		if (fx.indexOf("Case rate") == -1) continue;
+		var fxname = fx;
+		var fxsp = fxname.split('/');
+		if (fxsp.length > 1) {
+			fxname = fxsp[1];
+		}
+
+		if (fx.indexOf("Case rate") == -1 &&
+			fx.indexOf("Case Rate") == -1) continue;
 
 		var d = fs.readFileSync(fx).toString();
 		var rows = d.split('\n');
 
 		//var d = new Date(fx.substr(0, 10));
 		//console.log(d.toString());
-		var dt = DayBefore(fx.substr(0, 10));
+		var dt = DayBefore(fxname.substr(0, 10));
 		for (var i = 0; i < rows.length; i++) {
 			if (i == 0) continue;
 
@@ -179,12 +198,30 @@ function AllActive() {
 
 	for (var f in fn) {
 		var fx = fn[f];
+		var fxname = fx;
+		var fxsp = fxname.split('/');
+		if (fxsp.length > 1) {
+			fxname = fxsp[1];
+		}
+
 		var comm = false;
 		var link = false;
 
 		// merge these -> rowmerge
+		/*
 		if (fx.indexOf("Community") != -1) comm = true;
 		if (fx.indexOf("School-linked") != -1) link = true;
+		if (fx.indexOf("labels") != -1) continue;
+		*/
+
+		if (fx.indexOf("School-linked") != -1) link = true;
+		if (fx.indexOf("Is_Epi_Linked") != -1) link = true;
+
+		if (fx.indexOf("Community") != -1) comm = true;
+
+		// depends on "link" no:
+		if (fx.indexOf("Campus_Name") != -1 && !link) comm = true;
+
 		if (fx.indexOf("labels") != -1) continue;
 
 		console.log(fx, comm, link);
@@ -194,8 +231,7 @@ function AllActive() {
 		var d = fs.readFileSync(fx).toString();
 		var rows = d.split('\n');
 
-
-		var dt = fx.substr(0, 10);
+		var dt = fxname.substr(0, 10);
 		dt = DayBefore(dt);
 
 		for (var i = 0; i < rows.length; i++) {
