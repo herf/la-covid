@@ -259,11 +259,62 @@ function setlog(x) {
 	applyfilter();
 }
 
+function getISOdate(d) {
+	return d.toISOString().slice(0, 10);
+}
+// more general: fill gaps for whole dataset at once
+function fillgaps2(data) {
+	var datecol = data.columns[0];
+	var gaplist = [];
+
+	for (var i = 2; i < datecol.length; i++) {
+		var dd = new Date(datecol[i]);
+		var dd0 = new Date(datecol[i - 1]);
+		var diff = dd.getTime() - dd0.getTime();
+		var gapsize = Math.round(diff / 1000 / 60 / 60 / 24);
+
+		// we are looking for these:
+		if (gapsize > 1) {
+
+			console.log("Filling gaps for", datecol[i]);
+			for (var g = 1; g < gapsize; g++) {
+				var interp = parseFloat(g) / gapsize;
+				var dg = dd0.getTime() + interp * diff;
+				var df = getISOdate(new Date(dg));
+
+				datecol.splice(i + g - 1, 0, df);
+
+				// and for each data column put interpolated data there
+				for (var c = 1; c < data.columns.length; c++) {
+					var dc = data.columns[c];
+
+					if (dc.length <= i) continue;
+
+					var v1 = dc[i + g - 1]; // tricky it moves as we splice
+					var v0 = dc[i - 1];
+
+					var nv = v0 + interp * (v1 - v0);
+					dc.splice(i + g - 1, 0, nv);
+
+					//console.log("Filling gap with ", nv, i + g - 1, dc.length, dc[0], v0, v1, interp);
+					//console.log(datecol[i-1], dc[i-1]);
+					//console.log(datecol[i], dc[i]);
+					//console.log(datecol[i+1], dc[i+1]);
+				}
+				//console.log("Filling", df, datecol[i], datecol[i-1]);
+			} 
+
+		}
+	}
+}
+
 function displayData(data, chop, agemode) {
 
 var m0 = getms();
 
 	var dlines = [];
+
+	fillgaps2(data);
 
 	if (!agemode) {
 
