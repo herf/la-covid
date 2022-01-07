@@ -99,6 +99,16 @@ td,th {
     return new Date(d.valueOf() + 3600 * 1000 * 8);
   }
 
+  function fillEndTable(t) {
+    if (t.length == 0) return;
+    var rowct = t[0].length;
+    for (var i = 1; i < t.length; i++) {
+        while (t[i].length < rowct) {
+            t[i].push(0);
+        }
+    }
+  }
+
   function drawCaseChart() {
 
     // csv format:
@@ -192,6 +202,9 @@ td,th {
         baseline: 0
       }
     };
+
+    // during breaks, sometimes schools don't do tests, so our rows are truncated:
+    fillEndTable(datatable);
 
     //var chart = new google.visualization.ColumnChart(document.getElementById('rate_chart'));
     //var chart = new google.visualization.LineChart(document.getElementById('rate_chart'));
