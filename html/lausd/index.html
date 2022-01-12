@@ -51,7 +51,8 @@ td,th {
 
     var loadct = 0;
     var mergedone = 0;
-    const loadneeded = 4;
+    //const loadneeded = 4;
+    const loadneeded = 3;
 
     d3.csv("./LAUSD-rates.csv").then(function(d) {
         ratedata = d;
@@ -74,11 +75,13 @@ td,th {
         redrawAll();
     });
 
+    /*
     d3.csv("https://herf.org/la-covid/lausd.csv").then(function(d) {
         latimes = d;
         loadct ++;
         redrawAll();
     });
+    */
 
 </script>
 
