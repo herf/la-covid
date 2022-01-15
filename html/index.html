@@ -262,6 +262,19 @@ function setlog(x) {
 function getISOdate(d) {
 	return d.toISOString().slice(0, 10);
 }
+
+var dowcorrection = 
+[ 1.2841999999999687,
+  1.3161999999999652,
+  1.019099999999998,
+  1.0598999999999934,
+  1.0161999999999982,
+  1.0069999999999992,
+  1.136999999999985 ];
+
+// this makes up cases on "low" testing days to match the rest
+var fillDOW = 1;
+
 // more general: fill gaps for whole dataset at once
 function fillgaps2(data) {
 	var datecol = data.columns[0];
@@ -328,6 +341,9 @@ var m0 = getms();
 				return reA - reB;
 			}
 		});*/
+
+		// TODO DOW correction if requested:
+		// data.columns[0] -> multiplier on daily delta
 
 		for (var c = 1; c < data.columns.length; c++) {
 			var ci = data.columns[c];
