@@ -694,21 +694,24 @@ function displayResult(feed, filt) {
 
 			// crazy LA 0-4 year explosion/adjustment in data
 			// I made up the 10 but it looks OK
-			if (+li.casechange > 5000) li.casechange = 10;
+			if (+li.casechange > 5000 && li.date == "2021-03-26") {
+				li.casechange = 10;
+			}
 
 			if (i == d.length - 1) {
 				fixup.push(i);
-
 				groupsum += +li.casechange;
 			}
 
 			if (li.date != ldate || (i == d.length - 1)) {
 				if (fixup.length) {
-					// fixup old things
+					// fixup has the list of items we put into "groupsum"
+					// this pass writes the normalized versions:
 					for (var f = 0; f < fixup.length; f++) {
 						var ff = fixup[f];
 						if (groupsum) {
-							d[ff].caserate = +d[ff].casechange / groupsum;
+							var df = d[ff];
+							df.caserate = +df.casechange / groupsum;
 						} else {
 							d[ff].caserate = 0;
 						}
@@ -790,6 +793,9 @@ function displayResult(feed, filt) {
 	// there are some "old names" from march feed that are convenient to chop out:
 	if (data.columns[0].length > 70) chop = 45;
 
+	// $$$ disables normalization:
+	const finalnorm = true;
+
 	// stuff changed on july 24:
 	if (agemode) {
 		chop = 120;
@@ -802,17 +808,19 @@ function displayResult(feed, filt) {
 
 			//console.log(ci);
 
-			// prechop so we only do part
-			var colmean = 0;
-			for (var j = chop + 1; j < ci.length; j++) {
-				colmean += ci[j];
-			}
-			colmean /= (ci.length - 1 - chop);
+			if (finalnorm) {
+				// prechop so we only do part
+				var colmean = 0;
+				for (var j = chop + 1; j < ci.length; j++) {
+					colmean += ci[j];
+				}
+				colmean /= (ci.length - 1 - chop);
 
-			var colmul = colmean ? 1.0 / colmean : 0;
+				var colmul = colmean ? 1.0 / colmean : 0;
 
-			for (var j = chop + 1; j < ci.length; j++) {
-				ci[j] *= colmul;
+				for (var j = chop + 1; j < ci.length; j++) {
+					ci[j] *= colmul;
+				}
 			}
 		}
 		/*
