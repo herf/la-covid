@@ -273,7 +273,44 @@ var dowcorrection =
   1.136999999999985 ];
 
 // this makes up cases on "low" testing days to match the rest
-var fillDOW = 1;
+var enableDOWcorrection = 1;
+// whether or not this view has been DOW-adjusted yet (so we only do it once)
+var fixdow = 0;
+
+// optionally we can "make up" weekend cases to account for dips typically seen on weekends
+function adjustDOW(data) {
+	if (fixdow) return;
+	fixdow = 1;
+
+	var datecol = data.columns[0];
+	for (var i = 1; i < datecol.length; i++) {
+		var d = new Date(datecol[i]);
+		var gd = d.getDay();
+		var adj = dowcorrection[gd];
+
+		// diff, correct, re-integrate
+		for (var c = 1; c < data.length; c++) {
+			var dc = data[c];
+			for (var r = dc.length - 1; r >= 1; r --) {
+				dc[r] -= dc[r - 1];
+			}
+		}
+
+		for (var c = 1; c < data.length; c++) {
+			var dc = data[c];
+			for (var r = 1; r < dc.length; r++) {
+				dc[r] *= adj;
+			}
+		}
+
+		for (var c = 1; c < data.length; c++) {
+			var dc = data[c];
+			for (var r = 2; r < dc.length; r ++) {
+				dc[r] += dc[r - 1];
+			}
+		}		
+	}
+}
 
 // more general: fill gaps for whole dataset at once
 function fillgaps2(data) {
@@ -326,6 +363,8 @@ function displayData(data, chop, agemode) {
 var m0 = getms();
 
 	var dlines = [];
+
+	if (enableDOWcorrection) adjustDOW(data);
 
 	fillgaps2(data);
 
@@ -832,6 +871,7 @@ function displayResult(feed, filt) {
 	//if (agemode) console.log(data);
 	//console.log(data);
 
+	dayfix = 0;
 	displayData(data, chop, agemode);
 }
 
