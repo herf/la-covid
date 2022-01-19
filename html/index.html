@@ -65,8 +65,7 @@ td,th {
 			</div>
 			<!--
 				<button class='btn btn-xsm btn-info' onclick="toggledow()">Day of week correction</button>
-		-->
-		
+-->
 			<div id='gchart' style='height:500px'></div>
 			
 			<div class='row mt-4'>
@@ -271,6 +270,7 @@ function getISOdate(d) {
 	return d.toISOString().slice(0, 10);
 }
 
+// experimental day of week normalizer, disabled:
 var dowcorrection = 
 [ 1.2841999999999687,
   1.3161999999999652,
@@ -285,6 +285,8 @@ var enableDOWcorrection = 0;
 // whether or not this view has been DOW-adjusted yet (so we only do it once)
 var fixdow = 0;
 
+var smoothing = 1;
+
 // optionally we can "make up" weekend cases to account for dips typically seen on weekends
 function adjustDOW(data) {
 	if (fixdow) return;
@@ -293,13 +295,10 @@ function adjustDOW(data) {
 	var dcol = data.columns;
 	console.log("Fixing dow", dcol.length);
 
-
-	console.log(data, "orig");
-
 	// 1. diff
 	for (var c = 1; c < dcol.length; c++) {
 		var dc = dcol[c];
-		for (var r = dc.length - 1; r >= 1; r --) {
+		for (var r = dc.length - 1; r >= 2; r --) {
 			dc[r] -= dc[r - 1];
 		}
 	}
@@ -319,8 +318,6 @@ function adjustDOW(data) {
 		}
 	}
 
-	console.log(data, "postcor");
-
 	// reintegrate:
 	for (var c = 1; c < dcol.length; c++) {
 		var dc = dcol[c];
@@ -328,7 +325,6 @@ function adjustDOW(data) {
 			dc[r] += dc[r - 1];
 		}
 	}
-	console.log(data);
 }
 
 // more general: fill gaps for whole dataset at once
@@ -409,7 +405,7 @@ var m0 = getms();
 			var icuduration = new Int32Array(data.columns[c]);
 
 			process(icuduration, ICUdays);
-			process(ci, 7);
+			process(ci, smoothing);
 
 			if (namemap[ci[0]])
 				ci[0] = namemap[ci[0]];
@@ -862,7 +858,7 @@ function displayResult(feed, filt) {
 		for (var i = 1; i < data.columns.length; i++) {
 			var ci = data.columns[i];
 
-			preprocess(ci, 7);
+			preprocess(ci, smoothing);
 
 			//console.log(ci);
 
@@ -927,7 +923,7 @@ function fetchSetting(feed, filter) {
 
 function fetchData(feed, filter, skipdupe) {
 
-	var dupe = feed + ":" + filter + lastwindow + chartformat;
+	var dupe = feed + ":" + filter + lastwindow + chartformat + enableDOWcorrection;
 	if (!skipdupe && nodupe == dupe) return;
 	nodupe = dupe;
 
