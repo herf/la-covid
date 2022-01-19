@@ -63,7 +63,10 @@ td,th {
 				<button class='btn btn-xsm btn-info' onclick="setlog(1)">Log</button>
 				<button class='btn btn-xsm btn-info' onclick="setlog(0)">Linear</button>
 			</div>
-
+			<!--
+				<button class='btn btn-xsm btn-info' onclick="toggledow()">Day of week correction</button>
+		-->
+		
 			<div id='gchart' style='height:500px'></div>
 			
 			<div class='row mt-4'>
@@ -253,6 +256,11 @@ function setwindow(t) {
 	applyfilter();
 }
 
+function toggledow() {
+	enableDOWcorrection = !enableDOWcorrection;
+	applyfilter();
+}
+
 function setlog(x) {
 	if (x) chartformat = "mirrorLog";
 	else chartformat = "linear";
@@ -273,7 +281,7 @@ var dowcorrection =
   1.136999999999985 ];
 
 // this makes up cases on "low" testing days to match the rest
-var enableDOWcorrection = 1;
+var enableDOWcorrection = 0;
 // whether or not this view has been DOW-adjusted yet (so we only do it once)
 var fixdow = 0;
 
@@ -282,34 +290,45 @@ function adjustDOW(data) {
 	if (fixdow) return;
 	fixdow = 1;
 
+	var dcol = data.columns;
+	console.log("Fixing dow", dcol.length);
+
+
+	console.log(data, "orig");
+
+	// 1. diff
+	for (var c = 1; c < dcol.length; c++) {
+		var dc = dcol[c];
+		for (var r = dc.length - 1; r >= 1; r --) {
+			dc[r] -= dc[r - 1];
+		}
+	}
+
+	// 2. correct by dow, row format:
 	var datecol = data.columns[0];
+
 	for (var i = 1; i < datecol.length; i++) {
 		var d = new Date(datecol[i]);
 		var gd = d.getDay();
 		var adj = dowcorrection[gd];
 
-		// diff, correct, re-integrate
-		for (var c = 1; c < data.length; c++) {
-			var dc = data[c];
-			for (var r = dc.length - 1; r >= 1; r --) {
-				dc[r] -= dc[r - 1];
-			}
+		// row-wise by "adj"
+		for (var c = 1; c < dcol.length; c++) {
+			var dc = dcol[c];
+			dc[i] *= adj;
 		}
-
-		for (var c = 1; c < data.length; c++) {
-			var dc = data[c];
-			for (var r = 1; r < dc.length; r++) {
-				dc[r] *= adj;
-			}
-		}
-
-		for (var c = 1; c < data.length; c++) {
-			var dc = data[c];
-			for (var r = 2; r < dc.length; r ++) {
-				dc[r] += dc[r - 1];
-			}
-		}		
 	}
+
+	console.log(data, "postcor");
+
+	// reintegrate:
+	for (var c = 1; c < dcol.length; c++) {
+		var dc = dcol[c];
+		for (var r = 2; r < dc.length; r ++) {
+			dc[r] += dc[r - 1];
+		}
+	}
+	console.log(data);
 }
 
 // more general: fill gaps for whole dataset at once
@@ -326,7 +345,7 @@ function fillgaps2(data) {
 		// we are looking for these:
 		if (gapsize > 1) {
 
-			console.log("Filling gaps for", datecol[i]);
+			//console.log("Filling gaps for", datecol[i]);
 			for (var g = 1; g < gapsize; g++) {
 				var interp = parseFloat(g) / gapsize;
 				var dg = dd0.getTime() + interp * diff;
