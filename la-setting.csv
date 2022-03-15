@@ -443,6 +443,7 @@ Wed Jul 08 2020 09:00:01 GMT-0700 (Pacific Daylight Time),"UPS - Cerritos","1323
 Wed Jul 08 2020 09:00:01 GMT-0700 (Pacific Daylight Time),"UPS - Main St","1800 N Main St, Los Angeles, CA, 90031",9,0
 Wed Jul 08 2020 09:00:01 GMT-0700 (Pacific Daylight Time),"UPS - San Fernando","12745 Arroyo St, Sylmar, CA, 91342",7,0
 Thu Jul 09 2020 09:00:01 GMT-0700 (Pacific Daylight Time),"Satsuma Landscape","214 N 1st St, La Puente, CA, 91744",3,0
+Thu Jul 09 2020 09:00:01 GMT-0700 (Pacific Daylight Time),"Santa Anita Race Track","285 W Huntington Dr, Arcadia, CA, 91007",17,10
 Thu Jul 09 2020 09:00:01 GMT-0700 (Pacific Daylight Time),"Spyder Auto","19315 E Walnut Dr N, City Of Industry, CA, 91748",8,8
 Thu Jul 09 2020 09:00:01 GMT-0700 (Pacific Daylight Time),"Stars Center","11515 Colima Rd, Whittier, CA, 90604",63,9
 Thu Jul 09 2020 09:00:01 GMT-0700 (Pacific Daylight Time),"Turbo Wholesale Tires","5793 Martin Rd, Irwindale, CA, 91706",42,6
@@ -467,7 +468,6 @@ Thu Jul 09 2020 09:00:01 GMT-0700 (Pacific Daylight Time),"Day-Lee Foods, Inc.",
 Thu Jul 09 2020 09:00:01 GMT-0700 (Pacific Daylight Time),"Dacor","14425 Clark Ave, City Of Industry, CA, 91745",4,2
 Thu Jul 09 2020 09:00:01 GMT-0700 (Pacific Daylight Time),"BYD Coach & Bus","46147 BYD Blvd, Lancaster, CA, 93534",7,0
 Thu Jul 09 2020 09:00:01 GMT-0700 (Pacific Daylight Time),"B & R Commerce","4261 S Alameda St, Vernon, CA, 90058",5,25
-Thu Jul 09 2020 09:00:01 GMT-0700 (Pacific Daylight Time),"Santa Anita Race Track","285 W Huntington Dr, Arcadia, CA, 91007",17,10
 Thu Jul 09 2020 09:00:01 GMT-0700 (Pacific Daylight Time),"Saputo Cheese USA, Inc.","5611 Imperial Hwy, South Gate, CA, 90280",99,0
 Thu Jul 09 2020 09:00:01 GMT-0700 (Pacific Daylight Time),"Sprouts","4253 Woodruff Ave, Lakewood, CA, 90713",3,0
 Fri Jul 10 2020 09:00:01 GMT-0700 (Pacific Daylight Time),"LA City Division of Building and Safety","221 N Figueroa St, 1100, Los Angeles, CA, 90012",8,4
@@ -5457,13 +5457,14 @@ Fri Jan 01 2021 05:00:01 GMT-0800 (Pacific Standard Time),"Off Campus Neighborho
 Sat Jan 02 2021 07:00:01 GMT-0800 (Pacific Standard Time),"Antelope Valley College, Nursing","3041 W Avenue K, Lancaster, CA, 93536",2,9
 Sat Jan 02 2021 07:00:01 GMT-0800 (Pacific Standard Time),"Footprints Christian, Lancaster United Methodist Preschool","918 W Avenue J, Lancaster, CA, 93534",4,2
 Sat Jan 02 2021 07:00:01 GMT-0800 (Pacific Standard Time),"Woodrow Wilson Senior High, LAUSD","4500 Multnomah St, Los Angeles, CA, 90032",6,0
-Sun Jan 03 2021 02:00:01 GMT-0800 (Pacific Standard Time),"Chick-Fil-A Santa Clarita","24180 Magic Mountain Pkwy, Santa Clarita, CA, 91355",11,0
+Sun Jan 03 2021 02:00:01 GMT-0800 (Pacific Standard Time),"Sunrider","1461 Francisco St, Torrance, CA, 90501",23,0
 Sun Jan 03 2021 02:00:01 GMT-0800 (Pacific Standard Time),"Alexander's Prime Meats","6580 N San Gabriel Blvd, San Gabriel, CA, 91775",13,0
 Sun Jan 03 2021 02:00:01 GMT-0800 (Pacific Standard Time),"Apple Store, Glendale Galleria","2126 Glendale Galleria, Glendale, CA, 91210",13,0
 Sun Jan 03 2021 02:00:01 GMT-0800 (Pacific Standard Time),"Bentley Mills LA","14641 Don Julian Rd, City of Industry, CA, 91746",99,0
 Sun Jan 03 2021 02:00:01 GMT-0800 (Pacific Standard Time),"Best Buy Downey","12118 Lakewood Blvd, Downey, CA, 90242",12,0
 Sun Jan 03 2021 02:00:01 GMT-0800 (Pacific Standard Time),"Best Buy West Hollywood","1015 N La Brea Ave, West Hollywood, CA, 90038",27,0
 Sun Jan 03 2021 02:00:01 GMT-0800 (Pacific Standard Time),"Bristol Farms #4 Westchester","8448 Lincoln Blvd, Westchester, CA, 90045",10,0
+Sun Jan 03 2021 02:00:01 GMT-0800 (Pacific Standard Time),"Chick-Fil-A Santa Clarita","24180 Magic Mountain Pkwy, Santa Clarita, CA, 91355",11,0
 Sun Jan 03 2021 02:00:01 GMT-0800 (Pacific Standard Time),"Cintas Corporation","20100 S Susana Rd, Compton, CA, 90221",16,0
 Sun Jan 03 2021 02:00:01 GMT-0800 (Pacific Standard Time),"Costco Business Center Warehouse, Burbank #653","11428 Sherman Way, North Hollywood, CA, 91605",16,0
 Sun Jan 03 2021 02:00:01 GMT-0800 (Pacific Standard Time),"FedEx Ground Sun Valley","9210 San Fernando Rd, Sun Valley, CA, 91352",28,0
@@ -5487,7 +5488,6 @@ Sun Jan 03 2021 02:00:01 GMT-0800 (Pacific Standard Time),"Rancho Foods, Inc.","
 Sun Jan 03 2021 02:00:01 GMT-0800 (Pacific Standard Time),"Smurfit Kappa North America","440 Baldwin Park Blvd, City of Industry, CA, 91746",22,0
 Sun Jan 03 2021 02:00:01 GMT-0800 (Pacific Standard Time),"Southland Box Company","4201 Fruitland Ave, Vernon, CA, 90058",12,0
 Sun Jan 03 2021 02:00:01 GMT-0800 (Pacific Standard Time),"Stonefire Grill #2","6405 Fallbrook Ave, West Hills, CA, 91307",14,0
-Sun Jan 03 2021 02:00:01 GMT-0800 (Pacific Standard Time),"Sunrider","1461 Francisco St, Torrance, CA, 90501",23,0
 Sun Jan 03 2021 02:00:01 GMT-0800 (Pacific Standard Time),"Target #1884","7100 Santa Monica Blvd, West Hollywood, CA, 90046",28,0
 Sun Jan 03 2021 02:00:01 GMT-0800 (Pacific Standard Time),"TFC Manufacturing, Inc.","4001 Watson Plaza Dr, Lakewood, CA, 90712",13,0
 Sun Jan 03 2021 02:00:01 GMT-0800 (Pacific Standard Time),"The Habit Burger Grill - Chatsworth","9243 Winnetka Ave, Chatsworth, CA, 91311",5,0
@@ -5664,6 +5664,7 @@ Thu Jan 07 2021 06:00:01 GMT-0800 (Pacific Standard Time),"FedEx Ground Sun Vall
 Fri Jan 08 2021 04:00:01 GMT-0800 (Pacific Standard Time),"Kohl's Redondo Beach","1799 Hawthorne Blvd, Redondo Beach, CA, 90278",16,0
 Fri Jan 08 2021 04:00:01 GMT-0800 (Pacific Standard Time),"Decore-ative Specialties - Decore Finishing","15875 Ornelas St, Baldwin Park, CA, 91706",21,0
 Fri Jan 08 2021 04:00:01 GMT-0800 (Pacific Standard Time),"Day-Lee Foods, Inc.","13055 Molette St, Santa Fe Springs, CA, 90670",42,0
+Fri Jan 08 2021 04:00:01 GMT-0800 (Pacific Standard Time),"LA Apparel #3","1020 E 59th St, Los Angeles, CA, 90001",35,0
 Fri Jan 08 2021 04:00:01 GMT-0800 (Pacific Standard Time),"Costco Warehouse, Santa Clarita #447","18649 Via Princessa, Santa Clarita, CA, 91387",34,0
 Fri Jan 08 2021 04:00:01 GMT-0800 (Pacific Standard Time),"Costco Warehouse, Lancaster #762","1141 W Avenue L, Lancaster, CA, 93534",25,0
 Fri Jan 08 2021 04:00:01 GMT-0800 (Pacific Standard Time),"Coast Packing Company","3275 E Vernon Ave, Vernon, CA, 90058",18,0
@@ -5675,7 +5676,6 @@ Fri Jan 08 2021 04:00:01 GMT-0800 (Pacific Standard Time),"Catalina House of Hop
 Fri Jan 08 2021 04:00:01 GMT-0800 (Pacific Standard Time),"Camino Real Kitchens","2638 E Vernon Ave, Vernon, CA, 90058",27,0
 Fri Jan 08 2021 04:00:01 GMT-0800 (Pacific Standard Time),"Bon Appetit","4700 Alcoa Ave, Vernon, CA, 90058",14,0
 Fri Jan 08 2021 04:00:01 GMT-0800 (Pacific Standard Time),"Beverly Hills Hotel","9641 Sunset Blvd, Beverly Hills, CA, 90210",19,0
-Fri Jan 08 2021 04:00:01 GMT-0800 (Pacific Standard Time),"LA Apparel #3","1020 E 59th St, Los Angeles, CA, 90001",35,0
 Fri Jan 08 2021 04:00:01 GMT-0800 (Pacific Standard Time),"Best Buy Downey","12118 Lakewood Blvd, Downey, CA, 90242",15,0
 Fri Jan 08 2021 04:00:01 GMT-0800 (Pacific Standard Time),"Barry Avenue Plating Co., Inc.","2210 Barry Ave, Los Angeles, CA, 90064",11,0
 Fri Jan 08 2021 04:00:01 GMT-0800 (Pacific Standard Time),"Bagcraft Novolex","515 Turnbull Canyon Rd, City of Industry, CA, 91745",22,0
@@ -8026,10 +8026,11 @@ Sat Sep 04 2021 05:00:01 GMT-0700 (Pacific Daylight Time),"Alcazar Child Develop
 Sat Sep 04 2021 05:00:01 GMT-0700 (Pacific Daylight Time),"Halldale Elementary School","21514 Halldale Ave, Torrance, CA, 90501",1,8
 Sat Sep 04 2021 05:00:01 GMT-0700 (Pacific Daylight Time),"Plainview Academic Charter Academy","10819 Plainview Ave, Tujunga, CA, 91042",0,6
 Sat Sep 04 2021 05:00:01 GMT-0700 (Pacific Daylight Time),"Royal Oak Middle School","303 S Glendora Ave, Covina, CA, 91724",1,8
-Sun Sep 05 2021 02:00:01 GMT-0700 (Pacific Daylight Time),"Raytheon Technologies, Bldg E04","2006 E El Segundo Blvd, El Segundo, CA, 90245",5,0
+Sun Sep 05 2021 02:00:01 GMT-0700 (Pacific Daylight Time),"Stevenson Ranch Elementary School","25820 Carroll Ln, Stevenson Ranch, CA, 91381",0,6
 Sun Sep 05 2021 02:00:01 GMT-0700 (Pacific Daylight Time),"AutoNation Collision Center South Bay","4302 W 190th St, Torrance, CA, 90504",4,0
 Sun Sep 05 2021 02:00:01 GMT-0700 (Pacific Daylight Time),"Metal Surfaces International LLC","6060 Shull St, Bell Gardens, CA, 90201",3,0
 Sun Sep 05 2021 02:00:01 GMT-0700 (Pacific Daylight Time),"Precision Welding LA","241 Enterprise Pkwy, Lancaster, CA, 93534",5,0
+Sun Sep 05 2021 02:00:01 GMT-0700 (Pacific Daylight Time),"Raytheon Technologies, Bldg E04","2006 E El Segundo Blvd, El Segundo, CA, 90245",5,0
 Sun Sep 05 2021 02:00:01 GMT-0700 (Pacific Daylight Time),"Real Life Church Ministries","23841 Newhall Ranch Rd, Valencia, CA, 91355",4,0
 Sun Sep 05 2021 02:00:01 GMT-0700 (Pacific Daylight Time),"Taft Electric Construction Project at Cleveland High School","8140 Vanalden Ave, Reseda, CA, 91335",5,0
 Sun Sep 05 2021 02:00:01 GMT-0700 (Pacific Daylight Time),"Tesla Service Center - Van Nuys","6929 Hayvenhurst Ave, Van Nuys, CA, 91406",4,0
@@ -8040,7 +8041,6 @@ Sun Sep 05 2021 02:00:01 GMT-0700 (Pacific Daylight Time),"Castaic High School #
 Sun Sep 05 2021 02:00:01 GMT-0700 (Pacific Daylight Time),"Castaic High School #2","31575 Valley Creek Road, Castaic, CA, 91384",0,13
 Sun Sep 05 2021 02:00:01 GMT-0700 (Pacific Daylight Time),"Rosedell North Elementary School","28110 Wellston Dr, Saugus, CA, 91350",3,7
 Sun Sep 05 2021 02:00:01 GMT-0700 (Pacific Daylight Time),"Saugus High School","21900 Centurion Way, Saugus, CA, 91350",0,6
-Sun Sep 05 2021 02:00:01 GMT-0700 (Pacific Daylight Time),"Stevenson Ranch Elementary School","25820 Carroll Ln, Stevenson Ranch, CA, 91381",0,6
 Sun Sep 05 2021 02:00:01 GMT-0700 (Pacific Daylight Time),"William S. Hart High School","24825 Newhall Ave, Newhall, CA, 91321",0,10
 Wed Sep 08 2021 05:00:01 GMT-0700 (Pacific Daylight Time),"Grifols - City of Industry","13111 Temple Ave, City of Industry, CA, 91746",3,0
 Wed Sep 08 2021 05:00:01 GMT-0700 (Pacific Daylight Time),"LAX Terminal 4 - American Airlines","400 World Way, Los Angeles, CA, 90045",65,0
@@ -8233,11 +8233,11 @@ Thu Oct 07 2021 05:00:01 GMT-0700 (Pacific Daylight Time),"TEACH Preparatory Mil
 Fri Oct 08 2021 05:00:02 GMT-0700 (Pacific Daylight Time),"Santa Monica College","1900 Pico Blvd, Santa Monica, CA, 90405",0,6
 Fri Oct 08 2021 05:00:02 GMT-0700 (Pacific Daylight Time),"La Hydro-Jet & Rooter Service, Inc.","10639 Wixom St, Sun Valley, CA, 91352",8,0
 Fri Oct 08 2021 05:00:02 GMT-0700 (Pacific Daylight Time),"Bridgeport School Sherman Oaks","13130 Burbank Blvd, Sherman Oaks, CA, 91401",1,4
+Fri Oct 08 2021 05:00:02 GMT-0700 (Pacific Daylight Time),"Ace Industrial Supply","7535 N San Fernando Rd, Burbank, CA, 91505",10,0
 Fri Oct 08 2021 05:00:02 GMT-0700 (Pacific Daylight Time),"Crown Preparatory Academy","2055 W 24th St, Los Angeles, CA, 90018",1,11
 Fri Oct 08 2021 05:00:02 GMT-0700 (Pacific Daylight Time),"Fairfax Senior High School","7850 Melrose Ave, Los Angeles, CA, 90046",0,13
 Fri Oct 08 2021 05:00:02 GMT-0700 (Pacific Daylight Time),"Northridge Middle School","17960 Chase St, Northridge, CA, 91325",0,3
 Fri Oct 08 2021 05:00:02 GMT-0700 (Pacific Daylight Time),"Pennekamp Elementary School","110 S Rowell Ave, Manhattan Beach, CA, 90266",1,10
-Fri Oct 08 2021 05:00:02 GMT-0700 (Pacific Daylight Time),"Ace Industrial Supply","7535 N San Fernando Rd, Burbank, CA, 91505",10,0
 Fri Oct 08 2021 05:00:02 GMT-0700 (Pacific Daylight Time),"Paramount Studios - Stage 16","5555 Melrose Ave, Stage 16, Los Angeles, CA, 90038",4,0
 Fri Oct 08 2021 05:00:02 GMT-0700 (Pacific Daylight Time),"Bellflower Middle/High School","15301 McNab Ave, Bellflower, CA, 90706",1,7
 Sat Oct 09 2021 01:00:02 GMT-0700 (Pacific Daylight Time),"Lockheed Martin Aeronautics Palmdale, Bldg 636","1011 Lockheed Way, Palmdale, CA, 93599",6,0
@@ -9200,6 +9200,8 @@ Wed Jan 05 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Paramount Exclusive I
 Wed Jan 05 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Nordstrom, The Grove","189 The Grove Dr Ste P80, Los Angeles, CA, 90036",41,0
 Wed Jan 05 2022 04:00:01 GMT-0800 (Pacific Standard Time),"LAX Terminal 5 - LA Times Newsstand","500 World Way, Los Angeles, CA, 90045",4,0
 Wed Jan 05 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Costco Warehouse, Santa Clarita #447","18649 Via Princessa, Santa Clarita, CA, 91387",20,0
+Thu Jan 06 2022 05:10:47 GMT-0800 (Pacific Standard Time),"Fox Studios Bldg 101","10201 W Pico Blvd, Bldg 101, Los Angeles, CA, 90064",14,0
+Thu Jan 06 2022 05:10:47 GMT-0800 (Pacific Standard Time),"Goodwill Southern California - E-Commerce","3150 N San Fernando Rd, Los Angeles, CA, 90065",9,0
 Thu Jan 06 2022 05:10:47 GMT-0800 (Pacific Standard Time),"Heyday Skincare - Silver Lake","3505 W Sunset Blvd, Los Angeles, CA, 90026",5,0
 Thu Jan 06 2022 05:10:47 GMT-0800 (Pacific Standard Time),"Hill Street Café","1004 Foothill Blvd, La Canada, CA, 91011",8,0
 Thu Jan 06 2022 05:10:47 GMT-0800 (Pacific Standard Time),"IDF Studio Scenery","13618 Vaughn St, San Fernando, CA, 91340",3,0
@@ -9232,7 +9234,7 @@ Thu Jan 06 2022 05:10:47 GMT-0800 (Pacific Standard Time),"Tesse Restaurant","85
 Thu Jan 06 2022 05:10:47 GMT-0800 (Pacific Standard Time),"The RealReal","8500 Melrose Ave, West Hollywood, CA, 90069",9,0
 Thu Jan 06 2022 05:10:47 GMT-0800 (Pacific Standard Time),"The Village Family Services","6736 Laurel Canyon Blvd, North Hollywood, CA, 91606",4,0
 Thu Jan 06 2022 05:10:47 GMT-0800 (Pacific Standard Time),"Tillys Store #275","21712 Hawthorne Blvd Ste 227a, Torrance, CA, 90503",3,0
-Thu Jan 06 2022 05:10:47 GMT-0800 (Pacific Standard Time),"Pepperdine University Athletics 3","24255 PAcific Coast Hwy, Malibu, CA, 90263",5,8
+Thu Jan 06 2022 05:10:47 GMT-0800 (Pacific Standard Time),"TK92 Korean BBQ","250 W Valley Blvd, Ste P, San Gabriel, CA, 91776",9,0
 Thu Jan 06 2022 05:10:47 GMT-0800 (Pacific Standard Time),"Tokyo Shokudo","3760 S Centinela Ave, Ste 113, Los Angeles, CA, 90066",5,0
 Thu Jan 06 2022 05:10:47 GMT-0800 (Pacific Standard Time),"Toyota, Hamer","11041 Sepulveda Blvd, Mission Hills, CA, 91345",18,0
 Thu Jan 06 2022 05:10:47 GMT-0800 (Pacific Standard Time),"Trader Joe's #205","4675 Admiralty Way, Marina Del Rey, CA, 90292",16,0
@@ -9246,8 +9248,9 @@ Thu Jan 06 2022 05:10:47 GMT-0800 (Pacific Standard Time),"ZARA, Glendale Galler
 Thu Jan 06 2022 05:10:47 GMT-0800 (Pacific Standard Time),"Bishop Amat Memorial High School","14301 Fairgrove Ave, La Puente, CA, 91746",2,41
 Thu Jan 06 2022 05:10:47 GMT-0800 (Pacific Standard Time),"Granada Hills Charter School","10535 Zelzah Ave, Granada Hills, CA, 91344",1,4
 Thu Jan 06 2022 05:10:47 GMT-0800 (Pacific Standard Time),"Mountain View High School","2900 Parkway Dr, El Monte, CA, 91732",1,5
-Thu Jan 06 2022 05:10:47 GMT-0800 (Pacific Standard Time),"ACCESS Specialty Animal Hospitals - Los Angeles","9599 Jefferson Blvd, Culver City, CA, 90232",26,0
+Thu Jan 06 2022 05:10:47 GMT-0800 (Pacific Standard Time),"Pepperdine University Athletics 3","24255 PAcific Coast Hwy, Malibu, CA, 90263",5,8
 Thu Jan 06 2022 05:10:47 GMT-0800 (Pacific Standard Time),"Valley Beth Shalom Early Childhood Center","15739 Ventura Blvd, Encino, CA, 91436",3,13
+Thu Jan 06 2022 05:10:47 GMT-0800 (Pacific Standard Time),"ACCESS Specialty Animal Hospitals - Los Angeles","9599 Jefferson Blvd, Culver City, CA, 90232",26,0
 Thu Jan 06 2022 05:10:47 GMT-0800 (Pacific Standard Time),"Americold - City of Industry 14840 West","14840 Proctor Ave, City of Industry, CA, 91746",12,0
 Thu Jan 06 2022 05:10:47 GMT-0800 (Pacific Standard Time),"Athens Services - LASO Yard","1301 W 228th St, Torrance, CA, 90501",15,0
 Thu Jan 06 2022 05:10:47 GMT-0800 (Pacific Standard Time),"Bicycle Transit Systems","1349 Channing St, Los Angeles, CA, 90021",4,0
@@ -9270,14 +9273,11 @@ Thu Jan 06 2022 05:10:47 GMT-0800 (Pacific Standard Time),"First Entertainment C
 Thu Jan 06 2022 05:10:47 GMT-0800 (Pacific Standard Time),"Fleming's Steakhouse & Wine Bar, LA Live","800 W Olympic Blvd, A135, Los Angeles, CA, 90015",14,0
 Thu Jan 06 2022 05:10:47 GMT-0800 (Pacific Standard Time),"Fox Sports Deportes","1440 S Sepulveda Blvd Fl 3, Los Angeles, CA, 90025",5,0
 Thu Jan 06 2022 05:10:47 GMT-0800 (Pacific Standard Time),"Fox Sports Stage A","10201 W Pico Blvd, Los Angeles, CA, 90064",8,0
-Thu Jan 06 2022 05:10:47 GMT-0800 (Pacific Standard Time),"Fox Studios Bldg 101","10201 W Pico Blvd, Bldg 101, Los Angeles, CA, 90064",14,0
-Thu Jan 06 2022 05:10:47 GMT-0800 (Pacific Standard Time),"Goodwill Southern California - E-Commerce","3150 N San Fernando Rd, Los Angeles, CA, 90065",9,0
-Thu Jan 06 2022 05:10:47 GMT-0800 (Pacific Standard Time),"TK92 Korean BBQ","250 W Valley Blvd, Ste P, San Gabriel, CA, 91776",9,0
-Fri Jan 07 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Warren High School","8141 De Palma St, Downey, CA, 90241",2,6
+Fri Jan 07 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Markwins Beauty Brand","22067 Ferrero, City of Industry, CA, 91789",8,0
+Fri Jan 07 2022 04:00:01 GMT-0800 (Pacific Standard Time),"APM Terminals Pacific LLC","2500 Navy Way, San Pedro, CA, 90731",18,0
 Fri Jan 07 2022 04:00:01 GMT-0800 (Pacific Standard Time),"7 Leaves Cafe - Cerritos","20226 Pioneer Blvd, Cerritos, CA, 90703",15,0
 Fri Jan 07 2022 04:00:01 GMT-0800 (Pacific Standard Time),"ACCESS Specialty Animal Hospitals - Los Angeles","9599 Jefferson Blvd, Culver City, CA, 90232",30,0
 Fri Jan 07 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Alternate Public Defender #675 - Inglewood Branch","9800 S La Cienega Blvd, Ste 420, Inglewood, CA, 90301",3,0
-Fri Jan 07 2022 04:00:01 GMT-0800 (Pacific Standard Time),"APM Terminals Pacific LLC","2500 Navy Way, San Pedro, CA, 90731",18,0
 Fri Jan 07 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Big Blue Bus of Santa Monica","1660 7th St, Santa Monica, CA, 90401",18,0
 Fri Jan 07 2022 04:00:01 GMT-0800 (Pacific Standard Time),"California DMV - Bell Gardens","6801 Garfield Ave, Bell Gardens, CA, 90201",6,0
 Fri Jan 07 2022 04:00:01 GMT-0800 (Pacific Standard Time),"California DMV - Pasadena","49 S Rosemead Blvd, Pasadena, CA, 91107",3,0
@@ -9369,9 +9369,7 @@ Fri Jan 07 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Redondo Union High Sc
 Fri Jan 07 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Santa Clarita Community College District (College of The Canyons)","26455 Rockwell Canyon Rd, Santa Clarita, CA, 91355",2,13
 Fri Jan 07 2022 04:00:01 GMT-0800 (Pacific Standard Time),"The Buckley School","3900 Stansbury Ave, Sherman Oaks, CA, 91423",1,11
 Fri Jan 07 2022 04:00:01 GMT-0800 (Pacific Standard Time),"University of La Verne","1950 3rd St, La Verne, CA, 91750",1,40
-Fri Jan 07 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Markwins Beauty Brand","22067 Ferrero, City of Industry, CA, 91789",8,0
-Sat Jan 08 2022 01:00:02 GMT-0800 (Pacific Standard Time),"Target #3262","4211 Eagle Rock Blvd, Los Angeles, CA, 90065",11,0
-Sat Jan 08 2022 01:00:02 GMT-0800 (Pacific Standard Time),"Tennis Channel","3003 Exposition Blvd, Santa Monica, CA, 90404",8,0
+Fri Jan 07 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Warren High School","8141 De Palma St, Downey, CA, 90241",2,6
 Sat Jan 08 2022 01:00:02 GMT-0800 (Pacific Standard Time),"The Gardens Casino - Hawaiian Gardens","11871 Carson St, Hawaiian Gardens, CA, 90716",13,0
 Sat Jan 08 2022 01:00:02 GMT-0800 (Pacific Standard Time),"The Matian Firm","3701 Wilshire Blvd, Ste 210, Los Angeles, CA, 90010",18,0
 Sat Jan 08 2022 01:00:02 GMT-0800 (Pacific Standard Time),"Toyota of  Culver City","9077 Washington Blvd, Culver City, CA, 90232",3,0
@@ -9408,13 +9406,14 @@ Sat Jan 08 2022 01:00:02 GMT-0800 (Pacific Standard Time),"Redondo Union High Sc
 Sat Jan 08 2022 01:00:02 GMT-0800 (Pacific Standard Time),"San Marino High School","2701 Huntington Dr, San Marino, CA, 91108",1,8
 Sat Jan 08 2022 01:00:02 GMT-0800 (Pacific Standard Time),"The Buckley School","3900 Stansbury Ave, Sherman Oaks, CA, 91423",1,15
 Sat Jan 08 2022 01:00:02 GMT-0800 (Pacific Standard Time),"Viewpoint School","23620 Mulholland Hwy, Calabasas, CA, 91302",6,9
-Sat Jan 08 2022 01:00:02 GMT-0800 (Pacific Standard Time),"Southern California Edison - Catalina Island Service Center & Power Plant","1 Pebbly Beach, Avalon, CA, 90704",11,0
-Sat Jan 08 2022 01:00:02 GMT-0800 (Pacific Standard Time),"Starbucks #5842","7905 Alondra Blvd, Paramount, CA, 90723",7,0
+Sat Jan 08 2022 01:00:02 GMT-0800 (Pacific Standard Time),"Starbucks #5583","611 S Citrus Ave, Covina, CA, 91723",7,0
 Sat Jan 08 2022 01:00:02 GMT-0800 (Pacific Standard Time),"Starbucks #29701","6150 W Slauson Ave, Culver City, CA, 90230",7,0
 Sat Jan 08 2022 01:00:02 GMT-0800 (Pacific Standard Time),"Starbucks 48677","9900 Balboa Blvd, Northridge, CA, 91325",8,0
 Sat Jan 08 2022 01:00:02 GMT-0800 (Pacific Standard Time),"T.A.S., TBIT Ramp","300 World Way, Los Angeles, CA, 90045",6,0
 Sat Jan 08 2022 01:00:02 GMT-0800 (Pacific Standard Time),"Target #190","5700 Firestone Blvd, South Gate, CA, 90280",16,0
 Sat Jan 08 2022 01:00:02 GMT-0800 (Pacific Standard Time),"Target #1425","8800 Whittier Blvd, Pico Rivera, CA, 90660",16,0
+Sat Jan 08 2022 01:00:02 GMT-0800 (Pacific Standard Time),"Target #3262","4211 Eagle Rock Blvd, Los Angeles, CA, 90065",11,0
+Sat Jan 08 2022 01:00:02 GMT-0800 (Pacific Standard Time),"Tennis Channel","3003 Exposition Blvd, Santa Monica, CA, 90404",8,0
 Sat Jan 08 2022 01:00:02 GMT-0800 (Pacific Standard Time),"99 Cents Only Stores Warehouse and Corporate Office (1)","4000 Union Pacific Ave, Commerce, CA, 90023",5,0
 Sat Jan 08 2022 01:00:02 GMT-0800 (Pacific Standard Time),"99 Cents Only Stores Warehouse and Corporate Office (2)","4000 Union Pacific Ave, Commerce, CA, 90023",11,0
 Sat Jan 08 2022 01:00:02 GMT-0800 (Pacific Standard Time),"ACCESS Specialty Animal Hospitals - Los Angeles","9599 Jefferson Blvd, Culver City, CA, 90232",33,0
@@ -9486,7 +9485,8 @@ Sat Jan 08 2022 01:00:02 GMT-0800 (Pacific Standard Time),"Santa Monica Public W
 Sat Jan 08 2022 01:00:02 GMT-0800 (Pacific Standard Time),"Santa Monica Swim Center","2225 16th St, Santa Monica, CA, 90405",7,0
 Sat Jan 08 2022 01:00:02 GMT-0800 (Pacific Standard Time),"Smart LLC","14108 S Western Ave, Gardena, CA, 90249",11,0
 Sat Jan 08 2022 01:00:02 GMT-0800 (Pacific Standard Time),"Soho Warehouse DTLA","1000 S Santa Fe Ave, Los Angeles, CA, 90021",40,0
-Sat Jan 08 2022 01:00:02 GMT-0800 (Pacific Standard Time),"Starbucks #5583","611 S Citrus Ave, Covina, CA, 91723",7,0
+Sat Jan 08 2022 01:00:02 GMT-0800 (Pacific Standard Time),"Southern California Edison - Catalina Island Service Center & Power Plant","1 Pebbly Beach, Avalon, CA, 90704",11,0
+Sat Jan 08 2022 01:00:02 GMT-0800 (Pacific Standard Time),"Starbucks #5842","7905 Alondra Blvd, Paramount, CA, 90723",7,0
 Sun Jan 09 2022 00:00:01 GMT-0800 (Pacific Standard Time),"Puratos","18831 S Laurel Park Rd, Compton, CA, 90220",9,0
 Sun Jan 09 2022 00:00:01 GMT-0800 (Pacific Standard Time),"Buffalo Wild Wings, Northridge Fashion Center","9301 Tampa Ave, Northridge, CA, 91324",11,0
 Sun Jan 09 2022 00:00:01 GMT-0800 (Pacific Standard Time),"Bakkavor Foods","18201 Central Ave, Carson, CA, 90746",12,0
@@ -10101,26 +10101,26 @@ Sat Jan 29 2022 06:00:01 GMT-0800 (Pacific Standard Time),"Whole Foods Market, 3
 Sat Jan 29 2022 06:00:01 GMT-0800 (Pacific Standard Time),"Whole Foods Market, Burbank","3401 W Olive Ave, Burbank, CA, 91505",55,0
 Sun Jan 30 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Target #2307","2195 Glendale Galleria, Glendale, CA, 91210",59,0
 Sun Jan 30 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Altium Packaging","1070 Samuelson St, City of Industry, CA, 91748",16,0
-Sun Jan 30 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Sycamore Elementary School","225 W 8th St, Claremont, CA, 91711",5,32
-Sun Jan 30 2022 04:00:01 GMT-0800 (Pacific Standard Time),"St. Lawrence of Brindisi Elementary School","10044 Compton Ave, Los Angeles, CA, 90002",0,17
-Sun Jan 30 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Palmdale Discovery Center","39174 Palm Tree Way, Palmdale, CA, 93551",11,3
-Sun Jan 30 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Oscar de La Hoya Animo Charter High School","1114 S Lorena St, Los Angeles, CA, 90023",1,10
-Sun Jan 30 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Montebello Gardens Elementary School","4700 Pine St, Pico Rivera, CA, 90660",0,9
-Sun Jan 30 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Cienega Elementary School","2611 S Orange Dr, Los Angeles, CA, 90016",1,22
-Sun Jan 30 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Cal State Northridge Athletics","18111 Nordhoff St, Northridge, CA, 91330",6,33
-Sun Jan 30 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Torrance Fire Department - Fire Station 3","3535 W 182nd St, Torrance, CA, 90504",8,0
-Sun Jan 30 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Torrance Fire Department - Fire Station 1","1701 Crenshaw Blvd, Torrance, CA, 90501",22,0
-Sun Jan 30 2022 04:00:01 GMT-0800 (Pacific Standard Time),"The Home Depot - Pomona #6645","2707 S Towne Ave, Pomona, CA, 91766",38,0
-Sun Jan 30 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Amazon DCX7","950 Francisco St, Torrance, CA, 90502",16,0
-Sun Jan 30 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Michaels Distribution Center","3501 W Ave H, Lancaster, CA, 93536",76,0
-Sun Jan 30 2022 04:00:01 GMT-0800 (Pacific Standard Time),"McGee Air Services","1 World Way, Los Angeles, CA, 90045",30,0
-Sun Jan 30 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Liberty Ambulance LLC","9441 Washburn Rd, Downey, CA, 90242",32,0
-Sun Jan 30 2022 04:00:01 GMT-0800 (Pacific Standard Time),"International Paper Co. - Compton","19615 S Susana Rd, Compton, CA, 90221",24,0
-Sun Jan 30 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Hollywood Burbank Airport, Southwest Airlines","2627 N Hollywood Way, Burbank, CA, 91505",58,0
-Sun Jan 30 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Hill Street Café","1004 Foothill Blvd, La Canada, CA, 91011",14,0
-Sun Jan 30 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Castaway Restaurant","1250 E Harvard Rd, Burbank, CA, 91501",42,0
-Sun Jan 30 2022 04:00:01 GMT-0800 (Pacific Standard Time),"American Honda Motor Co., Inc.","700 Van Ness Ave, Torrance, CA, 90501",34,0
 Sun Jan 30 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Amazon DUR1","2995 N Hollywood Way, Burbank, CA, 91505",22,0
+Sun Jan 30 2022 04:00:01 GMT-0800 (Pacific Standard Time),"American Honda Motor Co., Inc.","700 Van Ness Ave, Torrance, CA, 90501",34,0
+Sun Jan 30 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Castaway Restaurant","1250 E Harvard Rd, Burbank, CA, 91501",42,0
+Sun Jan 30 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Hill Street Café","1004 Foothill Blvd, La Canada, CA, 91011",14,0
+Sun Jan 30 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Hollywood Burbank Airport, Southwest Airlines","2627 N Hollywood Way, Burbank, CA, 91505",58,0
+Sun Jan 30 2022 04:00:01 GMT-0800 (Pacific Standard Time),"International Paper Co. - Compton","19615 S Susana Rd, Compton, CA, 90221",24,0
+Sun Jan 30 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Liberty Ambulance LLC","9441 Washburn Rd, Downey, CA, 90242",32,0
+Sun Jan 30 2022 04:00:01 GMT-0800 (Pacific Standard Time),"McGee Air Services","1 World Way, Los Angeles, CA, 90045",30,0
+Sun Jan 30 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Michaels Distribution Center","3501 W Ave H, Lancaster, CA, 93536",76,0
+Sun Jan 30 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Amazon DCX7","950 Francisco St, Torrance, CA, 90502",16,0
+Sun Jan 30 2022 04:00:01 GMT-0800 (Pacific Standard Time),"The Home Depot - Pomona #6645","2707 S Towne Ave, Pomona, CA, 91766",38,0
+Sun Jan 30 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Torrance Fire Department - Fire Station 1","1701 Crenshaw Blvd, Torrance, CA, 90501",22,0
+Sun Jan 30 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Torrance Fire Department - Fire Station 3","3535 W 182nd St, Torrance, CA, 90504",8,0
+Sun Jan 30 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Cal State Northridge Athletics","18111 Nordhoff St, Northridge, CA, 91330",6,33
+Sun Jan 30 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Cienega Elementary School","2611 S Orange Dr, Los Angeles, CA, 90016",1,22
+Sun Jan 30 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Montebello Gardens Elementary School","4700 Pine St, Pico Rivera, CA, 90660",0,9
+Sun Jan 30 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Oscar de La Hoya Animo Charter High School","1114 S Lorena St, Los Angeles, CA, 90023",1,10
+Sun Jan 30 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Palmdale Discovery Center","39174 Palm Tree Way, Palmdale, CA, 93551",11,3
+Sun Jan 30 2022 04:00:01 GMT-0800 (Pacific Standard Time),"St. Lawrence of Brindisi Elementary School","10044 Compton Ave, Los Angeles, CA, 90002",0,17
+Sun Jan 30 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Sycamore Elementary School","225 W 8th St, Claremont, CA, 91711",5,32
 Mon Jan 31 2022 04:00:01 GMT-0800 (Pacific Standard Time),"LA Apparel","647-1020 E 59th St, Los Angeles, CA, 90001",324,0
 Tue Feb 01 2022 02:00:01 GMT-0800 (Pacific Standard Time),"Nordstrom, The Americana at Brand","102 Caruso Ave, Glendale, CA, 91210",32,0
 Tue Feb 01 2022 02:00:01 GMT-0800 (Pacific Standard Time),"Costco Warehouse, Santa Clarita #447","18649 Via Princessa, Santa Clarita, CA, 91387",62,0
@@ -10128,10 +10128,8 @@ Tue Feb 01 2022 02:00:01 GMT-0800 (Pacific Standard Time),"Costco Warehouse, Wes
 Tue Feb 01 2022 02:00:01 GMT-0800 (Pacific Standard Time),"LA Metro Division 5 Transportation Building","5425 S Van Ness Ave, Los Angeles, CA, 90062",29,0
 Tue Feb 01 2022 02:00:01 GMT-0800 (Pacific Standard Time),"Purest Academy For Kids","12235 Centralia St, Lakewood, CA, 90715",1,5
 Tue Feb 01 2022 02:00:01 GMT-0800 (Pacific Standard Time),"Yukon Elementary School","17815 Yukon Ave, Torrance, CA, 90504",0,13
-Wed Feb 02 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Michaels Distribution Center","3501 W Ave H, Lancaster, CA, 93536",77,0
-Wed Feb 02 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Quartz Hill High School","6040 W Ave L, Quartz Hill, CA, 93536",0,19
-Wed Feb 02 2022 04:00:01 GMT-0800 (Pacific Standard Time),"ACCESS Specialty Animal Hospitals - Los Angeles","9599 Jefferson Blvd, Culver City, CA, 90232",56,0
-Wed Feb 02 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Bakkavor Foods","18201 Central Ave, Carson, CA, 90746",25,0
+Wed Feb 02 2022 04:00:01 GMT-0800 (Pacific Standard Time),"The Home Depot - Carson #6670","110 E Sepulveda Blvd, Carson, CA, 90745",51,0
+Wed Feb 02 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Wildwood Elementary School","12201 Washington Pl, Los Angeles, CA, 90066",0,7
 Wed Feb 02 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Bentley Mills LA","14641 Don Julian Rd, City of Industry, CA, 91746",72,0
 Wed Feb 02 2022 04:00:01 GMT-0800 (Pacific Standard Time),"CIM Group","4700 Wilshire Blvd, Los Angeles, CA, 90010",52,0
 Wed Feb 02 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Costco Warehouse, Hawthorne #671","14501 Hindry Ave, Hawthorne, CA, 90250",96,0
@@ -10140,49 +10138,50 @@ Wed Feb 02 2022 04:00:01 GMT-0800 (Pacific Standard Time),"FedEx Ground - Carson
 Wed Feb 02 2022 04:00:01 GMT-0800 (Pacific Standard Time),"FedEx SmartPost - Commerce","5560 Ferguson Dr, Commerce, CA, 90022",23,0
 Wed Feb 02 2022 04:00:01 GMT-0800 (Pacific Standard Time),"International Paper Co. - Carson","1350 E 223rd St, Carson, CA, 90745",46,0
 Wed Feb 02 2022 04:00:01 GMT-0800 (Pacific Standard Time),"LA Apparel","647-1020 E 59th St, Los Angeles, CA, 90001",330,0
+Wed Feb 02 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Michaels Distribution Center","3501 W Ave H, Lancaster, CA, 93536",77,0
 Wed Feb 02 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Outpost VFX","3500 W Olive Ave, Ste 1450, Burbank, CA, 91505",4,0
 Wed Feb 02 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Paramount Exclusive Insurance","15760 Ventura Blvd, Ste 500, Encino, CA, 91436",10,0
 Wed Feb 02 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Reyes Coca-Cola Bottling, Los Angeles","1334 S Central Ave, Los Angeles, CA, 90021",62,0
-Wed Feb 02 2022 04:00:01 GMT-0800 (Pacific Standard Time),"The Home Depot - Carson #6670","110 E Sepulveda Blvd, Carson, CA, 90745",51,0
+Wed Feb 02 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Bakkavor Foods","18201 Central Ave, Carson, CA, 90746",25,0
 Wed Feb 02 2022 04:00:01 GMT-0800 (Pacific Standard Time),"The Home Depot - Marina Del Rey #6611","12975 W Jefferson Blvd, Los Angeles, CA, 90066",85,0
 Wed Feb 02 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Velvet LLC","3961 Landmark St, Culver City, CA, 90232",33,0
 Wed Feb 02 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Whole Foods Market, Downtown LA","788 S Grand Ave, Los Angeles, CA, 90017",43,0
 Wed Feb 02 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Worldwide Flight Services, Imperial Hwy #1","6555 W Imperial Hwy, Los Angeles, CA, 90045",3,0
 Wed Feb 02 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Worldwide Flight Services, Imperial Hwy #2","5621e W Imperial Hwy, Los Angeles, CA, 90045",15,0
 Wed Feb 02 2022 04:00:01 GMT-0800 (Pacific Standard Time),"15th St. Elementary School","1527 S Mesa St, San Pedro, CA, 90731",0,5
-Wed Feb 02 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Wildwood Elementary School","12201 Washington Pl, Los Angeles, CA, 90066",0,7
-Wed Feb 02 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Saugus High School","21900 Centurion Way, Saugus, CA, 91350",4,70
 Wed Feb 02 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Gabriella Charter School Trinity","3736 Trinity St, Los Angeles, CA, 90011",0,13
-Wed Feb 02 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Oscar de La Hoya Animo Charter High School","1114 S Lorena St, Los Angeles, CA, 90023",1,11
-Wed Feb 02 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Northlake Hills Elementary School","32545 Ridge Route Rd, Castaic, CA, 91384",1,28
 Wed Feb 02 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Larchmont Charter School","815 N El Centro Ave, Los Angeles, CA, 90038",11,40
-Thu Feb 03 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Quartz Hill High School","6040 W Ave L, Quartz Hill, CA, 93536",1,21
-Thu Feb 03 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Gregg Anderson Academy","5151 West Ave N8, Palmdale, CA, 93551",0,11
-Thu Feb 03 2022 04:00:01 GMT-0800 (Pacific Standard Time),"American Airlines","1 World Way, Los Angeles, CA, 90045",300,0
-Thu Feb 03 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Costco Warehouse, Burbank #677","1051 W Burbank Blvd, Burbank, CA, 91506",109,0
-Thu Feb 03 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Costco Warehouse, Lancaster #762","1141 W Ave L, Lancaster, CA, 93534",90,0
-Thu Feb 03 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Costco Warehouse, Westlake Village #117","5700 Lindero Canyon Rd, Westlake Village, CA, 91362",53,0
-Thu Feb 03 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Envoy Air","6022 Avion Dr, Los Angeles, CA, 90045",188,0
-Thu Feb 03 2022 04:00:01 GMT-0800 (Pacific Standard Time),"In-N-Out Burger #1","13850 Francisquito Ave, Baldwin Park, CA, 91706",19,0
-Thu Feb 03 2022 04:00:01 GMT-0800 (Pacific Standard Time),"LA County DCFS - Santa Fe Springs","10355 Slusher Dr, Santa Fe Springs, CA, 90670",42,0
-Thu Feb 03 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Lockheed Martin Aeronautics Palmdale","1011 Lockheed Way, Palmdale, CA, 93599",19,0
-Thu Feb 03 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Manuela","907 E 3rd St, Los Angeles, CA, 90013",20,0
-Thu Feb 03 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Golden Oak Elementary School","25201 Via Princessa, Santa Clarita, CA, 91387",1,5
-Thu Feb 03 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Roscoe's House of Chicken and Waffles","621 W Manchester Blvd, Inglewood, CA, 90301",31,0
-Thu Feb 03 2022 04:00:01 GMT-0800 (Pacific Standard Time),"The Hollywood Roosevelt","7000 Hollywood Blvd, Los Angeles, CA, 90028",36,0
-Thu Feb 03 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Trader Joe's #252","6130 Laurel Canyon Blvd, North Hollywood, CA, 91606",29,0
-Thu Feb 03 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Whole Foods Market, Porter Ranch","20209 Rinaldi St, Porter Ranch, CA, 91326",36,0
-Thu Feb 03 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Wood Ranch BBQ & Grill, The Grove","189 The Grove Dr, Los Angeles, CA, 90036",21,0
-Thu Feb 03 2022 04:00:01 GMT-0800 (Pacific Standard Time),"52nd St. Elementary School","816 W 51st St, Los Angeles, CA, 90037",4,84
-Thu Feb 03 2022 04:00:01 GMT-0800 (Pacific Standard Time),"107th Street Elementary and STEAM Magnet School","147 E 107th St, Los Angeles, CA, 90003",0,23
-Thu Feb 03 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Desert Rose Elementary School","37730 27th St E, Palmdale, CA, 93550",0,5
-Thu Feb 03 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Gabriella Charter School Logan","1435 Logan St, Los Angeles, CA, 90026",3,36
-Thu Feb 03 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Gabriella Charter School Trinity","3736 Trinity St, Los Angeles, CA, 90011",0,11
-Thu Feb 03 2022 04:00:01 GMT-0800 (Pacific Standard Time),"James Monroe High School","9229 Haskell Ave, North Hills, CA, 91343",0,13
-Thu Feb 03 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Montebello High School","2100 W Cleveland Ave, Montebello, CA, 90640",0,3
-Thu Feb 03 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Palmdale Discovery Center","39174 Palm Tree Way, Palmdale, CA, 93551",13,15
+Wed Feb 02 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Northlake Hills Elementary School","32545 Ridge Route Rd, Castaic, CA, 91384",1,28
+Wed Feb 02 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Oscar de La Hoya Animo Charter High School","1114 S Lorena St, Los Angeles, CA, 90023",1,11
+Wed Feb 02 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Quartz Hill High School","6040 W Ave L, Quartz Hill, CA, 93536",0,19
+Wed Feb 02 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Saugus High School","21900 Centurion Way, Saugus, CA, 91350",4,70
+Wed Feb 02 2022 04:00:01 GMT-0800 (Pacific Standard Time),"ACCESS Specialty Animal Hospitals - Los Angeles","9599 Jefferson Blvd, Culver City, CA, 90232",56,0
 Thu Feb 03 2022 04:00:01 GMT-0800 (Pacific Standard Time),"7 Leaves Cafe - Artesia","12154 Artesia Blvd, Artesia, CA, 90701",15,0
-Fri Feb 04 2022 02:00:01 GMT-0800 (Pacific Standard Time),"Target #1425","8800 Whittier Blvd, Pico Rivera, CA, 90660",43,0
+Thu Feb 03 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Costco Warehouse, Burbank #677","1051 W Burbank Blvd, Burbank, CA, 91506",109,0
+Thu Feb 03 2022 04:00:01 GMT-0800 (Pacific Standard Time),"American Airlines","1 World Way, Los Angeles, CA, 90045",300,0
+Thu Feb 03 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Quartz Hill High School","6040 W Ave L, Quartz Hill, CA, 93536",1,21
+Thu Feb 03 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Palmdale Discovery Center","39174 Palm Tree Way, Palmdale, CA, 93551",13,15
+Thu Feb 03 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Montebello High School","2100 W Cleveland Ave, Montebello, CA, 90640",0,3
+Thu Feb 03 2022 04:00:01 GMT-0800 (Pacific Standard Time),"James Monroe High School","9229 Haskell Ave, North Hills, CA, 91343",0,13
+Thu Feb 03 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Gregg Anderson Academy","5151 West Ave N8, Palmdale, CA, 93551",0,11
+Thu Feb 03 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Golden Oak Elementary School","25201 Via Princessa, Santa Clarita, CA, 91387",1,5
+Thu Feb 03 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Gabriella Charter School Trinity","3736 Trinity St, Los Angeles, CA, 90011",0,11
+Thu Feb 03 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Gabriella Charter School Logan","1435 Logan St, Los Angeles, CA, 90026",3,36
+Thu Feb 03 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Desert Rose Elementary School","37730 27th St E, Palmdale, CA, 93550",0,5
+Thu Feb 03 2022 04:00:01 GMT-0800 (Pacific Standard Time),"107th Street Elementary and STEAM Magnet School","147 E 107th St, Los Angeles, CA, 90003",0,23
+Thu Feb 03 2022 04:00:01 GMT-0800 (Pacific Standard Time),"52nd St. Elementary School","816 W 51st St, Los Angeles, CA, 90037",4,84
+Thu Feb 03 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Costco Warehouse, Lancaster #762","1141 W Ave L, Lancaster, CA, 93534",90,0
+Thu Feb 03 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Whole Foods Market, Porter Ranch","20209 Rinaldi St, Porter Ranch, CA, 91326",36,0
+Thu Feb 03 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Trader Joe's #252","6130 Laurel Canyon Blvd, North Hollywood, CA, 91606",29,0
+Thu Feb 03 2022 04:00:01 GMT-0800 (Pacific Standard Time),"The Hollywood Roosevelt","7000 Hollywood Blvd, Los Angeles, CA, 90028",36,0
+Thu Feb 03 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Roscoe's House of Chicken and Waffles","621 W Manchester Blvd, Inglewood, CA, 90301",31,0
+Thu Feb 03 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Manuela","907 E 3rd St, Los Angeles, CA, 90013",20,0
+Thu Feb 03 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Lockheed Martin Aeronautics Palmdale","1011 Lockheed Way, Palmdale, CA, 93599",19,0
+Thu Feb 03 2022 04:00:01 GMT-0800 (Pacific Standard Time),"LA County DCFS - Santa Fe Springs","10355 Slusher Dr, Santa Fe Springs, CA, 90670",42,0
+Thu Feb 03 2022 04:00:01 GMT-0800 (Pacific Standard Time),"In-N-Out Burger #1","13850 Francisquito Ave, Baldwin Park, CA, 91706",19,0
+Thu Feb 03 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Envoy Air","6022 Avion Dr, Los Angeles, CA, 90045",188,0
+Thu Feb 03 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Costco Warehouse, Westlake Village #117","5700 Lindero Canyon Rd, Westlake Village, CA, 91362",53,0
+Thu Feb 03 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Wood Ranch BBQ & Grill, The Grove","189 The Grove Dr, Los Angeles, CA, 90036",21,0
 Fri Feb 04 2022 02:00:01 GMT-0800 (Pacific Standard Time),"Abbott Laboratories","15900 Valley View Ct, Sylmar, CA, 91342",81,0
 Fri Feb 04 2022 02:00:01 GMT-0800 (Pacific Standard Time),"Fashion Nova, Inc. Santa Fe Springs","12588 Lakeland Rd, Santa Fe Springs, CA, 90670",117,0
 Fri Feb 04 2022 02:00:01 GMT-0800 (Pacific Standard Time),"Glasswerks LA, Inc.","8600 Rheem Ave, South Gate, CA, 90280",43,0
@@ -10206,48 +10205,44 @@ Fri Feb 04 2022 02:00:01 GMT-0800 (Pacific Standard Time),"Plum Canyon Elementar
 Fri Feb 04 2022 02:00:01 GMT-0800 (Pacific Standard Time),"Quartz Hill High School","6040 W Ave L, Quartz Hill, CA, 93536",2,28
 Fri Feb 04 2022 02:00:01 GMT-0800 (Pacific Standard Time),"Saint Paul The Apostle School","1536 Selby Ave, Los Angeles, CA, 90024",1,13
 Fri Feb 04 2022 02:00:01 GMT-0800 (Pacific Standard Time),"Vermont Montessori Child Care Center","8300 S Vermont Ave, Los Angeles, CA, 90044",0,4
-Sat Feb 05 2022 06:00:01 GMT-0800 (Pacific Standard Time),"Paraclete High School","42145 30th St W, Lancaster, CA, 93536",4,36
-Sat Feb 05 2022 06:00:01 GMT-0800 (Pacific Standard Time),"Northlake Hills Elementary School","32545 Ridge Route Rd, Castaic, CA, 91384",1,27
-Sat Feb 05 2022 06:00:01 GMT-0800 (Pacific Standard Time),"James Monroe High School","9229 Haskell Ave, North Hills, CA, 91343",0,16
-Sat Feb 05 2022 06:00:01 GMT-0800 (Pacific Standard Time),"Gregg Anderson Academy","5151 West Ave N8, Palmdale, CA, 93551",0,12
-Sat Feb 05 2022 06:00:01 GMT-0800 (Pacific Standard Time),"Golden Oak Elementary School","25201 Via Princessa, Santa Clarita, CA, 91387",1,14
-Sat Feb 05 2022 06:00:01 GMT-0800 (Pacific Standard Time),"Gabriella Charter School Trinity","3736 Trinity St, Los Angeles, CA, 90011",1,14
-Sat Feb 05 2022 06:00:01 GMT-0800 (Pacific Standard Time),"Gabriella Charter School Logan","1435 Logan St, Los Angeles, CA, 90026",0,6
-Sat Feb 05 2022 06:00:01 GMT-0800 (Pacific Standard Time),"107th St. Elementary and STEAM Magnet School","147 E 107th St, Los Angeles, CA, 90003",0,23
-Sat Feb 05 2022 06:00:01 GMT-0800 (Pacific Standard Time),"Whole Foods Market, Valencia","24130 Valencia Blvd, Santa Clarita, CA, 91355",40,0
-Sat Feb 05 2022 06:00:01 GMT-0800 (Pacific Standard Time),"Velvet LLC","3961 Landmark St, Culver City, CA, 90232",34,0
-Sat Feb 05 2022 06:00:01 GMT-0800 (Pacific Standard Time),"VCA West Los Angeles Animal Hospital","1900 S Sepulveda Blvd, Los Angeles, CA, 90025",57,0
-Sat Feb 05 2022 06:00:01 GMT-0800 (Pacific Standard Time),"Vans Distribution Center","15700 Shoemaker Ave, Santa Fe Springs, CA, 90670",157,0
-Sat Feb 05 2022 06:00:01 GMT-0800 (Pacific Standard Time),"The Home Depot - Cypress Park #6689","2055 N Figueroa St, Los Angeles, CA, 90065",83,0
-Sat Feb 05 2022 06:00:01 GMT-0800 (Pacific Standard Time),"Superior Lithographics, Inc.","3055 Bandini Blvd, Vernon, CA, 90058",29,0
-Sat Feb 05 2022 06:00:01 GMT-0800 (Pacific Standard Time),"Premier Pharmacy Service","410 Cloverleaf Dr, Baldwin Park, CA, 91706",35,0
-Sat Feb 05 2022 06:00:01 GMT-0800 (Pacific Standard Time),"Ontic Engineering and Manufacturing, Inc.","20400 Plummer St, Chatsworth, CA, 91311",67,0
-Sat Feb 05 2022 06:00:01 GMT-0800 (Pacific Standard Time),"Marshalls #308","5810 Florence Ave, Bell Gardens, CA, 90201",22,0
-Sat Feb 05 2022 06:00:01 GMT-0800 (Pacific Standard Time),"Lancaster Public Works Department - Maintance Yard","615 W Ave H, Lancaster, CA, 93534",33,0
-Sat Feb 05 2022 06:00:01 GMT-0800 (Pacific Standard Time),"LAFD Fire Station 29","4029 Wilshire Blvd, Los Angeles, CA, 90010",5,0
-Sat Feb 05 2022 06:00:01 GMT-0800 (Pacific Standard Time),"LAFD Fire Station 10","1335 S Olive St, Los Angeles, CA, 90015",8,0
-Sat Feb 05 2022 06:00:01 GMT-0800 (Pacific Standard Time),"LAFD Fire Station 4","450 E Temple St, Los Angeles, CA, 90012",8,0
-Sat Feb 05 2022 06:00:01 GMT-0800 (Pacific Standard Time),"LAFD Fire Station 3","108 N Fremont Ave, Los Angeles, CA, 90012",6,0
-Sat Feb 05 2022 06:00:01 GMT-0800 (Pacific Standard Time),"LA Metro Division 15 Transportation Building","11900 Branford St, Sun Valley, CA, 91352",46,0
-Sat Feb 05 2022 06:00:01 GMT-0800 (Pacific Standard Time),"LA Metro Division 13","920 N Vignes St, Los Angeles, CA, 90012",20,0
-Sat Feb 05 2022 06:00:01 GMT-0800 (Pacific Standard Time),"LA Metro Division 3 Transportation Building","630 W Ave 28, Los Angeles, CA, 90065",33,0
-Sat Feb 05 2022 06:00:01 GMT-0800 (Pacific Standard Time),"LA County DPSS - Compton","211 E Alondra Blvd, Compton, CA, 90220",59,0
-Sat Feb 05 2022 06:00:01 GMT-0800 (Pacific Standard Time),"LA Apparel","647-1020 E 59th St, Los Angeles, CA, 90001",340,0
-Sat Feb 05 2022 06:00:01 GMT-0800 (Pacific Standard Time),"Fox Studios, Building 101","10201 W Pico Blvd, Bldg 101, Los Angeles, CA, 90064",37,0
-Sat Feb 05 2022 06:00:01 GMT-0800 (Pacific Standard Time),"Erewhon Market - Silver Lake","4121 Santa Monica Blvd # 103, Los Angeles, CA, 90029",19,0
-Sat Feb 05 2022 06:00:01 GMT-0800 (Pacific Standard Time),"Crypto.com Arena","1111 S Figueroa St, Ste 3100, Los Angeles, CA, 90015",277,0
-Sat Feb 05 2022 06:00:01 GMT-0800 (Pacific Standard Time),"Chevrolet of Puente Hills","17300 Gale Ave, City of Industry, CA, 91748",16,0
-Sat Feb 05 2022 06:00:01 GMT-0800 (Pacific Standard Time),"American Honda Motor Co., Inc.","700 Van Ness Ave, Torrance, CA, 90501",35,0
-Sat Feb 05 2022 06:00:01 GMT-0800 (Pacific Standard Time),"Amazon DUR1","2995 N Hollywood Way, Burbank, CA, 91505",39,0
+Fri Feb 04 2022 02:00:01 GMT-0800 (Pacific Standard Time),"Target #1425","8800 Whittier Blvd, Pico Rivera, CA, 90660",43,0
 Sat Feb 05 2022 06:00:01 GMT-0800 (Pacific Standard Time),"Allfast Fastening Systems","15200 Don Julian Rd, City of Industry, CA, 91745",22,0
+Sat Feb 05 2022 06:00:01 GMT-0800 (Pacific Standard Time),"Amazon DUR1","2995 N Hollywood Way, Burbank, CA, 91505",39,0
+Sat Feb 05 2022 06:00:01 GMT-0800 (Pacific Standard Time),"American Honda Motor Co., Inc.","700 Van Ness Ave, Torrance, CA, 90501",35,0
+Sat Feb 05 2022 06:00:01 GMT-0800 (Pacific Standard Time),"Chevrolet of Puente Hills","17300 Gale Ave, City of Industry, CA, 91748",16,0
+Sat Feb 05 2022 06:00:01 GMT-0800 (Pacific Standard Time),"Crypto.com Arena","1111 S Figueroa St, Ste 3100, Los Angeles, CA, 90015",277,0
 Sat Feb 05 2022 06:00:01 GMT-0800 (Pacific Standard Time),"Van Deene Avenue Elementary School","826 Javelin St, Torrance, CA, 90502",1,5
-Sun Feb 06 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Sit 'n Sleep","14300 S Main St, Gardena, CA, 90248",17,0
-Sun Feb 06 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Target #2307","2195 Glendale Galleria, Glendale, CA, 91210",60,0
-Sun Feb 06 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Athens Services - Salt Lake Yard","15045 Salt Lake Ave, La Puente, CA, 91746",38,0
-Sun Feb 06 2022 04:00:01 GMT-0800 (Pacific Standard Time),"City of Lancaster - Maintance Yard","615 W Ave H, Lancaster, CA, 93534",33,0
-Sun Feb 06 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Dr. Squatch, LLC","2945 E Maria St, E Rncho Dmngz, CA, 90221",29,0
-Sun Feb 06 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Foster Farms Compton","1805 N Santa Fe Ave, Compton, CA, 90221",29,0
+Sat Feb 05 2022 06:00:01 GMT-0800 (Pacific Standard Time),"Fox Studios, Building 101","10201 W Pico Blvd, Bldg 101, Los Angeles, CA, 90064",37,0
+Sat Feb 05 2022 06:00:01 GMT-0800 (Pacific Standard Time),"LA Apparel","647-1020 E 59th St, Los Angeles, CA, 90001",340,0
+Sat Feb 05 2022 06:00:01 GMT-0800 (Pacific Standard Time),"LA County DPSS - Compton","211 E Alondra Blvd, Compton, CA, 90220",59,0
+Sat Feb 05 2022 06:00:01 GMT-0800 (Pacific Standard Time),"LA Metro Division 3 Transportation Building","630 W Ave 28, Los Angeles, CA, 90065",33,0
+Sat Feb 05 2022 06:00:01 GMT-0800 (Pacific Standard Time),"LA Metro Division 13","920 N Vignes St, Los Angeles, CA, 90012",20,0
+Sat Feb 05 2022 06:00:01 GMT-0800 (Pacific Standard Time),"LA Metro Division 15 Transportation Building","11900 Branford St, Sun Valley, CA, 91352",46,0
+Sat Feb 05 2022 06:00:01 GMT-0800 (Pacific Standard Time),"LAFD Fire Station 3","108 N Fremont Ave, Los Angeles, CA, 90012",6,0
+Sat Feb 05 2022 06:00:01 GMT-0800 (Pacific Standard Time),"LAFD Fire Station 4","450 E Temple St, Los Angeles, CA, 90012",8,0
+Sat Feb 05 2022 06:00:01 GMT-0800 (Pacific Standard Time),"LAFD Fire Station 10","1335 S Olive St, Los Angeles, CA, 90015",8,0
+Sat Feb 05 2022 06:00:01 GMT-0800 (Pacific Standard Time),"LAFD Fire Station 29","4029 Wilshire Blvd, Los Angeles, CA, 90010",5,0
+Sat Feb 05 2022 06:00:01 GMT-0800 (Pacific Standard Time),"Lancaster Public Works Department - Maintance Yard","615 W Ave H, Lancaster, CA, 93534",33,0
+Sat Feb 05 2022 06:00:01 GMT-0800 (Pacific Standard Time),"Marshalls #308","5810 Florence Ave, Bell Gardens, CA, 90201",22,0
+Sat Feb 05 2022 06:00:01 GMT-0800 (Pacific Standard Time),"Ontic Engineering and Manufacturing, Inc.","20400 Plummer St, Chatsworth, CA, 91311",67,0
+Sat Feb 05 2022 06:00:01 GMT-0800 (Pacific Standard Time),"Premier Pharmacy Service","410 Cloverleaf Dr, Baldwin Park, CA, 91706",35,0
+Sat Feb 05 2022 06:00:01 GMT-0800 (Pacific Standard Time),"Superior Lithographics, Inc.","3055 Bandini Blvd, Vernon, CA, 90058",29,0
+Sat Feb 05 2022 06:00:01 GMT-0800 (Pacific Standard Time),"The Home Depot - Cypress Park #6689","2055 N Figueroa St, Los Angeles, CA, 90065",83,0
+Sat Feb 05 2022 06:00:01 GMT-0800 (Pacific Standard Time),"Vans Distribution Center","15700 Shoemaker Ave, Santa Fe Springs, CA, 90670",157,0
+Sat Feb 05 2022 06:00:01 GMT-0800 (Pacific Standard Time),"VCA West Los Angeles Animal Hospital","1900 S Sepulveda Blvd, Los Angeles, CA, 90025",57,0
+Sat Feb 05 2022 06:00:01 GMT-0800 (Pacific Standard Time),"Velvet LLC","3961 Landmark St, Culver City, CA, 90232",34,0
+Sat Feb 05 2022 06:00:01 GMT-0800 (Pacific Standard Time),"Whole Foods Market, Valencia","24130 Valencia Blvd, Santa Clarita, CA, 91355",40,0
+Sat Feb 05 2022 06:00:01 GMT-0800 (Pacific Standard Time),"107th St. Elementary and STEAM Magnet School","147 E 107th St, Los Angeles, CA, 90003",0,23
+Sat Feb 05 2022 06:00:01 GMT-0800 (Pacific Standard Time),"Gabriella Charter School Logan","1435 Logan St, Los Angeles, CA, 90026",0,6
+Sat Feb 05 2022 06:00:01 GMT-0800 (Pacific Standard Time),"Gabriella Charter School Trinity","3736 Trinity St, Los Angeles, CA, 90011",1,14
+Sat Feb 05 2022 06:00:01 GMT-0800 (Pacific Standard Time),"Golden Oak Elementary School","25201 Via Princessa, Santa Clarita, CA, 91387",1,14
+Sat Feb 05 2022 06:00:01 GMT-0800 (Pacific Standard Time),"Gregg Anderson Academy","5151 West Ave N8, Palmdale, CA, 93551",0,12
+Sat Feb 05 2022 06:00:01 GMT-0800 (Pacific Standard Time),"James Monroe High School","9229 Haskell Ave, North Hills, CA, 91343",0,16
+Sat Feb 05 2022 06:00:01 GMT-0800 (Pacific Standard Time),"Northlake Hills Elementary School","32545 Ridge Route Rd, Castaic, CA, 91384",1,27
+Sat Feb 05 2022 06:00:01 GMT-0800 (Pacific Standard Time),"Paraclete High School","42145 30th St W, Lancaster, CA, 93536",4,36
+Sat Feb 05 2022 06:00:01 GMT-0800 (Pacific Standard Time),"Erewhon Market - Silver Lake","4121 Santa Monica Blvd # 103, Los Angeles, CA, 90029",19,0
 Sun Feb 06 2022 04:00:01 GMT-0800 (Pacific Standard Time),"International Paper Co. - Los Angeles","5991 Bandini Blvd, Los Angeles, CA, 90040",34,0
+Sun Feb 06 2022 04:00:01 GMT-0800 (Pacific Standard Time),"The Home Depot - Panorama City #6644","7870 Van Nuys Blvd, Panorama City, CA, 91402",54,0
 Sun Feb 06 2022 04:00:01 GMT-0800 (Pacific Standard Time),"LAFD Fire Station 33","6406 S Main St, Los Angeles, CA, 90003",7,0
 Sun Feb 06 2022 04:00:01 GMT-0800 (Pacific Standard Time),"LAFD Fire Station 34","3661 7th Ave, Los Angeles, CA, 90018",5,0
 Sun Feb 06 2022 04:00:01 GMT-0800 (Pacific Standard Time),"LAFD Fire Station 35","1601 Hillhurst Ave, Los Angeles, CA, 90027",5,0
@@ -10255,11 +10250,13 @@ Sun Feb 06 2022 04:00:01 GMT-0800 (Pacific Standard Time),"LAFD Fire Station 36"
 Sun Feb 06 2022 04:00:01 GMT-0800 (Pacific Standard Time),"LAFD Fire Station 37","1090 Veteran Ave, Los Angeles, CA, 90024",7,0
 Sun Feb 06 2022 04:00:01 GMT-0800 (Pacific Standard Time),"LAFD Fire Station 38","124 E I St, Wilmington, CA, 90744",9,0
 Sun Feb 06 2022 04:00:01 GMT-0800 (Pacific Standard Time),"LAFD Fire Station 39","14615 Oxnard St, Van Nuys, CA, 91411",9,0
+Sun Feb 06 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Sit 'n Sleep","14300 S Main St, Gardena, CA, 90248",17,0
 Sun Feb 06 2022 04:00:01 GMT-0800 (Pacific Standard Time),"LAFD Fire Station 41","1439 N Gardner St, Los Angeles, CA, 90046",3,0
 Sun Feb 06 2022 04:00:01 GMT-0800 (Pacific Standard Time),"LAFD Fire Station 42","2021 Colorado Blvd # 2021, Los Angeles, CA, 90041",3,0
 Sun Feb 06 2022 04:00:01 GMT-0800 (Pacific Standard Time),"LAFD Fire Station 44","1410 Cypress Ave, Los Angeles, CA, 90065",9,0
 Sun Feb 06 2022 04:00:01 GMT-0800 (Pacific Standard Time),"LAFD Fire Station 46","4370 S Hoover St, Los Angeles, CA, 90037",7,0
 Sun Feb 06 2022 04:00:01 GMT-0800 (Pacific Standard Time),"LAFD Fire Station 47","4575 Huntington Dr S, Los Angeles, CA, 90032",3,0
+Sun Feb 06 2022 04:00:01 GMT-0800 (Pacific Standard Time),"The Home Depot - Gardena #611","740 W 182nd St, Gardena, CA, 90248",26,0
 Sun Feb 06 2022 04:00:01 GMT-0800 (Pacific Standard Time),"LAFD Fire Station 48","1601 S Grand Ave, San Pedro, CA, 90731",5,0
 Sun Feb 06 2022 04:00:01 GMT-0800 (Pacific Standard Time),"LAFD Fire Station 49","400 Yacht St, Wilmington, CA, 90744",11,0
 Sun Feb 06 2022 04:00:01 GMT-0800 (Pacific Standard Time),"LAFD Fire Station 55","4455 York Blvd, Los Angeles, CA, 90041",7,0
@@ -10269,58 +10266,52 @@ Sun Feb 06 2022 04:00:01 GMT-0800 (Pacific Standard Time),"LAFD Fire Station 61"
 Sun Feb 06 2022 04:00:01 GMT-0800 (Pacific Standard Time),"LAFD Fire Station 62","11970 Venice Blvd, Los Angeles, CA, 90066",5,0
 Sun Feb 06 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Liberty Ambulance LLC","9441 Washburn Rd, Downey, CA, 90242",33,0
 Sun Feb 06 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Mr. C Hotels Beverly Hills","1224 Beverwil Dr, Los Angeles, CA, 90035",25,0
+Sun Feb 06 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Target #2307","2195 Glendale Galleria, Glendale, CA, 91210",60,0
 Sun Feb 06 2022 04:00:01 GMT-0800 (Pacific Standard Time),"The Home Depot - Sunset #6616","5600 W Sunset Blvd, Hollywood, CA, 90028",56,0
 Sun Feb 06 2022 04:00:01 GMT-0800 (Pacific Standard Time),"VCA Animal Specialty Group","4641 Colorado Blvd, Los Angeles, CA, 90039",40,0
 Sun Feb 06 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Alexandria Avenue Elementary School","4211 Oakwood Ave, Los Angeles, CA, 90004",0,53
 Sun Feb 06 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Montebello High School","2100 W Cleveland Ave, Montebello, CA, 90640",0,10
 Sun Feb 06 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Saint Paul the Apostle School","1536 Selby Ave, Los Angeles, CA, 90024",2,14
 Sun Feb 06 2022 04:00:01 GMT-0800 (Pacific Standard Time),"South Park Elementary School","8510 Towne Ave, Los Angeles, CA, 90003",1,18
-Sun Feb 06 2022 04:00:01 GMT-0800 (Pacific Standard Time),"The Home Depot - Panorama City #6644","7870 Van Nuys Blvd, Panorama City, CA, 91402",54,0
-Sun Feb 06 2022 04:00:01 GMT-0800 (Pacific Standard Time),"The Home Depot - Gardena #611","740 W 182nd St, Gardena, CA, 90248",26,0
-Tue Feb 08 2022 03:00:01 GMT-0800 (Pacific Standard Time),"LAFD Fire Station 73","7419 Reseda Blvd, Reseda, CA, 91335",15,0
+Sun Feb 06 2022 04:00:01 GMT-0800 (Pacific Standard Time),"City of Lancaster - Maintance Yard","615 W Ave H, Lancaster, CA, 93534",33,0
+Sun Feb 06 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Dr. Squatch, LLC","2945 E Maria St, E Rncho Dmngz, CA, 90221",29,0
+Sun Feb 06 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Foster Farms Compton","1805 N Santa Fe Ave, Compton, CA, 90221",29,0
+Sun Feb 06 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Athens Services - Salt Lake Yard","15045 Salt Lake Ave, La Puente, CA, 91746",38,0
+Tue Feb 08 2022 03:00:01 GMT-0800 (Pacific Standard Time),"LAFD Fire Station 86","4305 Vineland Ave, Toluca Lake, CA, 91602",5,0
+Tue Feb 08 2022 03:00:01 GMT-0800 (Pacific Standard Time),"Compton Creamery","1100 W Artesia Blvd, Compton, CA, 90220",19,0
+Tue Feb 08 2022 03:00:01 GMT-0800 (Pacific Standard Time),"Costco Warehouse, Burbank #677","1051 W Burbank Blvd, Burbank, CA, 91506",111,0
+Tue Feb 08 2022 03:00:01 GMT-0800 (Pacific Standard Time),"Costco Warehouse, Santa Clarita #447","18649 Via Princessa, Santa Clarita, CA, 91387",67,0
+Tue Feb 08 2022 03:00:01 GMT-0800 (Pacific Standard Time),"L.A. Fire Department (LAFD) Station #83","4960 Balboa Blvd, Encino, CA, 91316",5,0
+Tue Feb 08 2022 03:00:01 GMT-0800 (Pacific Standard Time),"LAFD Fire Station 9","430 E 7th St, Los Angeles, CA, 90014",16,0
+Tue Feb 08 2022 03:00:01 GMT-0800 (Pacific Standard Time),"LAFD Fire Station 11","1819 W 7th St, Los Angeles, CA, 90057",5,0
+Tue Feb 08 2022 03:00:01 GMT-0800 (Pacific Standard Time),"LAFD Fire Station 26","2009 S Western Ave, Los Angeles, CA, 90018",8,0
+Tue Feb 08 2022 03:00:01 GMT-0800 (Pacific Standard Time),"LAFD Fire Station 63","1930 Shell Ave, Venice, CA, 90291",8,0
+Tue Feb 08 2022 03:00:01 GMT-0800 (Pacific Standard Time),"LAFD Fire Station 64","10811 S Main St, Los Angeles, CA, 90061",14,0
+Tue Feb 08 2022 03:00:01 GMT-0800 (Pacific Standard Time),"LAFD Fire Station 65","1801 E Century Blvd, Los Angeles, CA, 90002",5,0
+Tue Feb 08 2022 03:00:01 GMT-0800 (Pacific Standard Time),"LAFD Fire Station 66","1909 W Slauson Ave, Los Angeles, CA, 90047",14,0
+Tue Feb 08 2022 03:00:01 GMT-0800 (Pacific Standard Time),"LAFD Fire Station 67","5451 Playa Vista Dr, Los Angeles, CA, 90094",6,0
+Tue Feb 08 2022 03:00:01 GMT-0800 (Pacific Standard Time),"LAFD Fire Station 68","5023 W Washington Blvd, Los Angeles, CA, 90016",4,0
+Tue Feb 08 2022 03:00:01 GMT-0800 (Pacific Standard Time),"LAFD Fire Station 69","15045 W Sunset Blvd, Pacific Palisades, CA, 90272",5,0
+Tue Feb 08 2022 03:00:01 GMT-0800 (Pacific Standard Time),"Amazon DUR1","2995 N Hollywood Way, Burbank, CA, 91505",41,0
+Tue Feb 08 2022 03:00:01 GMT-0800 (Pacific Standard Time),"LAFD Fire Station 75","15345 San Fernando Mission Blvd, Mission Hills, CA, 91345",7,0
+Tue Feb 08 2022 03:00:01 GMT-0800 (Pacific Standard Time),"LAFD Fire Station 77","9224 Sunland Blvd, Sun Valley, CA, 91352",5,0
+Tue Feb 08 2022 03:00:01 GMT-0800 (Pacific Standard Time),"LAFD Fire Station 78","4041 Whitsett Ave, Studio City, CA, 91604",7,0
+Tue Feb 08 2022 03:00:01 GMT-0800 (Pacific Standard Time),"LAFD Fire Station 79","18030 S Vermont Ave, Gardena, CA, 90248",6,0
 Tue Feb 08 2022 03:00:01 GMT-0800 (Pacific Standard Time),"LAFD Fire Station 80","7250 World Way W, Los Angeles, CA, 90045",17,0
+Tue Feb 08 2022 03:00:01 GMT-0800 (Pacific Standard Time),"LAFD Fire Station 81","14355 Arminta St, Panorama City, CA, 91402",4,0
+Tue Feb 08 2022 03:00:01 GMT-0800 (Pacific Standard Time),"LAFD Fire Station 82","5769 Hollywood Blvd, Los Angeles, CA, 90028",3,0
+Tue Feb 08 2022 03:00:01 GMT-0800 (Pacific Standard Time),"LAFD Fire Station 85","1331 253rd St # 1331, Harbor City, CA, 90710",11,0
+Tue Feb 08 2022 03:00:01 GMT-0800 (Pacific Standard Time),"St. Lawrence of Brindisi Elementary School","10044 Compton Ave, Los Angeles, CA, 90002",0,18
 Tue Feb 08 2022 03:00:01 GMT-0800 (Pacific Standard Time),"San Fernando Senior High School","11133 O'Melveny Ave, San Fernando, CA, 91340",0,3
 Tue Feb 08 2022 03:00:01 GMT-0800 (Pacific Standard Time),"John H Francis Polytechnic Senior High School","12431 Roscoe Blvd, Sun Valley, CA, 91352",0,5
 Tue Feb 08 2022 03:00:01 GMT-0800 (Pacific Standard Time),"Ceres Elementary School","10601 Ceres Ave, Whittier, CA, 90604",0,5
 Tue Feb 08 2022 03:00:01 GMT-0800 (Pacific Standard Time),"California Creative Learning Academy","2709 Media Center Dr, Los Angeles, CA, 90065",0,5
 Tue Feb 08 2022 03:00:01 GMT-0800 (Pacific Standard Time),"Vans Distribution Center","15700 Shoemaker Ave, Santa Fe Springs, CA, 90670",159,0
 Tue Feb 08 2022 03:00:01 GMT-0800 (Pacific Standard Time),"Sofitel Los Angeles","8555 Beverly Blvd, Los Angeles, CA, 90048",31,0
-Tue Feb 08 2022 03:00:01 GMT-0800 (Pacific Standard Time),"LAFD Fire Station 86","4305 Vineland Ave, Toluca Lake, CA, 91602",5,0
-Tue Feb 08 2022 03:00:01 GMT-0800 (Pacific Standard Time),"LAFD Fire Station 85","1331 253rd St # 1331, Harbor City, CA, 90710",11,0
-Tue Feb 08 2022 03:00:01 GMT-0800 (Pacific Standard Time),"LAFD Fire Station 82","5769 Hollywood Blvd, Los Angeles, CA, 90028",3,0
-Tue Feb 08 2022 03:00:01 GMT-0800 (Pacific Standard Time),"LAFD Fire Station 81","14355 Arminta St, Panorama City, CA, 91402",4,0
-Tue Feb 08 2022 03:00:01 GMT-0800 (Pacific Standard Time),"LAFD Fire Station 79","18030 S Vermont Ave, Gardena, CA, 90248",6,0
-Tue Feb 08 2022 03:00:01 GMT-0800 (Pacific Standard Time),"LAFD Fire Station 78","4041 Whitsett Ave, Studio City, CA, 91604",7,0
-Tue Feb 08 2022 03:00:01 GMT-0800 (Pacific Standard Time),"LAFD Fire Station 77","9224 Sunland Blvd, Sun Valley, CA, 91352",5,0
-Tue Feb 08 2022 03:00:01 GMT-0800 (Pacific Standard Time),"LAFD Fire Station 75","15345 San Fernando Mission Blvd, Mission Hills, CA, 91345",7,0
-Tue Feb 08 2022 03:00:01 GMT-0800 (Pacific Standard Time),"St. Lawrence of Brindisi Elementary School","10044 Compton Ave, Los Angeles, CA, 90002",0,18
-Tue Feb 08 2022 03:00:01 GMT-0800 (Pacific Standard Time),"LAFD Fire Station 69","15045 W Sunset Blvd, Pacific Palisades, CA, 90272",5,0
-Tue Feb 08 2022 03:00:01 GMT-0800 (Pacific Standard Time),"LAFD Fire Station 68","5023 W Washington Blvd, Los Angeles, CA, 90016",4,0
-Tue Feb 08 2022 03:00:01 GMT-0800 (Pacific Standard Time),"LAFD Fire Station 67","5451 Playa Vista Dr, Los Angeles, CA, 90094",6,0
-Tue Feb 08 2022 03:00:01 GMT-0800 (Pacific Standard Time),"LAFD Fire Station 66","1909 W Slauson Ave, Los Angeles, CA, 90047",14,0
-Tue Feb 08 2022 03:00:01 GMT-0800 (Pacific Standard Time),"LAFD Fire Station 65","1801 E Century Blvd, Los Angeles, CA, 90002",5,0
-Tue Feb 08 2022 03:00:01 GMT-0800 (Pacific Standard Time),"LAFD Fire Station 64","10811 S Main St, Los Angeles, CA, 90061",14,0
-Tue Feb 08 2022 03:00:01 GMT-0800 (Pacific Standard Time),"LAFD Fire Station 63","1930 Shell Ave, Venice, CA, 90291",8,0
-Tue Feb 08 2022 03:00:01 GMT-0800 (Pacific Standard Time),"LAFD Fire Station 26","2009 S Western Ave, Los Angeles, CA, 90018",8,0
-Tue Feb 08 2022 03:00:01 GMT-0800 (Pacific Standard Time),"LAFD Fire Station 11","1819 W 7th St, Los Angeles, CA, 90057",5,0
-Tue Feb 08 2022 03:00:01 GMT-0800 (Pacific Standard Time),"LAFD Fire Station 9","430 E 7th St, Los Angeles, CA, 90014",16,0
-Tue Feb 08 2022 03:00:01 GMT-0800 (Pacific Standard Time),"L.A. Fire Department (LAFD) Station #83","4960 Balboa Blvd, Encino, CA, 91316",5,0
-Tue Feb 08 2022 03:00:01 GMT-0800 (Pacific Standard Time),"Costco Warehouse, Santa Clarita #447","18649 Via Princessa, Santa Clarita, CA, 91387",67,0
-Tue Feb 08 2022 03:00:01 GMT-0800 (Pacific Standard Time),"Costco Warehouse, Burbank #677","1051 W Burbank Blvd, Burbank, CA, 91506",111,0
-Tue Feb 08 2022 03:00:01 GMT-0800 (Pacific Standard Time),"Compton Creamery","1100 W Artesia Blvd, Compton, CA, 90220",19,0
-Tue Feb 08 2022 03:00:01 GMT-0800 (Pacific Standard Time),"Amazon DUR1","2995 N Hollywood Way, Burbank, CA, 91505",41,0
-Wed Feb 09 2022 02:00:02 GMT-0800 (Pacific Standard Time),"LAFD Fire Station 23","17281 W Sunset Blvd, Pacific Palisades, CA, 90272",7,0
-Wed Feb 09 2022 02:00:02 GMT-0800 (Pacific Standard Time),"LAFD Fire Station 15","3000 S Hoover St, Los Angeles, CA, 90007",11,0
-Wed Feb 09 2022 02:00:02 GMT-0800 (Pacific Standard Time),"LAFD Environmental Unit","200 N Main St, #1700, Los Angeles, CA, 90012",7,0
-Wed Feb 09 2022 02:00:02 GMT-0800 (Pacific Standard Time),"LAFD Drill Tower","14355 Arminta St, Panorama City, CA, 91402",22,0
-Wed Feb 09 2022 02:00:02 GMT-0800 (Pacific Standard Time),"Whole Foods Market, 3rd & Fairfax","6350 W 3rd St, Los Angeles, CA, 90036",41,0
-Wed Feb 09 2022 02:00:02 GMT-0800 (Pacific Standard Time),"LA Metro Division 15 Transportation Building","11900 Branford St, Sun Valley, CA, 91352",48,0
-Wed Feb 09 2022 02:00:02 GMT-0800 (Pacific Standard Time),"LA Apparel","647-1020 E 59th St, Los Angeles, CA, 90001",354,0
-Wed Feb 09 2022 02:00:02 GMT-0800 (Pacific Standard Time),"Glasswerks LA, Inc.","8600 Rheem Ave, South Gate, CA, 90280",44,0
-Wed Feb 09 2022 02:00:02 GMT-0800 (Pacific Standard Time),"Foster Farms Compton","1805 N Santa Fe Ave, Compton, CA, 90221",81,0
-Wed Feb 09 2022 02:00:02 GMT-0800 (Pacific Standard Time),"Bakkavor Foods","18201 Central Ave, Carson, CA, 90746",29,0
-Wed Feb 09 2022 02:00:02 GMT-0800 (Pacific Standard Time),"Abbott Laboratories","15900 Valley View Ct, Sylmar, CA, 91342",90,0
+Tue Feb 08 2022 03:00:01 GMT-0800 (Pacific Standard Time),"LAFD Fire Station 73","7419 Reseda Blvd, Reseda, CA, 91335",15,0
+Wed Feb 09 2022 02:00:02 GMT-0800 (Pacific Standard Time),"Vans Distribution Center","15700 Shoemaker Ave, Santa Fe Springs, CA, 90670",157,0
 Wed Feb 09 2022 02:00:02 GMT-0800 (Pacific Standard Time),"The Home Depot - Pomona #6645","2707 S Towne Ave, Pomona, CA, 91766",42,0
+Wed Feb 09 2022 02:00:02 GMT-0800 (Pacific Standard Time),"Target #2307","2195 Glendale Galleria, Glendale, CA, 91210",61,0
 Wed Feb 09 2022 02:00:02 GMT-0800 (Pacific Standard Time),"MPP Orora Packaging Solutions","3201 W Mission Rd, Alhambra, CA, 91803",18,0
 Wed Feb 09 2022 02:00:02 GMT-0800 (Pacific Standard Time),"LAX Terminal 1 - Southwest Airlines","100 World Way, Los Angeles, CA, 90045",91,0
 Wed Feb 09 2022 02:00:02 GMT-0800 (Pacific Standard Time),"LAFD Schools and Churches","1700 Stadium Way # 114, Los Angeles, CA, 90012",3,0
@@ -10331,7 +10322,6 @@ Wed Feb 09 2022 02:00:02 GMT-0800 (Pacific Standard Time),"LAFD Metro Communicat
 Wed Feb 09 2022 02:00:02 GMT-0800 (Pacific Standard Time),"LAFD Industrial and Commercial (High Rise)","200 N Main St, #1700, Los Angeles, CA, 90012",3,0
 Wed Feb 09 2022 02:00:02 GMT-0800 (Pacific Standard Time),"LAFD Industrial and Commercial (Brush)","200 N Main St, #1700, Los Angeles, CA, 90012",3,0
 Wed Feb 09 2022 02:00:02 GMT-0800 (Pacific Standard Time),"LAFD In-Service Training","1700 Stadium Way # 101, Los Angeles, CA, 90012",7,0
-Wed Feb 09 2022 02:00:02 GMT-0800 (Pacific Standard Time),"Target #2307","2195 Glendale Galleria, Glendale, CA, 91210",61,0
 Wed Feb 09 2022 02:00:02 GMT-0800 (Pacific Standard Time),"LAFD Fire Station 114","16617 Arminta St, Van Nuys, CA, 91406",8,0
 Wed Feb 09 2022 02:00:02 GMT-0800 (Pacific Standard Time),"LAFD Fire Station 110","2945 Miner St, Berth 44-A, San Pedro, CA, 90731",4,0
 Wed Feb 09 2022 02:00:02 GMT-0800 (Pacific Standard Time),"LAFD Fire Station 107","20225 Devonshire St, Chatsworth, CA, 91311",4,0
@@ -10346,21 +10336,33 @@ Wed Feb 09 2022 02:00:02 GMT-0800 (Pacific Standard Time),"LAFD Fire Station 95"
 Wed Feb 09 2022 02:00:02 GMT-0800 (Pacific Standard Time),"LAFD Fire Station 94","4470 Coliseum St, Los Angeles, CA, 90016",16,0
 Wed Feb 09 2022 02:00:02 GMT-0800 (Pacific Standard Time),"LAFD Fire Station 92","10556 W Pico Blvd, Los Angeles, CA, 90064",3,0
 Wed Feb 09 2022 02:00:02 GMT-0800 (Pacific Standard Time),"LAFD Fire Station 91","14430 Polk St, Sylmar, CA, 91342",5,0
-Wed Feb 09 2022 02:00:02 GMT-0800 (Pacific Standard Time),"Vans Distribution Center","15700 Shoemaker Ave, Santa Fe Springs, CA, 90670",157,0
 Wed Feb 09 2022 02:00:02 GMT-0800 (Pacific Standard Time),"LAFD Fire Station 90","7921 Woodley Ave, Van Nuys, CA, 91406",4,0
 Wed Feb 09 2022 02:00:02 GMT-0800 (Pacific Standard Time),"LAFD Fire Station 89","7063 Laurel Canyon Blvd, North Hollywood, CA, 91605",5,0
 Wed Feb 09 2022 02:00:02 GMT-0800 (Pacific Standard Time),"LAFD Fire Station 88","5101 Sepulveda Blvd, Sherman Oaks, CA, 91403",14,0
 Wed Feb 09 2022 02:00:02 GMT-0800 (Pacific Standard Time),"LAFD Fire Station 87","10124 Balboa Blvd, Granada Hills, CA, 91344",4,0
 Wed Feb 09 2022 02:00:02 GMT-0800 (Pacific Standard Time),"LAFD Fire Station 83","4960 Balboa Blvd, Encino, CA, 91316",5,0
-Wed Feb 09 2022 02:00:02 GMT-0800 (Pacific Standard Time),"California Creative Learning Academy","2709 Media Center Dr, Los Angeles, CA, 90065",0,6
-Wed Feb 09 2022 02:00:02 GMT-0800 (Pacific Standard Time),"Cienega Elementary School","2611 S Orange Dr, Los Angeles, CA, 90016",1,24
-Wed Feb 09 2022 02:00:02 GMT-0800 (Pacific Standard Time),"Culver City High School","4401 Elenda St, Culver City, CA, 90230",0,6
-Wed Feb 09 2022 02:00:02 GMT-0800 (Pacific Standard Time),"Gabriella Charter School Trinity","3736 Trinity St, Los Angeles, CA, 90011",1,13
-Wed Feb 09 2022 02:00:02 GMT-0800 (Pacific Standard Time),"Montebello Gardens Elementary School","4700 Pine St, Pico Rivera, CA, 90660",0,10
-Wed Feb 09 2022 02:00:02 GMT-0800 (Pacific Standard Time),"Saint Paul the Apostle School","1536 Selby Ave, Los Angeles, CA, 90024",2,20
-Wed Feb 09 2022 02:00:02 GMT-0800 (Pacific Standard Time),"South Park Elementary School","8510 Towne Ave, Los Angeles, CA, 90003",1,19
+Wed Feb 09 2022 02:00:02 GMT-0800 (Pacific Standard Time),"LAFD Fire Station 23","17281 W Sunset Blvd, Pacific Palisades, CA, 90272",7,0
+Wed Feb 09 2022 02:00:02 GMT-0800 (Pacific Standard Time),"LAFD Fire Station 15","3000 S Hoover St, Los Angeles, CA, 90007",11,0
+Wed Feb 09 2022 02:00:02 GMT-0800 (Pacific Standard Time),"LAFD Environmental Unit","200 N Main St, #1700, Los Angeles, CA, 90012",7,0
+Wed Feb 09 2022 02:00:02 GMT-0800 (Pacific Standard Time),"LAFD Drill Tower","14355 Arminta St, Panorama City, CA, 91402",22,0
 Wed Feb 09 2022 02:00:02 GMT-0800 (Pacific Standard Time),"LAFD Cannabis Unit","201 N Figueroa St, #300, Los Angeles, CA, 90012",3,0
-Thu Feb 10 2022 05:00:01 GMT-0800 (Pacific Standard Time),"Amazon DUR1","2995 N Hollywood Way, Burbank, CA, 91505",42,0
+Wed Feb 09 2022 02:00:02 GMT-0800 (Pacific Standard Time),"LA Metro Division 15 Transportation Building","11900 Branford St, Sun Valley, CA, 91352",48,0
+Wed Feb 09 2022 02:00:02 GMT-0800 (Pacific Standard Time),"LA Apparel","647-1020 E 59th St, Los Angeles, CA, 90001",354,0
+Wed Feb 09 2022 02:00:02 GMT-0800 (Pacific Standard Time),"Glasswerks LA, Inc.","8600 Rheem Ave, South Gate, CA, 90280",44,0
+Wed Feb 09 2022 02:00:02 GMT-0800 (Pacific Standard Time),"Foster Farms Compton","1805 N Santa Fe Ave, Compton, CA, 90221",81,0
+Wed Feb 09 2022 02:00:02 GMT-0800 (Pacific Standard Time),"Bakkavor Foods","18201 Central Ave, Carson, CA, 90746",29,0
+Wed Feb 09 2022 02:00:02 GMT-0800 (Pacific Standard Time),"Abbott Laboratories","15900 Valley View Ct, Sylmar, CA, 91342",90,0
+Wed Feb 09 2022 02:00:02 GMT-0800 (Pacific Standard Time),"South Park Elementary School","8510 Towne Ave, Los Angeles, CA, 90003",1,19
+Wed Feb 09 2022 02:00:02 GMT-0800 (Pacific Standard Time),"Saint Paul the Apostle School","1536 Selby Ave, Los Angeles, CA, 90024",2,20
+Wed Feb 09 2022 02:00:02 GMT-0800 (Pacific Standard Time),"Montebello Gardens Elementary School","4700 Pine St, Pico Rivera, CA, 90660",0,10
+Wed Feb 09 2022 02:00:02 GMT-0800 (Pacific Standard Time),"Gabriella Charter School Trinity","3736 Trinity St, Los Angeles, CA, 90011",1,13
+Wed Feb 09 2022 02:00:02 GMT-0800 (Pacific Standard Time),"Culver City High School","4401 Elenda St, Culver City, CA, 90230",0,6
+Wed Feb 09 2022 02:00:02 GMT-0800 (Pacific Standard Time),"Cienega Elementary School","2611 S Orange Dr, Los Angeles, CA, 90016",1,24
+Wed Feb 09 2022 02:00:02 GMT-0800 (Pacific Standard Time),"California Creative Learning Academy","2709 Media Center Dr, Los Angeles, CA, 90065",0,6
+Wed Feb 09 2022 02:00:02 GMT-0800 (Pacific Standard Time),"Whole Foods Market, 3rd & Fairfax","6350 W 3rd St, Los Angeles, CA, 90036",41,0
+Thu Feb 10 2022 05:00:01 GMT-0800 (Pacific Standard Time),"R Planet Earth","5300 S Boyle Ave, Vernon, CA, 90058",42,0
+Thu Feb 10 2022 05:00:01 GMT-0800 (Pacific Standard Time),"Saint Paul the Apostle School","1536 Selby Ave, Los Angeles, CA, 90024",2,21
+Thu Feb 10 2022 05:00:01 GMT-0800 (Pacific Standard Time),"Baseline Theatrical - Eliza Tour/Hamilton","6233 Hollywood Blvd, Los Angeles, CA, 90028",12,0
 Thu Feb 10 2022 05:00:01 GMT-0800 (Pacific Standard Time),"Erewhon Market - Los Angeles","7660 Beverly Blvd, Los Angeles, CA, 90036",26,0
 Thu Feb 10 2022 05:00:01 GMT-0800 (Pacific Standard Time),"Fashion Nova, Inc. Santa Fe Springs","12588 Lakeland Rd, Santa Fe Springs, CA, 90670",118,0
 Thu Feb 10 2022 05:00:01 GMT-0800 (Pacific Standard Time),"LA County Registrar-Recorder/County Clerk Norwalk","12400 Imperial Hwy, Ste 2204, Norwalk, CA, 90650",124,0
@@ -10370,9 +10372,9 @@ Thu Feb 10 2022 05:00:01 GMT-0800 (Pacific Standard Time),"McGee Air Services","
 Thu Feb 10 2022 05:00:01 GMT-0800 (Pacific Standard Time),"Metropolitan Animal Specialty Hospital","6565 Santa Monica Blvd, Los Angeles, CA, 90038",51,0
 Thu Feb 10 2022 05:00:01 GMT-0800 (Pacific Standard Time),"Michaels Distribution Center","3501 W Ave H, Lancaster, CA, 93536",81,0
 Thu Feb 10 2022 05:00:01 GMT-0800 (Pacific Standard Time),"Northrop Grumman - Palmdale","3520 E Ave M, Palmdale, CA, 93550",455,0
-Thu Feb 10 2022 05:00:01 GMT-0800 (Pacific Standard Time),"R Planet Earth","5300 S Boyle Ave, Vernon, CA, 90058",42,0
+Thu Feb 10 2022 05:00:01 GMT-0800 (Pacific Standard Time),"Amazon DUR1","2995 N Hollywood Way, Burbank, CA, 91505",42,0
 Thu Feb 10 2022 05:00:01 GMT-0800 (Pacific Standard Time),"Target #184","2120 W Main St, Alhambra, CA, 91801",42,0
-Thu Feb 10 2022 05:00:01 GMT-0800 (Pacific Standard Time),"Baseline Theatrical - Eliza Tour/Hamilton","6233 Hollywood Blvd, Los Angeles, CA, 90028",12,0
+Thu Feb 10 2022 05:00:01 GMT-0800 (Pacific Standard Time),"Target #1408","2626 Colorado Blvd, Los Angeles, CA, 90041",81,0
 Thu Feb 10 2022 05:00:01 GMT-0800 (Pacific Standard Time),"Wood Ranch BBQ & Grill, Cerritos","12801 Towne Center Dr, Cerritos, CA, 90703",19,0
 Thu Feb 10 2022 05:00:01 GMT-0800 (Pacific Standard Time),"Alliance Marine - Innovation and Technology","11933 Allegheny St, Sun Valley, CA, 91352",1,12
 Thu Feb 10 2022 05:00:01 GMT-0800 (Pacific Standard Time),"Carpenter Community Charter","3909 Carpenter Ave, Studio City, CA, 91604",0,14
@@ -10382,9 +10384,7 @@ Thu Feb 10 2022 05:00:01 GMT-0800 (Pacific Standard Time),"Golden Oak Elementary
 Thu Feb 10 2022 05:00:01 GMT-0800 (Pacific Standard Time),"Hope Street Margolis Family Center","1600 S Hope St, Los Angeles, CA, 90015",2,1
 Thu Feb 10 2022 05:00:01 GMT-0800 (Pacific Standard Time),"La Merced Elementary School","724 N Poplar Ave, Montebello, CA, 90640",0,5
 Thu Feb 10 2022 05:00:01 GMT-0800 (Pacific Standard Time),"Open Charter Magnet School","5540 W 77th St, Los Angeles, CA, 90045",1,10
-Thu Feb 10 2022 05:00:01 GMT-0800 (Pacific Standard Time),"Saint Paul the Apostle School","1536 Selby Ave, Los Angeles, CA, 90024",2,21
 Thu Feb 10 2022 05:00:01 GMT-0800 (Pacific Standard Time),"Stem Prep Elementary School","1374 W 35th St, Los Angeles, CA, 90007",2,26
-Thu Feb 10 2022 05:00:01 GMT-0800 (Pacific Standard Time),"Target #1408","2626 Colorado Blvd, Los Angeles, CA, 90041",81,0
 Fri Feb 11 2022 03:00:01 GMT-0800 (Pacific Standard Time),"Torrance Fire Department - Fire Station 1","1701 Crenshaw Blvd, Torrance, CA, 90501",24,0
 Fri Feb 11 2022 03:00:01 GMT-0800 (Pacific Standard Time),"Torrance Fire Department - Fire Station 3","3535 W 182nd St, Torrance, CA, 90504",9,0
 Fri Feb 11 2022 03:00:01 GMT-0800 (Pacific Standard Time),"Torrance Fire Department - Fire Station 4","5205 Calle Mayor # C, Torrance, CA, 90505",5,0
@@ -10453,8 +10453,8 @@ Thu Feb 17 2022 04:00:02 GMT-0800 (Pacific Standard Time),"Griffith STEAM Magnet
 Thu Feb 17 2022 04:00:02 GMT-0800 (Pacific Standard Time),"Sacred Heart Elementary School","360 W Workman St, Covina, CA, 91723",1,4
 Thu Feb 17 2022 04:00:02 GMT-0800 (Pacific Standard Time),"Saint Paul the Apostle School","1536 Selby Ave, Los Angeles, CA, 90024",2,22
 Thu Feb 17 2022 04:00:02 GMT-0800 (Pacific Standard Time),"Saticoy Elementary School","7850 Ethel Ave, North Hollywood, CA, 91605",0,4
-Fri Feb 18 2022 05:00:02 GMT-0800 (Pacific Standard Time),"Crypto.com Arena","1111 S Figueroa St, Ste 3100, Los Angeles, CA, 90015",282,0
 Fri Feb 18 2022 05:00:02 GMT-0800 (Pacific Standard Time),"LAFD Fire Station 9","430 E 7th St, Los Angeles, CA, 90014",15,0
+Fri Feb 18 2022 05:00:02 GMT-0800 (Pacific Standard Time),"BYD Coach & Bus","46147 7th St W, Lancaster, CA, 93534",111,0
 Fri Feb 18 2022 05:00:02 GMT-0800 (Pacific Standard Time),"Poca FedEx Express","1081 Fullerton Rd, City of Industry, CA, 91748",56,0
 Fri Feb 18 2022 05:00:02 GMT-0800 (Pacific Standard Time),"Santa Anita Race Track","285 W Huntington Dr, Arcadia, CA, 91007",91,0
 Fri Feb 18 2022 05:00:02 GMT-0800 (Pacific Standard Time),"Anaverde Hills School","2902 Greenbrier St, Palmdale, CA, 93551",1,10
@@ -10462,41 +10462,41 @@ Fri Feb 18 2022 05:00:02 GMT-0800 (Pacific Standard Time),"El Camino Real Charte
 Fri Feb 18 2022 05:00:02 GMT-0800 (Pacific Standard Time),"Granada Hills Charter School","10535 Zelzah Ave, Granada Hills, CA, 91344",0,4
 Fri Feb 18 2022 05:00:02 GMT-0800 (Pacific Standard Time),"Scott Avenue Elementary","11701 Scott Ave, Whittier, CA, 90604",0,6
 Fri Feb 18 2022 05:00:02 GMT-0800 (Pacific Standard Time),"Serrania Avenue Charter For Enriched Studies","5014 Serrania Ave, Woodland Hills, CA, 91364",0,8
-Fri Feb 18 2022 05:00:02 GMT-0800 (Pacific Standard Time),"BYD Coach & Bus","46147 7th St W, Lancaster, CA, 93534",111,0
-Sat Feb 19 2022 02:00:01 GMT-0800 (Pacific Standard Time),"Target #1411","3600 Rosemead Blvd, Rosemead, CA, 91770",51,0
+Fri Feb 18 2022 05:00:02 GMT-0800 (Pacific Standard Time),"Crypto.com Arena","1111 S Figueroa St, Ste 3100, Los Angeles, CA, 90015",282,0
+Sat Feb 19 2022 02:00:01 GMT-0800 (Pacific Standard Time),"Trader Joe's #252","6130 Laurel Canyon Blvd, North Hollywood, CA, 91606",34,0
 Sat Feb 19 2022 02:00:01 GMT-0800 (Pacific Standard Time),"American Airlines","1 World Way, Los Angeles, CA, 90045",320,0
 Sat Feb 19 2022 02:00:01 GMT-0800 (Pacific Standard Time),"Costco Business Center Warehouse, Hawthorne #564","12530 Prairie Ave, Hawthorne, CA, 90250",56,0
 Sat Feb 19 2022 02:00:01 GMT-0800 (Pacific Standard Time),"Costco Warehouse, Burbank #677","1051 W Burbank Blvd, Burbank, CA, 91506",113,0
 Sat Feb 19 2022 02:00:01 GMT-0800 (Pacific Standard Time),"Fastener Technology Corporation","7415 Fulton Ave, North Hollywood, CA, 91605",25,0
 Sat Feb 19 2022 02:00:01 GMT-0800 (Pacific Standard Time),"Nordstrom, Westfield Santa Anita","400 S Baldwin Ave, Arcadia, CA, 91007",88,0
-Sat Feb 19 2022 02:00:01 GMT-0800 (Pacific Standard Time),"Trader Joe's #252","6130 Laurel Canyon Blvd, North Hollywood, CA, 91606",34,0
+Sat Feb 19 2022 02:00:01 GMT-0800 (Pacific Standard Time),"Target #1411","3600 Rosemead Blvd, Rosemead, CA, 91770",51,0
+Sat Feb 19 2022 02:00:01 GMT-0800 (Pacific Standard Time),"Dapplegray Elementary School","3011 Palos Verdes Dr N, Palos Verdes Estates, CA, 90274",1,3
 Sat Feb 19 2022 02:00:01 GMT-0800 (Pacific Standard Time),"Scott Avenue Elementary School","11701 Scott Ave, Whittier, CA, 90604",0,6
 Sat Feb 19 2022 02:00:01 GMT-0800 (Pacific Standard Time),"Saint Paul the Apostle School","1536 Selby Ave, Los Angeles, CA, 90024",2,25
-Sat Feb 19 2022 02:00:01 GMT-0800 (Pacific Standard Time),"Dapplegray Elementary School","3011 Palos Verdes Dr N, Palos Verdes Estates, CA, 90274",1,3
+Sun Feb 20 2022 03:00:01 GMT-0800 (Pacific Standard Time),"Costco Warehouse, San Dimas #1015","520 N Lone Hill Ave, San Dimas, CA, 91773",110,0
 Sun Feb 20 2022 03:00:01 GMT-0800 (Pacific Standard Time),"Lake Los Angeles Elementary School","16310 E Ave Q, Palmdale, CA, 93591",4,7
 Sun Feb 20 2022 03:00:01 GMT-0800 (Pacific Standard Time),"Eastmont Intermediate School","400 Bradshawe St, Montebello, CA, 90640",0,3
-Sun Feb 20 2022 03:00:01 GMT-0800 (Pacific Standard Time),"Costco Warehouse, San Dimas #1015","520 N Lone Hill Ave, San Dimas, CA, 91773",110,0
 Tue Feb 22 2022 04:00:01 GMT-0800 (Pacific Standard Time),"The Home Depot - Alhambra #6610","500 S Marengo Ave, Alhambra, CA, 91803",57,0
-Wed Feb 23 2022 03:00:01 GMT-0800 (Pacific Standard Time),"Solano Avenue Elementary School","615 Solano Ave, Los Angeles, CA, 90012",0,10
 Wed Feb 23 2022 03:00:01 GMT-0800 (Pacific Standard Time),"Crypto.com Arena","1111 S Figueroa St, Ste 3100, Los Angeles, CA, 90015",284,0
 Wed Feb 23 2022 03:00:01 GMT-0800 (Pacific Standard Time),"Bandini Street Elementary School","425 N Bandini St, San Pedro, CA, 90731",1,5
 Wed Feb 23 2022 03:00:01 GMT-0800 (Pacific Standard Time),"Carpenter Community Charter","3909 Carpenter Ave, Studio City, CA, 91604",0,18
 Wed Feb 23 2022 03:00:01 GMT-0800 (Pacific Standard Time),"Daisy Gibson Elementary School","9650 E Palmdale Blvd, Palmdale, CA, 93591",1,4
 Wed Feb 23 2022 03:00:01 GMT-0800 (Pacific Standard Time),"Mountain Avenue Elementary School","2307 Mountain Ave, La Crescenta, CA, 91214",0,5
+Wed Feb 23 2022 03:00:01 GMT-0800 (Pacific Standard Time),"Solano Avenue Elementary School","615 Solano Ave, Los Angeles, CA, 90012",0,10
+Thu Feb 24 2022 05:00:01 GMT-0800 (Pacific Standard Time),"Louis Vuitton US Manufacturing - Irwindale","4775 Irwindale Ave, Irwindale, CA, 91706",45,0
 Thu Feb 24 2022 05:00:01 GMT-0800 (Pacific Standard Time),"Costco Warehouse, Azusa #412","1220 W Foothill Blvd, Azusa, CA, 91702",91,0
-Thu Feb 24 2022 05:00:01 GMT-0800 (Pacific Standard Time),"Abbott Laboratories","15900 Valley View Ct, Sylmar, CA, 91342",100,0
 Thu Feb 24 2022 05:00:01 GMT-0800 (Pacific Standard Time),"Nordstrom, Westfield Santa Anita","400 S Baldwin Ave, Arcadia, CA, 91007",89,0
 Thu Feb 24 2022 05:00:01 GMT-0800 (Pacific Standard Time),"TSA (Transportation Security Administration) - LAX","1 World Way, Los Angeles, CA, 90045",329,0
 Thu Feb 24 2022 05:00:01 GMT-0800 (Pacific Standard Time),"Eastmont Intermediate School","400 Bradshawe St, Montebello, CA, 90640",0,4
 Thu Feb 24 2022 05:00:01 GMT-0800 (Pacific Standard Time),"Mountain Avenue Elementary School","2307 Mountain Ave, La Crescenta, CA, 91214",0,8
 Thu Feb 24 2022 05:00:01 GMT-0800 (Pacific Standard Time),"Open Charter Magnet School","5540 W 77th St, Los Angeles, CA, 90045",3,23
 Thu Feb 24 2022 05:00:01 GMT-0800 (Pacific Standard Time),"Saint Paul the Apostle School","1536 Selby Ave, Los Angeles, CA, 90024",2,28
-Thu Feb 24 2022 05:00:01 GMT-0800 (Pacific Standard Time),"Louis Vuitton US Manufacturing - Irwindale","4775 Irwindale Ave, Irwindale, CA, 91706",45,0
+Thu Feb 24 2022 05:00:01 GMT-0800 (Pacific Standard Time),"Abbott Laboratories","15900 Valley View Ct, Sylmar, CA, 91342",100,0
+Fri Feb 25 2022 03:00:01 GMT-0800 (Pacific Standard Time),"Hollywood Schoolhouse","1233 N McCadden Pl, Los Angeles, CA, 90038",1,3
 Fri Feb 25 2022 03:00:01 GMT-0800 (Pacific Standard Time),"Transdev Services, Inc.","42210 6th St W, Lancaster, CA, 93534",37,0
 Fri Feb 25 2022 03:00:01 GMT-0800 (Pacific Standard Time),"LAX Terminal 1 - Southwest Airlines","100 World Way, Los Angeles, CA, 90045",95,0
 Fri Feb 25 2022 03:00:01 GMT-0800 (Pacific Standard Time),"LA Apparel","647-1020 E 59th St, Los Angeles, CA, 90001",362,0
 Fri Feb 25 2022 03:00:01 GMT-0800 (Pacific Standard Time),"Sacred Heart Elementary School","360 W Workman St, Covina, CA, 91723",1,5
-Fri Feb 25 2022 03:00:01 GMT-0800 (Pacific Standard Time),"Hollywood Schoolhouse","1233 N McCadden Pl, Los Angeles, CA, 90038",1,3
 Sat Feb 26 2022 01:00:01 GMT-0800 (Pacific Standard Time),"SpaceX Corporate Headquarters","1 Rocket Rd, Hawthorne, CA, 90250",518,0
 Sat Feb 26 2022 01:00:01 GMT-0800 (Pacific Standard Time),"Saint Paul the Apostle School","1536 Selby Ave, Los Angeles, CA, 90024",2,29
 Sat Feb 26 2022 01:00:01 GMT-0800 (Pacific Standard Time),"Erwin Elementary School","13400 Erwin St, Van Nuys, CA, 91401",0,4
@@ -10542,8 +10542,9 @@ Fri Mar 11 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Claremont McKenna Col
 Fri Mar 11 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Dunsmore Elementary School","4717 Dunsmore Ave, La Crescenta, CA, 91214",1,7
 Fri Mar 11 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Normandie Avenue Elementary School","4505 S Raymond Ave, Los Angeles, CA, 90037",1,5
 Fri Mar 11 2022 04:00:01 GMT-0800 (Pacific Standard Time),"Palos Verdes Intermediate School","2161 Via Olivera, Palos Verdes Estates, CA, 90274",0,6
-Sat Mar 12 2022 00:00:01 GMT-0800 (Pacific Standard Time),"John Burroughs High School","1920 W Clark Ave, Burbank, CA, 91506",0,11
+Sat Mar 12 2022 00:00:01 GMT-0800 (Pacific Standard Time),"Palos Verdes Intermediate School","2161 Via Olivera, Palos Verdes Estates, CA, 90274",0,8
 Sat Mar 12 2022 00:00:01 GMT-0800 (Pacific Standard Time),"Amazon DLX5","4841 W San Fernando Rd, Los Angeles, CA, 90039",9,0
 Sat Mar 12 2022 00:00:01 GMT-0800 (Pacific Standard Time),"Anaverde Hills School","2902 Greenbrier St, Palmdale, CA, 93551",1,3
 Sat Mar 12 2022 00:00:01 GMT-0800 (Pacific Standard Time),"Calvary Christian School","701 Palisades Dr, Pacific Palisades, CA, 90272",0,7
-Sat Mar 12 2022 00:00:01 GMT-0800 (Pacific Standard Time),"Palos Verdes Intermediate School","2161 Via Olivera, Palos Verdes Estates, CA, 90274",0,8
+Sat Mar 12 2022 00:00:01 GMT-0800 (Pacific Standard Time),"John Burroughs High School","1920 W Clark Ave, Burbank, CA, 91506",0,11
+Tue Mar 15 2022 00:00:01 GMT-0700 (Pacific Daylight Time),"Claremont McKenna College","800 Columbia Ave, Claremont, CA, 91711",0,11
