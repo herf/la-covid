@@ -373,6 +373,13 @@ function fillgaps2(data) {
 	}
 }
 
+function findHotspots(data, dlines) {
+	for (var c = 1; c < data.columns.length; c++) {
+		var ci = data.columns[c];
+	}
+}
+
+
 function displayData(data, chop, agemode) {
 
 var m0 = getms();
@@ -575,7 +582,10 @@ var m0 = getms();
     chart.draw(dt, options);
 	}
 
-	console.log(getms() - m0, "postgen");
+	// find some hotspots and append to dlines:
+	findHotspots(data, dlines);
+
+		//console.log(getms() - m0, "postgen");
     document.getElementById('regiondata').innerHTML = dlines.join("");
 }
 
