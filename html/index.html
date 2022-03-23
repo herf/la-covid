@@ -86,7 +86,8 @@ td,th {
 				<div class='col-sm-12 col-md-6 mt-5'>
 					<button class="btn btn-sm btn-primary" onclick="clearfilter();return 0;">Clear <small>(show all)</small></button>
 					<button class="btn btn-info btn-sm" onclick='smfilter();return 0;'>Example <small>(near Santa Monica)</small></button>
-					<button class="btn btn-secondary btn-sm" onclick='agefilter();return 0;'>Age groups <small>(changes)</small></button>
+					<button class="btn btn-secondary btn-sm" onclick='agefilter();return 0;'>Age groups</button>
+					<button class="btn btn-warning btn-sm" onclick='hotspot();return 0;'>Hotspots</button>
 				</div>
 			</div>
 
@@ -373,10 +374,53 @@ function fillgaps2(data) {
 	}
 }
 
-function findHotspots(data, dlines) {
-	for (var c = 1; c < data.columns.length; c++) {
-		var ci = data.columns[c];
+function rateCompare(a, b) {
+	return a.rate - b.rate;
+}
+// given a dataset with ALL locations, find the hottest ones recently
+function filterHotspots(data) {
+
+	var rate = [];
+
+	var hotspotmax = 12;
+
+	for (var i = 1; i < data.columns.length; i++) {
+			var doublewidth = 7;
+			var ci = data.columns[i];
+
+			// write down doubling rate -> dlines
+			if (ci.length > doublewidth) {
+				var lrate = 1;
+
+				// rank by doubling rate
+				if (1) {
+					var rnow = ci[ci.length - 1];
+					var rw = ci[ci.length - doublewidth - 1];
+					lrate = rnow / rw;
+				} else {
+					// this is noisy
+					lrate = ci[ci.length - 1];
+				}
+
+				var sortable = {
+					rate: lrate,
+					col: i
+				}
+
+				if (!isNaN(lrate) && isFinite(lrate))
+					rate.push(sortable);
+			}
 	}
+	rate.sort(rateCompare);
+	var dhot = [];
+	dhot.push(data.columns[0]);
+
+	for (var i = 0; i < hotspotmax; i++) {
+		var c = rate[rate.length - i - 1].col;
+		dhot.push(data.columns[c]);
+	}
+
+	return dhot;
 }
 
 
@@ -582,9 +626,6 @@ var m0 = getms();
     chart.draw(dt, options);
 	}
 
-	// find some hotspots and append to dlines:
-	findHotspots(data, dlines);
-
 		//console.log(getms() - m0, "postgen");
     document.getElementById('regiondata').innerHTML = dlines.join("");
 }
@@ -743,8 +784,13 @@ function displayResult(feed, filt) {
 	var colmax = 15;
 
 	var agemode = 0;
+	var hotspotmode = 0;
+
 	if (filt.length && filt[0] == "age") {
 		agemode = 1;
+	}
+	if (filt.length && filt[0] == "hotspot") {
+		hotspotmode = 1;
 	}
 
 	if (agemode) {
@@ -795,10 +841,15 @@ function displayResult(feed, filt) {
 		var li = d[i];
 
 		var fmatch = filt.length ? 0 : 1;
+
+		// hotspot starts with all data, then we filter after:
+		if (hotspotmode && !li.location.startsWith("age")) fmatch = true;
+
 		if (agemode) {
 			if (li.location.startsWith("age")) fmatch = true;
 			else fmatch = false;
 		} else {
+
 			for (var f = 0; f < filt.length; f++) {
 				var lilow = li.location.toLowerCase();
 				var flow = filt[f].toLowerCase();
@@ -827,7 +878,7 @@ function displayResult(feed, filt) {
 		if (!regionmode) {
 			// by location
 			if (!col[li.location]) {
-				if (colmax == 0) continue;
+				if (!hotspotmode && colmax == 0) continue;
 				colmax --;
 				data.columns.push([li.location]);
 				col[li.location] = data.columns.length - 1;
@@ -895,6 +946,12 @@ function displayResult(feed, filt) {
 	}
 	//if (agemode) console.log(data);
 	//console.log(data);
+
+	if (hotspotmode) {
+		console.log("prehot", data);
+		data.columns = filterHotspots(data);
+		console.log("posthot", data);
+	}
 
 	dayfix = 0;
 	displayData(data, chop, agemode);
@@ -991,6 +1048,9 @@ function agefilter() {
 	setfiltervalue("age");
 }
 
+function hotspot() {
+	setfiltervalue("hotspot");
+}
 // slow down because c3.js is too slow:
 function setfilter(v) {
 	$('#search').show()
