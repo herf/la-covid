@@ -845,6 +845,8 @@ function displayResult(feed, filt) {
 		// hotspot starts with all data, then we filter after:
 		if (hotspotmode && !li.location.startsWith("age")) fmatch = true;
 
+		if (hotspotmode && li.population < 5000) fmatch = false;
+
 		if (agemode) {
 			if (li.location.startsWith("age")) fmatch = true;
 			else fmatch = false;
