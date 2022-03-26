@@ -382,11 +382,16 @@ function filterHotspots(data) {
 
 	var rate = [];
 
-	var hotspotmax = 12;
+	// so we mostly match the final analysis:
+	fillgaps2(data);
+
+	var hotspotmax = 10;
 
 	for (var i = 1; i < data.columns.length; i++) {
 			var doublewidth = 7;
-			var ci = data.columns[i];
+			var ci = JSON.parse(JSON.stringify(data.columns[i]));
+
+			process(ci, smoothing);
 
 			// write down doubling rate -> dlines
 			if (ci.length > doublewidth) {
@@ -397,9 +402,10 @@ function filterHotspots(data) {
 					var rnow = ci[ci.length - 1];
 					var rw = ci[ci.length - doublewidth - 1];
 					lrate = rnow / rw;
-				} else {
-					// this is noisy
-					lrate = ci[ci.length - 1];
+
+					// add some weight by absolute rate today:
+					//console.log(ci[0], lrate, rnow, Math.log(rnow + 1));
+					lrate += Math.log(rnow + 1);
 				}
 
 				var sortable = {
@@ -411,7 +417,16 @@ function filterHotspots(data) {
 					rate.push(sortable);
 			}
 	}
+
 	rate.sort(rateCompare);
+	if (0) {
+			// debug
+			for (var i = 0; i < rate.length; i++) {
+				var ri = rate[i];
+				console.log(i, data.columns[ri.col][0], ri.rate);
+			}
+	}
+
 	var dhot = [];
 	dhot.push(data.columns[0]);
 
@@ -423,6 +438,14 @@ function filterHotspots(data) {
 	return dhot;
 }
 
+function tierColor(r) {
+	var rwk = 7.0 * r;
+
+	if (rwk < 10) return "#00B0F0";	// blue
+	if (rwk < 50) return "#E6E600";		// yellow
+	if (rwk < 100) return "#E6AD00";	// orange
+	return "#FF0000";
+}
 
 function displayData(data, chop, agemode) {
 
@@ -431,8 +454,6 @@ var m0 = getms();
 	var dlines = [];
 
 	if (enableDOWcorrection) adjustDOW(data);
-
-	fillgaps2(data);
 
 	if (!agemode) {
 
@@ -468,7 +489,7 @@ var m0 = getms();
 				var rnow = ci[ci.length - 1];
 				var rw = ci[ci.length - doublewidth - 1];
 
-				console.log(ci[0], rnow, rw, rnow / rw);
+				//console.log(ci[0], rnow, rw, rnow / rw);
 
 				// alternate growth metric: estimate this week's ICU bed increase:
 				// assumptions: lag is around a week, discharge after 3 weeks
@@ -481,7 +502,7 @@ var m0 = getms();
 				if (rw) {
 					// report doubling rate when going up:
 					var ratio = rnow / rw;
-					var pct = ci[0] + ": " + Math.round((ratio - 1) * 100) + "% growth";
+					var pct = "<small style='padding:0.2em 0.3em;color:#fff;background-color:" + tierColor(rnow) + "'>(" + rnow + "/100k)</small> " + ci[0] + ": "  + Math.round((ratio - 1) * 100) + "% growth";
 					if (ratio > 1) {
 						var doubling = doublewidth / (Math.log(ratio) / Math.log(2));
 
@@ -504,7 +525,7 @@ var m0 = getms();
 
 		// header if we have any growth:
 		if (dlines.length) {
-			dlines.splice(0, 0, "<h5>Previous week's growth (doubling rate in days)</h5>");
+			dlines.splice(0, 0, "<h5>Rate and Previous week's growth (doubling rate in days)</h5>");
 		}
 	}
 
@@ -950,9 +971,9 @@ function displayResult(feed, filt) {
 	//console.log(data);
 
 	if (hotspotmode) {
-		console.log("prehot", data);
+		//console.log("prehot", data);
 		data.columns = filterHotspots(data);
-		console.log("posthot", data);
+		//console.log("posthot", data);
 	}
 
 	dayfix = 0;
