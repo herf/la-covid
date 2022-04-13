@@ -69,7 +69,7 @@ td,th {
 			<div id='gchart' style='height:500px'></div>
 			
 			<div class='row mt-4'>
-				<div class='col-sm-12 col-md-6'>
+				<div class='col-sm-12 col-md-8'>
 					<form>
 					  	<div class="form-group">
 					  		<h5>
@@ -79,11 +79,11 @@ td,th {
 							<span class="float-right badge badge-warning collapse" id='search'>Searching...</span>
 							<small class="form-text text-muted">For more than one location, use commas.</small>
 
-							<div class='mt-3' id='regiondata'><h4>Loading...</h4></div>
 						</div>
 					</form>
+					<div class='mt-3' id='regiondata'><h4>Loading...</h4></div>
 				</div>
-				<div class='col-sm-12 col-md-6 mt-5'>
+				<div class='col-sm-12 col-md-4 mt-5'>
 					<button class="btn btn-sm btn-primary" onclick="clearfilter();return 0;">Clear <small>(show all)</small></button>
 					<button class="btn btn-info btn-sm" onclick='smfilter();return 0;'>Example <small>(near Santa Monica)</small></button>
 					<button class="btn btn-secondary btn-sm" onclick='agefilter();return 0;'>Age groups</button>
@@ -489,6 +489,23 @@ var m0 = getms();
 				var rnow = ci[ci.length - 1];
 				var rw = ci[ci.length - doublewidth - 1];
 
+				// find percentile in ci:
+				var pctile = 0;
+				{
+					var gt = 0;
+					var tt = 0;
+
+					var startindex = 0;
+					if (ci.length > 365) {
+						startindex = ci.length - 365;
+					}
+					for (var i = startindex; i < ci.length; i++) {
+						if (ci[i] < rnow) gt++;
+						tt ++;
+					}
+					pctile = gt / tt;
+				}
+
 				//console.log(ci[0], rnow, rw, rnow / rw);
 
 				// alternate growth metric: estimate this week's ICU bed increase:
@@ -513,6 +530,9 @@ var m0 = getms();
 						var doubling = doublewidth / (Math.log(ratio) / Math.log(0.5));
 						var dr = doubling.toFixed(1) + " days";
 						pct += " (halving in " + dr + ")";
+					}
+					if (pctile > 0 && pctile < 1) {
+						pct += "<div style='font-size:0.7em; margin-left: 2em'>Higher than " + Math.round(100 * pctile) + "% of the days in the last year</div>";
 					}
 					//}
 					if (0 && ICUratio > 1) {
