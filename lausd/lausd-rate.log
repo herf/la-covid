@@ -98,7 +98,7 @@
   '2021-10-25T2200 Active Cases by Campus_Name.csv',
   '2021-10-25T2200 Case Rate by Physical_CoS.csv',
   '2021-10-26T2200 Active Cases by Campus_Name for Is_Epi_Linked.csv',
-  ... 524 more items ]
+  ... 527 more items ]
 2021-08-19 Community-based cases.csv true false
 2021-08-20 Community-based cases.csv true false
 2021-08-21 Community-based cases.csv true false
@@ -794,3 +794,6 @@ etldata/2022-04-17T2200 Case Rate by Physical_CoS.csv false false
 etldata/2022-04-18T2200 Active Cases by Campus_Name for Is_Epi_Linked.csv false true
 etldata/2022-04-18T2200 Active Cases by Campus_Name.csv true false
 etldata/2022-04-18T2200 Case Rate by Physical_CoS.csv false false
+etldata/2022-04-19T2200 Active Cases by Campus_Name for Is_Epi_Linked.csv false true
+etldata/2022-04-19T2200 Active Cases by Campus_Name.csv true false
+etldata/2022-04-19T2200 Case Rate by Physical_CoS.csv false false
