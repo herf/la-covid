@@ -172,7 +172,7 @@ function AllRates() {
 
 			// drop 0-rate
 			if (rows[i].indexOf(',0') != -1) continue;
-			if (rows[i].length < 10) continue;
+			if (rows[i].length < 5) continue;
 
 			res.push(dt + "," + rows[i]);
 		}
@@ -236,7 +236,8 @@ function AllActive() {
 
 		for (var i = 0; i < rows.length; i++) {
 			if (i == 0) continue;
-			if (rows[i].length < 10) continue;
+			//if (rows[i].length < 10) continue;
+			if (rows[i].length < 5) continue;
 
 			var col = rows[i].split(',');
 			var rowid = dt + "," + col[0];
