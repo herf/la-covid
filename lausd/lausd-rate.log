@@ -1,4 +1,5 @@
-[ '2021-09-22T2200 Active Cases by Campus_Name for Is_Epi_Linked.csv',
+[
+  '2021-09-22T2200 Active Cases by Campus_Name for Is_Epi_Linked.csv',
   '2021-09-22T2200 Active Cases by Campus_Name.csv',
   '2021-09-22T2200 Case Rate by Physical_CoS.csv',
   '2021-09-24T2200 Active Cases by Campus_Name for Is_Epi_Linked.csv',
@@ -98,7 +99,8 @@
   '2021-10-25T2200 Active Cases by Campus_Name.csv',
   '2021-10-25T2200 Case Rate by Physical_CoS.csv',
   '2021-10-26T2200 Active Cases by Campus_Name for Is_Epi_Linked.csv',
-  ... 1145 more items ]
+  ... 1145 more items
+]
 2021-08-19 Community-based cases.csv true false
 2021-08-20 Community-based cases.csv true false
 2021-08-21 Community-based cases.csv true false
