@@ -42,7 +42,8 @@ function DFS(o, parser) {
 	var c = o.children;
 	if (!c) {
 		if (Array.isArray(o)) {
-			c = o[0].children;
+			if (o[0])
+				c = o[0].children;
 		}
 	}
 
