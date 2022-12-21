@@ -13543,3 +13543,349 @@ date,location,region,population,cases,casechange,caserate,deaths,deathrate
 2022-12-20,age 50 to 64,,0,586171,122
 2022-12-20,age 65 to 79,,0,244790,101
 2022-12-20,age over 80,,0,82875,53
+2022-12-21,City of Agoura Hills,SFV,20883,6157,0,29483,24,115
+2022-12-21,City of Alhambra,SGV,86724,24236,0,27946,282,325
+2022-12-21,City of Arcadia,SGV,57754,12729,0,22040,198,343
+2022-12-21,City of Artesia,E,16795,5692,0,33891,94,560
+2022-12-21,City of Avalon,SB,3869,282,0,7289,3,78
+2022-12-21,City of Azusa,SGV,50040,16884,0,33741,168,336
+2022-12-21,City of Baldwin Park,SGV,76769,28549,0,37188,403,525
+2022-12-21,City of Bell Gardens,E,43072,16648,0,38652,146,339
+2022-12-21,City of Bell,E,36332,16530,0,45497,150,413
+2022-12-21,City of Bellflower,E,77735,29561,0,38028,287,369
+2022-12-21,City of Beverly Hills,W,34520,11108,0,32178,51,148
+2022-12-21,City of Bradbury,SGV,1069,69,0,6455,0,0
+2022-12-21,City of Burbank,SFV,107179,31354,0,29254,352,328
+2022-12-21,City of Calabasas,SFV,24323,5577,0,22929,43,177
+2022-12-21,City of Carson,SB,93847,33493,0,35689,342,364
+2022-12-21,City of Cerritos,E,50068,12608,0,25182,92,184
+2022-12-21,City of Claremont,SGV,36483,9725,0,26656,102,280
+2022-12-21,City of Commerce,E,13069,5651,0,43240,52,398
+2022-12-21,City of Compton,S,99905,38973,0,39010,333,333
+2022-12-21,City of Covina,SGV,49032,19409,0,39584,242,494
+2022-12-21,City of Cudahy,E,24347,11919,0,48955,88,361
+2022-12-21,City of Culver City,W,39865,11180,0,28045,149,374
+2022-12-21,City of Diamond Bar,SGV,57515,12961,0,22535,120,209
+2022-12-21,City of Downey,E,114262,44978,0,39364,419,367
+2022-12-21,City of Duarte,SGV,22016,7102,0,32258,127,577
+2022-12-21,City of El Monte,SGV,117268,41195,0,35129,562,479
+2022-12-21,City of El Segundo,SB,16786,3916,0,23329,17,101
+2022-12-21,City of Gardena,E,61310,21011,0,34270,279,455
+2022-12-21,City of Glendale,SFV,206496,57757,0,27970,958,464
+2022-12-21,City of Glendora,SGV,52763,14378,0,27250,219,415
+2022-12-21,City of Hawaiian Gardens,E,14676,4864,0,33143,33,225
+2022-12-21,City of Hawthorne,SB,88788,28421,0,32010,285,321
+2022-12-21,City of Hermosa Beach,SB,19670,4563,0,23198,15,76
+2022-12-21,City of Hidden Hills,SFV,1890,375,0,19841,2,106
+2022-12-21,City of Huntington Park,E,59483,25679,0,43170,222,373
+2022-12-21,City of Industry,SGV,437,959,0,219451,7,1602
+2022-12-21,City of Inglewood,SB,113580,37176,0,32731,408,359
+2022-12-21,City of Irwindale,SGV,1459,859,0,58876,13,891
+2022-12-21,City of La Canada Flintridge,SGV,20693,4357,0,21055,26,126
+2022-12-21,City of La Habra Heights,E,5455,207,0,3795,2,37
+2022-12-21,City of La Mirada,E,49600,13572,0,27363,205,413
+2022-12-21,City of La Puente,SGV,40697,15499,0,38084,160,393
+2022-12-21,City of La Verne,SGV,33282,8934,0,26843,88,264
+2022-12-21,City of Lakewood,E,80362,25793,0,32096,180,224
+2022-12-21,City of Lancaster,AV,161571,62066,0,38414,475,294
+2022-12-21,City of Lawndale,SB,33614,10222,0,30410,75,223
+2022-12-21,City of Lomita,SB,20729,5770,0,27835,64,309
+2022-12-21,City of Lynwood,S,72047,30213,0,41935,318,441
+2022-12-21,City of Malibu,W,12961,2751,0,21225,14,108
+2022-12-21,City of Manhattan Beach,SB,36000,7133,0,19814,32,89
+2022-12-21,City of Maywood,E,28049,12508,0,44593,112,399
+2022-12-21,City of Monrovia,SGV,38800,11389,0,29353,114,294
+2022-12-21,City of Montebello,E,64375,24472,0,38015,305,474
+2022-12-21,City of Monterey Park,SGV,62262,16675,0,26782,261,419
+2022-12-21,City of Norwalk,E,107622,41259,0,38337,510,474
+2022-12-21,City of Palmdale,AV,158970,64928,0,40843,473,298
+2022-12-21,City of Palos Verdes Estates,SB,13522,2134,0,15782,14,104
+2022-12-21,City of Paramount,S,56023,21932,0,39148,215,384
+2022-12-21,City of Pico Rivera,E,64284,26890,0,41830,351,546
+2022-12-21,City of Pomona,SGV,155930,63125,0,40483,612,392
+2022-12-21,City of Rancho Palos Verdes,SB,42747,7229,0,16911,88,206
+2022-12-21,City of Redondo Beach,SB,68698,14856,0,21625,76,111
+2022-12-21,City of Rolling Hills Estates,SB,8113,1420,0,17503,11,136
+2022-12-21,City of Rolling Hills,SB,1940,272,0,14021,3,155
+2022-12-21,City of Rosemead,SGV,55350,14645,0,26459,201,363
+2022-12-21,City of San Dimas,SGV,34516,10626,0,30786,136,394
+2022-12-21,City of San Fernando,SFV,24612,12442,0,50553,83,337
+2022-12-21,City of San Gabriel,SGV,40954,10839,0,26466,269,657
+2022-12-21,City of San Marino,SGV,13277,2296,0,17293,15,113
+2022-12-21,City of Santa Clarita,SFV,220427,70658,0,32055,426,193
+2022-12-21,City of Santa Fe Springs,E,18364,7589,0,41325,58,316
+2022-12-21,City of Santa Monica,W,92446,25270,0,27335,282,305
+2022-12-21,City of Sierra Madre,SGV,10989,2272,0,20675,25,228
+2022-12-21,City of Signal Hill,E,11797,3908,0,33127,19,161
+2022-12-21,City of South El Monte,SGV,20885,8155,0,39047,92,441
+2022-12-21,City of South Gate,E,98154,45895,0,46758,334,340
+2022-12-21,City of South Pasadena,SGV,26053,6008,0,23061,63,242
+2022-12-21,City of Temple City,SGV,36455,10229,0,28059,172,472
+2022-12-21,City of Torrance,SB,149268,32430,0,21726,336,225
+2022-12-21,City of Vernon,E,209,354,0,169378,0,0
+2022-12-21,City of Walnut,SGV,30532,7171,0,23487,52,170
+2022-12-21,City of West Covina,SGV,108234,37896,0,35013,390,360
+2022-12-21,City of West Hollywood,W,36950,10859,0,29388,62,168
+2022-12-21,City of Westlake Village,SFV,8359,430,0,5144,3,36
+2022-12-21,City of Whittier,E,87433,29945,0,34249,357,408
+2022-12-21,Los Angeles - Adams-Normandie,S,8202,3097,0,37759,19,232
+2022-12-21,Los Angeles - Alsace,W,12445,4357,0,35010,23,185
+2022-12-21,Los Angeles - Angeles National Forest,AV,40,0,0,0,0,0
+2022-12-21,Los Angeles - Angelino Heights,MLA,2502,816,0,32614,8,320
+2022-12-21,Los Angeles - Arleta,SFV,34370,16402,0,47722,139,404
+2022-12-21,Los Angeles - Atwater Village,MLA,14666,4892,0,33356,39,266
+2022-12-21,Los Angeles - Baldwin Hills,S,31125,9819,0,31547,119,382
+2022-12-21,Los Angeles - Bel Air,W,8429,2359,0,27987,8,95
+2022-12-21,Los Angeles - Beverly Crest,W,12525,3235,0,25828,10,80
+2022-12-21,Los Angeles - Beverlywood,W,13173,4084,0,31003,5,38
+2022-12-21,Los Angeles - Boyle Heights,MLA,86884,39462,0,45419,386,444
+2022-12-21,Los Angeles - Brentwood,W,30955,8090,0,26135,33,107
+2022-12-21,Los Angeles - Brookside,MLA,581,146,0,25129,2,344
+2022-12-21,Los Angeles - Cadillac-Corning,W,7121,2238,0,31428,15,211
+2022-12-21,Los Angeles - Canoga Park,SFV,65289,24509,0,37539,213,326
+2022-12-21,Los Angeles - Carthay,MLA,14363,4155,0,28928,96,668
+2022-12-21,Los Angeles - Central,MLA,38992,16736,0,42922,173,444
+2022-12-21,Los Angeles - Century City,W,12792,3581,0,27994,20,156
+2022-12-21,Los Angeles - Century Palms/Cove,S,33766,15887,0,47050,136,403
+2022-12-21,Los Angeles - Chatsworth,SFV,37061,12394,0,33442,123,332
+2022-12-21,Los Angeles - Cheviot Hills,W,9171,2438,0,26584,15,164
+2022-12-21,Los Angeles - Chinatown,MLA,8021,2773,0,34572,25,312
+2022-12-21,Los Angeles - Cloverdale/Cochran,MLA,14553,5128,0,35237,34,234
+2022-12-21,Los Angeles - Country Club Park,MLA,15153,4744,0,31307,98,647
+2022-12-21,Los Angeles - Crenshaw District,S,13829,5162,0,37327,48,347
+2022-12-21,Los Angeles - Crestview,W,11368,3829,0,33682,57,501
+2022-12-21,Los Angeles - Del Rey,W,29936,8085,0,27008,45,150
+2022-12-21,Los Angeles - Downtown,MLA,27507,15640,0,56858,80,291
+2022-12-21,Los Angeles - Eagle Rock,MLA,39590,13177,0,33284,162,409
+2022-12-21,Los Angeles - East Hollywood,MLA,29287,9229,0,31512,167,570
+2022-12-21,Los Angeles - Echo Park,MLA,14256,4350,0,30513,30,210
+2022-12-21,Los Angeles - El Sereno,MLA,41808,16454,0,39356,150,359
+2022-12-21,Los Angeles - Elysian Park,MLA,5712,1791,0,31355,6,105
+2022-12-21,Los Angeles - Elysian Valley,MLA,10171,3467,0,34087,33,324
+2022-12-21,Los Angeles - Encino,SFV,45173,14635,0,32398,99,219
+2022-12-21,Los Angeles - Exposition Park,S,44916,17773,0,39569,109,243
+2022-12-21,Los Angeles - Exposition,S,3326,1229,0,36951,10,301
+2022-12-21,Los Angeles - Faircrest Heights,MLA,3600,1211,0,33639,7,194
+2022-12-21,Los Angeles - Figueroa Park Square,S,8721,3659,0,41956,42,482
+2022-12-21,Los Angeles - Florence-Firestone,S,47445,22361,0,47130,163,344
+2022-12-21,Los Angeles - Glassell Park,MLA,31604,10628,0,33629,79,250
+2022-12-21,Los Angeles - Gramercy Place,S,10764,3974,0,36919,45,418
+2022-12-21,Los Angeles - Granada Hills,SFV,58192,20807,0,35756,276,474
+2022-12-21,Los Angeles - Green Meadows,S,21505,9807,0,45603,69,321
+2022-12-21,Los Angeles - Hancock Park,MLA,17039,4578,0,26868,17,100
+2022-12-21,Los Angeles - Harbor City,SB,29070,9054,0,31146,57,196
+2022-12-21,Los Angeles - Harbor Gateway,SB,43600,15236,0,34945,112,257
+2022-12-21,Los Angeles - Harbor Pines,SB,2409,618,0,25654,3,125
+2022-12-21,Los Angeles - Harvard Heights,MLA,18035,6018,0,33368,80,444
+2022-12-21,Los Angeles - Harvard Park,S,37935,17513,0,46166,139,366
+2022-12-21,Los Angeles - Highland Park,MLA,48391,16687,0,34484,149,308
+2022-12-21,Los Angeles - Historic Filipinotown,MLA,13870,5353,0,38594,97,699
+2022-12-21,Los Angeles - Hollywood Hills,MLA,29434,7380,0,25073,34,116
+2022-12-21,Los Angeles - Hollywood,MLA,68253,20878,0,30589,122,179
+2022-12-21,Los Angeles - Hyde Park,S,28541,11521,0,40366,123,431
+2022-12-21,Los Angeles - Jefferson Park,S,8073,3064,0,37954,23,285
+2022-12-21,Los Angeles - Koreatown,MLA,51693,15830,0,30623,156,302
+2022-12-21,Los Angeles - Lafayette Square,MLA,4559,1543,0,33845,11,241
+2022-12-21,Los Angeles - Lake Balboa,SFV,42206,15736,0,37284,101,239
+2022-12-21,Los Angeles - Lakeview Terrace,SFV,13133,5969,0,45450,53,404
+2022-12-21,Los Angeles - Leimert Park,S,15235,5564,0,36521,39,256
+2022-12-21,Los Angeles - Lincoln Heights,MLA,32597,12443,0,38172,237,727
+2022-12-21,Los Angeles - Little Armenia,MLA,8025,2971,0,37022,114,1421
+2022-12-21,Los Angeles - Little Bangladesh,MLA,28343,8445,0,29796,40,141
+2022-12-21,Los Angeles - Little Tokyo,MLA,3133,1415,0,45164,17,543
+2022-12-21,Los Angeles - Longwood,MLA,4304,1732,0,40242,16,372
+2022-12-21,Los Angeles - Los Feliz,MLA,21608,6123,0,28337,93,430
+2022-12-21,Los Angeles - Manchester Square,SB,8536,3104,0,36364,23,269
+2022-12-21,Los Angeles - Mandeville Canyon,W,3124,864,0,27657,1,32
+2022-12-21,Los Angeles - Mar Vista,W,42471,10483,0,24683,57,134
+2022-12-21,Los Angeles - Marina Peninsula,W,4360,927,0,21261,5,115
+2022-12-21,Los Angeles - Melrose,MLA,77697,25476,0,32789,276,355
+2022-12-21,Los Angeles - Mid-city,MLA,15030,4339,0,28869,30,200
+2022-12-21,Los Angeles - Miracle Mile,MLA,17985,4748,0,26400,24,133
+2022-12-21,Los Angeles - Mission Hills,SFV,24124,11569,0,47956,164,680
+2022-12-21,Los Angeles - Mt. Washington,MLA,24145,7990,0,33092,80,331
+2022-12-21,Los Angeles - North Hills,SFV,61575,24593,0,39940,210,341
+2022-12-21,Los Angeles - North Hollywood,SFV,151422,57410,0,37914,518,342
+2022-12-21,Los Angeles - Northridge,SFV,69797,24674,0,35351,233,334
+2022-12-21,Los Angeles - Pacific Palisades,W,21291,4844,0,22751,20,94
+2022-12-21,Los Angeles - Pacoima,SFV,76979,37919,0,49259,293,381
+2022-12-21,Los Angeles - Palisades Highlands,W,3846,897,0,23323,2,52
+2022-12-21,Los Angeles - Palms,W,43876,11543,0,26308,84,191
+2022-12-21,Los Angeles - Panorama City,SFV,75250,32633,0,43366,346,460
+2022-12-21,Los Angeles - Park La Brea,MLA,13580,3136,0,23093,3,22
+2022-12-21,Los Angeles - Pico-Union,MLA,41842,15909,0,38022,299,715
+2022-12-21,Los Angeles - Playa Del Rey,W,3196,573,0,17929,4,125
+2022-12-21,Los Angeles - Playa Vista,W,10947,3276,0,29926,15,137
+2022-12-21,Los Angeles - Porter Ranch,SFV,35588,10160,0,28549,69,194
+2022-12-21,Los Angeles - Rancho Park,W,6560,2149,0,32759,2,30
+2022-12-21,Los Angeles - Regent Square,W,2780,857,0,30827,4,144
+2022-12-21,Los Angeles - Reseda Ranch,SFV,4636,1752,0,37791,8,173
+2022-12-21,Los Angeles - Reseda,SFV,76617,31030,0,40500,406,530
+2022-12-21,Los Angeles - Reynier Village,W,4228,1129,0,26703,3,71
+2022-12-21,Los Angeles - San Pedro,SB,78037,25217,0,32314,191,245
+2022-12-21,Los Angeles - Shadow Hills,SFV,4442,1260,0,28366,9,203
+2022-12-21,Los Angeles - Sherman Oaks,SFV,87254,26610,0,30497,176,202
+2022-12-21,Los Angeles - Silverlake,MLA,44083,12814,0,29068,103,234
+2022-12-21,Los Angeles - South Carthay,MLA,10595,3140,0,29637,38,359
+2022-12-21,Los Angeles - South Park,S,37961,16571,0,43653,133,350
+2022-12-21,Los Angeles - St Elmo Village,MLA,4584,1826,0,39834,47,1025
+2022-12-21,Los Angeles - Studio City,SFV,22440,6763,0,30138,64,285
+2022-12-21,Los Angeles - Sun Valley,SFV,52483,22639,0,43136,210,400
+2022-12-21,Los Angeles - Sunland,SFV,20408,6654,0,32605,89,436
+2022-12-21,Los Angeles - Sycamore Square,SFV,647,207,0,31994,2,309
+2022-12-21,Los Angeles - Sylmar,SFV,82399,41065,0,49837,332,403
+2022-12-21,Los Angeles - Tarzana,SFV,30876,10130,0,32809,113,366
+2022-12-21,Los Angeles - Temple-Beaudry,MLA,39482,13207,0,33451,139,352
+2022-12-21,Los Angeles - Thai Town,MLA,9809,2725,0,27781,40,408
+2022-12-21,Los Angeles - Toluca Lake,SFV,8704,2465,0,28320,13,149
+2022-12-21,Los Angeles - Toluca Terrace,SFV,1306,491,0,37596,11,842
+2022-12-21,Los Angeles - Toluca Woods,SFV,1858,457,0,24596,1,54
+2022-12-21,Los Angeles - Tujunga,SFV,27810,8690,0,31248,106,381
+2022-12-21,Los Angeles - University Hills,SGV,3429,895,0,26101,2,58
+2022-12-21,Los Angeles - University Park,S,27456,11369,0,41408,77,280
+2022-12-21,Los Angeles - Valley Glen,SFV,30016,10870,0,36214,103,343
+2022-12-21,Los Angeles - Valley Village,SFV,24720,8259,0,33410,101,409
+2022-12-21,Los Angeles - Van Nuys,SFV,93194,36685,0,39364,445,477
+2022-12-21,Los Angeles - Venice,W,33885,8913,0,26304,35,103
+2022-12-21,Los Angeles - Vermont Knolls,S,17200,7285,0,42355,79,459
+2022-12-21,Los Angeles - Vermont Square,S,7657,3667,0,47891,37,483
+2022-12-21,Los Angeles - Vermont Vista,S,41186,18238,0,44282,135,328
+2022-12-21,Los Angeles - Vernon Central,S,51998,24322,0,46775,202,388
+2022-12-21,Los Angeles - Victoria Park,MLA,8399,2752,0,32766,22,262
+2022-12-21,Los Angeles - View Heights,S,3694,1075,0,29101,9,244
+2022-12-21,Los Angeles - Watts,S,42674,19117,0,44798,144,337
+2022-12-21,Los Angeles - Wellington Square,MLA,4915,1780,0,36216,14,285
+2022-12-21,Los Angeles - West Adams,MLA,27630,10582,0,38299,182,659
+2022-12-21,Los Angeles - West Hills,SFV,40545,12428,0,30652,156,385
+2022-12-21,Los Angeles - West Los Angeles,W,37636,11114,0,29530,76,202
+2022-12-21,Los Angeles - West Vernon,S,53644,24166,0,45049,252,470
+2022-12-21,Los Angeles - Westchester,W,51604,13193,0,25566,85,165
+2022-12-21,Los Angeles - Westlake,MLA,59355,20262,0,34137,387,652
+2022-12-21,Los Angeles - Westwood,W,54110,15892,0,29370,47,87
+2022-12-21,Los Angeles - Wholesale District,MLA,36129,20932,0,57937,156,432
+2022-12-21,Los Angeles - Wilmington,SB,56487,23032,0,40774,146,258
+2022-12-21,Los Angeles - Wilshire Center,MLA,50170,16638,0,33163,154,307
+2022-12-21,Los Angeles - Winnetka,SFV,51786,19322,0,37311,132,255
+2022-12-21,Los Angeles - Woodland Hills,SFV,68055,19761,0,29037,140,206
+2022-12-21,Unincorporated - Acton,AV,7971,1947,0,24426,18,226
+2022-12-21,Unincorporated - Agua Dulce,AV,4158,963,0,23160,7,168
+2022-12-21,Unincorporated - Altadena,SGV,43620,11165,0,25596,109,250
+2022-12-21,Unincorporated - Anaverde,AV,1508,408,0,27056,1,66
+2022-12-21,Unincorporated - Angeles National Forest,AV,1245,89,0,7149,1,80
+2022-12-21,Unincorporated - Arcadia,SGV,7981,2140,0,26814,21,263
+2022-12-21,Unincorporated - Athens Village,S,4897,2703,0,55197,40,817
+2022-12-21,Unincorporated - Athens-Westmont,S,42442,17046,0,40163,159,375
+2022-12-21,Unincorporated - Avocado Heights,SGV,6775,2670,0,39410,21,310
+2022-12-21,Unincorporated - Azusa,SGV,15923,6176,0,38787,58,364
+2022-12-21,Unincorporated - Bassett,SGV,14817,6010,0,40562,58,391
+2022-12-21,Unincorporated - Bouquet Canyon,SFV,1073,197,0,18360,2,186
+2022-12-21,Unincorporated - Bradbury,SGV,108,116,0,107407,27,25000
+2022-12-21,Unincorporated - Canyon Country,SFV,7728,3621,0,46856,10,129
+2022-12-21,Unincorporated - Castaic,SFV,27191,9334,0,34328,30,110
+2022-12-21,Unincorporated - Cerritos,E,587,183,0,31175,2,341
+2022-12-21,Unincorporated - Charter Oak,SGV,20,10,0,50000,0,0
+2022-12-21,Unincorporated - Claremont,SGV,702,157,0,22365,7,997
+2022-12-21,Unincorporated - Covina (Charter Oak),SGV,13144,4921,0,37439,56,426
+2022-12-21,Unincorporated - Covina,SGV,16819,6032,0,35864,61,363
+2022-12-21,Unincorporated - Del Aire,SB,4393,1183,0,26929,4,91
+2022-12-21,Unincorporated - Del Rey,W,318,142,0,44654,1,314
+2022-12-21,Unincorporated - Del Sur,AV,2415,681,0,28199,3,124
+2022-12-21,Unincorporated - Desert View Highlands,AV,2493,935,0,37505,13,521
+2022-12-21,Unincorporated - Duarte,SGV,4428,1947,0,43970,15,339
+2022-12-21,Unincorporated - East Covina,SGV,329,85,0,25836,1,304
+2022-12-21,Unincorporated - East La Mirada,E,5292,1589,0,30026,16,302
+2022-12-21,Unincorporated - East Lancaster,AV,114,43,0,37719,0,0
+2022-12-21,Unincorporated - East Los Angeles,E,125268,57037,0,45532,559,446
+2022-12-21,Unincorporated - East Pasadena,SGV,6403,424,0,6622,14,219
+2022-12-21,Unincorporated - East Rancho Dominguez,S,15308,6129,0,40038,66,431
+2022-12-21,Unincorporated - East Whittier,E,5306,1380,0,26008,11,207
+2022-12-21,Unincorporated - El Camino Village,SB,8791,2628,0,29894,18,205
+2022-12-21,Unincorporated - El Monte,SGV,145,0,0,0,0,0
+2022-12-21,Unincorporated - Elizabeth Lake,AV,1661,282,0,16978,4,241
+2022-12-21,Unincorporated - Florence-Firestone,S,64705,29747,0,45973,275,425
+2022-12-21,Unincorporated - Franklin Canyon,MLA,12,1,0,8333,0,0
+2022-12-21,Unincorporated - Glendora,SGV,660,191,0,28939,5,758
+2022-12-21,Unincorporated - Hacienda Heights,SGV,55925,15956,0,28531,144,257
+2022-12-21,Unincorporated - Harbor Gateway,S,1,4,0,400000,0,0
+2022-12-21,Unincorporated - Hawthorne,SB,2514,734,0,29196,6,239
+2022-12-21,Unincorporated - Hi Vista,AV,1098,167,0,15209,2,182
+2022-12-21,Unincorporated - Kagel/Lopez Canyons,SFV,1412,311,0,22025,2,142
+2022-12-21,Unincorporated - La Crescenta-Montrose,SFV,19801,4290,0,21666,33,167
+2022-12-21,Unincorporated - La Habra Heights,E,676,18,0,2663,1,148
+2022-12-21,Unincorporated - La Rambla,SGV,2075,857,0,41301,29,1398
+2022-12-21,Unincorporated - La Verne,SGV,2040,634,0,31078,2,98
+2022-12-21,Unincorporated - Ladera Heights,W,7071,1968,0,27832,18,255
+2022-12-21,Unincorporated - Lake Hughes,AV,668,196,0,29341,1,150
+2022-12-21,Unincorporated - Lake Los Angeles,AV,12994,3996,0,30753,28,215
+2022-12-21,Unincorporated - Lake Manor,SFV,1643,447,0,27206,2,122
+2022-12-21,Unincorporated - Lakewood,E,114,26,0,22807,0,0
+2022-12-21,Unincorporated - Lennox,SB,22542,7444,0,33023,71,315
+2022-12-21,Unincorporated - Leona Valley,AV,1751,300,0,17133,4,228
+2022-12-21,Unincorporated - Littlerock,AV,4021,1386,0,34469,10,249
+2022-12-21,Unincorporated - Littlerock/Juniper Hills,AV,1297,354,0,27294,4,308
+2022-12-21,Unincorporated - Littlerock/Pearblossom,AV,3569,1302,0,36481,14,392
+2022-12-21,Unincorporated - Llano,AV,877,105,0,11973,3,342
+2022-12-21,Unincorporated - Marina del Rey,W,9411,2618,0,27819,6,64
+2022-12-21,Unincorporated - Miracle Mile,MLA,0,0,0,0,0,0
+2022-12-21,Unincorporated - Monrovia,SGV,3881,1086,0,27982,4,103
+2022-12-21,Unincorporated - Newhall,SFV,220,103,0,46818,1,455
+2022-12-21,Unincorporated - North Lancaster,AV,1198,501,0,41820,4,334
+2022-12-21,Unincorporated - North Whittier,W,8360,3046,0,36435,34,407
+2022-12-21,Unincorporated - Northeast San Gabriel,SGV,24036,5067,0,21081,48,200
+2022-12-21,Unincorporated - Padua Hills,SGV,215,36,0,16744,0,0
+2022-12-21,Unincorporated - Palmdale,AV,842,260,0,30879,6,713
+2022-12-21,Unincorporated - Palos Verdes Peninsula,SB,621,120,0,19324,0,0
+2022-12-21,Unincorporated - Pearblossom/Llano,AV,1956,420,0,21472,4,204
+2022-12-21,Unincorporated - Pellissier Village,SGV,619,363,0,58643,2,323
+2022-12-21,Unincorporated - Placerita Canyon,SGV,460,24,0,5217,0,0
+2022-12-21,Unincorporated - Pomona,SGV,1938,120,0,6192,2,103
+2022-12-21,Unincorporated - Quartz Hill,AV,12906,3825,0,29637,39,302
+2022-12-21,Unincorporated - Rancho Dominguez,S,2661,1164,0,43743,6,225
+2022-12-21,Unincorporated - Roosevelt,S,931,273,0,29323,2,215
+2022-12-21,Unincorporated - Rosewood/West Rancho Dominguez,S,3361,1293,0,38471,22,655
+2022-12-21,Unincorporated - Rowland Heights,SGV,51021,11939,0,23400,112,220
+2022-12-21,Unincorporated - San Clemente Island,SB,0,0,0,0,0,0
+2022-12-21,Unincorporated - San Francisquito Canyon/Bouquet Canyon,SFV,858,44,0,5128,0,0
+2022-12-21,Unincorporated - San Jose Hills,SGV,20221,7727,0,38213,100,495
+2022-12-21,Unincorporated - San Pasqual,SGV,2035,87,0,4275,1,49
+2022-12-21,Unincorporated - Sand Canyon,AV,308,59,0,19156,0,0
+2022-12-21,Unincorporated - Santa Catalina Island,SB,267,576,0,215730,4,1498
+2022-12-21,Unincorporated - Santa Monica Mountains,W,18621,3773,0,20262,27,145
+2022-12-21,Unincorporated - Saugus,SFV,155,332,0,214194,1,645
+2022-12-21,Unincorporated - Saugus/Canyon Country,SFV,356,122,0,34270,1,281
+2022-12-21,Unincorporated - South Antelope Valley,AV,455,119,0,26154,1,220
+2022-12-21,Unincorporated - South El Monte,SGV,1795,734,0,40891,6,334
+2022-12-21,Unincorporated - South San Gabriel,SGV,8848,3063,0,34618,63,712
+2022-12-21,Unincorporated - South Whittier,SGV,59222,20939,0,35357,203,343
+2022-12-21,Unincorporated - Southeast Antelope Valley,AV,781,243,0,31114,1,128
+2022-12-21,Unincorporated - Stevenson Ranch,SFV,20966,5731,0,27335,17,81
+2022-12-21,Unincorporated - Sun Village,AV,6036,2097,0,34742,20,331
+2022-12-21,Unincorporated - Sunrise Village,SGV,1296,569,0,43904,2,154
+2022-12-21,Unincorporated - Twin Lakes/Oat Mountain,SFV,1658,418,0,25211,5,302
+2022-12-21,Unincorporated - Val Verde,AV,3309,1184,0,35781,6,181
+2022-12-21,Unincorporated - Valencia,SFV,3072,909,0,29590,2,65
+2022-12-21,Unincorporated - Valinda,SGV,23371,9329,0,39917,100,428
+2022-12-21,Unincorporated - View Park/Windsor Hills,S,11635,3438,0,29549,26,223
+2022-12-21,Unincorporated - Walnut Park,S,16143,7262,0,44985,66,409
+2022-12-21,Unincorporated - West Antelope Valley,AV,1511,183,0,12111,2,132
+2022-12-21,Unincorporated - West Carson,SB,22086,7843,0,35511,181,820
+2022-12-21,Unincorporated - West Chatsworth,SFV,12,5,0,41667,0,0
+2022-12-21,Unincorporated - West LA,W,952,804,0,84454,25,2626
+2022-12-21,Unincorporated - West Puente Valley,SGV,9835,4107,0,41759,39,397
+2022-12-21,Unincorporated - West Rancho Dominguez,S,1359,487,0,35835,9,662
+2022-12-21,Unincorporated - West Whittier/Los Nietos,E,26925,10456,0,38834,119,442
+2022-12-21,Unincorporated - Westfield/Academy Hills,TBD,1300,242,0,18615,1,77
+2022-12-21,Unincorporated - Westhills,SFV,839,192,0,22884,0,0
+2022-12-21,Unincorporated - White Fence Farms,AV,3683,904,0,24545,9,244
+2022-12-21,Unincorporated - Whittier Narrows,E,12,76,0,633333,1,8333
+2022-12-21,Unincorporated - Whittier,SGV,3784,951,0,25132,10,264
+2022-12-21,Unincorporated - Willowbrook,S,34913,16247,0,46536,138,395
+2022-12-21,Unincorporated - Wiseburn,SB,6027,1824,0,30264,17,282
+2022-12-21,age 0 to 4,,0,107437,0
+2022-12-21,age 12 to 17,,0,273455,0
+2022-12-21,age 18 to 29,,0,738173,0
+2022-12-21,age 30 to 49,,0,1096204,0
+2022-12-21,age 5 to 11,,0,278790,0
+2022-12-21,age 50 to 64,,0,586171,0
+2022-12-21,age 65 to 79,,0,244790,0
+2022-12-21,age over 80,,0,82875,0
