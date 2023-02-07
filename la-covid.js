@@ -470,7 +470,15 @@ var d = fs.readdirSync(path);
 
 		// no async
 		var contents = fs.readFileSync(path + d[f]);
-		var ast = HTML.parse(contents.toString());
+		//console.log(d[f]);
+		var ast;
+
+		try {
+			var ast = HTML.parse(contents.toString());
+		} catch(e) {
+			console.log("Skipping due to err: ", d[f]);
+			continue;
+		}
 
 		// verbose ast:
 		//console.log(util.inspect(ast, false, null, true /* enable colors */))
