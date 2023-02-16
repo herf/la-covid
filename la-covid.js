@@ -451,6 +451,7 @@ var d = fs.readdirSync(path);
 
 		// skip for now
 		if (d[f].indexOf('.html') == -1) continue;
+		if (d[f].indexOf('education') != -1) continue;
 
 		var parse = d[f].split('-');
 		var unixdate = 0;
