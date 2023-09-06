@@ -1,1 +1,349 @@
 date,location,region,population,cases,casechange,caserate,deaths,deathrate
+2023-09-06,City of Agoura Hills,SFV,20000,6,6,30,29,139
+2023-09-06,City of Alhambra,SGV,86207,25,25,29,305,352
+2023-09-06,City of Arcadia,SGV,54167,13,13,24,215,372
+2023-09-06,City of Artesia,E,16667,6,6,36,97,578
+2023-09-06,City of Avalon,SB,4171429,292,292,7,3,78
+2023-09-06,City of Azusa,SGV,48571,17,17,35,174,348
+2023-09-06,City of Baldwin Park,SGV,76316,29,29,38,424,552
+2023-09-06,City of Bell Gardens,E,42500,17,17,40,152,353
+2023-09-06,City of Bell,E,36170,17,17,47,155,427
+2023-09-06,City of Bellflower,E,77500,31,31,40,304,391
+2023-09-06,City of Beverly Hills,W,33333,11,11,33,60,174
+2023-09-06,City of Bradbury,SGV,1183333,71,71,6,0,0
+2023-09-06,City of Burbank,SFV,106452,33,33,31,376,351
+2023-09-06,City of Calabasas,SFV,20833,5,5,24,47,193
+2023-09-06,City of Carson,SB,94595,35,35,37,360,384
+2023-09-06,City of Cerritos,E,48148,13,13,27,113,226
+2023-09-06,City of Claremont,SGV,35714,10,10,28,118,323
+2023-09-06,City of Commerce,E,11111,5,5,45,56,428
+2023-09-06,City of Compton,S,100000,40,40,40,347,347
+2023-09-06,City of Covina,SGV,48780,20,20,41,257,524
+2023-09-06,City of Cudahy,E,24000,12,12,50,92,378
+2023-09-06,City of Culver City,W,40000,12,12,30,169,424
+2023-09-06,City of Diamond Bar,SGV,54167,13,13,24,129,224
+2023-09-06,City of Downey,E,114634,47,47,41,438,383
+2023-09-06,City of Duarte,SGV,20588,7,7,34,132,600
+2023-09-06,City of El Monte,SGV,119444,43,43,36,603,514
+2023-09-06,City of El Segundo,SB,16667,4,4,24,19,113
+2023-09-06,City of Gardena,E,61111,22,22,36,293,478
+2023-09-06,City of Glendale,SFV,206897,60,60,29,1,504
+2023-09-06,City of Glendora,SGV,53571,15,15,28,235,445
+2023-09-06,City of Hawaiian Gardens,E,14706,5,5,34,36,245
+2023-09-06,City of Hawthorne,SB,90909,30,30,33,294,331
+2023-09-06,City of Hermosa Beach,SB,16667,4,4,24,17,86
+2023-09-06,City of Hidden Hills,SFV,1950000,390,390,20,2,106
+2023-09-06,City of Huntington Park,E,59091,26,26,44,231,388
+2023-09-06,City of Industry,SGV,429,1,1,233,7,1
+2023-09-06,City of Inglewood,SB,114706,39,39,34,436,384
+2023-09-06,City of Irwindale,SGV,1468852,896,896,61,13,891
+2023-09-06,City of La Canada Flintridge,SGV,18182,4,4,22,31,150
+2023-09-06,City of La Habra Heights,E,7166667,215,215,3,2,37
+2023-09-06,City of La Mirada,E,48276,14,14,29,216,435
+2023-09-06,City of La Puente,SGV,41026,16,16,39,177,435
+2023-09-06,City of La Verne,SGV,32143,9,9,28,96,288
+2023-09-06,City of Lakewood,E,79412,27,27,34,199,248
+2023-09-06,City of Lancaster,AV,160000,64,64,40,500,309
+2023-09-06,City of Lawndale,SB,32258,10,10,31,80,238
+2023-09-06,City of Lomita,SB,20690,6,6,29,68,328
+2023-09-06,City of Lynwood,S,72093,31,31,43,326,452
+2023-09-06,City of Malibu,W,9091,2,2,22,15,116
+2023-09-06,City of Manhattan Beach,SB,35000,7,7,20,33,92
+2023-09-06,City of Maywood,E,26087,12,12,46,113,403
+2023-09-06,City of Monrovia,SGV,36667,11,11,30,127,327
+2023-09-06,City of Montebello,E,64103,25,25,39,323,502
+2023-09-06,City of Monterey Park,SGV,60714,17,17,28,297,477
+2023-09-06,City of Norwalk,E,107500,43,43,40,548,509
+2023-09-06,City of Palmdale,AV,159524,67,67,42,499,314
+2023-09-06,City of Palos Verdes Estates,SB,11765,2,2,17,17,126
+2023-09-06,City of Paramount,S,55000,22,22,40,225,402
+2023-09-06,City of Pico Rivera,E,63636,28,28,44,369,574
+2023-09-06,City of Pomona,SGV,157143,66,66,42,643,412
+2023-09-06,City of Rancho Palos Verdes,SB,38889,7,7,18,94,220
+2023-09-06,City of Redondo Beach,SB,65217,15,15,23,88,128
+2023-09-06,City of Rolling Hills Estates,SB,5263,1,1,19,11,136
+2023-09-06,City of Rolling Hills,SB,2020000,303,303,15,4,206
+2023-09-06,City of Rosemead,SGV,55556,15,15,27,218,394
+2023-09-06,City of San Dimas,SGV,34375,11,11,32,150,435
+2023-09-06,City of San Fernando,SFV,23077,12,12,52,87,353
+2023-09-06,City of San Gabriel,SGV,39286,11,11,28,286,698
+2023-09-06,City of San Marino,SGV,11111,2,2,18,18,136
+2023-09-06,City of Santa Clarita,SFV,224242,74,74,33,465,211
+2023-09-06,City of Santa Fe Springs,E,16279,7,7,43,65,354
+2023-09-06,City of Santa Monica,W,89655,26,26,29,306,331
+2023-09-06,City of Sierra Madre,SGV,9091,2,2,22,28,255
+2023-09-06,City of Signal Hill,E,11429,4,4,35,22,186
+2023-09-06,City of South El Monte,SGV,20000,8,8,40,92,441
+2023-09-06,City of South Gate,E,97917,47,47,48,352,359
+2023-09-06,City of South Pasadena,SGV,25000,6,6,24,70,269
+2023-09-06,City of Temple City,SGV,34483,10,10,29,187,513
+2023-09-06,City of Torrance,SB,147826,34,34,23,371,249
+2023-09-06,City of Vernon,E,209357,358,358,171,0,0
+2023-09-06,City of Walnut,SGV,28000,7,7,25,61,200
+2023-09-06,City of West Covina,SGV,108333,39,39,36,424,392
+2023-09-06,City of West Hollywood,W,36667,11,11,30,65,176
+2023-09-06,City of Westlake Village,SFV,9120000,456,456,5,3,36
+2023-09-06,City of Whittier,E,86111,31,31,36,377,431
+2023-09-06,Los Angeles - Adams-Normandie,S,7692,3,3,39,20,244
+2023-09-06,Los Angeles - Alsace,W,11111,4,4,36,25,201
+2023-09-06,Los Angeles - Angeles National Forest,AV,0,0,0,0,0,0
+2023-09-06,Los Angeles - Angelino Heights,MLA,2502941,851,851,34,8,320
+2023-09-06,Los Angeles - Arleta,SFV,34694,17,17,49,142,413
+2023-09-06,Los Angeles - Atwater Village,MLA,14286,5,5,35,45,307
+2023-09-06,Los Angeles - Baldwin Hills,S,30303,10,10,33,130,418
+2023-09-06,Los Angeles - Bel Air,W,6897,2,2,29,9,107
+2023-09-06,Los Angeles - Beverly Crest,W,11111,3,3,27,11,88
+2023-09-06,Los Angeles - Beverlywood,W,12500,4,4,32,8,61
+2023-09-06,Los Angeles - Boyle Heights,MLA,86957,40,40,46,399,459
+2023-09-06,Los Angeles - Brentwood,W,29630,8,8,27,38,123
+2023-09-06,Los Angeles - Brookside,MLA,585185,158,158,27,2,344
+2023-09-06,Los Angeles - Cadillac-Corning,W,6250,2,2,32,16,225
+2023-09-06,Los Angeles - Canoga Park,SFV,64103,25,25,39,227,348
+2023-09-06,Los Angeles - Carthay,MLA,12903,4,4,31,106,738
+2023-09-06,Los Angeles - Central,MLA,39535,17,17,43,179,459
+2023-09-06,Los Angeles - Century City,W,10345,3,3,29,22,172
+2023-09-06,Los Angeles - Century Palms/Cove,S,33333,16,16,48,140,415
+2023-09-06,Los Angeles - Chatsworth,SFV,37143,13,13,35,131,353
+2023-09-06,Los Angeles - Cheviot Hills,W,7143,2,2,28,19,207
+2023-09-06,Los Angeles - Chinatown,MLA,5405,2,2,37,27,337
+2023-09-06,Los Angeles - Cloverdale/Cochran,MLA,13514,5,5,37,37,254
+2023-09-06,Los Angeles - Country Club Park,MLA,12500,4,4,32,106,700
+2023-09-06,Los Angeles - Crenshaw District,S,12821,5,5,39,50,362
+2023-09-06,Los Angeles - Crestview,W,11429,4,4,35,60,528
+2023-09-06,Los Angeles - Del Rey,W,28571,8,8,28,51,170
+2023-09-06,Los Angeles - Downtown,MLA,27119,16,16,59,87,316
+2023-09-06,Los Angeles - Eagle Rock,MLA,37143,13,13,35,179,452
+2023-09-06,Los Angeles - East Hollywood,MLA,27273,9,9,33,180,615
+2023-09-06,Los Angeles - Echo Park,MLA,12903,4,4,31,30,210
+2023-09-06,Los Angeles - El Sereno,MLA,42500,17,17,40,157,376
+2023-09-06,Los Angeles - Elysian Park,MLA,3125,1,1,32,6,105
+2023-09-06,Los Angeles - Elysian Valley,MLA,8571,3,3,35,36,354
+2023-09-06,Los Angeles - Encino,SFV,44118,15,15,34,105,232
+2023-09-06,Los Angeles - Exposition Park,S,45000,18,18,40,114,254
+2023-09-06,Los Angeles - Exposition,S,2564,1,1,39,11,331
+2023-09-06,Los Angeles - Faircrest Heights,MLA,2857,1,1,35,9,250
+2023-09-06,Los Angeles - Figueroa Park Square,S,6977,3,3,43,42,482
+2023-09-06,Los Angeles - Florence-Firestone,S,47917,23,23,48,169,356
+2023-09-06,Los Angeles - Glassell Park,MLA,31429,11,11,35,83,263
+2023-09-06,Los Angeles - Gramercy Place,S,10256,4,4,39,47,437
+2023-09-06,Los Angeles - Granada Hills,SFV,56757,21,21,37,288,495
+2023-09-06,Los Angeles - Green Meadows,S,21277,10,10,47,70,326
+2023-09-06,Los Angeles - Hancock Park,MLA,14286,4,4,28,20,117
+2023-09-06,Los Angeles - Harbor City,SB,28125,9,9,32,63,217
+2023-09-06,Los Angeles - Harbor Gateway,SB,41667,15,15,36,120,275
+2023-09-06,Los Angeles - Harbor Pines,SB,2429630,656,656,27,5,208
+2023-09-06,Los Angeles - Harvard Heights,MLA,17647,6,6,34,84,466
+2023-09-06,Los Angeles - Harvard Park,S,37500,18,18,48,145,382
+2023-09-06,Los Angeles - Highland Park,MLA,47222,17,17,36,155,320
+2023-09-06,Los Angeles - Historic Filipinotown,MLA,12500,5,5,40,102,735
+2023-09-06,Los Angeles - Hollywood Hills,MLA,26923,7,7,26,35,119
+2023-09-06,Los Angeles - Hollywood,MLA,65625,21,21,32,132,193
+2023-09-06,Los Angeles - Hyde Park,S,28571,12,12,42,134,470
+2023-09-06,Los Angeles - Jefferson Park,S,7692,3,3,39,26,322
+2023-09-06,Los Angeles - Koreatown,MLA,51613,16,16,31,161,311
+2023-09-06,Los Angeles - Lafayette Square,MLA,2857,1,1,35,12,263
+2023-09-06,Los Angeles - Lake Balboa,SFV,41026,16,16,39,106,251
+2023-09-06,Los Angeles - Lakeview Terrace,SFV,12766,6,6,47,54,411
+2023-09-06,Los Angeles - Leimert Park,S,13158,5,5,38,42,276
+2023-09-06,Los Angeles - Lincoln Heights,MLA,30769,12,12,39,247,758
+2023-09-06,Los Angeles - Little Armenia,MLA,7895,3,3,38,115,1
+2023-09-06,Los Angeles - Little Bangladesh,MLA,26667,8,8,30,42,148
+2023-09-06,Los Angeles - Little Tokyo,MLA,2083,1,1,48,18,575
+2023-09-06,Los Angeles - Longwood,MLA,2381,1,1,42,19,441
+2023-09-06,Los Angeles - Los Feliz,MLA,20000,6,6,30,96,444
+2023-09-06,Los Angeles - Manchester Square,SB,7895,3,3,38,25,293
+2023-09-06,Los Angeles - Mandeville Canyon,W,3158621,916,916,29,2,64
+2023-09-06,Los Angeles - Mar Vista,W,42308,11,11,26,66,155
+2023-09-06,Los Angeles - Marina Peninsula,W,4440909,977,977,22,5,115
+2023-09-06,Los Angeles - Melrose,MLA,76471,26,26,34,283,364
+2023-09-06,Los Angeles - Mid-city,MLA,13333,4,4,30,32,213
+2023-09-06,Los Angeles - Miracle Mile,MLA,18519,5,5,27,26,145
+2023-09-06,Los Angeles - Mission Hills,SFV,24000,12,12,50,172,713
+2023-09-06,Los Angeles - Mt. Washington,MLA,23529,8,8,34,83,344
+2023-09-06,Los Angeles - North Hills,SFV,60976,25,25,41,217,352
+2023-09-06,Los Angeles - North Hollywood,SFV,151282,59,59,39,548,362
+2023-09-06,Los Angeles - Northridge,SFV,67568,25,25,37,244,350
+2023-09-06,Los Angeles - Pacific Palisades,W,20833,5,5,24,23,108
+2023-09-06,Los Angeles - Pacoima,SFV,78000,39,39,50,301,391
+2023-09-06,Los Angeles - Palisades Highlands,W,3904167,937,937,24,2,52
+2023-09-06,Los Angeles - Palms,W,42857,12,12,28,86,196
+2023-09-06,Los Angeles - Panorama City,SFV,73333,33,33,45,359,477
+2023-09-06,Los Angeles - Park La Brea,MLA,12500,3,3,24,5,37
+2023-09-06,Los Angeles - Pico-Union,MLA,41026,16,16,39,309,738
+2023-09-06,Los Angeles - Playa Del Rey,W,3226316,613,613,19,6,188
+2023-09-06,Los Angeles - Playa Vista,W,9677,3,3,31,17,155
+2023-09-06,Los Angeles - Porter Ranch,SFV,33333,10,10,30,76,214
+2023-09-06,Los Angeles - Rancho Park,W,5882,2,2,34,2,30
+2023-09-06,Los Angeles - Regent Square,W,2867742,889,889,31,4,144
+2023-09-06,Los Angeles - Reseda Ranch,SFV,2564,1,1,39,8,173
+2023-09-06,Los Angeles - Reseda,SFV,76190,32,32,42,440,574
+2023-09-06,Los Angeles - Reynier Village,W,3571,1,1,28,3,71
+2023-09-06,Los Angeles - San Pedro,SB,76471,26,26,34,208,267
+2023-09-06,Los Angeles - Shadow Hills,SFV,3333,1,1,30,11,248
+2023-09-06,Los Angeles - Sherman Oaks,SFV,87500,28,28,32,191,219
+2023-09-06,Los Angeles - Silverlake,MLA,43333,13,13,30,107,243
+2023-09-06,Los Angeles - South Carthay,MLA,9677,3,3,31,44,415
+2023-09-06,Los Angeles - South Park,S,38636,17,17,44,140,369
+2023-09-06,Los Angeles - St Elmo Village,MLA,2439,1,1,41,50,1
+2023-09-06,Los Angeles - Studio City,SFV,22581,7,7,31,69,307
+2023-09-06,Los Angeles - Sun Valley,SFV,52273,23,23,44,221,421
+2023-09-06,Los Angeles - Sunland,SFV,20588,7,7,34,97,475
+2023-09-06,Los Angeles - Sycamore Square,SFV,662500,212,212,32,2,309
+2023-09-06,Los Angeles - Sylmar,SFV,82353,42,42,51,343,416
+2023-09-06,Los Angeles - Tarzana,SFV,29412,10,10,34,119,385
+2023-09-06,Los Angeles - Temple-Beaudry,MLA,38235,13,13,34,143,362
+2023-09-06,Los Angeles - Thai Town,MLA,7143,2,2,28,42,428
+2023-09-06,Los Angeles - Toluca Lake,SFV,6897,2,2,29,13,149
+2023-09-06,Los Angeles - Toluca Terrace,SFV,1332500,533,533,40,11,842
+2023-09-06,Los Angeles - Toluca Woods,SFV,1920000,480,480,25,3,161
+2023-09-06,Los Angeles - Tujunga,SFV,28125,9,9,32,112,403
+2023-09-06,Los Angeles - University Hills,SGV,3492593,943,943,27,3,87
+2023-09-06,Los Angeles - University Park,S,26190,11,11,42,79,288
+2023-09-06,Los Angeles - Valley Glen,SFV,29730,11,11,37,104,346
+2023-09-06,Los Angeles - Valley Village,SFV,22857,8,8,35,105,425
+2023-09-06,Los Angeles - Van Nuys,SFV,95000,38,38,40,461,495
+2023-09-06,Los Angeles - Venice,W,33333,9,9,27,39,115
+2023-09-06,Los Angeles - Vermont Knolls,S,15909,7,7,44,83,483
+2023-09-06,Los Angeles - Vermont Square,S,6122,3,3,49,39,509
+2023-09-06,Los Angeles - Vermont Vista,S,39130,18,18,46,138,335
+2023-09-06,Los Angeles - Vernon Central,S,51064,24,24,47,208,400
+2023-09-06,Los Angeles - Victoria Park,MLA,6061,2,2,33,22,262
+2023-09-06,Los Angeles - View Heights,S,3333,1,1,30,9,244
+2023-09-06,Los Angeles - Watts,S,41304,19,19,46,151,354
+2023-09-06,Los Angeles - Wellington Square,MLA,2632,1,1,38,15,305
+2023-09-06,Los Angeles - West Adams,MLA,27500,11,11,40,188,680
+2023-09-06,Los Angeles - West Hills,SFV,40625,13,13,32,167,412
+2023-09-06,Los Angeles - West Los Angeles,W,35484,11,11,31,82,218
+2023-09-06,Los Angeles - West Vernon,S,54348,25,25,46,260,485
+2023-09-06,Los Angeles - Westchester,W,51852,14,14,27,89,172
+2023-09-06,Los Angeles - Westlake,MLA,60000,21,21,35,402,677
+2023-09-06,Los Angeles - Westwood,W,51613,16,16,31,54,100
+2023-09-06,Los Angeles - Wholesale District,MLA,35484,22,22,62,173,479
+2023-09-06,Los Angeles - Wilmington,SB,54762,23,23,42,156,276
+2023-09-06,Los Angeles - Wilshire Center,MLA,50000,17,17,34,159,317
+2023-09-06,Los Angeles - Winnetka,SFV,51282,20,20,39,136,263
+2023-09-06,Los Angeles - Woodland Hills,SFV,70000,21,21,30,153,225
+2023-09-06,Unincorporated - Acton,AV,8000,2,2,25,19,238
+2023-09-06,Unincorporated - Agua Dulce,AV,4167,1,1,24,8,192
+2023-09-06,Unincorporated - Altadena,SGV,40741,11,11,27,123,282
+2023-09-06,Unincorporated - Anaverde,AV,1521429,426,426,28,1,66
+2023-09-06,Unincorporated - Angeles National Forest,AV,1342857,94,94,7,1,80
+2023-09-06,Unincorporated - Arcadia,SGV,7143,2,2,28,24,301
+2023-09-06,Unincorporated - Athens Village,S,41463,17,17,41,163,384
+2023-09-06,Unincorporated - Athens-Westmont,S,3448,2,2,58,42,858
+2023-09-06,Unincorporated - Avocado Heights,SGV,5000,2,2,40,23,339
+2023-09-06,Unincorporated - Azusa,SGV,15000,6,6,40,61,383
+2023-09-06,Unincorporated - Bassett,SGV,14286,6,6,42,60,405
+2023-09-06,Unincorporated - Bouquet Canyon,SFV,1089474,207,207,19,2,186
+2023-09-06,Unincorporated - Bradbury,SGV,108730,137,137,126,27,25
+2023-09-06,Unincorporated - Canyon Country,SFV,6122,3,3,49,11,142
+2023-09-06,Unincorporated - Castaic,SFV,25000,9,9,36,31,114
+2023-09-06,Unincorporated - Cerritos,E,603125,193,193,32,2,341
+2023-09-06,Unincorporated - Charter Oak,SGV,20000,10,10,50,0,0
+2023-09-06,Unincorporated - Claremont,SGV,727273,160,160,22,7,997
+2023-09-06,Unincorporated - Covina (Charter Oak),SGV,13158,5,5,38,58,441
+2023-09-06,Unincorporated - Covina,SGV,16216,6,6,37,66,392
+2023-09-06,Unincorporated - Del Aire,SB,3571,1,1,28,4,91
+2023-09-06,Unincorporated - Del Rey,W,323913,149,149,46,1,314
+2023-09-06,Unincorporated - Del Sur,AV,2451724,711,711,29,3,124
+2023-09-06,Unincorporated - Desert View Highlands,AV,2497436,974,974,39,13,521
+2023-09-06,Unincorporated - Duarte,SGV,4348,2,2,46,15,339
+2023-09-06,Unincorporated - East Covina,SGV,340741,92,92,27,1,304
+2023-09-06,Unincorporated - East La Mirada,E,3226,1,1,31,17,321
+2023-09-06,Unincorporated - East Lancaster,AV,115789,44,44,38,0,0
+2023-09-06,Unincorporated - East Los Angeles,E,125532,59,59,47,588,469
+2023-09-06,Unincorporated - East Pasadena,SGV,7233333,434,434,6,15,234
+2023-09-06,Unincorporated - East Rancho Dominguez,S,14286,6,6,42,70,457
+2023-09-06,Unincorporated - East Whittier,E,3704,1,1,27,11,207
+2023-09-06,Unincorporated - El Camino Village,SB,6452,2,2,31,19,216
+2023-09-06,Unincorporated - El Monte,SGV,145,1,1,690,0,0
+2023-09-06,Unincorporated - Elizabeth Lake,AV,1711765,291,291,17,4,241
+2023-09-06,Unincorporated - Florence-Firestone,S,63830,30,30,47,288,445
+2023-09-06,Unincorporated - Franklin Canyon,MLA,12500,2,2,16,0,0
+2023-09-06,Unincorporated - Glendora,SGV,666667,200,200,30,5,758
+2023-09-06,Unincorporated - Hacienda Heights,SGV,53333,16,16,30,151,270
+2023-09-06,Unincorporated - Harbor Gateway,S,1000,4,4,400,0,0
+2023-09-06,Unincorporated - Hawthorne,SB,2563333,769,769,30,6,239
+2023-09-06,Unincorporated - Hi Vista,AV,1166667,175,175,15,2,182
+2023-09-06,Unincorporated - Kagel/Lopez Canyons,SFV,1413043,325,325,23,2,142
+2023-09-06,Unincorporated - La Crescenta-Montrose,SFV,18182,4,4,22,35,177
+2023-09-06,Unincorporated - La Habra Heights,E,700000,21,21,3,1,148
+2023-09-06,Unincorporated - La Rambla,SGV,2095556,943,943,45,33,1
+2023-09-06,Unincorporated - La Verne,SGV,2087500,668,668,32,3,147
+2023-09-06,Unincorporated - Ladera Heights,W,6667,2,2,30,21,297
+2023-09-06,Unincorporated - Lake Hughes,AV,690000,207,207,30,2,299
+2023-09-06,Unincorporated - Lake Los Angeles,AV,12903,4,4,31,28,215
+2023-09-06,Unincorporated - Lake Manor,SFV,1675000,469,469,28,2,122
+2023-09-06,Unincorporated - Lakewood,E,116667,28,28,24,0,0
+2023-09-06,Unincorporated - Lennox,SB,20588,7,7,34,75,333
+2023-09-06,Unincorporated - Leona Valley,AV,1852941,315,315,17,4,228
+2023-09-06,Unincorporated - Littlerock,AV,2857,1,1,35,11,274
+2023-09-06,Unincorporated - Littlerock/Juniper Hills,AV,1307143,366,366,28,5,386
+2023-09-06,Unincorporated - Littlerock/Pearblossom,AV,2703,1,1,37,14,392
+2023-09-06,Unincorporated - Llano,AV,908333,109,109,12,3,342
+2023-09-06,Unincorporated - Marina del Rey,W,6897,2,2,29,6,64
+2023-09-06,Unincorporated - Miracle Mile,MLA,0,0,0,0,0,0
+2023-09-06,Unincorporated - Monrovia,SGV,3448,1,1,29,7,180
+2023-09-06,Unincorporated - Newhall,SFV,222917,107,107,48,1,455
+2023-09-06,Unincorporated - North Lancaster,AV,1226190,515,515,42,4,334
+2023-09-06,Unincorporated - North Whittier,W,7895,3,3,38,36,431
+2023-09-06,Unincorporated - Northeast San Gabriel,SGV,22727,5,5,22,49,204
+2023-09-06,Unincorporated - Padua Hills,SGV,223529,38,38,17,0,0
+2023-09-06,Unincorporated - Palmdale,AV,843750,270,270,32,6,713
+2023-09-06,Unincorporated - Palos Verdes Peninsula,SB,650000,130,130,20,0,0
+2023-09-06,Unincorporated - Pearblossom/Llano,AV,1986364,437,437,22,4,204
+2023-09-06,Unincorporated - Pellissier Village,SGV,619672,378,378,61,2,323
+2023-09-06,Unincorporated - Placerita Canyon,SGV,480000,24,24,5,0,0
+2023-09-06,Unincorporated - Pomona,SGV,2116667,127,127,6,2,103
+2023-09-06,Unincorporated - Quartz Hill,AV,10000,3,3,30,41,318
+2023-09-06,Unincorporated - Rancho Dominguez,S,2174,1,1,46,6,225
+2023-09-06,Unincorporated - Roosevelt,S,950000,285,285,30,2,215
+2023-09-06,Unincorporated - Rosewood,S,1297500,519,519,40,5,389
+2023-09-06,Unincorporated - Rosewood/East Gardena,S,1208696,556,556,46,6,503
+2023-09-06,Unincorporated - Rosewood/West Rancho Dominguez,S,2500,1,1,40,23,684
+2023-09-06,Unincorporated - Rowland Heights,SGV,50000,12,12,24,123,241
+2023-09-06,Unincorporated - San Clemente Island,SB,0,0,0,0,0,0
+2023-09-06,Unincorporated - San Francisquito Canyon/Bouquet Canyon,SFV,880000,44,44,5,0,0
+2023-09-06,Unincorporated - San Jose Hills,SGV,20513,8,8,39,101,499
+2023-09-06,Unincorporated - San Pasqual,SGV,2275000,91,91,4,1,49
+2023-09-06,Unincorporated - Sand Canyon,AV,315000,63,63,20,0,0
+2023-09-06,Unincorporated - Santa Catalina Island,SB,267713,597,597,223,5,1
+2023-09-06,Unincorporated - Santa Monica Mountains,W,19048,4,4,21,30,161
+2023-09-06,Unincorporated - Saugus,SFV,155310,351,351,226,1,645
+2023-09-06,Unincorporated - Saugus/Canyon Country,SFV,363158,138,138,38,1,281
+2023-09-06,Unincorporated - South Antelope Valley,AV,455556,123,123,27,1,220
+2023-09-06,Unincorporated - South El Monte,SGV,1830952,769,769,42,6,334
+2023-09-06,Unincorporated - South San Gabriel,SGV,8333,3,3,36,65,735
+2023-09-06,Unincorporated - South Whittier,SGV,58333,21,21,36,208,351
+2023-09-06,Unincorporated - Southeast Antelope Valley,AV,800000,256,256,32,1,128
+2023-09-06,Unincorporated - Stevenson Ranch,SFV,20690,6,6,29,19,91
+2023-09-06,Unincorporated - Sun Village,AV,5714,2,2,35,20,331
+2023-09-06,Unincorporated - Sunrise Village,SGV,1302174,599,599,46,2,154
+2023-09-06,Unincorporated - Twin Lakes/Oat Mountain,SFV,1703846,443,443,26,5,302
+2023-09-06,Unincorporated - Val Verde,AV,2703,1,1,37,6,181
+2023-09-06,Unincorporated - Valencia,SFV,3074194,953,953,31,2,65
+2023-09-06,Unincorporated - Valinda,SGV,21951,9,9,41,104,445
+2023-09-06,Unincorporated - View Park/Windsor Hills,S,9677,3,3,31,30,258
+2023-09-06,Unincorporated - Walnut Park,S,15217,7,7,46,69,427
+2023-09-06,Unincorporated - West Antelope Valley,AV,1600000,192,192,12,2,132
+2023-09-06,Unincorporated - West Carson,SB,21053,8,8,38,196,887
+2023-09-06,Unincorporated - West Chatsworth,SFV,12195,5,5,41,0,0
+2023-09-06,Unincorporated - West LA,W,952632,905,905,95,28,2
+2023-09-06,Unincorporated - West Puente Valley,SGV,9302,4,4,43,40,407
+2023-09-06,Unincorporated - West Rancho Dominguez,S,1364865,505,505,37,10,736
+2023-09-06,Unincorporated - West Whittier/Los Nietos,E,25000,10,10,40,125,464
+2023-09-06,Unincorporated - Westfield/Academy Hills,TBD,1300000,260,260,20,2,154
+2023-09-06,Unincorporated - Westhills,SFV,858333,206,206,24,0,0
+2023-09-06,Unincorporated - White Fence Farms,AV,3776000,944,944,25,10,272
+2023-09-06,Unincorporated - Whittier Narrows,E,12012,77,77,641,1,8
+2023-09-06,Unincorporated - Whittier,SGV,3846,1,1,26,11,291
+2023-09-06,Unincorporated - Willowbrook,S,33333,16,16,48,141,404
+2023-09-06,Unincorporated - Wiseburn,SB,3125,1,1,32,20,332
+2023-09-06,age 0 to 4,,0,113,113
+2023-09-06,age 12 to 17,,0,278,278
+2023-09-06,age 18 to 29,,0,763,763
+2023-09-06,age 30 to 49,,0,1,1
+2023-09-06,age 5 to 11,,0,284,284
+2023-09-06,age 50 to 64,,0,622,622
+2023-09-06,age 65 to 79,,0,270,270
+2023-09-06,age over 80,,0,96,96
